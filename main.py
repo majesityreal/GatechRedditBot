@@ -28,9 +28,9 @@ TOKEN = res.json()['access_token']
 headers = {**headers, **{'Authorization': f"bearer {TOKEN}"}}
 
 # while the token is valid (~2 hours) we just add headers=headers to our requests
-requests.get('https://oauth.reddit.com/api/v1/me', headers=headers)
+res2 = requests.get('https://oauth.reddit.com/api/v1/me', headers=headers)
+print("res 2: ", res2)
+res = requests.get("https://oauth.reddit.com/r/python/hot",
+                   headers=headers)
 
-# res = requests.get("https://oauth.reddit.com/r/python/hot",
-#                    headers=headers)
-
-# print(res.json())  # let's see what we get
+print(res.json())  # let's see what we get
