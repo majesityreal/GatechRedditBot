@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 from datetime import datetime
 import json
+import time
 
 def parse_comments(comments):
     parsed_comments = []
@@ -76,32 +77,40 @@ params['after'] = 't3_1brqzao'
 # fullname is: t3_1abl52x
 # fullname is: t3_195a2yd
 
-# loop through 10 times (returning 1K posts)
-for i in range(6):
-    # make request
-    res = requests.get("https://oauth.reddit.com/r/gatech/new",
-                       headers=headers,
-                       params=params)
-    if res.status_code == 200:
+batchNumber = 0
+while 1:
+    # loop through X times, batch requesting
+    for i in range(4):
+        # make request
+        res = requests.get("https://oauth.reddit.com/r/gatech/new",
+                        headers=headers,
+                        params=params)
+        if res.status_code == 200:
 
-        # get dataframe from response
-        new_df = get_subreddit_posts(res, headers)
+            # get dataframe from response
+            postData = get_subreddit_posts(res, headers)
 
-        # getting the last data frame that was returned, in order to get the subsequent data
-        row = new_df[len(new_df)-1]
-        # create fullname
-        fullname = row['kind'] + '_' + row['id']
-        print("fullname is: " + fullname)
-        params['after'] = fullname
-        
-        # append new_df to data
-        data.append(new_df)
-    else:
-        print('error: ' + str(res.status_code))
-
-# write data to a JSON file
-with open('data.json', 'w') as f:
-    json.dump(data, f, indent=4)
+            # getting the last data chunk that was returned, in order to get the subsequent batch after that
+            row = postData[len(postData)-1]
+            # create fullname (Reddit specific stuff here)
+            fullname = row['kind'] + '_' + row['id']
+            print("fullname is: " + fullname)
+            params['after'] = fullname
+            
+            # append new_df to data
+            data.append(postData)
+        else:
+            print('error: ' + str(res.status_code))
+            if res.status_code == '403':
+                print('we hit limit of requests, waiting')
+                time.sleep(120) # sleep for 2 minutes before trying again
+            i -= 1 # we do this because otherwise it skips a batch of 4, the batches where it stalls would be smaller
+            continue
+    batchNumber += 1
+    # at the end of batch of 4, write data to JSON file
+    # write data to a JSON file
+    with open('data/data' + batchNumber + '.json', 'w') as f:
+        json.dump(data, f, indent=4)
 
 
     # t3_195a2yd
