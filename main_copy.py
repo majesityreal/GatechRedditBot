@@ -23,6 +23,7 @@ def parse_comments(comments):
 def get_subreddit_posts(res, headers):
     posts = []
     # loop through each post pulled from res and append to df
+    # print("result json: " + str(res.json()))
     for post in res.json()['data']['children']:
         post_data = post['data']
         post_details = {
@@ -68,49 +69,53 @@ headers = {**headers, **{'Authorization': token}}
 # initialize dataframe and parameters for pulling data in loop
 data = []
 params = {'limit': 100}
-params['after'] = 't3_1brqzao'
 
-# need to get these ones first:
-# fullname is: t3_1brqzao
-# fullname is: t3_1b0zaki
-# fullname is: t3_1anpksc
-# fullname is: t3_1abl52x
-# fullname is: t3_195a2yd
+batchNumber = 1 # which number we start at
 
-batchNumber = 0
+
 while 1:
+    data = []
     # loop through X times, batch requesting
     for i in range(4):
         # make request
-        res = requests.get("https://oauth.reddit.com/r/gatech/new",
+        res = requests.get("https://oauth.reddit.com/r/gatech/old",
                         headers=headers,
                         params=params)
+        # res = requests.get(f'https://oauth.reddit.com/r/gatech/new.json?sort=new&show=all&after=t3\_{params['after']}&limit=100',
+        #                    headers=headers)
+        
         if res.status_code == 200:
 
             # get dataframe from response
             postData = get_subreddit_posts(res, headers)
 
+            if len(postData) == 0:
+                print('length of post data is 0!!!')
+                print(postData)
             # getting the last data chunk that was returned, in order to get the subsequent batch after that
             row = postData[len(postData)-1]
             # create fullname (Reddit specific stuff here)
             fullname = row['kind'] + '_' + row['id']
-            print("fullname is: " + fullname)
-            params['after'] = fullname
+            if i == 3:
+                print("SAVING AT THIS ONE! fullname is: " + fullname)
+            else:
+                print("fullname is: " + fullname)
+            # params['after'] = fullname
             
             # append new_df to data
             data.append(postData)
         else:
-            print('error: ' + str(res.status_code))
-            if res.status_code == '403':
+            print('error: ' + str(res.status_code) + ' iterator i: ' + str(i))
+            if str(res.status_code) == '429':
                 print('we hit limit of requests, waiting')
                 time.sleep(120) # sleep for 2 minutes before trying again
-            i -= 1 # we do this because otherwise it skips a batch of 4, the batches where it stalls would be smaller
+                i -= 1
             continue
-    batchNumber += 1
     # at the end of batch of 4, write data to JSON file
     # write data to a JSON file
-    with open('data/data' + batchNumber + '.json', 'w') as f:
+    with open('data/random' + str(batchNumber) + '.json', 'w') as f:
         json.dump(data, f, indent=4)
 
+    batchNumber += 1 # increment batch number at the very end
 
     # t3_195a2yd
