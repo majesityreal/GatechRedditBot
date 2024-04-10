@@ -1,6 +1,7 @@
 import requests
 import requests.auth
 import json
+import datetime
 
 def parse_comments(comments):
     parsed_comments = []
@@ -18,7 +19,7 @@ def parse_comments(comments):
     return parsed_comments
 
 # function to get posts and their comments from a subreddit
-def get_subreddit_posts(subreddit, headers, limit=100, after=None):
+def get_subreddit_posts(subreddit, headers, limit=100, after=None, before=None):
     global request_count
     posts = []
     url = f"https://oauth.reddit.com/r/{subreddit}/hot?limit={limit}"
@@ -79,8 +80,8 @@ request_count = 0
 posts = get_subreddit_posts('gatech', headers)
 
 # write data to a JSON file
-with open('gatech_posts_with_comments_1.json', 'w') as f:
+with open('gatech_data_test.json', 'w') as f:
     json.dump(posts, f, indent=4)
 
-print("Data saved to gatech_posts_with_comments_1.json")
+print("Data saved to gatech_data_test.json")
 print(f"Total number of requests made: {request_count}")
