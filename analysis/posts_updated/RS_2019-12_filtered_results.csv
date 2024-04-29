@@ -1,0 +1,1347 @@
+type,text,VADER sentiment,VADER sentiment score,TextBlob sentiment,TextBlob sentiment score,date
+posts,Who touched the Wreck 🧐. I just want to know who did it,negative,-0.3818,neutral,0.0,11/30/2019
+posts,"Are there office hours during the reading days? And if there are, are they during the usual times?. [deleted]",neutral,0.0,negative,-0.25,11/30/2019
+posts,Hats off to whichever student yelled at Brian Kemp at the end of the 4th.. Points for embarrassing that asshat and staying for the full game. Both things make this alum proud,positive,0.128,positive,0.25,11/30/2019
+posts,Looking for Graduation Tickets. [removed],neutral,0.0,neutral,0.0,11/30/2019
+posts,Graduation tickets. [removed],neutral,0.0,neutral,0.0,11/30/2019
+posts,We love Georgian Tech touchdowns (even if it's only one)... go yacketssss!!!. ,positive,0.7249,positive,0.25,11/30/2019
+posts,"Can we talk about ""OK Boomer""?. [removed]",positive,0.4466,positive,0.5,11/30/2019
+posts,MSE 4010. [removed],neutral,0.0,neutral,0.0,11/30/2019
+posts,"Is anyone selling a CS 3220 kit?. If you have a DE0-CV from CS 3220 that you want to sell, PM me.
+
+Thanks",positive,0.4939,positive,0.2,11/30/2019
+posts,"Driving School?. I am an international student at Tech. I joined just this semester and realized that not owning car handicaps you here in the USA and want to learn driving. Do we have driving schools here? if yes, what's a good one near the campus? I don't have many friends who own a car/know driving.",positive,0.5975,positive,0.38,11/30/2019
+posts,zell question. [removed],neutral,0.0,neutral,0.0,12/01/2019
+posts,School name matters: Internship Application Results with NO Prior Experience. [removed],negative,-0.4278,neutral,0.0,12/01/2019
+posts,University Student Satisfaction. [removed],positive,0.4404,neutral,0.0,12/01/2019
+posts,Hype man?. Does anyone know who the hype man (guy in gold suspenders with the megaphone in Swarm) is/how I could get in touch with him?,neutral,0.0,neutral,0.0,12/01/2019
+posts,"Switching from one Master's Program to Another.. Want to switch from my current program to Psychology
+
+Anyone willing to trade experiences from the Psych department. What to expect. What the future prospects are like, etc.
+Should I even change my major ? Should I not. 
+I need to talk to someone who's in the department to understand this. 
+
+Thanks.",positive,0.8113,positive,0.1025,12/01/2019
+posts,"Are there any completely online classes for the spring?. I will be interning in a different city in the spring but would like to get some free electives out of the way in the spring - are tehre any completely online classes like this and how can I find a list of them? 
+
+In addition, will my internship count for academic credit that can be counted for these electives (I only need 6 hours worth?)",positive,0.9422,positive,0.12857142857142856,12/01/2019
+posts,Please. ,positive,0.3182,neutral,0.0,12/01/2019
+posts,Master's student business cards... anyone have a template?. [removed],neutral,0.0,neutral,0.0,12/01/2019
+posts,Looking For Graduation Ticket. [removed],neutral,0.0,neutral,0.0,12/01/2019
+posts,"Virginity Study Results (OP updated, but didn’t start a new thread). So u/hreedi007 posted a virginity survey last week, and updated the post with results, but I figure the sub might want to discuss it:
+
+&gt;Here are the results:
+
+&gt;Some of the sample sizes were &lt; 5 so I did not include them. For reference to sample sizes refer to https://docs.google.com/spreadsheets/d/15Q2GteTsumuuvoVgc0GKoyFK6-tG2yPqfJpQR0keh8Y/edit?usp=sharing
+
+&gt;Thanks for your contribution to this study.
+​
+
+&gt;https://preview.redd.it/3f4gdyct33241.png?width=900&amp;format=png&amp;auto=webp&amp;s=3f057105e7ec13889ef3ff430cd45c8e81d68795",positive,0.2047,positive,0.06818181818181818,12/01/2019
+posts,Amazon Black Friday Deals Still Active!. ,positive,0.2481,negative,-0.16666666666666666,12/01/2019
+posts,"Question about Arts &amp; Sciences Transfer Pathway Program. So I was offered 2020 Fall Arts &amp; Sciences Transfer Pathway Program last year (I'm class of 2023). I attend UGA majoring in Electrical Engineering/German dual degree. So I wanted to originally apply for transfer to GT as an engineering student, but now I feel like I want to continue my German degree rather than my engineering one. So I'm going to apply as ALIS major. But I am still stuck between whether I want to continue German or Engineering at GT. Is it possible to switch from ALIS to ECE after transferring? (Just in case I want to do ECE with German minor instead of ALIS)",positive,0.8301,neutral,0.0484375,12/01/2019
+posts,"Visitor Parking. Does anyone know of anywhere a visitor can park on campus or near campus for free? My girlfriend visits regularly and always a pain having to pay for parking. I have an annual GT parking pass, but I don’t want to get caught for having two cars on campus at once, I’ve heard of people using the management deck but unsure. Let me know if anyone has recommendations.",negative,-0.0858,positive,0.16666666666666666,12/01/2019
+posts,here we go. ,neutral,0.0,neutral,0.0,12/01/2019
+posts,Saw the Wreck on 5th St bridge this beautiful December morning. ,positive,0.4069,positive,0.85,12/01/2019
+posts,"So... do things get better?. I am a first year civil engineering student, nearing the end of my second semester (I was a summer freshman).  I just wanna start off by saying that there are so many things I have enjoyed about Tech this year.  I like the campus, the subjects I’m learning, and all the new friends I’ve made.  But all I do is study and I don’t feel like I have time for much else.
+
+My days are packed with classes, doing homework, and studying, but it’s still only enough to just do alright in the difficult classes.  I dual enrolled at UNG and left with a 4.0, and I NEVER had to study as much as I do now.  I expected this since Tech is one of the top schools in the country, but I also wanna, you know... have a life.  Meaning, I am willing to put in the hard work to succeed academically but I wish I had more time to follow my other interests.
+
+Is this a first year struggle?  Is there a way to succeed academically and get involved in extracurriculars?",positive,0.9652,positive,0.14577352472089317,12/01/2019
+posts,"advice for EE trying to get into aerospace lab. Hi all, 
+
+I am an EE major but I am really interested in working in the aerospace industry. I want to do research at an aerospace lab next semester, but I am not sure how to go about this process. I have internship experience in the aerospace industry but when I email professors asking about opportunities in their labs they do not reply. This is tough, because I feel qualified enough to work in an AE lab. I would be grateful for any advice!",positive,0.8732,negative,-0.05439814814814815,12/01/2019
+posts,"Nano has her cupcakes made and is ready to party! Come play with Nano and her friends in the Tech Green area, beginning at 11:00 am. Tomorrow. Free cupcakes and cookies. Gluten free choices as well 🎈🎂 come pet some puppies and de-stress before the holidays!. ",positive,0.9583,positive,0.2375,12/01/2019
+posts,Stay focused this week.... ,positive,0.3818,neutral,0.0,12/01/2019
+posts,"Need my meal swipes??. Hi, are there any organizations that use extra meal swipes to make sandwiches for the homeless/families in need? If so I would love to help out... I have 30 meal swipes left for the remainder of the semester and I won’t be needing any of them. Also, if you would like to use it yourself I would love that too. I’m at willage usually at 6-7 weekdays so you can use my swipes to grab a meal!",positive,0.9431,positive,0.1375,12/01/2019
+posts,Advanced Standing Exam for CS 1371. [removed],positive,0.25,positive,0.4,12/01/2019
+posts,Just trying to keep everyone motivated for finals. ,positive,0.4588,neutral,0.0,12/02/2019
+posts,"Subleasing my room at The Standard for Spring Semester. Hi! I'm subleasing my room at the standard. Monthly rent is $1,241 (includes utilities, wifi, etc). I'm currently in a 3bd/3ba apartment but my other two roommates (both guys) are very quiet and I rarely ever see them; they keep the apartment clean. PM if interested!",positive,0.8264,positive,0.10677083333333334,12/02/2019
+posts,"Finals Woes. Hey Everyone,
+
+With finals coming up, I know that there are already tons of people that post this and I most certainly won't the last. And I don't know who needs to hear this, but everybody on tech campus cares about you. Your family cares. Your future dog/cat/parakeet/whichever will care. You are a lot more than your grades. You are more than needing an extra year or two to graduate. I'd say this in a bunch of different languages too if I spoke more of them. 
+
+If you're feeling hopeless or lost or like you want to sit in the shower and let the hot water run, or if GT care or Stamps is too busy for the time being or you dont want to talk to someone you know about this type of thing, message me. I am not a licensed therapist, but I'll try my best. 
+
+Also, if you know somebody that is struggling, especially coming into this season of finals, check up on them. Text them. Let them know you're there even if it means losing a little bit of study time.
+
+As always, good luck with your finals and THWg.",positive,0.9813,positive,0.2717857142857143,12/02/2019
+posts,"What just blew up in Home Park?. Heard a large explosion / bang noise. Had a power surge and lights flickered. Building sirens started going off down the street for a little bit, street lights flickering. Did a transformer blow up?",neutral,0.0,neutral,-0.04292328042328044,12/02/2019
+posts,Georgia Tech OSI Silences YDSA GT. [deleted],positive,0.4278,neutral,0.0,12/02/2019
+posts,Math 1552 FINAL. [removed],neutral,0.0,neutral,0.0,12/02/2019
+posts,Somebody stole my gatech quarterzip. [removed],neutral,0.0,neutral,0.0,12/02/2019
+posts,Freshman Quad Lost Laptop. [deleted],negative,-0.3182,neutral,0.0,12/02/2019
+posts,lot of sirens and fire trucks passing thru west campus. anyone know what happened?,negative,-0.34,neutral,0.0,12/02/2019
+posts,Somebody stole my quarterzip from a bush on the bridge on 5th street. [removed],neutral,0.0,neutral,0.0,12/02/2019
+posts,Grade Substitution. [removed],neutral,0.0,neutral,0.0,12/02/2019
+posts,"We know its crowded in the Library: Clough 152, 323, 325, 423 will be open through the end of finals for quiet study (details in comments). ",neutral,0.0,neutral,0.0,12/02/2019
+posts,"Calc 1552 CIOS. If you are in Calc 1552 and haven't done the CIOS yet...
+
+PLEASE DO IT RIGHT NOW
+
+STOP READING THIS AND DO IT
+
+Me and many others students' grades are depending on YOU. Yes, you. Do it right now.
+
+Thank you.",positive,0.6486,positive,0.35714285714285715,12/02/2019
+posts,"GT VOLLEYBALL ROBBED BY NCAA. For those that don’t know our women’s volleyball team is second in the ACC conference, but wasn’t selected by committee for the NCAA tournament. Even worse Florida State and Notre Dame made it and we beat them both. We demolished FSU 25-23 25-12 25-13. BULLSHIT. ",negative,-0.8893,negative,-0.2,12/02/2019
+posts,"I introduce to you my daughter Ms. Emma Stevens, Future Ramblin' Wreck! 😊. ",negative,-0.4926,neutral,0.0,12/02/2019
+posts,"CoC career fair vs All majors career fair?. Hi all,
+
+I'm an online student residing in the US who wishes to attend the on-campus Spring 2020 career fairs. I live in Pittsburgh with my girlfriend who is also an OMSCS student. Pittsburgh is about 11hr drive away (I can't really afford air travel). I found two options on two different dates:
+
+1. Spring 2020 College of Computing career , January 17th.
+2. Spring 2020 All majors career fair, Feb 5-6.
+
+Which one do you think we should attend. We could probably do both. But do you guys know which one is more suitable for Machine Learning (mine) Computing Systems (girlfriend's) concentrations? The typical positions we're looking for are:
+
+1. Data Scientist / Data Analyst
+2. Software Engineer
+3. Mobile Software Engineer
+
+Thanks!",positive,0.7965,positive,0.356969696969697,12/02/2019
+posts,Lost Pencil Bag. [removed],negative,-0.3182,neutral,0.0,12/02/2019
+posts,"Lost Pencil Bag. &amp;#x200B;
+
+https://preview.redd.it/4drck8qg1a241.png?width=466&amp;format=png&amp;auto=webp&amp;s=855a06e0c619a345e6bc690b8bf2659453425152
+
+Lost this pencil bag last Tuesday.
+
+If anyone found it, please return it I shall be eternally grateful. I had a lot of important things in it ;(
+
+Thanks!!",positive,0.717,positive,0.23750000000000002,12/02/2019
+posts,AE department telling it like it is. ,positive,0.3612,neutral,0.0,12/02/2019
+posts,"Thank you to everyone who came out for Nano’s party! All the dogs had a great time. I’ve posted a public album of pics on my Facebook, Marla Laminack. Feel free to tag yourselves. Special thanks to the student who made Nano a cake and the one who brought her a card. So sweet!. ",positive,0.957,positive,0.3657738095238095,12/02/2019
+posts,"Study group for MATH 1553 - Intro to Linear Algebra!. Hey everyone! I'll be organizing a study group in the School of Design/College of Architecture upper floors!  
+...Yeah, *that* grey concrete building close to Klaus.  
+
+
+There's plenty of space, plenty of paper, and plenty of tables! Check the link below for the GroupMe  
+
+
+[https://app.groupme.com/join\_group/56098494/9JuNYUFK](https://app.groupme.com/join_group/56098494/9JuNYUFK)",positive,0.3331,neutral,0.04583333333333334,12/02/2019
+posts,Applying to ECE MS but not as BS/MS?. Yo I have a 3.35 and am applying to the ECE master’s program as a regular applicant. Do GT grads (graduating in May 2020) generally get in or not? Want to know if I should be leaning towards looking for internships or full-time...,positive,0.5826,neutral,0.02500000000000001,12/02/2019
+posts,To the person who stole the little box from my room.... [removed],neutral,0.0,negative,-0.1875,12/02/2019
+posts,Georgia Tech v UGA: Psychology Major. ,neutral,0.0,positive,0.0625,12/02/2019
+posts,Printing Problem. [deleted],negative,-0.4019,neutral,0.0,12/02/2019
+posts,"Notes and Stuff for MATH 1553, CHEM 1212, HTS 2080. Lmk if you want my notes, worksheets, quizzes, manuals, etc for those classes. Just trying to get rid of them atm.",positive,0.0772,neutral,0.0,12/02/2019
+posts,"VIP (Vertically Integrated Project) looking for more students!. [21st Century Global Atlanta](https://www.vip.gatech.edu/teams/21st-century-global-atlanta) is looking for students interested in Atlanta's global relevance, blogging, interviewing, media, production, postproduction, podcasts, documentaries, writing, storytelling, data visualization, and website design (among other interests/hobbies/skills)! (You can find more info in the hyperlink.)
+
+If you're deciding which VIP team to sign up for, consider 21st Century Global Atlanta!",positive,0.9125,positive,0.13541666666666666,12/02/2019
+posts,Somebody left the breakers open in Smith. Time to get our microwaves back!. [deleted],neutral,0.0,neutral,0.0,12/03/2019
+posts,Interested in joining ORGT and need more info.. I really want to join ORGT next semester and help lead trips and be involved in outdoorsy shit. I know I have to do an instructional course before I can join. Could any you guys give me more info on the whole process? Thanks.,positive,0.8585,positive,0.20625,12/03/2019
+posts,"Tomorrow: Reading Day goodies in the Library -- puppers 11-3, Stressbuzzters 3-5. ",neutral,0.0,neutral,0.0,12/03/2019
+posts,"This shouldn't have to be said, but SHOWER. Please. I get it. It's winter and finals are basically upon us, but for the sake of other people in your lectures, shower. Or wear deodorant with antiperspirant. Please.",positive,0.7096,negative,-0.125,12/03/2019
+posts,"Reading Days VR Party. Check out our meme-tastic VR Party if you're struggling with studying!  Thursday 12-2.
+
+&amp;#x200B;
+
+https://preview.redd.it/rysayl85mf241.png?width=2550&amp;format=png&amp;auto=webp&amp;s=b78181ef872963b7a3342e25b961c5c549189b7d",positive,0.4389,neutral,0.0,12/03/2019
+posts,What are the best/worst non-residential parking decks on campus?. [deleted],neutral,0.0,neutral,0.0,12/03/2019
+posts,"Nerdfighter Friends?. Hank and John green just announced they will be coming to Atlanta (Finally!!) and better yet they will be at Ferst center on campus on Jan 12, 2020. I don't really want to go alone but all my friends here aren't really nerdfighters. I would love to buy tickets together (they are $37 a piece) so we can sit together. if we order soon we can sit near the front. Pls dm me here or on tumblr where my username is the same.",positive,0.9275,positive,0.13333333333333336,12/03/2019
+posts,Looking for an Analysis 1 tutor.. [removed],neutral,0.0,neutral,0.0,12/03/2019
+posts,"Incoming exchange student question. Hi guys
+
+I'll be coming to GaTech on exchange for this upcoming semester (Spring 2020). I have 2 important queries and would be grateful for your help :)
+
+1. Which bank's account do I open? Is there any bank that offers students better schemes? 
+2. Which telecom and what plan should I join? I'll be staying for around 4 months and need at least 2GB data/month. What's the most economical option? I'm open to family plan options as well.
+
+Thank you!",positive,0.961,positive,0.2222222222222222,12/03/2019
+posts,Reading Week?. [removed],neutral,0.0,neutral,0.0,12/03/2019
+posts,"FIGHT FAST FASHION! ~~*CLOTHES SWAP*~~. Hi Georgian Techians!
+
+Anyone interested in doing a winter clothes swap? Any and everyone would be allowed to participate -- your ticket to enter is to just bring at least one item of clothing you would like to get rid of:)
+
+I was thinking that all the clothes leftover at the end that no one took could be donated.
+
+Would anyone be interested in participating/ or helping me organize it?
+
+Yay to fighting fast fashion! Good luck on finals, I believe in you aalllll! &lt;333
+
+&amp;#x200B;
+
+EDIT: Due to how late it is in the semester, I'm going to plan something early in the Spring semester instead!",positive,0.9169,positive,0.18375000000000002,12/03/2019
+posts,PLEASE FILL OUT CIOS FOR 1301 AND ALL YOUR OTHER CLASSES. [deleted],positive,0.4648,negative,-0.125,12/03/2019
+posts,Does anyone have a metal detector?. [deleted],neutral,0.0,neutral,0.0,12/03/2019
+posts,Trying to get into the Christmas spirit? Come stop by the student center at noon tomorrow for the saxiest holiday performance you'll see this year!. The Saxy Christmas Ensemble will have our annual performance at the student center near Chick-fil-A at 12:00 tomorrow. Come out and listen to some classic holiday tunes!,positive,0.6688,neutral,0.02083333333333333,12/03/2019
+posts,I was tempted to carry it away [Peters]. ,neutral,0.0,neutral,0.0,12/03/2019
+posts,Support your fellow filmmakers and destress from finals tonight with the student film screening at Midtown Art Cinema!. ,positive,0.4574,neutral,0.0,12/03/2019
+posts,Changing Spring internship to Summer Internship. I got an offer from a company I really want to work for but I already accepted another offer for Spring. Could I ask the hiring manager if I could be considered for the position in the summer? This isn't a tech company btw.,positive,0.4491,positive,0.2,12/03/2019
+posts,ATTENTION ANYONE FROM CS 1371. [removed],neutral,0.0,neutral,0.0,12/03/2019
+posts,To everybody taking Econ 2100 and 2101!!. [removed],neutral,0.0,neutral,0.0,12/03/2019
+posts,To everybody taking Econ 2100 and 2101!!. [removed],neutral,0.0,neutral,0.0,12/03/2019
+posts,"My friends and I made a game about the Data Breach for an LMC class, and wanted to share it with you :). ",positive,0.6486,neutral,0.04999999999999999,12/03/2019
+posts,AirPods found. I found an AirPods case with one left AirPod by the construction bridge. Where should I turn them in?,neutral,0.0,neutral,0.0,12/03/2019
+posts,To everybody taking Econ 2100 and 2101!!. [removed],neutral,0.0,neutral,0.0,12/03/2019
+posts,Good luck to everyone in Chem 1310. ,positive,0.7096,positive,0.7,12/03/2019
+posts,"What's wrong with gatechdining.com?. Wanted to check food truck schedules (they're [here](https://georgiatech.campusdish.com/-/media/Local/Higher-Education/GroupG/GeorgiaTech/Files/FoodTruckCalendar.ashx) btw), and gatechdining.com wanted me to install some sort of Chrome extension. 
+
+It does seem like it's right link. What's the deal here?  
+EDIT: It's the link that's on here: https://studentlife.gatech.edu/content/student-experience",negative,-0.2406,negative,-0.10714285714285715,12/03/2019
+posts,"Buzzport Broken Registration. I received a permit to CS4803 AI in Society an ethics course. I am currently enrolled in 16 hours and accepting this course would put me at 19 hours.  Therefore, I am unable to accept the course.  When I go to drop another class to enroll in the course I get the same error repeatedly.
+
+&amp;#x200B;
+
+**sfkedit.p\_update\_regs-20051 ORA-20051: sskfunc.p\_upd\_section\_hours-4098 ORA-04098: trigger 'PRODSUPP.ST\_SSBSECT\_AS\_LDI' is invalid and failed re-validation**
+
+&amp;#x200B;
+
+I think this is an issue updating my registration status on the backend of Buzzport.  Who should I contact ideally before my permit expires at 1:30 in the morning. To fix this issue
+
+&amp;#x200B;
+
+Update: I have tried it on several browsers, on my phone, my roommate was unable to add a class.  Very cool that I can't get into the course I wanted because Buzzport machine broke",negative,-0.5279,negative,-0.06055555555555555,12/03/2019
+posts,Dr Yan’s 1552 - do your CIOS!!. Other sections are almost at 100% for Cios. Can y’all pls do your part too?,positive,0.2225,negative,-0.125,12/03/2019
+posts,Don't ever touch Suzy Watson Phillips for anything -- es[ecoa;;y CS 1331. [removed],neutral,0.0,neutral,0.0,12/03/2019
+posts,My comp sci TA predicting our final exam grades. [deleted],neutral,0.0,neutral,0.0,12/03/2019
+posts,"Don't ever take Suzy Watson Phillips, especially CS 1331. [removed]",neutral,0.0,neutral,0.0,12/03/2019
+posts,CULC starbucks finals hours. [deleted],neutral,0.0,neutral,0.0,12/03/2019
+posts,"CS 1331 is not a good time. Don’t take Suzy Watson Phillips y’all. I literally came in with AP CS + the extra topics like ADT, Recursion, etc
+
+And her class makes me want to die 
+
+That’s all
+
+(It doesn’t make me want to do CS any less but it’s just added stress I wish I didn’t take up in my life. I’d also like to state appreciation for the TAs — y’all have been great)
+
+Edit: I’m just mostly venting about the class through this post so I didn’t expect to gain any attention. There’s a lot of people who are okay with her class, and that’s okay. I think I felt fine for the most part, but it had some frustrating moments and I was having that moment.",positive,0.9201,positive,0.23000000000000004,12/03/2019
+posts,Cruel Yellow Jacket's Thesis. ,negative,-0.5859,negative,-0.5,12/03/2019
+posts,someone send me the last 2 1371 hw assignments. [deleted],neutral,0.0,neutral,0.0,12/03/2019
+posts,Thank u CRC for being so wholesome. ,positive,0.3612,neutral,0.0,12/03/2019
+posts,"CS2110 CIOS. AYO, IF YOU HAVEN't DONE THE CIOS YET PLEASE DO.",positive,0.4648,neutral,0.0,12/03/2019
+posts,To everybody taking Econ 2100 and 2101!!. [deleted],neutral,0.0,neutral,0.0,12/04/2019
+posts,What happens if you return a CampusCloset rental really late?. [removed],neutral,0.0,negative,-0.3,12/04/2019
+posts,Changing Major while in Academic Warning/Probation. [deleted],neutral,0.0,neutral,0.03125,12/04/2019
+posts,ISYE 4034 vs CS 4641. Considering taking either ISyE 4034 Decision and Data Analysis or CS 4641 Machine Learning next semester for an ISyE elective. Has anyone taken them and have an opinion?,neutral,0.0,neutral,0.0,12/04/2019
+posts,POL 1101 Final. [removed],neutral,0.0,neutral,0.0,12/04/2019
+posts,A rare singing President Cabrera to give you good luck on finals. ,positive,0.7096,positive,0.5,12/04/2019
+posts,If I fail a pass/fail class will it affect my GPA or will I just not get credit for the class?. [removed],negative,-0.6892,negative,-0.5,12/04/2019
+posts,Coffee at Grace House today 1-6pm. Free Global Mission Dinner at 6pm,positive,0.7269,positive,0.2,12/04/2019
+posts,1101/1102 Portfolio. How do professors typically grade this? I've heard many just give out 100s.,neutral,0.0,positive,0.16666666666666669,12/04/2019
+posts,"Justin, the ultimate recruiter. ",neutral,0.0,neutral,0.0,12/04/2019
+posts,"Find the new Under the Couch and I'll give you money. PAYMENT FOR ALL GOOD INFO
+
+Hello! It's me, your friendly university Musician's Network president (until spring semester at least)!
+
+Under the Couch is a student run arts space and music venue. It is the home of Musician's Network and its shows, and MN helps put on shows and events for many other organizations and departments within the space. During the daytime it serves as a relaxing public lounge with music and ~atmosphere~. There are also practice spaces and a studio. 
+
+I don't know how many of you remember or were previously informed, but Under the Couch will be going down with the upcoming Student Center demolition in May 2020, and there are no plans for a new one to be built when the new Campus Center is constructed. Only the Musician's Network practice spaces and studio will remain. 
+
+This, however, does not have to be the end of student-run arts space on campus.
+
+After a meeting with VP of Campus Services Kasey Helton,  Senior Director of the Student Center Lindsay Bryant, and Undergraduate Student Body President Pooja Juvekar, Musician's Network is now looking for alternative locations around campus to serve as a location for a new Under the Couch.
+
+There are a few wants/needs that would make a location suitable:
+
+* Ability to accommodate 50+ persons at capacity
+* Ability to install a sound system (big speakers/equipment and sound booth)
+* Ability to be loud and play amplified music
+* Space to install a stage and lighting
+* Space to store equipment
+* Easy access for patrons and load-in
+* Bathroom Access
+* Space to function as a daytime lounge
+* Visibility 
+
+Not all of these necessarily need to be met, but the more the better
+
+
+We have a few ideas so far. Some are just shots in the dark/completely off the wall, and that's fine. We're brainstorming now and we'll look into further feasibility in the future.
+
+* Living Learning Communities room near the wing zone
+* Woody's Food Court
+* Second Floor of Barnes and Noble
+* Wreck Techs space on East Campus
+* Brittain Rec
+* Rent a storefront in Tech Square 
+* Somewhere in the library?? (lol noise) 
+* Somewhere near the football stadium?? 
+* Somewhere around the biotech quad?? (I only know of the restaurant area) 
+* Somewhere at the Bill Moore Student Success Center??
+* Biltmore Building Basement?? 
+* Dalney Parking Deck somehow
+* NAV West, North (/u/illusions18) 
+* Wacky off campus ideas: church west of CRC,  church north of 10th, Annex bookstore
+* Other things we talked about in the meeting but I forgot to mention (sorry): CODA, Kandeda building, freshman connector, west village, Scheller Tower, SAA house
+* Paper Building?? 
+*Aware Home (/u/ILoveSilverForks) 
+
+(If you or your organization currently occupy any of these spaces, I do not mean to step on any toes with these suggestions) 
+So not all of these are overseen by Campus Services. The easiest solution would likely be under them but starting a conversation with a different department could also be possible.
+
+
+ANYHOW
+
+If you have any good ideas about underused spaces on campus that could suit our needs, I want to hear them!! I'll venmo $5 for every good, unique suggestion (this is my offer personally, not the club or any other gt organization). $2.50 for further info of possible spaces on the ""??"" ones. Thank you for your help!
+
+—Heath Murphy
+
+Musician's Network President",positive,0.9956,positive,0.15271021619705827,12/04/2019
+posts,u(sic)GA Photographer With Uninsured Equipment. ,neutral,0.0,neutral,0.0,12/04/2019
+posts,"I'd like to thank my professor.... ... For sponsoring today's inevitable mental breakdown at 11pm.
+
+Why teach us an hour and a half of new material yesterday for a final tomorrow? That + the fact that it's material that no other section will cover on the final, and we still have the rest of the semester to review...
+
+Please let this never happen again.",positive,0.6249,neutral,-0.009686147186147187,12/04/2019
+posts,ECE2031 lab manual for sale. [deleted],neutral,0.0,neutral,0.0,12/04/2019
+posts,CS profs be like. ,positive,0.3612,neutral,0.0,12/04/2019
+posts,Panda Express Milk Tea. Is the milk tea at panda express good?,positive,0.4404,positive,0.7,12/04/2019
+posts,"Brief Moment of Calm. You ever get so stressed that as you put your notes down to take a few minute break and look out the window, you feel so calm and at peace with everything--grades don't seem so relevant, fear of performing lower than your friends and them subconsciously looking down on you and your abilities disappear, imposter syndrome fades, and you think about all the knowledge you've learned this semester and some cool projects you might want to apply them to if you ever get free time--and then you finishing posting this on reddit, pick up your notes, and go back at it.
+
+But damn I wish I could hold onto that feeling.",positive,0.7002,positive,0.11262626262626263,12/04/2019
+posts,Poker. Does anyone on campus play poker? I don’t have much experience but I know how to play. I’d love to join you,positive,0.9246,positive,0.35,12/04/2019
+posts,˙ʎlddɐ oʇ ʇuɐʍ suɐᴉlɐɹʇsn∀ ǝsɐɔuᴉ ʇsnſ. [deleted],neutral,0.0,neutral,0.0,12/04/2019
+posts,˙ʎlddɐ oʇ ʇuɐʍ suɐᴉlɐɹʇsn∀ ǝsɐɔuᴉ ʇsnſ. ,neutral,0.0,neutral,0.0,12/04/2019
+posts,"GT Dining, is there any way I can use up all my leftover meal swipes?. As the post title says, I have more meal swipes than I can use (no, I won't share). Is there going to be any sort of currency exchange event like there has been in the past? (i.e. 1 swipe = $10)",positive,0.6901,positive,0.125,12/04/2019
+posts,Good Luck On Finals Everyone. ,positive,0.7096,positive,0.7,12/04/2019
+posts,"Friendly reminder that bike lights are required by law at night. https://georgiabikes.org/index.php/resources/35/76-ga-bicycle-laws#lights
+
+Not to mention, after dusk, you're nearly invisible on a bike, and generally moving quick
+please make the small investment in the safety of you and others",positive,0.8074,positive,0.12166666666666667,12/04/2019
+posts,he’s back to wish everyone good luck on finals again. he told me he loves you all and hopes u do amazing :-). ,positive,0.9578,positive,0.45,12/04/2019
+posts,Spring internship housing question. [deleted],neutral,0.0,neutral,0.0,12/04/2019
+posts,Now's a good time to review Institute exam and reading day policies.. [deleted],positive,0.4404,positive,0.7,12/04/2019
+posts,HELP! Made bad choices and might be kicked out. [deleted],negative,-0.0923,negative,-0.6999999999999998,12/04/2019
+posts,Spring housing balance. [deleted],neutral,0.0,neutral,0.0,12/04/2019
+posts,Props to the counter propaganda!. ,neutral,0.0,negative,-0.125,12/04/2019
+posts,Late Night Bites Question. Anyone know if Late Night Bites is going to happen this semester finals week?,neutral,0.0,negative,-0.3,12/04/2019
+posts,Is Midnight Madness still a thing?. ,negative,-0.4404,neutral,0.0,12/05/2019
+posts,LOST AIRPODS!!! If anyone found AirPods with a Psyduck case please message me!!! They were last seen at the Library 6th floor Tuesday night. Thank you!!!!. ,positive,0.4469,neutral,0.0,12/05/2019
+posts,"LOST AIRPODS with a Psyduck case, if found please message me!!! They were last seen at the Library 6th floor Tuesday night. Thank you!!!!. ",positive,0.4469,neutral,0.0,12/05/2019
+posts,How to deal with finals stress [Serious]. It's that time of the semester and I felt like it would be good to share tips for dealing with finals stress,positive,0.25,positive,0.18333333333333332,12/05/2019
+posts,[ECON 2101] Institute's official Final Exam Schedule website. So I take ECON 2101 with Professor Mikhail M Klimenko and his recent note said that ' The final exam time and location is posted on the Institute's official Final Exam Schedule website. ' I haven't found the same and am kinda freaking out because I don't know where the final is. Can someone help me out?,neutral,0.0498,neutral,0.0,12/05/2019
+posts,Tell me where the toastiest places to study are. Help me out! My on campus apartment is way too cold to focus,positive,0.4574,negative,-0.6,12/05/2019
+posts,To Whomever set the fire alarm off in Maulding at 3AM.... Fuck you. Order a pizza next time,negative,-0.8074,negative,-0.2,12/05/2019
+posts,Study Tips. [removed],neutral,0.0,neutral,0.0,12/05/2019
+posts,Carpool Karaoke w/ President Cabrera. ,neutral,0.0,neutral,0.0,12/05/2019
+posts,1332 section B CIOS. [deleted],neutral,0.0,neutral,0.0,12/05/2019
+posts,Finals week..... ,neutral,0.0,neutral,0.0,12/05/2019
+posts,Lizzy came to visit me at work and wishes you well on your finals (:. ,positive,0.4019,neutral,0.0,12/05/2019
+posts,"Study Space at GTPD!. Tired of spending hours searching the CULC for a study spot for finals? Look no further! GTPD will be offering up its community room as extra study space for the duration of finals. The room comes with rollable tables, chairs, and whiteboards, and will have plenty of outlets for all of your electronic needs!",negative,-0.7163,negative,-0.13333333333333333,12/05/2019
+posts,Looking to buy parking Pass for Winter. [removed],neutral,0.0,neutral,0.0,12/05/2019
+posts,"COE 3001 Prereqs. I'm an AE major and on the flowchart it lists Math 2552 as a prereq for COE 3001. But, degreeworks says that you can take COE 3001 concurrently with Math 2552. Which should I listen to?",neutral,0.0,positive,0.0625,12/05/2019
+posts,"Off-Campus Housing Experiences?. Some friends and I are considering living off campus next year. We're looking into housing options near campus that we can live together in a house or large apartment. 
+
+Are there any leasing/renting companies/realtors that we should specifically avoid?
+Any suggestions regarding year long leases, when we'll only need the place for 9-10 months?
+Are there any words of advice that we should consider? 
+
+If anyone has had a good or bad experience regarding off-campus housing, I'd greatly appreciate hearing about it. Thanks!",positive,0.8149,positive,0.14506493506493506,12/05/2019
+posts,"Should I GoFundMe My Tuition?. I can say I’m quite f**ked because I’m an international student from propaganda kingdom and I’m on the list because of supporting Hong Kong protest meaning my bank account is suspended and I’ll ended up in re-education training centre if I go back. (Thanks to Instagram - ‘friend you may know’ and have some wanker reported me to the authority) 
+
+Meanwhile my beloved communist father left my mom last month taking away almost all the money... I love challenge in my life but maybe it’s too far.
+
+I’m asking if it’s an good idea do start a campaign like that because I can’t find any co-signer to get loans. Yes I’m doing research now but GRA doesn’t come next semester as you have to prove what you can do at the first place meaning I’m doing free research next semester.
+No I can’t go to a restaurant and bartending because it’s illegal and I must be focusing on my work.
+
+I’m here asking advice because I have the feeling I’m begging for money but somehow I wanna screw my pride and ask for help. 
+
+Fellows have a good exam but I won’t say good luck cos it’s the last thing you want 😘
+
+[ Let’s see how many upvotes (unfortunately you can’t see downvotes) meanwhile I’ll ask if there are any options getting support from school ]
+
+Update:
+
+I’m currently applying academic coach now see what happens! Thanks for all the support and advice! Hope the best and love y’all
+
+Update 2:
+I submitted my asylum application and if it gets granted I’ll be able to work so that I can be part time student. F-1 student is not allow to work first year.",positive,0.9956,positive,0.22857142857142856,12/05/2019
+posts,"Kind GT student for the win!. Thanks to the kind student who mailed me ""I found one of your students notebooks in &lt;location&gt;. It is a green 3 subject notebook. It has multiple classes in it like Math 3012 with Reuben and CS 4863 with Bruckman.  I can’t read the name exactly but I think it reads &lt;first name last initial&gt;.  If you know the owner could you tell him to call me or email me if he would like this back. I assume during finals week he might be stressed without it.""
+
+We found the notebook's owner, and you rock!",positive,0.8294,positive,0.22833333333333333,12/05/2019
+posts,1331 PPL FILL OUT CIOS. [removed],neutral,0.0,neutral,0.0,12/05/2019
+posts,Philosophy Final. [removed],neutral,0.0,neutral,0.0,12/05/2019
+posts,Spotted at 100 Midtown. Wonder if they realize this is basically a CS meme. ,neutral,0.0,neutral,0.0,12/05/2019
+posts,"Students supporting students -- A message from Undergraduate and Graduate SGA. Hello, Yellow Jackets! 
+
+We hope you all had an exciting Thanksgiving break and are gearing up for the final stretch of the semester! 
+
+As the semester comes to a close, it can be overwhelming to say the least. In studying for multiple final exams, finishing up group projects, and late night study sessions, it is a time where we may feel immense stress. With balancing everything as Yellow Jackets, it is alright to feel this way. 
+
+Take care of yourself, your roommates and your friends during these last two weeks of the semester. If you or a friend needs someone to talk to, remember that we are here for you. If you wish to seek professional help after hours, please dial 404-894-2575 to reach a counselor. 
+
+ 
+The two of us will be available if you ever feel the need to talk in person. 
+
+ 
+Yours in White and Gold,
+
+ 
+
+Pooja and Narayan",positive,0.9753,positive,0.06333333333333334,12/05/2019
+posts,GaTech Physics students prove that the Earth is flat. ,neutral,0.0,neutral,-0.025,12/05/2019
+posts,Good luck y'all!. ,positive,0.7345,positive,0.875,12/05/2019
+posts,APPH - 1040 Final Exam. [removed],neutral,0.0,neutral,0.0,12/05/2019
+posts,"Buzzport not letting me register for waitlisted course?. I got off the waitlist for a course but I can't access the registration page for some reason. Is there anything I can do / will my advisor help with this tomorrow (doubt it cause they are so unhelpful)? My waitlist expires in like 2 hours.
+
+Edit: well just found out my advisor is going to be out until the 9th I'm really glad that Georgia Tech is really making my out of state tuition worth it!",positive,0.9508,positive,0.35833333333333334,12/05/2019
+posts,APPH 1044 Fall 2019 Final. [deleted],neutral,0.0,neutral,0.0,12/05/2019
+posts,APPH 1040 Final Fall 2019. [removed],neutral,0.0,neutral,0.0,12/05/2019
+posts,Does anyone know what happened at or around AEPi tonight (12/5/19)? There were 4 GTPD vehicles and an ambulance outside. ,neutral,0.0,neutral,0.0,12/05/2019
+posts,Final ques. Would you rather go to your final feeling well-rested but underprepared or well prepared but unrested?,positive,0.6428,neutral,0.0,12/05/2019
+posts,"How are the stress levels at GA Tech?. Hey folks, HS senior here. I'm trying to decide b/t going to UGA Honors (if I get it) and GA Tech. Any thoughts on the mental health aspect of Tech?",positive,0.2168,negative,-0.1,12/06/2019
+posts,Y'all got this.. ,neutral,0.0,neutral,0.0,12/06/2019
+posts,gUyS dO cIoS fOr XXXX. ,neutral,0.0,neutral,0.0,12/06/2019
+posts,Need Commencement Ticket for Elderly Relative’s Caretaker. [removed],neutral,0.0,neutral,0.0,12/06/2019
+posts,"I don’t know who needs to read this but if you do you got this. Hi there,
+
+Just your local insomniac with a little pick-up. It’s 2:45 am as I’m typing this, and I don’t think I’m gonna sleep. I have the urge to write this, probably just God’s plan at work (shoutout drake).
+
+You’re doing fine, you’re gonna do great on your finals. And even if you don’t, it won’t matter, because you’re a great person. You’re unique. There’s literally no one like you. You’re smart. You’re a complex design that was meant for something in this world. A grade is not going to change that. You’re loved, Even if you don’t know it. I promise you are. Someone has thought about you today. You crossed someone’s mind. I get it that you’re focusing on studying right now, but just take a second to ponder that. You might be a little blip in this meaningless (or meaningful as I see it) existence, but without your presence, the universe literally could not function.
+
+I know this might seem huge right now, but in a few years you won’t regret it. Get some caffeine in your system if you need it, and keep grinding kid. You got this.
+
+Love you, goodnight",positive,0.9868,positive,0.2167989417989418,12/06/2019
+posts,Anybody looking for a new place starting January?. [removed],neutral,0.0,positive,0.06818181818181818,12/06/2019
+posts,Mediation spots on campus. Anyone know of any peaceful &amp; quiet potential meditation spots on campus? Preferably in the nature (or what little we have)?,positive,0.5514,neutral,0.015625,12/06/2019
+posts,Anybody want a fully furnished 1 Bed 1 Bath on Tech Square ? $1000 cash upfront for lease transfer. [removed],positive,0.0772,neutral,0.0,12/06/2019
+posts,Anybody want a fully furnished 1 Bed 1 Bath on Tech Square ? $1000 cash upfront for lease transfer. [removed],positive,0.0772,neutral,0.0,12/06/2019
+posts,Outlets in CULC. Anyone know why the outlets in CULC on the fifth floor aren’t working? I’m just trying to study 😩,neutral,0.0,neutral,0.0,12/06/2019
+posts,"Can we have a lab due during finals?. One of my professor has our last lab due on December 12th, right at the end of finals.  Some students have complained about it being due during finals.  The professor wrote:                     
+
+&gt; There has been a concern raised about the fact that the final assignment (Lab 10) is due during the final exam period.  I just wanted to reassure everyone that this is clearly within the rules because it is given in lieu of a final exam.  The GT rules state ""No assessment other than a final examination or its replacement may be due during the Final Examination Period.""  This assignment is considered as a replacement for the final exam.
+
+&gt; Best of luck on Lab 10 and hope you enjoyed the course.
+
+Judging by rule [12.D.1](http://catalog.gatech.edu/rules/12/), wouldn't this have to be on our syllabus to be valid?  
+
+[Here's a copy of the class syllabus, in case I missed something.](https://drive.google.com/open?id=1ZRX5P4mPhR4CTs008N5Lv-kkTLHLFg6k)
+
+Is there anything else worth mentioning in our defense?  
+
+Is it even worth pushing the topic, at risk of the professor getting vindictive?",positive,0.9545,positive,0.0717857142857143,12/06/2019
+posts,My professor changed my project grade by half a letter grade... is this allowed?. [deleted],neutral,0.0,negative,-0.16666666666666666,12/06/2019
+posts,"A PSA about tomorrow's Syracuse game. GT MBB plays Syracuse tomorrow at noon, and playing Syracuse at home comes with slightly different expectations than other games. Namely, Airball.
+
+If you're not familiar with the chant, when you're in the crowd and the opposing player completely misses the rim/backboard with a shot, that's an airball, and you're supposed to remind him of it every single time he has the ball defensively, by chanting ""Airball"" at him. 
+
+We did this to Syracuse about two years ago and it completely shut down one of their starters - John Gillon went 2-10 from the field and 1-7 from three and finished the game with just 7 points. [Some Syracuse fan got so fed up with the Airball chants that he called Josh Pastner to complain.](https://www.cbssports.com/college-basketball/news/cuse-fan-complains-about-air-ball-chant-georgia-tech-coach-phones-him-back/) Pastner's response was to have [Airball t-shirts](https://twitter.com/GTAthletics/status/958469608826179584?s=19) in advance of their next home game against the Orange.
+
+So, what does this mean? Saturday, bring a lot of energy, an Airball t-shirt if you have it, and get ready to hound whichever poor soul from Syracuse dares to Airball first with the chants. Saturday, noon, McCamish, be there!",positive,0.7424,negative,-0.11596560846560848,12/06/2019
+posts,"Options of students apartments outside campus?. What is your recommendation? 
+And is Westmar good or not?",positive,0.533,positive,0.35,12/06/2019
+posts,"Printing a picture. Does the media studio print high quality pictures? If not, where could I print one?
+
+I want one for a Christmas gift lol",positive,0.7476,positive,0.48000000000000004,12/06/2019
+posts,Where is a good place to study on campus?. There are no seats in the library. Where else is a good place for studying? I notice that three classrooms are open for studying during the night? Can we study in it during the day?,positive,0.6767,positive,0.4666666666666666,12/06/2019
+posts,"Parking for Sat basketball game. For years I've parked at the Methodist church on 10th when attending Tech sports events, but the lot is no longer available.  Any recommendations for inexpensive or free parking?  Can I park in Home Park without a permit on Saturday?",positive,0.4606,positive,0.13333333333333333,12/06/2019
+posts,CHBE TRANSPORT II CIOS - Please do it. [removed],positive,0.3182,neutral,0.0,12/06/2019
+posts,ME MS GRA Rate?. What is a typical monthly stipend for a ME Masters student GRA?,neutral,0.0,negative,-0.16666666666666666,12/06/2019
+posts,"Does anyone else feel like Georgia Tech is more of a community during finals week?. \#TogetherWeSwarm
+
+\#TheGeorgiaTechFinalsWeekExperience",positive,0.3612,positive,0.5,12/06/2019
+posts,"Join the OIT Network Team! Hiring for Spring 2020. OIT Network Services is looking for students who are interested in gaining experience in supporting and operating all aspects of an enterprise network for the Spring 2020 semester.
+
+We have a variety of opportunities available to which students can contribute including network support, wireless network auditing, fiber optic infrastructure support, and software/web application development. One position is available for each of the four aforementioned opportunities for the Spring 2020 semester. Full details on each of the four positions as well as our hiring application can be found [on our website](https://forms.ns.gatech.edu/student-hiring-application).
+
+**Pay Rate**: $13-$15/hour  
+**Hours/Schedule**: 20 hours max per week / M-F within 7am - 5pm time frame / flexible scheduling around other commitments
+
+If you have any questions, feel free to comment here, send me a DM, or send an email to `network-jobs (at) oit.gatech.edu`.",positive,0.9783,positive,0.24062499999999998,12/06/2019
+posts,"What happens if I file an academic grievance against a professor?. I'm considering filing an academic grievance against a professor for violating two institute policies regarding final exams. If I file the academic grievance, what happens next? Will the professor know I filed it against him? Will I need to testify in front of a committee?",negative,-0.9295,neutral,0.0,12/06/2019
+posts,"Roommate needed in Midtown, 1 BR/1 BA, $1150/m. [removed]",neutral,0.0,neutral,0.0,12/06/2019
+posts,LOST AIRPODDSS!!! Has anyone seen airpods with a Psyduck casing? It was last seen tuesday night at the library. Please message me if you have seen it!!!!. ,negative,-0.4406,neutral,0.0,12/06/2019
+posts,If you have a mini fridge you are throwing out I will remove it personally for you. ,neutral,0.0,neutral,0.0,12/06/2019
+posts,"My dear yellow jackets,. Y’all are all invited to my GPA’s funeral. That’s all.",neutral,0.0258,neutral,0.0,12/06/2019
+posts,Lost Jewelry @ GaTech Hotel Parking Garage. [removed],negative,-0.3182,neutral,0.0,12/06/2019
+posts,Subleasing Room in 4 Bedroom Apartment at Signature West Midtown (Previously Theory West Midtown). [removed],neutral,0.0,negative,-0.16666666666666666,12/06/2019
+posts,"Happy finals season, thought you sweaty nerds might enjoy this. ",positive,0.7845,positive,0.6000000000000001,12/06/2019
+posts,"Take a break folks. It's Friday night, y'all deserve to take breather. AMA or tell me something you're looking forward to post-finals/during your break (other than getting some sleep of course). Start a discussion comment thread below, anything really. Think it's good to break from that isolated bubble of studying for a bit. So how about them trees huh, kinda red and pretty and all, man I love fall.",positive,0.8402,positive,0.25416666666666665,12/06/2019
+posts,"How do Prof/TAs see the CIOS?. To provide some context:I was was filling my CIOS for one of my classes and I tried to do it as anonymous as possible without giving away who I am, but my answers to portion 1 and portion 2 are linked in a way that if the professor reads they will guess that its me and I don't really want that to happen.
+So my question is, do professors receive CIOS answers separately for each anonymous student and they read student responses one by one, or are the feedback for each portion piled up by all students (e.g.: all the answers in section 1 piled together, then section 2 together, etc.)? If anyone has TA'd before and has seen the format I'd greatly appreciate their reply.",positive,0.4894,positive,0.3333333333333333,12/06/2019
+posts,"No, we don't know anything about your final. We also can't fill out the CIOS for a class we're not in.. Stop spamming this subreddit with these goddamn inane posts about where/when your finals are. Go ask your professor or, god forbid, your classmates. Hell, 90% of you could probably just look at your syllabus or the final exam matrix.
+
+I also don't give a rat's ass about the CIOS for some random-ass class, and the chances of you finding anybody in that class on Reddit (that also hasn't already filled out the 
+CIOS) are so small that it's not even worth the time to post threads desperately begging people to fill it out. Go make those posts on the Piazza for your class or actually reach out to people personally.",negative,-0.733,neutral,-0.018749999999999996,12/06/2019
+posts,"dO yOuR cIoS pLz, i nEeEeD tHe eXtRa cReDiT. ATTN: Do your CIOS for [***insert class here***] to get people extra credit.
+
+There, the announcement is up. I will be deleting any further posts begging for CIOS completion.",positive,0.6705,neutral,0.0,12/06/2019
+posts,"Spontaneous Event service. Hi I was wondering for feedback on an idea. I was thinking, what would the appeal would be for an app that got existing events around campus from Facebook, the GT RSS feed, etc. and displayed the events the day of to give a sense of spontaneity. Students can also broadcast their own spontaneous events from studying to going to CRC to see if other students would want to come the day of. I may or may not have already written this app and deployed and am just asking for feedback before I publicly humiliate myself. Anyways...",negative,-0.0943,positive,0.33499999999999996,12/06/2019
+posts,"any good therapists in midtown?. feeling the urge to pay someone to listen to my life problems. I kinda ghosted my last therapist and I don't really have time to go trying random ones
+
+so looking for recommendations...
+
+edit: just in case someone else searches, Allison Mangone is pretty awesome. She's 3 blocks away from Scheller.",positive,0.7717,positive,0.27499999999999997,12/07/2019
+posts,Creating the next day breach tees on Twitter. ,positive,0.296,neutral,0.0,12/07/2019
+posts,BIOL 1510 Final. [removed],neutral,0.0,neutral,0.0,12/07/2019
+posts,ECE 3040. Is class attendance usually required? How many hours a week to expect?,neutral,0.0,positive,0.125,12/07/2019
+posts,"Students for Bernie Sanders- community cavas. Hey guys, 
+
+&amp;#x200B;
+
+Looking forward to the GA Tech students for Bernie group meet tomorrow at 1 pm. Word on the street is that we are all meeting, on the Tech Green. Is there a post game, 2nd term meet?
+
+&amp;#x200B;
+
+In solidarity.",positive,0.296,negative,-0.20000000000000004,12/07/2019
+posts,Course Schedule. [removed],neutral,0.0,neutral,0.0,12/07/2019
+posts,Finals got you down? Get some Holiday cheer tonight at Under the Couch @ 8PM!. ,positive,0.7424,negative,-0.19444444444444448,12/07/2019
+posts,happy finals everyone. ,positive,0.5719,positive,0.8,12/07/2019
+posts,"Temporary Parking Passes. I understand that it is possible to purchase temporary parking passes (daily, weekly, monthly) but after searching around for a while I have not been able to find where to purchase them. I apologize in advance if I missed something obvious, but if anyone knows that would be very helpful. Thanks!",positive,0.8176,positive,0.15833333333333333,12/07/2019
+posts,"Music Technology Minor. Hey so I am a 2nd year EE, and I was looking at adding Music Technology minor, but I haven't really heard a ton about it. I have played instruments and dabbled around with making music for many years so I thought this might be a fun and interesting change of pace from all of my classes for EE. I also really enjoy analog circuits and design so I figure this would pair well with the analog nature of music.   
+
+
+So if there are any Music Tech minors/majors, with thoughts/inputs, I'd love to hear them. Thanks!",positive,0.9841,positive,0.255,12/07/2019
+posts,Butts Butts. ,neutral,0.0,neutral,0.0,12/07/2019
+posts,Website that calculates whether or not you should fill out the CIOS based on the submission percentage needed for extra credit. ,positive,0.3818,neutral,0.0,12/07/2019
+posts,Important. [deleted],positive,0.2023,positive,0.4,12/07/2019
+posts,Barnes and noble. Does Barnes and noble price match Dicks sporting goods? I want a water bottle that’s half the price at dicks,positive,0.743,positive,0.3444444444444444,12/07/2019
+posts,Does anybody have extra graduation tickets for fall 2019 ? Willing to pay!. [removed],neutral,0.0,positive,0.15625,12/07/2019
+posts,Roommate Needed. [removed],neutral,0.0,neutral,0.0,12/07/2019
+posts,RPI gets DESTROYED AGAIN by redditers... (This post makes me incredibly thankful I didn't go). [removed],neutral,0.0155,positive,0.9,12/07/2019
+posts,On a MARTA train full of u(sic)ga fans rn.... And it smells like cow patties and despair 😈😈🤤🤤,positive,0.0516,positive,0.10833333333333332,12/07/2019
+posts,To fr*ck with georgia!. [deleted],neutral,0.0,neutral,0.0,12/07/2019
+posts,To fr*ck with georgia!!!!. ,neutral,0.0,neutral,0.0,12/07/2019
+posts,Geaux Jackets. ,neutral,0.0,neutral,0.0,12/07/2019
+posts,"Does the Math department take Letters of Recommendation for grad school after the Dec 20 deadline?. Has anyone had success with letters of rec submitted after the deadline for the Graduate Math Dept? If so, how late was it?
+
+I plan to call the dept on monday but since it's the weekend, I figured I could ask here first.",positive,0.4386,positive,0.08333333333333333,12/07/2019
+posts,BIOL 1510. [removed],neutral,0.0,neutral,0.0,12/07/2019
+posts,Geaux Tigers! THWg!. ,neutral,0.0,neutral,0.0,12/07/2019
+posts,"Anyone know why Limon &amp; Chile at Willage is closed?. Hello! I was wondering if anyone knew why the taco place at willage has been closed for the past two days. This really isn’t that pressing of an issue, I just really like tacos. Thanks!",positive,0.7608,neutral,0.029166666666666674,12/08/2019
+posts,Math 2552 with Prof. Yingjie Liu. [removed],neutral,0.0,neutral,0.0,12/08/2019
+posts,Some people will go for a Leisurely Stroll by Brittain Dining Hall Monday night. Will you?. ,neutral,0.0,neutral,0.0,12/08/2019
+posts,GT bus drivers are absolute MadLads. ,positive,0.4278,positive,0.2,12/08/2019
+posts,Bioinformatics club?. [removed],neutral,0.0,neutral,0.0,12/08/2019
+posts,When do most people their internships by?. Do most people that have internships for the summer have them by now (ME here)? I had no luck with the first round/career fair and haven't heard back from pretty much anyone else yet. Trying to figure out at what point I need to start looking into other summer options.,positive,0.7691,positive,0.28437500000000004,12/08/2019
+posts,"How to submit Recommendation Letters?. Hello, I am applying as an international freshmen to GATECH. I want to submit my recommendation letters, but my school is not allowed to upload them onto the Common App. Idk why. My school can mail them or email them. These will be official documents submitted by school. Will this be ok? I have tried emailing GATECH, but have not received a reply.",positive,0.4039,positive,0.06666666666666667,12/08/2019
+posts,Fall 2020 Transfer Admissions. [removed],neutral,0.0,neutral,0.0,12/08/2019
+posts,umami dumplings?. anyone know what’s in the dumplings at umami? i can’t find them listed anywhere on their menu and i feel like if i ask in person they won’t know or won’t give a true answer,positive,0.6553,positive,0.35,12/08/2019
+posts,"West Village Umami Closing?. Hello my fellow students. I've heard that Umami may be closing next semester due to the fact that they get too much of the business at willage. The way I see it, instead of removing the businesses that do to well, management should change businesses that don't do as well.
+
+Do any of you jackets know if there's anything that we as students can do about this?",positive,0.5514,neutral,0.025000000000000005,12/08/2019
+posts,Butts Butts Butts. ,neutral,0.0,neutral,0.0,12/08/2019
+posts,Smh. Why are (almost) all of the dining employees so rude/unfriendly??,negative,-0.3939,neutral,0.0,12/08/2019
+posts,Few questions about REPP. [removed],neutral,0.0,negative,-0.2,12/08/2019
+posts,"A few questions about REP. Hi all,
+
+I currently attend a university and want to transfer over to GT. However, since I do not meet the requirements, I am thinking about transferring to GSU Perimeter - Dunwoody and doing REP there for the 2020 fall semester.
+
+1. I was wondering if anyone has ever taken any online classes for REP.
+
+2. I also noticed that CS isn't considered an engineering major in REP. If it is not in REP, would I be better off just taking the CS courses at GSU Perimeter and try to transfer over to GT?
+
+3. How long did it take to graduate from REP and GT?",positive,0.9013,positive,0.0625,12/08/2019
+posts,Reneging a Spring offer. [removed],neutral,0.0,neutral,0.0,12/08/2019
+posts,GT Dining Logic. ,positive,0.4278,neutral,0.0,12/08/2019
+posts,Reneging a Spring offer. [removed],neutral,0.0,neutral,0.0,12/08/2019
+posts,Grace House Study Hall Hours! Starting tonight! Free drip coffee and cookies!. ,positive,0.7891,positive,0.25,12/08/2019
+posts,me on a crowded tech trolley. ,neutral,0.0,neutral,0.0,12/08/2019
+posts,Changing Major Before Phase 2. [removed],neutral,0.0,positive,0.0625,12/08/2019
+posts,"Full year parking pass. Just tried looking on the PTS website, but [driverseat.gatech.edu](https://driverseat.gatech.edu) throws an error and the main website is pretty useless. When do full year parking passes for 2020-2021 come out? How is the priority determined? I'd want to park somewhere on east campus, preferably Peters. Thanks!",positive,0.7271,positive,0.14444444444444443,12/08/2019
+posts,Should I be concerned abt this sign?. ,neutral,0.0,neutral,0.0,12/08/2019
+posts,Loud bang on West side. Anyone just west of campus hear a loud bang and have their power flicker? Anyone know what happened?,neutral,0.0,positive,0.1,12/08/2019
+posts,Its a sign. [deleted],neutral,0.0,neutral,0.0,12/08/2019
+posts,It's a sign. ,neutral,0.0,neutral,0.0,12/08/2019
+posts,Come pack the house when Georgia Tech hosts the Volleyball Quarterfinals Tuesday at 7!. ,neutral,0.0,neutral,0.0,12/08/2019
+posts,Transferring to Georgia Tech (Help me!!). [removed],neutral,0.0,neutral,0.0,12/08/2019
+posts,Transferring to Georgia Tech (Help me!!). [removed],neutral,0.0,neutral,0.0,12/08/2019
+posts,"Use Caution.   
+
+This afternoon a student was walking on Ferst Drive, near the Student Center, when he was approached by an unknown male. The subject asked to borrow the student’s cell phone to make a call, which he allowed. The unknown male subject then fled the location with the student’s cell phone. 
+
+Be cautious when you are solicited on the street by strangers. If you feel uneasy, contact the Georgia Tech Police Department at 404-894-2500, so we can assist them.",negative,-0.4588,negative,-0.06666666666666667,12/08/2019
+posts,"I forgot to go to my final. I was so focused on the final paper that I forgot the final exam even existed. It was a pass/fail elective, but still. I went to class and did all the homeworks just to not get the credit. This is my first semester and I already fucked up, so I'm not really sure where to go from here. What happens when you fail a class?
+
+EDIT: There are a number of threads going on in the comments. To recap: The exam was the Putnam on Saturday. I also got the final paper date wrong because I'm a moron, so there's no point in fighting the permissibilty of a Saturday exam.",negative,-0.9844,negative,-0.24000000000000005,12/08/2019
+posts,Phone Interview. [removed],neutral,0.0,neutral,0.0,12/09/2019
+posts,I forgot I had something checked out and have a “lost fee” on my account. Do I get the fee waived if I return it?. ,neutral,0.0,neutral,0.0,12/09/2019
+posts,"Why GA Tech Essay Feedback. Hey guys,I am a high school senior applying for EE in your university. Could anyone from current students of the uni please go through my essay? I am really worried about its quality. Thank you in advance!!",positive,0.4387,positive,0.1575,12/09/2019
+posts,"222-0. PRETTY GOOD, EPISODE 10.. ",positive,0.8208,positive,0.475,12/09/2019
+posts,"Why I changed to Public Policy. Hoo boy this is way longer than I thought it was going to be. Buckle up, kiddos.
+
+&amp;#x200B;
+
+For reference, I came in as an AE student. I had somehow gotten it into my head that I was going to be an engineer, no ifs, ands, or buts. I wasn't even pushed particularly hard in this direction; it wasn't like my family pressured me into it. But somehow when I was about 16, it simply became obvious that I was going to be an engineer. Now, I have always been good at math and science classes. But I never really enjoyed them.
+
+Of course, I realized that engineering as a major was basically going to be non-stop math for my whole career. I realize now that that should have been a flashing warning light that this wasn't for me, but I ignored it, because I had my plan and was too committed to change it. When I was applying here, I had a bit of a hard time because most of my extracurriculars were not engineering based: Debate Club, etc. That should have been warning sign #2, but I kept going because I was on my set path and felt it wasn't responsible of me to change now.
+
+And so I got accepted, and got started. But my classes weren't interesting. At all. In the slightest. The only classes I had that were even mildly engaging to me were a pair of philosophy and ethics classes I took because I needed to pad out my schedule. My engineering and sciences classes were dreadful. But I figured that if I ""put in my time"" at the lower level classes, maybe things would get better. I finished out year one with a strong GPA, and hoped that things would improve from there.
+
+My first summer after first year, I had an internship. I thought I was lucky to get it, and I guess I was. But the experience was absolutely atrocious. I was an engineering intern at an aerospace company working on certification engineering, but it was probably the worst experience of my life. Soul-crushing is an understatement. I worked in a cubicle for nine hours a day. The absolute limit of the ""intern experience"" officially provided by the company was two catered lunched with video calls with interns from other locations, and a ticket to baseball game. To be fair, it wasn't all the company's fault. The leader of the team that I was assigned to transferred within two weeks of my arrival, leading the whole department a bit rudderless. But still, it was a terrifying look at a possible future. I spent ten weeks there ever the summer. for seven of them, I worked on a single excel spreadsheet. One file. For data analysis. It wasn't collaborative or anything; I would put in the required equations, report back, and get a new set of parameters to input. More than once I nearly fell asleep at my desk out of sheer boredom and monotony. I started punching my calculator to see exactly how many seconds I had before I could leave for the day. What's worse, my last day when I presented what I had worked on, the team seemed unimpressed, with one person going so far as asking what the point of the whole exercise was.
+
+So, I returned to school this semester with a sour taste in my mouth. But, it was my second year, I was moving up in classes, it would be better, right? Wrong. My classes this semester have been more tedious than ever. The only one that I enjoyed even a little bit was a philosophy class, again a schedule-padder. All the others were just horrible. I hated the classes. I hated the material. I hated the homework. It became a chore to even show up. My grades this semester have certainly suffered from my apathy towards the classes I'm taking; I know already that I'm going to get a D or worse in one class, and my prospects for the other's aren't great either. The most frightening thing for me was, though, that I didn't care. These classes meant nothing to me. I didn't care how well I did in them anymore. I had checked out mentally.
+
+Around this point is when I began seriously questioning my place here. It wasn't that I didn't want to do aerospace anymore; I was done with engineering as a discipline entirely. I hated the classes, and hated the job. Of course, it took a long time for me to actually get serious about a change of course. I had basically resigned myself to a career that I couldn't stand, and would never really be passionate about. I choose aerospace out of the engineering disciplines simply because I thought rockets were cool and that maybe if I was working on something interesting I could eek out some sort of satisfaction. But that wasn't happening.
+
+At this point, I'd like to give a shout-out to a certain professor, Hans Klein. He taught the philosophy class this semester I took, which focused on illusions in society. One quote of his has stuck with me for months: ""Everyone thinks they want a job at Google. But do you really want a job at Google, or is that what you've been told to want?"" Of course, for me Google wasn't the target, but that really hit the nail on the head for me: I didn't want to be an aerospace engineer and work at SpaceX or NASA of Boeing. That's what I had convinced myself that I wanted in order to keep myself on this track. And it was time to get off. Seriously, if you need a few extra hours next semester, take on of his classes. I can't recommend them enough.
+
+So, now I knew I didn't want to be an engineering major. So what did I want to be? Well, actually, that came pretty obviously to me. I love politics and government. I volunteered during the 2016 election, and actually met a Senator at a polling place on election day. I went to a political rally for my preferred candidate (which I will not name because dear lord no need to open that can of worms.) My favorite classes in high school were Civics and Economics, and later AP Government and Politics. About a month ago, I stayed up late watching the Canadian election results. I'm not even Canadian! I read news and opinion articles daily, hell it's one of the preloaded tabs on my phone. I went to Boy's State, which is a sort of camp for high schoolers put on my the American Legion that's basically a huge mock government of a fictional state that runs for a week. The signs were all there, and looking back it's frustrating that I deliberately ignored all the signs to run down the engineering track. I've started to think that maybe, just maybe, engineering is our generation's version of doctor or lawyer: the ""it"" degree that everyone looks up to as the pinnacle of success.
+
+So public policy it was. Though I haven't made the official switch yet, I'm now pursuing a Public Policy degree, with a minor in International Affairs. I've begun exploring transferring schools, but I haven't made any decisions yet. If I do stay here, I'll have to take an extra year, but I'd much rather do it in a degree that I look forward to than one I hate. I'll officially change my major if I do decide to stay after next semester.
+
+It's kind of strange, where I am right now. All of my finals are this week, but exactly none of them actually count towards Public Policy. Of course I want to do well on them to keep up my GPA, but it'll be taking a hit anyway. It was pretty good beforehand, so it won't hurt all that much. As such, the pressure is way, way lower. I'll do my best, but it's not the end of the world if I don't do great. A bit of a side story- my last regular physics exam was a few weeks ago, at 6 PM. This didn't help me at all when I realized that at 1 AM that night. Completely forgot the exam. Coincidentally, earlier that day I had made up my mind to change majors. My dad swears it was self-sabotage, my subconscious mind telling me exactly what direction I should be going in. I'm not sure if I believe it, but food for thought.
+
+So next semester, I'll be coming back with a suite of public policy and international relations classes. I might leave my calculator at home. If I had to go back after Christmas break to another semester like this, I would have had a hard time making the trip to the airport. But now, I can honestly say that I think next semester will be better. Moral of the story: make sure you're doing what you want to do. If something feels wrong, that's because it is. Don't let yourself be convinced that you're following your dreams until you really examine what you want to do with your life. Thanks for reading.",negative,-0.9976,neutral,0.022592150857456972,12/09/2019
+posts,"Hello guys! (please don't hate me I'm posting for some feedback). Me and my friends worked on an anonymous chat application only for college students! Right now, it is open for 70 Universities outside USA and 10 inside USA! GTECH is one of them! Please take a look it's totally free :). ",positive,0.921,positive,0.055102040816326525,12/09/2019
+posts,"How to Fix Windows 10 Keyboard Typing Wrong Characters (Shift+2=@ Changed Shift+2=""). ",negative,-0.4767,negative,-0.5,12/09/2019
+posts,Transferring to Georgia Tech. [deleted],neutral,0.0,neutral,0.0,12/09/2019
+posts,"My professor was genuinely awful this semester an I want to report them, but I don’t know how. This semester I went abroad and took a six week course that was really a shit show. The prof assigned ungodly amounts of reading and had incredibly dense 2 hour lectures that would cover up to 2 chapters/lecture. Homework assignments over material that was not in the book or lectures would be assigned on an irregular schedule right before exams. Clicker questions were not graded for participation, and our professor would close questions even if you asked him to give you more time for a response (very small lecture so it’s not like he didn’t hear us). Each test was worth 24 or 28 percent of the course and given via word document despite our class asking for hard copies because we were required to show calculations and draw figures. The icing on top was that the exams were just verbatim or modified questions from a test bank pool of over 200 questions. This sounds like something desirable, but the combination of the material being so poorly taught, the tests being given in such a shitty and stressful way, the lack of TAs, and the fact that studying wasn’t even concept driven is infuriating. I can’t save my gpa from this course but I don’t want anyone else to go through this. I haven’t learned anything because all I did was try to memorize answers to questions (honestly there was no point in trying to keep up with the material after a while, it was so overwhelming).
+
+I’ve done the cios but I want this professor off this abroad program. I don’t care if they have to cut the class from the program entirely, I just want someone to be accountable for this absolute rigor pipe dream.
+
+*I know someone is going to tell me to study more and that independent study is what tech is all about, but there’s a difference between teaching well and testing student’s knowledge rigorously, and being lazy and too bothered to make sure concepts are understood.*",negative,-0.9613,positive,0.08595238095238096,12/09/2019
+posts,Finals got me like. ,positive,0.3612,neutral,0.0,12/09/2019
+posts,"In these trying times, a massive de-stress may be sorely needed tonight and I hear going to Brittain Dining Hall at 10pm will help with that. ",positive,0.4019,neutral,0.0,12/09/2019
+posts,Warning to the GTL EE's... Don't Take Boussert. [removed],negative,-0.34,neutral,0.0,12/09/2019
+posts,Warning to the GTL EE's... Don't take Boussert. [removed],negative,-0.34,neutral,0.0,12/09/2019
+posts,Free electives with no final for spring 2020?. I'm going to have a really tough semester in the spring with back to back finals so trying to find an easy elective that I won't have a final to study for,positive,0.4951,positive,0.0634920634920635,12/09/2019
+posts,EEs going to GTL... don't take Boussert. [removed],neutral,0.0,neutral,0.0,12/09/2019
+posts,"Warning for Future GTL EEs... Don't Take Boussert. I would normally post this on Rate My Professor, but since GTL doesn't have that... here we are.
+
+Don't take 3040 at GTL. Approximately half of the class fails each semester(at least this has happened for the last two semesters). The professor(Boussert) is completely unapproachable and if you do approach him, he completely demeans you.
+
+He doesn't allow cheat sheets or give practice tests. He doesn't prepare you well for tests at all. The problems on the test are not like the homework. He treats a 4 hour class like a 12 hour class.
+
+So if you want to enjoy your time in Europe, don't take 3040 or any class with Boussert here.",negative,-0.7983,neutral,-0.024074074074074074,12/09/2019
+posts,If you're waiting on a package and your name is. [deleted],neutral,0.0,neutral,0.0,12/09/2019
+posts,Looking forward to this over break 🙄. ,neutral,0.0,neutral,0.0,12/09/2019
+posts,Bruh moment‼️. ,neutral,0.0,neutral,0.0,12/09/2019
+posts,"Off Campus Apartments?. I’m looking to live off campus next year and was wondering if anyone has any good or bad recommendations for off campus apartments. Are there any I should steer clear of or avoid? Or any that are amazing? 
+
+Any help will be appreciated :)",positive,0.9207,positive,0.19204545454545457,12/09/2019
+posts,"ME 3345 with Satish Kumar. Anybody take his class this semester?
+I couldn't find any rate my professor online, how is the class/prof?
+
+Thanks :)",positive,0.7399,positive,0.35,12/09/2019
+posts,"[Platinum for best Answer] I just bombed my Math 2552 Final. Need some answers.. Hey, like the title says, I just bombed my Math 2552 Final and I'm freaking out. I needed an 80 for a B and a 50 for a C. It was bad, I'm praying for a C. My professor is Zeng. I need to know if he usually curves and by how much. I've heard different things from TAs. I'm looking for somebody that had him last spring or summer. Anything you can tell me about a curve will help. Like I said, best answer gets Platinum.
+
+Thanks",positive,0.9349,positive,0.14500000000000002,12/09/2019
+posts,T&amp;M program. [removed],neutral,0.0,neutral,0.0,12/09/2019
+posts,Pain is temporary.. ,negative,-0.5106,neutral,0.0,12/09/2019
+posts,Study Abroad question. [removed],neutral,0.0,neutral,0.0,12/09/2019
+posts,study abroad question. [removed],neutral,0.0,neutral,0.0,12/09/2019
+posts,"transfer program date change?. I got offered a transfer program for fall 2020 which is a year after my high school graduation, and then suddenly the date changed to 2021? Is this an error or can Tech do this because in the help section of the transfer programs it says they are only valid for the year after your graduation + should I have not received some sort of notice for this change? TIA
+EDIT: I contacted them and they said it was just an error!",positive,0.4879,positive,0.05333333333333334,12/09/2019
+posts,trying to figure out when to cry. [deleted],negative,-0.4767,neutral,0.0,12/09/2019
+posts,"band stop making noise please reeeee. stop playing music for 20 minutes i have to study 
+
+jk i don’t mean it i like midnight bud pls don’t hurt me",neutral,0.0,negative,-0.3125,12/09/2019
+posts,BIOL 1510. [removed],neutral,0.0,neutral,0.0,12/09/2019
+posts,"Has anyone seen my tooth?. See title. It's a right molar, probably somewhere between Towers Quad and North Ave. If you see it please DM me, thanks",positive,0.6369,positive,0.24285714285714285,12/10/2019
+posts,Happy Late Night Bites Day ayooooooo. ,positive,0.5719,positive,0.25,12/10/2019
+posts,"Scooter pictures. There seems to be people going around campus taking photos of people on scooters. What's up with that? I've gotten my picture taken 4 times now zooming around campus and I'm not notable in pretty much any way.
+
+Edit: If one of u all could just explain what this is that'd be helpful. My ass thought it was just some LMC photography class but everyone acting like the fbi about to bust down my door",positive,0.27,neutral,0.008888888888888885,12/10/2019
+posts,"Anyone know what happens if you go on a registered internship while recieving an institute scholarship?. Does it just fade into the void for that semester if you aren't taking classes, or is there a way to apply it to previous costs?",neutral,0.0,negative,-0.16666666666666666,12/10/2019
+posts,Naive COver Letter Question. [removed],negative,-0.2732,negative,-0.3,12/10/2019
+posts,CS Science Requirement: AP Bio + BIO 1520 OR EAS 1601 + EAS 2600?. Current freshman here. I haven't been able to find any non-ancient posts about the difficulty of 1520 on this subreddit. I would really appreciate advice. I actually like bio and earth science so I have no preference for a discipline. I would have to take one less science with Bio since I have AP credit for Bio 1510. Is 1520 a super hard class? I just don't want to stress out too much over science and focus on CS. I've heard that EAS is easy.,positive,0.9019,positive,0.13425925925925924,12/10/2019
+posts,Not graduating on time?. [removed],neutral,0.0,neutral,0.0,12/10/2019
+posts,Ope. ,neutral,0.0,neutral,0.0,12/10/2019
+posts,people in Jarrio's physics 2 (2212). [removed],neutral,0.0,neutral,0.0,12/10/2019
+posts,"CS 2110 Syllabus. Hey can someone dm me the syllabus for CS 2110 with Southern, would greatly appreciate it 🤗",positive,0.4576,positive,0.4,12/10/2019
+posts,Econ 4180 help. [removed],positive,0.4019,neutral,0.0,12/10/2019
+posts,"100 Midtown Lease Lengths?. Anyone who has lived at 100 Midtown, could yall give a little info on what the lease lengths are? Looking to live there next year with my current roonates and we wanted to know our options. Thanks in advance!",positive,0.5502,neutral,0.03977272727272727,12/10/2019
+posts,"What the hell is a guest swipe. As an idiot with 40 meal swipes left, rip to dinner with friends",negative,-0.7003,negative,-0.4,12/10/2019
+posts,Graduation tickets ??. [removed],neutral,0.0,neutral,0.0,12/10/2019
+posts,Y’all ever?. Y’all ever walk into a final saying ok I need x grade to bring my grade up to (insert letter grade) and y grade to drop my grade to (insert letter grade) and take the final then realize your grade is about to drop two letter grades?,negative,-0.3313,positive,0.16666666666666666,12/10/2019
+posts,Taking a semester off/ part time (?). Hey y’all I’m a poor idiot and I won’t be able to afford school next semester. Any ramifications for just- dropping the classes I signed up for and not going next semester or how does that go? Also has anyone here taken a semester off and if so how did that go for you? Would just being a part time student be cheaper?,negative,-0.8105,negative,-0.14000000000000004,12/10/2019
+posts,Have you found a lost buzz card in student center. [removed],negative,-0.3182,negative,-0.1,12/10/2019
+posts,My GPA watching me play Reach instead of studying for my last two finals tomorrow. [deleted],positive,0.3612,neutral,0.0,12/10/2019
+posts,Easiest MA4000 Series Class. [removed],positive,0.4215,neutral,0.0,12/10/2019
+posts,1553 exam. [removed],neutral,0.0,neutral,0.0,12/10/2019
+posts,"Looking at my GPA compared to others'. Probably against my better judgment, but while I was wallowing in despair over my GPA, I looked at the grade distribution for GT, and... Not feeling that great. I'm constantly plagued by stress and worries that I won't be able to get into a decent master's program as my GPA dips below 3.4 - especially now that I'm part way through my third year here. I've been working my ass off this past year (Spring/Fall 2019) but no matter what, I can't seem to stop it from dropping. I'm not really sure why I'm posting this on here. I don't think there's any more I can do other than continue to work hard. But the defeatist attitude can't help but come over me; what's the point of undergoing all this, if it doesn't even amount to anything? I can't even make my GPA plateau, it just keeps falling.
+
+I would be marginally less stressed if I weren't going to grad school, but more than anything, I need the additional degree for the job I ultimately want to do. But is this the end of the line? Am I just not cut out for this school? Or in the very least, I'm at the very bottom of the barrel in terms of potential.",negative,-0.9809,positive,0.09407407407407406,12/10/2019
+posts,"So all my 1553 peeps, are we just gonna ignore how dirty the professors did us just then?. This curve better be PHAT.",negative,-0.3612,neutral,-0.04999999999999999,12/10/2019
+posts,"Come on, which one of you did this.... ",neutral,0.0,neutral,0.0,12/10/2019
+posts,Never believe them when they say it. ,neutral,0.0,neutral,0.0,12/10/2019
+posts,After multi final. [deleted],neutral,0.0,neutral,0.0,12/10/2019
+posts,The person who wrote the note is a tech alumni for sure. [deleted],positive,0.3182,positive,0.5,12/11/2019
+posts,The person who wrote the note is a yellow jacket for sure. [deleted],positive,0.3182,positive,0.25,12/11/2019
+posts,How to fill out CIOS for idiots. [removed],neutral,0.0,negative,-0.8,12/11/2019
+posts,"Gatech groundskeeping strikes again. Nothing like waking up to someone **LEAFBLOWING CURRAN PARKING DECK AT 5:45AM** as their van’s strobe lights flash violently through my window before sunrise. Seriously, wtf...",negative,-0.8446,negative,-0.65,12/11/2019
+posts,It is 10 minutes past 7 and the Chick-Fil-A is still not open.. [deleted],neutral,0.0,negative,-0.125,12/11/2019
+posts,Can someone explain to me this Buzz statue on Google Maps?. ,neutral,0.0,neutral,0.0,12/11/2019
+posts,"Switching major. Hello. I am a hs senior and I am starting my college application right now. I am debating to major in marketing at GA Tech Scheller College of Business. At the same time, I really like computer science as it has been one of my interest since 4 years ago. I was wondering, if I decide to switch major later, would that be do-able- to switch from Tech Scheller College of Business into Ga Tech and major in computer science? Thank you.",positive,0.807,positive,0.08174603174603175,12/11/2019
+posts,"Does anyone know why Late Night Bites got so much worse?. 2 years ago, Late Night Bites ran for around a month. Since then, it's become shorter and shorter every semester to the point that it seems to be gone entirely. Anyone know what happened?",neutral,0.0,negative,-0.25,12/11/2019
+posts,Uh. [deleted],neutral,0.0,neutral,0.0,12/11/2019
+posts,Is the office of President Cabrera comparing us to mindless robots? /s. ,negative,-0.4404,negative,-0.2,12/11/2019
+posts,There's a little chef in the Smith kitchen. ,neutral,0.0,negative,-0.1875,12/11/2019
+posts,chem 1211k/1212k textbook. [removed],neutral,0.0,neutral,0.0,12/11/2019
+posts,"Youtube Resource for Heat Transfer. I thought I would just post this before I forget over winter break, but for any ME taking Heat Transfer next semester, I found this series of 26 vids to be significantly more helpful than my professor:  [https://www.youtube.com/watch?v=TWTQx3W-2k8](https://www.youtube.com/watch?v=TWTQx3W-2k8) . They are easy to watch and are pretty similar to the GT curriculum, even using an earlier edition of the same book. On the channel are also fluid resources and Defbods in the same format. These are a reason I went from a 27 on test 1 to 80 on test 2, and I thought it would be worth it to share.",positive,0.9686,positive,0.06666666666666667,12/11/2019
+posts,"One more day of finals everyone!!!. This is the last stretch! Push through, you got this (:",positive,0.7112,positive,0.48828125,12/11/2019
+posts,High Resolution meme. ,neutral,0.0,positive,0.16,12/11/2019
+posts,Math 1553 Curve. [deleted],neutral,0.0,neutral,0.0,12/11/2019
+posts,Shout Out to the Math 1554 Proffessors. [removed],neutral,0.0,neutral,0.0,12/11/2019
+posts,Transfer student. I'm doing Oglethorpe's 3-2 program. I honestly have no idea what to expect when I transfer since I've never heard from a student who has completed the program. Has anyone here done it? Can anyone give me some tips/some idea of what I'm in for?,positive,0.2869,positive,0.6,12/11/2019
+posts,"Finals over, full moon 12-12 @ 12-12. ",neutral,0.0,positive,0.35,12/11/2019
+posts,"Finals over, full moon 12-12 @ 12-12. ",neutral,0.0,positive,0.35,12/11/2019
+posts,"Finals over, full moon 12-12 @ 12-12. ",neutral,0.0,positive,0.35,12/11/2019
+posts,"Finals over, full moon 12-12 @ 12-12. ",neutral,0.0,positive,0.35,12/11/2019
+posts,"Finals over, full moon 12-12 @ 12-12. ",neutral,0.0,positive,0.35,12/11/2019
+posts,"Finals over, full moon 12-12 @ 12-12. ",neutral,0.0,positive,0.35,12/11/2019
+posts,"Shoutout to the Math department. Somehow, the math department graded several hundred Linear Algebra finals in 19 hours and returned everyone’s grades. It’s one of the fastest turnarounds I’ve ever seen, so kudos for getting that back so fast 🎉🎉🎉🙏🙏🙏",positive,0.6418,positive,0.06666666666666667,12/11/2019
+posts,think i might actually be depressed? rant. [removed],negative,-0.6908,neutral,0.0,12/11/2019
+posts,"Getting a spot in classes as a Transfer. I looked at the classes that I need to take to graduate for my major once I'm at tech(I have credit for humanities, english, math and etc.) but they are all full or &lt; 5 people away from being full. 
+
+
+Since this is the case and I don't see people just un-registering from classes 3 days before the semester starts (FASET on 3rd, First Day on 6th), am i just going to be forced to register for random classes unrelated to my requirements for graduation at FASET? Or did I miss some crucial info about FASET and course registration?",negative,-0.6662,neutral,0.0236111111111111,12/11/2019
+posts,CS 1331 with McDaniel - what just happened. [deleted],neutral,0.0,neutral,0.0,12/11/2019
+posts,Sad boi hours. [removed],negative,-0.4767,negative,-0.5,12/11/2019
+posts,"I needed a 1 on my last final to graduate. Title. That’s it. I’m done. I got out. You can do it boys and girls. Many were a time I thought I couldn’t. And I did. And you can too. 
+
+Kick ass and chew bubblegum fellow jackets.",negative,-0.5423,positive,0.16666666666666666,12/11/2019
+posts,"Does Jarrio curve the final for Phys 2212. Because I just got booty blasted. Went in with a mid-B, went out hoping I can still make a C.",positive,0.4215,negative,-0.3,12/11/2019
+posts,Willage drink machine says.... ,neutral,0.0,neutral,0.0,12/11/2019
+posts,"Had a rough semester, and it's taking a toll on my grades. What can I do moving forward?. I've had a really bad semester this semester due to a lot of personal problems, and my grades have suffered all semester, and my exams were even worse. I'm pre-med and on a scholarship, so I really need to keep my GPA up. As a current second-year, what can I do moving forward to try and recover from this semester?",negative,-0.9209,negative,-0.16071428571428567,12/11/2019
+posts,"Do most students keep HOPE/Zell Miller at Tech?. Sorry if this has been asked before, I searched the subreddit and couldn't find any recent answers. I was wondering, do most in-state students maintain their GPA to keep HOPE or Zell? Ik Tech is very hard, and GPAs will reflect that, but does this not end up disqualifying a lot of students from HOPE (versus maintaining at u\[sic\]ga?) Specific percentages/word of mouth/personal experience would all be appreciated",positive,0.9146,neutral,0.04583333333333333,12/11/2019
+posts,"What impresses Georgia Tech ladies?. What quality impresses the women students of Georgia Tech? Is it getting good jobs, being versed in various subjects, good character, vision and creativity? Or something else? Curious to hear what you have to say.",positive,0.9575,positive,0.32499999999999996,12/11/2019
+posts,When does registration open for Spring 2020 transfer?. [deleted],neutral,0.0,neutral,0.0,12/11/2019
+posts,My grades are impressed. ,positive,0.4767,positive,1.0,12/11/2019
+posts,"Any artists looking for a (r)community?. Ayo! For those of you interested in connecting with other artists in the area, networking, or asking questions, check out the community I made [NewArtistsAtl](https://www.reddit.com/r/NewArtistsATL/) and post your story. 
+
+You know what the day... The more we grow the more we know",positive,0.4574,positive,0.28125,12/12/2019
+posts,Is cs 1331 curved?. [removed],neutral,0.0,neutral,0.0,12/12/2019
+posts,Shout out to whoever picked me up last night.. ,neutral,0.0,neutral,0.0,12/12/2019
+posts,Can a third year use Freshmen Forgiveness? Asking for a friend. ,positive,0.6486,neutral,0.0,12/12/2019
+posts,"Hiring IT Student Assistant for Spring Semester. We have an opening for one Federal Work Study position. 
+
+No prior IT experience is needed, but a desire to learn and a customer service mindset is very important. 
+
+Send your resume to mir@gatech.edu",positive,0.6798,positive,0.26,12/12/2019
+posts,"ECE 2031 Undergrad TA application?. I just finished this class, and am wondering if I could TA for it. I found some old posts on here that say an email is sent out inviting students to apply. Can anyone confirm that from other semesters, and if so, has anyone gotten an email along those lines this semester yet?
+
+I'm thinking if I can't find info about it, I'll email my prof and ask about the process.",positive,0.3939,neutral,-0.012499999999999997,12/12/2019
+posts,Shitposts are the best way to ask a dumb question. ,positive,0.2263,positive,0.3125,12/12/2019
+posts,GA Tech Graduation Tickets Sale. [removed],neutral,0.0,neutral,0.0,12/12/2019
+posts,OOS applying for industrial design at GA tech/are stats important?. [removed],neutral,0.0,positive,0.4,12/12/2019
+posts,Free Weird Fiction Campfire Storytelling Experience from a GA Tech Student. ,positive,0.3818,neutral,-0.04999999999999999,12/12/2019
+posts,S/O to everyone who just finished the ECE 3030 exam. That was interesting.,positive,0.4019,positive,0.5,12/12/2019
+posts,What's the worst final you've ever taken? And how did you end up doing in the class?. ,negative,-0.6662,negative,-0.5,12/12/2019
+posts,"Question to current students - mental health. Tech has had a reputation for high attrition and unhappy students since long before I started there in the mid 90's.  A large portion of the issues when I was there fell under tough curriculum,  partially indifferent faculty (this varied greatly from department to department and staff person to staff person), relative lack of avenues as an outlet and workload.
+
+I started under the quarter system, which more or less forced students to get their ish together within the first week of class because the first test was typically during the 2nd or 3rd week.
+
+I read a lot on here and in random zuckerberg nyetwork posts about the mental health issues.   There wasn't a true central forum where the issues could be discussed back then (the git.\* newsgroups weren't frequented by all that many students and online social media consisted of ICQ/AIM chats).
+
+&amp;#x200B;
+
+Is the situation worse now, or does it just have a more noticeable presence?  Campus has come a long way since then, and even though Atlanta isn't the ""it"" city it was in the early to mid 90's, there are way more amenities, activities and access to a larger portion of it than the end of the last century (E3 and on the bricks concerts notwithstanding).
+
+&amp;#x200B;
+
+It seems like the food situation has taken a turn for the worse, but there were maybe 5 spots total to get food back then.  Brittain, Woodruff, Student center (food court and that restaurant on the 3rd floor) and the Athletic Association if you were an athlete (or post the NCAA ruling that they had to allow general access at least some of the time).  Everything else was a hodge podge of clubs, professional society chapter meetings or Tech sponsored events.  Atlantic station was largely a wasteland.  You guys seem to have at least some access to food trucks, door dash, uber eats, etc.   One of my roommates who stayed on campus during thanksgiving ate my tostitos for thanksgiving dinner because he had no access to a car.  I feel like he'd have had more options available nowadays.
+
+&amp;#x200B;
+
+Anyways, so what gives?   Things always look better in hindsight, but I remember the ever present stress, the guilt of not spending every waking moment studying, doing homework, or engaging in other academic pursuits to bolster my grades  or knowledge.  I also remember wishing I could just graduate and be done with tests forever every single dead week.  It definitely broke some of us mentally.  I can think of one or two dorm mates that just left campus mid-term after struggling... and hearing from others who made plans to do so after the quarter/semester was over due to personal or academic issues. 
+
+&amp;#x200B;
+
+Besides asking whether the climate has worsened, I am also asking how many of you believe that students should be able to lean hard on the administration for mental well being and therapy services.     My classmates at the time would have scoffed a bit at the idea.... thinking it akin to asking your abuser to offer therapy for the abuse that they themselves were administering.   No, petting a dog for a few minutes isn't going to give respite from lab reports, coding assignments or a series of major tests....  but I'm not sure what else the administration could really offer?   The odds that they are going to lighten the academic load, ask professors to be more circumspect about the quality of instruction and make campus an easier place to thrive with less energy &amp; effort from the undergrads across the board seems preeeetty far fetched.
+
+&amp;#x200B;
+
+It seems like a semester away or a co-op/internship would be a more effective fix than anything Tech could practially offer.
+
+&amp;#x200B;
+
+Thoughts?",negative,-0.9477,neutral,0.04975918677973473,12/12/2019
+posts,"Looking for interdisciplinary design capstone teams for next semester. Hello, I'm an EE looking for a capstone team to work with next semester. 
+
+I have experience building electronics products with a specialty in systems design (circuit design, PCBs, testing, etc), analog, and radios. I am also quite good with (high level) programming, like web backend, systems programming, etc.
+
+I'm looking for a cool ME/BME project that requires significant EE engineering (so nothing like connect sensor to arduino and keep the wire tidy). I want to build something cool and technically challenging since senior design is pretty much the only thing I'm taking next semester. 
+
+I also have experience working with Solidworks. I am probably not good as you if you're an ME, but I at least know how to make a simple model to make sure it fits with the rest of your system.
+
+Please PM me or leave a comment if you are interested in me in your project, or if you're interested in building something with me. I'm currently hooked on making a radar system for senior design, whatever the actual context may be.",positive,0.9707,positive,0.18261904761904763,12/12/2019
+posts,"Graduation Nintendo Switch Policy. Hey everyone, I was looking through the email they sent out about commencement to figure out some of the stuff that could be brought to graduation, but I didn’t see whether or not I could bring a handheld video game. I read through the clear bag policy for McCamish and I didn’t see it as a prohibited item, but I just wanted to make sure before bringing my Switch. Thanks!
+
+TLDR: I want to bring my Switch to graduation. Can I?",positive,0.8988,positive,0.1125,12/12/2019
+posts,"Grade substitution worse grade?. So I got a D in a certain class last semester, and I retook it intending to use grade substitution, but if I were to get an F or D when retaking the class- how does that work?
+Will only my original grade be counted towards my gpa?",positive,0.4805,neutral,0.03785714285714285,12/12/2019
+posts,MATH 2551 final was so rough. Or is it just me?,neutral,0.0,negative,-0.05,12/12/2019
+posts,"If you’re in town with nothing to do, come support the Jackets in the Women’s Volleyball Semifinal this Saturday at 7pm in O’Keefe. ",positive,0.4019,neutral,0.0,12/12/2019
+posts,"Recommendation letter?. I am working on my GA tech application. I know counselor and teacher recommendation are not required, but would it improve my application a lot? Or should I just leave it out if I think it will not do a lot?",positive,0.6237,neutral,0.0,12/12/2019
+posts,Really concerned about passing a class... [deleted],neutral,0.0,positive,0.2,12/12/2019
+posts,"Madalein, you left your buzzcard on the CRC hallway. [removed]",neutral,0.0,neutral,0.0,12/12/2019
+posts,"And with that, the last final of Fall 2019 is over. Congrats everybody, you did it! Take care this winter break. ",positive,0.784,neutral,0.0,12/12/2019
+posts,In urgent need of grad cap!. [deleted],positive,0.2714,neutral,0.0,12/12/2019
+posts,Looking for a miracle- Graduation tickets 12/14 will pay. [removed],positive,0.5267,neutral,0.0,12/12/2019
+posts,"Tax time coming up: Important things to remember. As an American citizen, I love paying taxes, but as a person who requires money, I love tax refunds even more. Here's some quick reminders for college students:
+
+1. If you receive a W-2, you SHOULD fill out a tax form. Generally go to Turbotax or H&amp;R Block online unless you have a very special situation
+2. If you worked in multiple states, you must pay taxes based on where you worked. In RARE occasions, you may also have to pay taxes based on where you lived.
+3. You may only claim yourself as a dependent if no one else can. Figure this out with your parents.
+4. If you are an immigrant and by some miracle (praise God) got a job in the US, you must pay US taxes.
+5. Room and Board are generally not eligible for deductions and credits like Tuition and Fees.
+6. The American Opportunity Tax Credit is a Godsend. Claim it if you can, and make sure you are eligible. It goes up to 2500 dollars in tax credits.
+7. You can only receive the American Opportunity Tax Credit for four years of post-high school. It is a credit not a deduction meaning that it reduces tax burden, not taxable income.
+8. As a Graduate student, you may be eligible for the Lifetime Opportunity Tax Credit. If you started Grad school in the fall of your fourth year, you may still be eligible for the American Opportunity Tax Credit. The American Opportunity Tax Credit can provide a refund of up to 1000 in some circumstances and is usually the better bet if you can take it if you don't earn much income.
+9. Keep your T1098. Forward to your parents if necessary.
+10. Keep track of unreimbursed Medical expenses and be sure to deduct them if they are eligible.
+11. Fellowships are income if they surpass eligible expenses. Make sure to keep tabs on Fellowships earned and have enough to potentially pay taxes on them.
+12. You may be required to fill out a paper form for special tax purposes (Like working in multiple states.)
+13. The American Opportunity Tax credit cannot be used for expenses not required by the institute, but the Lifetime Opportunity Tax Credit can. Keep track of books you buy even if not for school.
+14. Georgia Tech REQUIRES a computer as a condition of enrollment according to the student handbook. This means that a computer does qualify as an expense for the purposes of the American Opportunity Tax Credit as the university require it.
+15. If you worked as a waitress, waiter, or contractor, your tips or payments ARE income and you may have to pay taxes based on what you earned. You likely won't get a refund in this situation and may end up owing.
+16. If you have any investments or a interest bearing money market or sweep accounts, you may be required to pay taxes on capital gains or dividends regardless of whether you took money out. In the future, consider a Roth IRA.
+17. Cryptocurrency gains are taxable. Consult Turbotax for more on this one and as always HODL.
+18. It's better to hire an accountant than to go to jail. Be especially cognizant if you started a small business this year.
+19. Being married changes the tax rules, keep this in mind if you got married (Congrats!)
+20. If your employer is paying for part of your tuition, this will decrease eligibility for credits.
+21. If you are an older student with a low income and fit certain rules, you may be eligible for the earned income tax credit. Ask Turbotax.
+22. I think that's it. Correct me or ask questions if you have them.
+23. THwG and congrats on finals. Thanks for reading.
+
+Disclaimer:  I do not provide tax, legal or accounting advice. This material has been prepared for informational purposes only, and is not intended to provide, and should not be relied on for, tax, legal or accounting advice. You should consult your own tax, legal and accounting advisors before engaging in any transaction. Go elsewhere than reddit for this...
+
+Edit: changed must fill out tax return to should fill out tax return",positive,0.9992,positive,0.1754464285714286,12/12/2019
+posts,"does the GT library have physical books?. Beyond the small set of shelves by the elevator, can you request physical books online, or is everything digital now?",positive,0.4927,negative,-0.0625,12/13/2019
+posts,Is it too late to drop a class?. ,negative,-0.2732,negative,-0.3,12/13/2019
+posts,"Does Tech REALLY have nice curves?. So like, is the curve applied after or before everything is put in canvas? I need 1.5 points for my C to turn into a B and this is my first semester here so I’m curious as to how curving really works at the Georgian Technical State College.",positive,0.8593,positive,0.19166666666666668,12/13/2019
+posts,"FB page for carpool matching. Is there a Facebook page for GT students (or employees I guess) to meet each other to carpool to campus, or to other places, say Athens for football or trips on break? I know GT Thrift Shop is great for people to sell stuff to each other but I wonder why there isn't one for sharing rides.",positive,0.3367,positive,0.10625000000000001,12/13/2019
+posts,Happy Holidays from GTPD!. ,positive,0.7644,positive,1.0,12/13/2019
+posts,Watch out! GT Dining page has been hijacked. ,positive,0.481,neutral,0.0,12/13/2019
+posts,My Favorite one. [deleted],positive,0.4588,positive,0.5,12/13/2019
+posts,Retaking prereq as coreq?. [removed],neutral,0.0,neutral,0.0,12/13/2019
+posts,Packages during Christmas Break. [deleted],neutral,0.0,neutral,0.0,12/13/2019
+posts,"Ethernet Problems. Anyone else been having ethernet problems over the last couple of days where it randomly drops and takes a minute to reconnect? I was procrastinating studying for finals, but all my games of OW kept DCing. Zbar btw",negative,-0.4019,negative,-0.25,12/13/2019
+posts,"Now that the semester is over.... Everyone please remember to leave reviews on ratemyprofessors.com. Especially for the new professors who have small class sizes and nobody knows much about them. It helps out for spring registration A LOT!
+
+Edit: Im talking about ratemyprofessor.com",positive,0.6114,neutral,0.03409090909090909,12/13/2019
+posts,CS 1171 no longer offered?. Is CS 1171 not being offered anymore? I've been hearing about this from some of my friends. I'm Modsim and I was planning on taking it next year. The Three Year outline still says its being offered though.,positive,0.3094,neutral,0.0,12/13/2019
+posts,"Russian LBAT. Has anyone here done this program? If so, how would you rate the experience especially living with a host family? Thank u love u and proud of u for making it thru this semester!",positive,0.8873,positive,0.375,12/13/2019
+posts,Exchange in Limerick. Has anyone on here been on the exchange program to Limerick?,neutral,0.0,neutral,0.0,12/13/2019
+posts,OIT be like:. ,neutral,0.0,neutral,0.0,12/13/2019
+posts,Tovey or not Tovey: Struggling ISyE student needs advice. [removed],positive,0.3252,neutral,0.0,12/13/2019
+posts,Tovey or not Tovey: Struggling ISyE student needs advice. [deleted],positive,0.3252,neutral,0.0,12/13/2019
+posts,Investment Committee?. Anyone here a member or know when info meeting are for the investment committee? I tried to find info online but I didn't see anything.,neutral,0.0,neutral,0.0,12/13/2019
+posts,Are there test corrections for finals?. [removed],neutral,0.0,neutral,0.0,12/13/2019
+posts,Any one know GT Dining hours for the break?. [deleted],positive,0.4278,neutral,0.0,12/13/2019
+posts,"Class schedule next semester. Next semester I am taking 17 credit hours :
+
+CS 1371
+Phys 2211 
+Math 1553
+Chem 1310
+Engl 1102
+
+Are these classes gonna be too difficult of a workload? (I have already taken classes very similar to 1553, 2211, and 1371 but my credits did not transfer over)",positive,0.5106,negative,-0.125,12/13/2019
+posts,Dual Degree + Co-op ???. [removed],neutral,0.0,neutral,0.0,12/14/2019
+posts,WAKE UP ITS GRAD DAY. I'm getting out!?!,neutral,0.0,neutral,0.0,12/14/2019
+posts,Lost my commencement tickets. [deleted],negative,-0.3182,neutral,0.0,12/14/2019
+posts,Sitting in graduation and my sister (who applied to gech) wants to know who buzz is. ,neutral,0.0,positive,0.2,12/14/2019
+posts,"People also sitting at the commencement, post memes here. ",neutral,0.0,neutral,0.0,12/14/2019
+posts,MY Favourite one. [deleted],neutral,0.0,neutral,0.0,12/14/2019
+posts,"Bachelor Ceremony Speaker. He sounds drunk to me? He’s mumbling, slurring his words, struggling, etc. Anyone else at the ceremony rn hearing what I’m hearing?",negative,-0.6767,negative,-0.5,12/14/2019
+posts,Paint peeled off from command strips- what should I do?. ,neutral,0.0,neutral,0.0,12/14/2019
+posts,"A final little fuck you from Georgia Tech. I don't know why they're going bother getting you to phonetically spell out and sound out your name if they're going to fuck it up anyways. Good luck everyone, hope Georgia Tech didn't it all out of you before you could leave.",negative,-0.0552,neutral,0.01874999999999999,12/14/2019
+posts,Congrats on finishing the semester y’all!!. ,positive,0.6103,neutral,0.0,12/14/2019
+posts,"What's the course code of the bridge class for CS transfers?. I've taken MATH 1553, but I know that 1554 is the required linear algebra for CS majors. I've been googling, and I haven't been able to find any information about what course I need to take to get credit for 1554. Anyone know the course code?
+
+And if you've taken the course, how was it compared to 1553? What should I expect going into it. 
+
+Thanks for any response ahead of time, and enjoy your break :)",positive,0.9523,positive,0.4,12/14/2019
+posts,Any computer science majors at tech who want to make some money helping me out private message me!. [deleted],positive,0.4199,neutral,0.0,12/14/2019
+posts,"Class of Fall 2019 double major stats. I always tell freshmen that double-majoring is rare and often not a good use of time. Now I have data to back that up - at graduation I noted how many double majors there were as well as the majors chosen.
+
+Out of ~1500 BS graduates, there were 14 students who double majored - just under 1%. The majors chosen were:
+
+* CS/ISyE (x2)
+* CS/Math
+* CS/AE
+* CS/Public Policy
+* Business/International Affairs
+* Math/Econ
+* BME/Neuroscience
+* ISyE/Econ
+* AE/Math
+* CompE/ChemE (good god who are you??)
+* EE/Music Tech
+* EE/CS
+* ME/CS",positive,0.2856,positive,0.13472222222222222,12/14/2019
+posts,Vehicle Fire on Ferst Drive in front of the CRC. Ferst Drive closed to traffic flow in both directions. Atlanta Fire Department enroute. ,negative,-0.5859,negative,-0.1,12/14/2019
+posts,"[RHA Res Adv #1] Housing Maintenance Request System Feedback Update. Hello residents of r/gatech!
+
+About a month ago, we asked for your assistance in telling us about your experiences with the Housing Maintenance Request System. On December 9th, your responses were compiled into a report that was sent up to Senior Director of Facilities to review. We are proud to announce that RHA and the Department of Housing and Residence Life are working together to improve the Maintenance Request System for future use.
+
+If you would like to read the detailed report, it can be found using the link found [here](https://drive.google.com/file/d/17ilbnjh9_DuDR-AycU9wPUlsRIpVH_sV/view). Because we as an organization value your data, we cannot disclose any of the supplementary materials that include any identifiable information of an individual.
+
+We as an organization are always open to resident feedback, and take action to the feedback we receive. If you would like to give our organization valuable feedback, feel free to fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_0OjwA6v3Ad1RjBH). Enjoy your winter recess!
+
+\-- Jordan Baxter, RHA Director of External Relations",positive,0.9705,positive,0.23000000000000004,12/14/2019
+posts,"The 2004 Humanitarian Bowl (Georgia Tech vs. Tulsa): The largest weight disparity between school mascots. At first glance, the [2004 Humanitarian Bowl](https://www.espn.com/college-football/recap?gameId=240030202), a relatively obscure bowl game in Boise, was a fairly uninteresting, lopsided game between two wholly average programs. The Yellow Jackets took an early lead in the first quarter and enjoyed a 10-3 lead at halftime; the second half was a perfect storm of explosive offense and unforgiving defense in which Tech scored 42 points while only allowing the Golden Hurricane a single touchdown. Tech stymied Tulsa's run game, holding them to -56 (*yes, that's a negative*) yards--Tulsa's worst-ever rushing performance in the 125-year history of their football program. 
+
+This matchup was the most recent of the [three](http://www.winsipedia.com/tulsa/vs/georgia-tech) between the two storied institutions (the previous two occurred in 1944 and 1945, with a Tech and Tulsa win, respectively). These programs have only met at bowl games and have no particular bad blood between one another off the field; however, these three games were the only occasion in which the **heaviest mascot in FBS football (the Golden Hurricane) competed against the lightest (the Yellow Jacket**).
+
+An [SBNation video](https://www.youtube.com/watch?v=obtRtrk42a8) places the weight of a single yellow jacket at 0.0001 lbs and (perhaps very unscientifically) estimates the weight of an entire hurricane made of gold to be 1,182,000,000,000 lbs. This mascot weight differential of 1,181,999,999,999.9999 pounds is the largest that has and will ever occur in an FBS football game until a university with a lighter or heavier mascot joins the division or until an existing school adopts a new, unconventional mascot. 
+
+I don't know when Georgia Tech will play Tulsa again. Perhaps there will be another 65-year hiatus. But I hope not. Personally, I would love to cheer on our tiny mascot against its behemoth counterparts and will be watching intently next time Tech's and Tulsa's paths cross.",positive,0.8384,positive,0.06492475778190063,12/14/2019
+posts,"Day Break background, saw something familiar!. ",neutral,0.0,positive,0.46875,12/15/2019
+posts,"GT undergraduate applicant query. Dear Yellow Jackets,
+
+Congrats on the finish of the finals. Merry Christmas and happy break.
+
+Need advice for two of my ""potential freshman"" friends
+
+Background
+
+Both of them have visited GT and love the ambiance and students body. Both of them have excellent standardized testing  scores, will be their class's valedictorian or salutatorian, have decent ECs and both of them are OOS (full fees).
+
+Candidate A
+
+Wants to definitely become a Doctor so Med school it is. He is super keen to come to GT but parents and friends are warning about grade deflation and high pressure at GT. The general advice given to him is to land up at one of the smaller Ivys, relatively chill, collect the 4.0/4.0 and move on to Med school. So the question is whether Med schools/Grad schools recognize that GT is much more harder than your typical Ivy in terms of grade deflation and rigor of curriculum. Other things being equal(hard work motivation etc.), Will a say 3.6 at GT be ranked superior than say a 3.9 from Brown. 
+
+Please, the aim is not to disparage GT or Ivys but realistically figure out the trade offs. ( [https://www.washingtonpost.com/news/answer-sheet/wp/2013/12/20/why-grade-inflation-even-at-harvard-is-a-big-problem/](https://www.washingtonpost.com/news/answer-sheet/wp/2013/12/20/why-grade-inflation-even-at-harvard-is-a-big-problem/)  or   [https://www.studentsreview.com/viewprofile.php3?k=1230783522&amp;u=331](https://www.studentsreview.com/viewprofile.php3?k=1230783522&amp;u=331) ).  
+
+&amp;#x200B;
+
+Candidate B 
+
+Is super keen to  join GT. She is from Florida, has a number of relatives and friends in Georgia. She has allergy issues in minus zero weather (realizes that she will be miserable in cold weather Ivys) and loves hot and humid Hotlanta. Candidate has \~&gt; 75% percentile credentials.  Off-late GT has started deferring over qualified candidates in order to yield protect. Early application is already done. Candidate B wants your advice on what to do from now till Jan 18 (results date) to tell the admissions team that she is super keen and will definitely join if given a chance (please please), please don't deffer or reject thinking that the candidate will go off to Ivys instead of coming to GT.
+
+Thank you",positive,0.9987,positive,0.13875000000000004,12/15/2019
+posts,Does the post office keep your mail when you study abroad?. Will they keep mail (not packages) for the semester or do I need to ask them to forward it?,neutral,0.0,neutral,0.0,12/15/2019
+posts,Impressive game. [removed],positive,0.5106,positive,0.3,12/15/2019
+posts,Bad Grade in Distance Math. [deleted],negative,-0.5423,negative,-0.6999999999999998,12/15/2019
+posts,"GT Kaplan Center. Has anyone ever taken any prep classes at the GT Kaplan Center? Specifically inquiring about MCAT classes, but I'm interested in hearing any experiences with the center.",positive,0.7494,neutral,-0.012500000000000004,12/15/2019
+posts,CS People and Media 6000 level classes. [removed],neutral,0.0,neutral,0.0,12/15/2019
+posts,"Co-op Questions. Hey......I will be applying to Gtech for CS in fall 2020 and was wondering if there was any additional documentation I'd have to fill for the Co-op or is that option open to everybody who is accepted to the school. Additionally, I would apply as an international student and was wondering if the co-op terms would be counted against my 3-year optional practical training (OPT) or just be considered as an internship. thanks in advance!",positive,0.6476,positive,0.08333333333333333,12/15/2019
+posts,$400 +utilities Furnished room for rent. [removed],neutral,0.0,neutral,0.0,12/15/2019
+posts,"Fall 2019 Grades. Is there a way to view letter grades on BuzzPort as the professors input the final grades, or do you legitimately have to wait until Tuesday at 6PM to find out your letter grade in any class? (Professors aren't updating grades in Canvas for me).",neutral,0.0,neutral,0.0,12/15/2019
+posts,CS 1331 Final Exam. Anyone know why they took the final down off canvas? They had it graded for me but then took it down. It's been down for a few days now. Hopefully it's some sort of error or a curve.,negative,-0.1128,negative,-0.11111111111111112,12/15/2019
+posts,How does Tech compare applicants from different high schools?. [removed],neutral,0.0,positive,0.08,12/15/2019
+posts,Math 1551 Liu final grades - are they curved or not?. [deleted],neutral,0.0,neutral,0.0,12/15/2019
+posts,CS 1331 Recitation Class. [removed],neutral,0.0,neutral,0.0,12/15/2019
+posts,1551 final grades for Yingjie. Anyone know if the score in canvas is curved or not curved? Thanks.,negative,-0.3412,positive,0.1,12/15/2019
+posts,"I'm about to be dismissed from GT and I don't know what to think or do with myself.. I failed two classes this semester again, and my cum and semester GPA will both be under 2, which means I will be dismissed for one semester.
+
+All I feel is shame and despair.
+
+Edit: First of all, thank you so much for all your advice and support. I emailed one of my professors last night asking whether there was anything he could do, and he responded that I had a D in his class, which means I will be able to stay here. I'm not sure how the math works out, but I'm not going to question it. Again, thanks to all of you 🧡",positive,0.4652,positive,0.05714285714285715,12/15/2019
+posts,Fox on West campus. Walking past zbar I saw a tiny fox. It was cute but please do not approach. Last year we had foxes with rabies attack students. Be warned.,negative,-0.431,positive,0.0625,12/15/2019
+posts,#FuckFall #SpringSucks #SummerStupid. ,neutral,0.0,neutral,0.0,12/16/2019
+posts,"How did the balloon release work at the graduation ceremony?. I saw from the graduation videos that the balloons were released from a long string thats hung up in McCamish, but does anyone know how this process works? Like there were still some balloons left hanging on that string after the release, so they probably did not just cut/revoke the string for the release.",positive,0.5588,neutral,-0.025,12/16/2019
+posts,Alright which one of you nerds was it?. ,positive,0.25,neutral,0.0,12/16/2019
+posts,Student Health Insurance - Is this price correct?. ,neutral,0.0,neutral,0.0,12/16/2019
+posts,"An open letter to the Georgia Tech Marching Band. Dear friends:  
+
+As you know, this was my last season with the Yellow Jacket Marching Band.  But as I leave, here are some final remarks for the rest of y'all.
+
+This season definitely was not the most ideal on many fronts.  Losing the right to play chords for a good portion of the home schedule.  Losing to an FCS school.  More frustrating losses.  And of course, the band's ongoing struggle with marketing.  But despite that, y'all still did a great job this season!  Y'all brought the energy every game from kickoff to the last whistle regardless of the score.  You supported the team through thick and thin with passion, honor, grace, and valor.  And you performed a kick-ass halftime show that paid tribute to the music of this great city!  And through it all, I was proud to serve alongside you one last time!
+
+Which is why I implore you: never let that spirit die!  This season's team was young and scrappy, but raw and unrefined.  And despite the talent on the roster there was a lot of unrefined, raw, and at times undisciplined football.  But there was also a team that kept fighting and never gave in regardless of the score.  To me, what I saw was a team that had bought into Geoff Collins's effort-based culture: the first step in a deep rebuild.  And it is my belief that eventually that effort and grit and tenacity is going to translate into winning seasons.  Perhaps sooner than anyone anticipates.
+
+That aside, there is one critical reason you cannot let that spirit die.  Together, the Georgia Tech Band, Goldrush, Color Guard, and Cheer, represent the loudest, proudest, and most passionate group in the entire Georgia Tech fanbase.  You are at the front lines of cheering for this team and you have to shoulder that responsibility every game.  Whether that's on the field, in the stands, or outside the stadium before games, you have one responsibility on game days: to lead and to set the example.
+May that be your cry.  And may you all do it together as a family week in and week out.
+Empower those men on the football team to do what they came here to do.  And that wasn't to play around.  It was to take care of business.  And fight.  And win!
+
+WE GONNA FIGHT
+TILL WE CAN'T FIGHT NO MORE!!
+GONNA LIE DOWN AND BLEED AWHILE,
+THEN WE GONNA GET UP AND FIGHT SOME MORE!!!
+
+Turn the Yellow Jackets loose next season!!!
+
+With love from a freshly graduated member",positive,0.9814,positive,0.1637532069451712,12/16/2019
+posts,Caitlin Leverson Math 2106 opinions?. [removed],neutral,0.0,neutral,0.0,12/16/2019
+posts,Grades?. [deleted],neutral,0.0,neutral,0.0,12/16/2019
+posts,MY Favourite one. ,neutral,0.0,neutral,0.0,12/16/2019
+posts,Math 2551 with Y Liu. [deleted],neutral,0.0,neutral,0.0,12/16/2019
+posts,"Can I get a few Fs in the comments. Made low 89s in three classes that sorta brought my gpa down
+
+Edit - yup, they’re all Bs",negative,-0.2732,negative,-0.11851851851851854,12/16/2019
+posts,GRADES POSTED. [removed],neutral,0.0,neutral,0.0,12/16/2019
+posts,1331 Final grade. I didn't get a chance to see my grade when they released them by accident a few days ago and then took them down and I'm incredibly anxious to see my score on the final (I have McDaniels). My grade is not on Canvas rn. Does anyone have any information on when they will become available? Or will they only come out at 6pm Tuesday and no earlier?,negative,-0.8268,neutral,-0.02569444444444445,12/16/2019
+posts,"Getting a job in Atlanta. Hi guys, 
+
+First of all, congrats on finishing up this semester!
+
+Long story short, I failed all the interviews for the positions with Atlanta firms/ offices of big firms in Atlanta. Now I have only one onsite interview on hand which is out-of-state. I really need to get a job in Atlanta since I just got married and my spouse has a good job here.
+
+I don’t know if it’s just me but I do have difficulty in getting jobs here. Will defend my thesis and graduate in spring so now I am really worried. Can anyone give me some tips about how to get a job in Atlanta? 
+
+My background is more on statistics and finance, and I minored in computer science. 
+I have internship experiences with local healthcare firms. Any guidance will be appreciated.
+
+Thank you in advance.",positive,0.6958,positive,0.13942307692307693,12/16/2019
+posts,Grades are up. [deleted],neutral,0.0,neutral,0.0,12/16/2019
+posts,"Grades are starting to come up on unofficial. 1 grade up as of now!
+
+Update: 3/6 up
+
+Update: 4/6 up
+
+Update: 6/6 up and looking good bois. Good job to all those that got the gpa they wanted and if you didn’t, all hope isn’t lost. Tech is a rough one and every semester done is a semester closer to the bag💰 Go jackets!",positive,0.7896,positive,0.31875,12/16/2019
+posts,Obligatory Grades Have Started to Be Posted Post. ,neutral,0.0,neutral,0.0,12/16/2019
+posts,"Why do profs screw us over. Can someone explain why profs post unofficial transcript grades without posting ANYTHING on canvas no final exam no final grade like there’s no way we can even contest our grades or talk to them about it or even KNOW what we did wrong we just see a lower letter grade than we expected and are like hmm guess I gotta just deal with it lemme just sleep for the next 24 hours maybe it’ll be a good grade then
+
+Thanks for reading my rant ✌🏽",negative,-0.4404,neutral,0.04285714285714286,12/16/2019
+posts,Can I round my 1.79 GPA to 3.7 on my resume?. Looking at my unofficial grades got me like,positive,0.3612,negative,-0.2,12/16/2019
+posts,Dining Dollars. [removed],neutral,0.0,neutral,0.0,12/16/2019
+posts,ECE 3xxx/4xxx Electives Passing Grade. [removed],neutral,0.0,neutral,0.0,12/16/2019
+posts,If final grades get posted before the scores are released on canvas where do the stories of professors bumping grades come from?. [deleted],neutral,0.0,neutral,0.0,12/16/2019
+posts,"Positions Available for Summer Internship at GTRI. Still looking for a summer internship? Consider the Undergraduate Research Internship Program (URIP) at GTRI! In case you don’t know, GTRI is the non-profit applied research division of Georgia Tech and has 8 research labs that span a variety of disciplines. GTRI is conveniently located on campus (minus the Cobb County Research Facility in Smyrna) and hires many Tech students every year. The URIP is a 10 week summer internship, where students work 40 hours a week and get paid upwards of $20 an hour to work on a project outlined by a GTRI Researcher.  
+
+You can apply to as many projects as you want at [https://urip.gtri.gatech.edu](https://urip.gtri.gatech.edu) by the deadline of January 17th, and update your project preferences by January 28th, then offer letters go out February 3rd-7th for students that have been chosen. You can see all of the projects as well as some FAQs and the timeline at the link above. I was also an intern this past summer, and I still work there part-time now, so I’m able to answer any questions you may have about GTRI or the URIP specifically. 
+
+Happy internship hunting!",positive,0.7707,positive,0.33125,12/16/2019
+posts,MATH1553. [removed],neutral,0.0,neutral,0.0,12/16/2019
+posts,"Job application timing. I'm a 5th year CS major, going to graduate next December (exactly one year from now). When should I start applying for full time jobs? I'm thinking somewhere around late March/early April, but would love to get insight from other folks. Also, there's a start up that I'd really like to work at, but I'm not sure if sending in an application right now when I'm still a year away from graduating would be the right move or even considered by them. Thoughts?",positive,0.8558,positive,0.11444805194805195,12/16/2019
+posts,Unofficial Transcript Grades. Are grades on the unofficial transcript final and set in stone?,neutral,0.0,neutral,0.0,12/16/2019
+posts,Is Boussert really that bad?. [deleted],neutral,0.0,negative,-0.24999999999999992,12/16/2019
+posts,Admission. [deleted],neutral,0.0,neutral,0.0,12/16/2019
+posts,Easy 2 hour elective?. [removed],positive,0.4404,positive,0.43333333333333335,12/16/2019
+posts,Graduation Anxiety. [removed],negative,-0.1779,neutral,0.0,12/16/2019
+posts,2110 and 3600. [removed],neutral,0.0,neutral,0.0,12/16/2019
+posts,Cancelling a Class with very Little People In It. I am registered for COE 3001 with Kardomateas right now but it only has 14 students in it. There are 41 empty seats. Is there a chance this class will be cancelled due to not enough people in it?,negative,-0.3818,neutral,-0.030505952380952387,12/16/2019
+posts,Do Pass/Fail classes affect Zell/HOPE GPA?. [removed],neutral,0.0,neutral,0.0,12/16/2019
+posts,"Makerspace in Atlanta. Hey, 
+
+is The Hive really closed over winter break? If so, can anyone recommend some sort of makerspace in Atlanta? I basically need some electronics equipment (multimeter, soldering iron, solder, desoldering pump and wick, wires, shrinking tube, ...). Thanks in advance!",positive,0.7442,positive,0.075,12/16/2019
+posts,Can I walk in spring graduation but actually graduate in fall?. [removed],neutral,0.0,neutral,0.0,12/17/2019
+posts,How should I feel about my first semester GPA?. [deleted],neutral,0.0,positive,0.25,12/17/2019
+posts,"Georgia Tech’s 100,000th Living Engineering Graduate. ",neutral,0.0,neutral,0.0,12/17/2019
+posts,Buzzport Down?. [removed],neutral,0.0,negative,-0.15555555555555559,12/17/2019
+posts,This is Buzz. ,neutral,0.0,neutral,0.0,12/17/2019
+posts,"Should I sign back on with United Healthcare?. I'm graduating summer of 2020 but during the summer semester (early may to late July) I'll be finishing some last courses abroad to complete out a minor (finishing my major credit hours this spring). The thing is, the summer program I'm planning to do already includes international health insurance coverage so would it be a lot smarter to just search for a four/five month plan on the marketplace for the Spring only and save quite a bit of extra money? Instead of paying for the Spring/Summer semester combo AND paying for another plan (international coverage). I'm currently on the Fall plan with UHC.
+
+Also If I did decide to buy a plan on marketplace would I have to have the school's health plan fee waived? I'm sure I would have to provide proof of coverage so I don't have that fee tacked on my bursar page",positive,0.9523,neutral,0.031730769230769236,12/17/2019
+posts,"Research next semester. So I forgot to apply to a VIP for research next semester (I was going to before finals but I'm taking ME 2110 so I was hesitating). Then finals hit then jetlag then the 13th of December hit and I'm out of time.
+
+I don't care about the credit hours, I'm doing a minor so I don't need them. I just am looking to do research to figure out what I'm interested in. Any suggestions about what I can do to find some research in which I can CAD/3D print, or other useful mechanical engineering skills?
+
+Any advice is appreciated, thank you!",positive,0.9576,positive,0.078125,12/17/2019
+posts,Is the website down now?. The registrar website is not loading for me so I checked the OIT status page and that is not loading either. Is anyone else experiencing a similar issue?,neutral,0.0,negative,-0.07777777777777779,12/17/2019
+posts,This might explain the website outages.... [deleted],neutral,0.0,neutral,0.0,12/17/2019
+posts,HIN 1001. [removed],neutral,0.0,neutral,0.0,12/17/2019
+posts,"Buzzport completely unusable on mobile?. Over the past 4 years, I’ve come to accept the ridiculous design and implementation of Buzzport.
+
+
+But recently, I’ve been having some serious problems with unstable links and hang ups during transition pages. The desktop experience is unreliable at best, but mobile access in particular seems to hang up 100% of the time when heading over to the student info or registration pages (https://imgur.com/gallery/KLS60Mv). 
+
+Is anybody else experiencing the same thing? If so, do you know of any other workarounds other than “access from your computer and pray to the RNG lords?”
+
+Edit: I am aware that Georgia Tech is suffering from networking issues right now, but this seems to happen even outside of “heavy traffic” moments (registration, final grade releases, etc.)",negative,-0.4836,neutral,0.029047619047619044,12/17/2019
+posts,Looking at grades after graduation and realizing that you need to retake that class. ,neutral,0.0,neutral,0.0,12/17/2019
+posts,Music producing software recommendations. [removed],neutral,0.0,neutral,0.0,12/17/2019
+posts,Is the identity of buzz a secret?. [removed],neutral,0.0,negative,-0.4,12/17/2019
+posts,Lost my id on campus. My name is A***** L*****. If you find it I would appreciate you giving it back so much.. [removed],positive,0.4215,positive,0.1,12/17/2019
+posts,"Ecuador LBAT. To anyone who’s done the Ecuador LBAT, what was that experience like for you? What were some of the highlights??? Thanks in advance!",positive,0.7685,positive,0.25,12/17/2019
+posts,Professor Advice. [removed],neutral,0.0,neutral,0.0,12/17/2019
+posts,GT Volleyball defeats South Dakota 3-0 to win the 2019 Women's NIVC. ,positive,0.6523,positive,0.8,12/17/2019
+posts,The women's volleyball team has won the NIVC championship!. Go jackets!,positive,0.6467,neutral,0.0,12/17/2019
+posts,"Academic dismissal and retroactive withdrawal. Does anyone have any experience with applying for readmission after an academic dismissal? I was on warning this past semester and have been dealing with depression and ended up failing and receiving an academic dismissal. 
+
+Since I'm in CS, it looks like it would be 2 semesters before I can apply to return to classes. 
+
+I saw some posts on here discussing retroactive withdrawal of a semester and was wondering if I could successfully complete the withdrawal I may be able to attend summer semester?",negative,-0.5803,positive,0.05833333333333333,12/17/2019
+posts,Caught Someone Cheating. [deleted],negative,-0.5574,neutral,0.0,12/17/2019
+posts,Class Schedule. [removed],neutral,0.0,neutral,0.0,12/17/2019
+posts,"How do I confirm that I graduated ?. I graduate this December. Does Buzzport get updated ? When I go to the ""generate degree verification page"", it says No Degree Found. But Degreeworks shows all green ticks on the requirements of my major.
+
+
+Tech still giving me stress after I (hopefully) graduated smh.",negative,-0.6715,negative,-0.06875,12/18/2019
+posts,After Jeff Sims what’s our 4-star count for the 2020 recruiting class?. ,neutral,0.0,neutral,0.0,12/18/2019
+posts,"Merry Christmas from Nano! We hope you are enjoying your break. If you Facebook, please share the fundraiser on my FB page. Nano’s human sister has been diagnosed with metastatic melanoma (incurable cancer). Thank you &amp; see you in the Spring w/Nano &amp; more cupcakes! Marla Laminack 🎄. ",positive,0.9467,positive,0.15625,12/18/2019
+posts,Coursera ME 3340?. [deleted],neutral,0.0,neutral,0.0,12/18/2019
+posts,"Transfer application help. I’m asking this for a friend but he is looking to apply to tech as a computer science major. He has everything for the requirements completed, except the lab science electives. He has physics I and physics I lab from uga but for the second class he took physics 1252 which doesn’t have a dedicated lab section which doesn’t fulfill the lab science requirement. Would he still have a chance of getting in if he still applied without this requirement? Or would he be instantly denied?",positive,0.8693,neutral,0.020833333333333332,12/18/2019
+posts,"oscar still down?. are oscar time outs still happening for everyone?
+
+OIT status says its fixed but nothing has changed for me",neutral,0.0,neutral,-0.02777777777777779,12/18/2019
+posts,"New Grad student looking for current research. Hey guys I'm an incoming MS grad student Mech Engr. I've been reviewing all possible websites for research centers to see what ongoing projects are active however some are not up to date. 
+
+For example, the \[IMDL\]( [http://www.imdl.gatech.edu/](http://www.imdl.gatech.edu/) ) site hasn't been updated since 2012-2013. Where can I find what going on? Or should I just wait until I start the Spring 2020 semester?",positive,0.4696,neutral,0.0007575757575757555,12/18/2019
+posts,on campus support groups for students with chronic health conditions?. [deleted],positive,0.4019,neutral,0.0,12/18/2019
+posts,"Who here likes Kero Kero Bonito?!. I haven't met another person here at Tech that seems to love Kero Kero Bonito and similar music as much as I! If you know any clubs or places where people like music let me know, I'm a first year who hasn't explored organizations on campus enough. I'm thinking of getting involved in WREK, too.
+I would love to meet some new people for the next semester. Message me if you're interested in meeting up and I'll tell you more about myself. People who like KKB are statistically more interesting and engaging people. Personally, I'm pretty low key but I'm excited to hang out with cool ppl. Much love, peace, and happy holidays!",positive,0.9911,positive,0.3130681818181818,12/18/2019
+posts,Well someone just quit their chem Ph.D with a bang. ,positive,0.2732,neutral,0.0,12/18/2019
+posts,Need help deciding my Summer 2020 schedule (ME). [removed],positive,0.4019,neutral,0.0,12/18/2019
+posts,Need advice on my Summer 2020 schedule (ME). [removed],neutral,0.0,neutral,0.0,12/18/2019
+posts,Bitcoin (BTC) QR code Generator - coinQRcode.com (Best And Safe). ,neutral,0.0,positive,0.75,12/18/2019
+posts,Trump is a dog. [removed],neutral,0.0,neutral,0.0,12/18/2019
+posts,Humanities credits??. [deleted],neutral,0.0,neutral,0.0,12/18/2019
+posts,Transferring Graduate Credits... Tactically.. [deleted],neutral,0.0,neutral,0.0,12/18/2019
+posts,Is voting safe at GT ?. [deleted],positive,0.694,positive,0.5,12/18/2019
+posts,"Dismissal. I've just been academically dismissed my second time and I don't know what to do...I think I rushed coming back to school and didn't do any better. Does anyone have any advice to give me? Or hope? I'm in an awful headspace right now, please help",positive,0.4318,neutral,-0.04285714285714286,12/19/2019
+posts,Will students get free entrance into the Duke game?. [deleted],positive,0.5106,neutral,0.0,12/19/2019
+posts,"Grade Changes after submission deadline?. Has anyone much experience with this? Had a prof who was too important to attend 1/3 of his classes unable to modify my grade on time and can't be asked to communicate with me on anything (i'm distance learning), now my tuition assistance hinges on him giving at least 1 crap about me, which just feels so unlikely.",positive,0.2406,negative,-0.25,12/19/2019
+posts,ISyE 3232 Spring 2020 Professor Advice. [removed],neutral,0.0,neutral,0.0,12/19/2019
+posts,SWE Internship Questions. [removed],neutral,0.0,neutral,0.0,12/19/2019
+posts,Resume Question. [deleted],neutral,0.0,neutral,0.0,12/19/2019
+posts,CS 1301 UTA. [deleted],neutral,0.0,neutral,0.0,12/19/2019
+posts,Are there any business students here who can tell me more about the undergrad business program?. Gracias,neutral,0.0,positive,0.5,12/19/2019
+posts,Additional Standing Question. [removed],neutral,0.0,neutral,0.0,12/19/2019
+posts,How to download an unofficial transcript?. [deleted],neutral,0.0,neutral,0.0,12/19/2019
+posts,"Mini Diplomas. Did you graduate this semester? Do you wanna be able to flex on everyone with nothing but your wallet? Then do I have the thing for you! Get your FREE mini diploma from the below link! (If you graduated previously, you can also get a mini diploma from this link, but it will cost $10. Posting because a bunch of my friends didn't know about this/how to do it, so figured I'd share)
+
+https://www.gtalumni.org/s/1481/alumni/19/interior.aspx?sid=1481&amp;gid=21&amp;pgid=15627",positive,0.9157,positive,0.3194444444444445,12/19/2019
+posts,Questions about transferring to Gatech. [removed],neutral,0.0,neutral,0.0,12/19/2019
+posts,"Transcript does not say I was awarded a degree.. I just graduated and sent my transcript to my new employer. I got an email back that said the transcript needs to say what degree was awarded. It does not say anywhere that I was awarded a degree. Anyone else have this problem? Does it change status? What did you do?
+
+Edit: I sent my official transcript through the parchment system. It's not on there.",negative,-0.8569,positive,0.06818181818181818,12/19/2019
+posts,Advanced Standing grade?. I took the Advanced Standing exam for PHYS 2211 and I have no idea where to find my grade. (I've tried calling the physics department but everybody's gone for break). Anyone know?,positive,0.1926,positive,0.4,12/19/2019
+posts,"Historical trivia question for some old guys. Just trying to resuscitate some old neurons here. Back in the late 60s, and perhaps beyond, there was a standup snack counter on the Hill, usually crowded. No chairs, just some rows of tall narrow tables. It was called by a particular informal name, like the ""Bite &amp; Die"" cafeteria in the old dorm area. OK: What was that name?",negative,-0.1697,neutral,0.021666666666666657,12/20/2019
+posts,How do I check buzzport/degreeworks from mobile ?. Hi I’m not on campus and dont have access to a laptop. How do I check the degree works or the buzzport from mobile. I tried logging in with and without vpn and always get some weird error showing some stack trace or with a stupid message saying you logged out of gatech services. Please help.,negative,-0.4215,negative,-0.6499999999999999,12/20/2019
+posts,Summer On-Campus Housing Questions. [deleted],neutral,0.0,neutral,0.0,12/20/2019
+posts,Assembly language in ECE 2035 and ECE 2031?. Are they both LC3? What are they classified as?,neutral,0.0,neutral,0.0,12/20/2019
+posts,Take over my lease!. [removed],neutral,0.0,neutral,0.0,12/20/2019
+posts,"Housing in Houston for summer internship. I recently got an offer for a summer internship in Houston. Does anyone have any experience with finding 3 month housing over there and if so, how did you go about finding it? (I don't know if this is the right place to ask - if it's not, please point me in the right direction!)",negative,-0.308,positive,0.21428571428571427,12/20/2019
+posts,"Institute for Electronics &amp; Nanotechnology (IEN) Student Assistant/Work Study Positions.  I am looking for two motivated individuals to work with me Spring semester at the Institute for Electronics and Nanotechnology to help the IEN fulfill its mission of serving the Georgia Tech research community. Tasks include design-build projects, cleanroom equipment installation, laboratory layout and other tasks as needed. Knowledge of AutoCAD is required. The use of common hand tools is a plus. Mechanical Engineering preferred but I will consider other majors as well. The hours are flexible to work around your class schedule. Contact Bob Rose [bob.rose@ien.gatech.edu](mailto:bob.rose@ien.gatech.edu) for more information.",positive,0.872,positive,0.10999999999999999,12/20/2019
+posts,Freshmen Summer Internships. Is it common for freshmen to get summer internships with no experience?,negative,-0.296,negative,-0.3,12/20/2019
+posts,"2 credit, easy A humanities course?. [removed]",positive,0.6705,positive,0.43333333333333335,12/20/2019
+posts,increase chance of being accepted into masters program at Tech.. I recently graduated with a BS in Computer Science from a school in Georgia. GPA was 3.1. I want to know how I can increase the chances of getting accepted into the master's program at Tech. What else can I do to help myself since I can't do anything about GPA at this point? Also is GPA the biggest deciding factor? Thanks.,positive,0.9419,positive,0.1,12/20/2019
+posts,"📷FBI Director Wray, AG Barr, SoD Shanahan, and SoS Pompeo all raped boys and paid billions in bribes for Soros &amp; Koch funded child rape org. So did Trump and his 'impeachment' team Nadler, Schiff, Mueller. So did media moguls Redstone, Murdoch, Moonves. What is this setting up? Who can arrest them?. [removed]",negative,-0.9195,negative,-0.05,12/20/2019
+posts,"Tree Services,tree cutting service &amp;amp; stump grinder brisbane. ",negative,-0.128,negative,-0.6,12/20/2019
+posts,Weber to Scheller. Is Weber to Scheller a doable speedwalk between classes?,neutral,0.0,neutral,0.0,12/20/2019
+posts,"Reliant Energy Rates, Plans, and Reviews | 281-612-3085. ",positive,0.3818,neutral,0.0,12/20/2019
+posts,"PSYC 1101 Dr. Leader or Carlson?!. Could anyone recommend either of these teachers. Critique is showing 3.0+ but ratemyprofessor is kinda iffy. 
+
+Plus how is the work load?
+
+THanks",positive,0.7393,positive,0.2,12/20/2019
+posts,Programming Language in CS 2110. What programming languages do we use in CS 2110?,neutral,0.0,neutral,0.0,12/20/2019
+posts,Why is Clemson getting this before we are? Didn't they just get internet running to that cow pasture like a year ago?. ,positive,0.4329,negative,-0.13333333333333333,12/20/2019
+posts,Transferring credits for an REPP student?. [deleted],positive,0.3612,neutral,0.0,12/20/2019
+posts,"How screwed will I be for reneging?. I got an offer from a Big 4 consulting firm which I accepted, but I just got an offer from a faang company, which I really really want to take. Will I be banned from the career fair if I renege? What other consequences could I face?",negative,-0.2103,positive,0.11499999999999999,12/20/2019
+posts,"Content/Textbook/Syllabus for chem 1212k. Hello, I am slated to take chem 1212k as a biology major this spring with Dr.Zhang. I am looking for the textbook name as well as chapters/units covered. Also, a syllabus would be helpful as well. Thanks",positive,0.836,positive,0.13125,12/20/2019
+posts,Internship Housing. [removed],neutral,0.0,neutral,0.0,12/20/2019
+posts,"[Allow Send] I fell off my chair. enjoy your future data leak, kiddos
+
+student\_grades.xslx
+
+student\_addresses.xlsx
+
+student\_SSNs.xlsx
+
+student\_kinks.xslx",positive,0.2023,positive,0.2,12/20/2019
+posts,Parking enforced during holidays?. Will parking permits be checked during holidays in resident halls areas?,positive,0.4515,neutral,0.0,12/20/2019
+posts,Very Long Long Name. ,neutral,0.0,negative,-0.0575,12/21/2019
+posts,"Best on/around campus jobs?. I‘m looking into a job for next semester (freshman), just for some extra cash and things to do.   What are the best jobs in or around campus to get?  I’ve looked a bit into CRC and housing stuff,  but just wondering if anyone had good recommendations on what they liked best.  If it helps, I’d need a morning job (before 12), and looking for like 6ish hours a week.",positive,0.9789,positive,0.6142857142857144,12/21/2019
+posts,When do IE's start applying for internships ?. [deleted],neutral,0.0,neutral,0.0,12/21/2019
+posts,"Does GA Tech have a student hangout that everyone on campus knows and goes to?. My cousin is coming home for the holidays and I’d like to get him a gift card to whatever is the local hangout spot, restaurant, sandwich shop, coffee place, etc. 
+
+Thank you in advance!!",positive,0.8774,neutral,0.0,12/21/2019
+posts,"8th St. West Desk Size. I will be living in an 8th Street West apartment this coming spring semester and I was curious how large the desk is. Would I be unwise to try and bring two monitors to fit on the desk, or is it fairly large? It's hard to get any photos of the rooms in any of the housing and I've not had the opportunity to visit one of the rooms yet.",positive,0.2658,positive,0.08738095238095236,12/21/2019
+posts,"Music Video Mention. I was just going on a lil R&amp;B throwback for the holidays, and I heard ""Georgia Tech"" mentioned @ the 1:26 mark! Just thought it was interesting lol
+
+[https://youtu.be/NFnKgIptbq0?t=86](https://youtu.be/NFnKgIptbq0?t=86)",positive,0.8295,positive,0.65,12/21/2019
+posts,Found this in the wild when applying for summer internships.... ,neutral,0.0,positive,0.1,12/22/2019
+posts,"Immunizations question for a transfer to ATL from GTL. If anyone has any experience with this recently or currently and can answer these questions, I would be so so grateful! I have called multiple numbers and left multiple voicemails, and have emailed and got an unhelpful auto reply. I just got back from GTL in France, and tbe transfer was late notice so it's been a bit of a rush. I only saw the immunizations come up on my housing contract and realized I needed to do this to be in Atlanta. 
+
+My immunizations are incomplete only for the varicella and meningococcal vaccines. The first I have History (not accepted) and the second was apparently waived when I went to my undergrad school. I don't know why I never got this one. 
+
+My questions are (based on what I can accomplish without having to spend $300 to get these vaccines):
+
+1. GT accepts a titer for varicella, but it might be as late as January 10th when I get the results . Does anyone know if they let someone start on campus conditionally until their record is complete?
+
+2. On the form it says that the meningococcal vaccines is required for all students under 22. It doesn't say ""only"" though, making me wonder if it is okay to not have this vaccine, as I am over 22.
+
+Any experience and help would be appreciated!",positive,0.9517,neutral,0.034375,12/22/2019
+posts,"Taking a semester off. How do I do that ?. Hey all. 
+Wanted to know how I can take a semester off and return in the Fall (probably) 
+I'm in the BME Department and an International student.
+
+Sincerely request advice since I don't know how to go about it. As in. Whom do I talk to ? Which offices do I visit ?
+May have some internships lined up back home but they're not confirmed yet.
+
+Just want an out for a few months 
+Can someone please advise.",positive,0.7176,neutral,0.019999999999999997,12/22/2019
+posts,I just got in Create-X Startup Launch Program! Anyone have any experience or helpful tips that they would like to share regarding their experience taking this program? AMA. ,positive,0.7777,neutral,0.0,12/22/2019
+posts,ZVI IS BACK BABY. ,neutral,0.0,neutral,0.0,12/22/2019
+posts,"Hello there, I just made a discord solely for making friends in college (not just Georgia Tech) so feel free to join and say hi. idk i want more friends to talk to. ",positive,0.8473,positive,0.45,12/22/2019
+posts,Home for winter break and found the fridge properly stocked. A true Tech family.. ,positive,0.4215,positive,0.175,12/22/2019
+posts,Are there hot women here?. [removed],neutral,0.0,positive,0.25,12/22/2019
+posts,Would anybody want to read my Georgia Tech supplement?. I'm a high school senior applying to BME.,positive,0.0772,positive,0.16,12/22/2019
+posts,Found this hidden in my attic tonight.. ,neutral,0.0,negative,-0.16666666666666666,12/22/2019
+posts,"MS Analytics. Hi all,
+
+I'm a 3rd year undergrad and starting to think about my postgraduation plans. I'm considering Tech's MS Analytics program and have a few questions. Is there anyone currently/formerly enrolled in it who wouldn't mind helping me out?",negative,-0.2235,negative,-0.06666666666666667,12/23/2019
+posts,Spotify Sync over GT Wifi. [removed],positive,0.4278,neutral,0.0,12/23/2019
+posts,My Biggest Regrets From My Time at Georgia Tech (Class of 2015). [deleted],negative,-0.3612,negative,-0.1,12/23/2019
+posts,My favourite one. ,neutral,0.0,neutral,0.0,12/23/2019
+posts,When do Georgia Tech grad applications decisions get released?. The deadline is dec 31 but a lot of schools are different.  Just wanted to see if anyone in a grad program might have any personal experiences with the application process to share. I applied for master of architecture program,positive,0.4215,neutral,0.0,12/23/2019
+posts,Umami prices??. [removed],neutral,0.0,neutral,0.0,12/23/2019
+posts,"Parking Pass for Spring. Trying to buy a car parking pass for the Spring (in NAA North Deck ER53) but [carpool.pts.gatech.edu](https://carpool.pts.gatech.edu) isn't letting me log in, it just sends me back to the login page. Can anyone guide me as to what to do?",neutral,0.0,neutral,0.0,12/23/2019
+posts,Think we can all relate. ,neutral,0.0,neutral,0.0,12/23/2019
+posts,Transfer Help. [deleted],positive,0.4019,neutral,0.0,12/23/2019
+posts,Georgia tech gear. Anyone know where to get some Gt gear (T-shirt’s/hoodies) near Savannah GA? Called around 10+ places and they all don’t cary anything.,positive,0.2732,positive,0.1,12/23/2019
+posts,"Transferring into Georgia Tech. Hi! 
+
+I'm a freshman in another university (not going to say unless it's important which it may very well be) and I've been thinking about transferring into Georgia Tech.
+
+I saw on the website that applications open January 15th, and that historically the acceptance rate isn't that high for transfer students. 
+
+People in gatech that have transferred into this school, is there anything special I should know? What is the application like? Are there any important people I can talk to? Or is it just another high school to college application? 
+
+I'm also interested in how good of a chance I have at transferring but I don't feel like spewing my stats here as of yet. If there's any kind soul in this subreddit that has enough spare time to PM me about the process I'd greatly appreciate it.
+
+Georgia Tech was my dream school in high school, and it is still my dream school; any help would be greatly appreciated.
+
+Enjoy your holidays fellow redditors \\o",positive,0.9928,positive,0.29919642857142864,12/23/2019
+posts,Are they gonna increase the GPA for highest honours anytime before 2021?. I saw the grade distributions and we're nearing an avg GPA of 3.55. I have no idea how. I'm scared that the administration might notice this and then decide to make getting highest honours something ridiculous like a 3.95 cause it's sorta weird to have the avg gpa of the college and the cutoff for graduating with highest honours be the same. Thoughts on when it might happen?,positive,0.7752,negative,-0.27777777777777773,12/23/2019
+posts,"Laptop Choice Acer Spin 3 Convertible Laptop. Any thoughts on the Acer Spin 3 Convertible Laptop? I'm a ChemE major but declaring a CS minor and taking either 2110 or 1332 in the Spring. Would this laptop be sufficient? Any tips?
+
+[https://www.amazon.com/Acer-Convertible-Fingerprint-Rechargeable-SP314-53N-77AJ/dp/B07QXL8YCX/ref=pd\_ybh\_a\_1?\_encoding=UTF8&amp;psc=1&amp;refRID=N868QEKGK7KYN9KA7TBW](https://www.amazon.com/Acer-Convertible-Fingerprint-Rechargeable-SP314-53N-77AJ/dp/B07QXL8YCX/ref=pd_ybh_a_1?_encoding=UTF8&amp;psc=1&amp;refRID=N868QEKGK7KYN9KA7TBW)",neutral,0.0,neutral,0.006249999999999999,12/24/2019
+posts,Flew over Tech today. ,neutral,0.0,neutral,0.0,12/24/2019
+posts,"UT or Georgia Tech?. I got accepted into UT for ECE a couple weeks ago. I am still waiting on my GT decision. If I do get in, which school is better for CompE and which should I attend? I’ve applied as EE at GT, but I’m planning on switching to CompE.",positive,0.6901,positive,0.5,12/24/2019
+posts,Yellow Jackets! How would you guys rate your professors?. [deleted],neutral,0.0,neutral,0.0,12/24/2019
+posts,Stallworth vs Kantwon for CS 1371. [deleted],neutral,0.0,neutral,0.0,12/24/2019
+posts,Where to submit a petition to faculty online?. [removed],neutral,0.0,neutral,0.0,12/24/2019
+posts,ISyE majors research?. [deleted],neutral,0.0,neutral,0.0,12/24/2019
+posts,feliz bobby dodd. ,neutral,0.0,neutral,0.0,12/24/2019
+posts,"Good Christmas/Holiday tidings. Heya Jackets!
+
+For everyone getting ready (or already am celebrating I don't know timezones), I hope everyone has a happy holiday season! Make sure to get some good rest and relax! If you don't feel very much in the spirit, a) that's perfectly okay but b) if you're feeling down on the dumps, you can talk to me or your friends in this thread to talk about it!
+
+With that said, have a happy break and can't wait to see y'all in the spring",positive,0.9721,positive,0.5350617283950617,12/24/2019
+posts,Hiring two React/Flutter Developers - Paid Position. [deleted],neutral,0.0,neutral,0.0,12/24/2019
+posts,I get the feeling that either 1) this is a GT engineer or 2) a GT engineer has already done this.. ,positive,0.7324,neutral,0.0,12/24/2019
+posts,"Where to donate clothes?. I am interested in donating some old clothes over the break. I remember there was a student org soliciting clothing donations but I can't recall..
+
+Not interested in donating at Goodwill or Salvation Army, thanks.",positive,0.85,positive,0.10625,12/24/2019
+posts,"Does anyone know if the honor societies invites are a scam or not, or if it’s even worth it? I got a couple of them in my email and it seems like they have chapters at GT, but is it even worth joining ?. ",positive,0.6784,positive,0.3,12/25/2019
+posts,Is this a feasible 20 credit hour schedule (CS)?. [removed],positive,0.3818,neutral,0.0,12/25/2019
+posts,"Is this a feasible 20 credit semester? (Comp Sci). CS 3600, CS 4641, CS 3630, ISYE 3770 + VIP, easy humanities, health, freshman leap seminar
+
+I've felt comfortable doing 17 /18 credits the past 2 semesters (mostly CS/MATH with one humanities/SS), but this will be my first semester taking thread level courses.",positive,0.8001,positive,0.2666666666666667,12/25/2019
+posts,"What is the CompE program at Georgia Tech like? Describe your experience in the program. Tell me about the research opportunities, the professors, internship prospects, job opportunities after graduation (what companies recruit here), extracurriculars, and CS classes within this major.",positive,0.836,positive,0.0625,12/25/2019
+posts,Merry Catmas ❤️💚💛. ,positive,0.5423,neutral,0.0,12/25/2019
+posts,Interview for admissions process. [deleted],neutral,0.0,neutral,0.0,12/25/2019
+posts,GT (and GT professor) featured in the new YouTube Original on A.I. [14:35]. ,positive,0.7885,positive,0.2556818181818182,12/25/2019
+posts,UPDATE: HELP! MADE BAD CHOICES AND MIGHT BE KICKED OUT!. [deleted],negative,-0.3365,negative,-0.8749999999999998,12/25/2019
+posts,"Chances of getting into GT in the Summer or Fall of 2020. I am an international student. I used to study at Penn state university and got a GPA of 4.0 in 18 credits there. However, I transferred to NC State University and in 20 credits, I scored a GPA of 3.52 I think because of the transfer effect. 
+
+I have a bunch of extracurricular activities and volunteering/leadership experiences. Participation in Clubs and organizations. A good eventful resume. 
+
+I calculated my GPA in both schools and I got a GPA of 3.75 in 38 credits. I am not sure if it’s supposed to be calculated this way. However, I am applying for the summer and fall of 2020. What are my chances of acceptance. 
+
+Note that I will do my best in the spring to boost my GPA to 3.8ish.",positive,0.9711,positive,0.3625,12/26/2019
+posts,How many Windows 10 licenses?. [removed],neutral,0.0,positive,0.5,12/26/2019
+posts,"Things to do on campus during the winter break. I am currently on my quarterly-ish vacation in SoBe and have decided to stop by and spend some days in ATL before heading back to norcal. I have my buzzcard but it probably wont work. Can I access any of the buildings in the next 7 days? Is the new living building open to visitors? Are there any campus activities? Things that have changed in the last 6-8 months that I can check out? 
+
+Thanks guys! super excited to be coming ""home"" for a few days.",positive,0.9319,positive,0.08946969696969698,12/26/2019
+posts,"Usage of the word ""Dawg"" in the US. ",neutral,0.0,neutral,0.0,12/26/2019
+posts,Works of Georgia Tech Mentioned in a Video with 19 Million Views.. [deleted],neutral,0.0,neutral,0.0,12/26/2019
+posts,It’s ok to go at your own pace (:. ,positive,0.296,positive,0.55,12/26/2019
+posts,What are some of the best summer internship opportunities?. [deleted],positive,0.6369,positive,1.0,12/26/2019
+posts,"Your New Years Resolution: GT Swim Club. TL;DR [Fill out this form](http://swimclub.gtorg.gatech.edu/join-us/)
+
+About to entirely give up on making a resolution because you're terrible at keeping them? Or maybe you're already the perfect human being who needs no improvement (X to doubt)?
+
+**DON'T GIVE UP YET.**
+
+*Want to get in shape?* [**JOIN**](http://swimclub.gtorg.gatech.edu/join-us/) **GT SWIM CLUB,** we all splash around together in our own reserved lanes with our own amazing coaches so that no matter what your skill level, you'll never have to wait in line for a machine or guess that you're doing an exercise correctly.
+
+*Want to become more social but don't know where to start?*  **JOIN** [**GT**](http://swimclub.gtorg.gatech.edu/join-us/) **SWIM CLUB,** we go to trivia every Thursday at Willy's, tailgate every football game, have mixers within the club and with other clubs, and consist of some of the most welcoming people I've met at this school.
+
+*Want to boost your resume and learn leadership skills?* **JOIN GT** [**SWIM CLUB**](http://swimclub.gtorg.gatech.edu/join-us/)**,** we have over 12 leadership positions from social media management to treasurer to fundraising with time commitment spanning from a few hours a month to a few hours a day. Become a leader in one of the largest clubs on campus (150+ Members!).
+
+*Want to join the #1 club for NOT harassing kids on Skiles walkway?* [**JOIN GT SWIM CLUB**](http://swimclub.gtorg.gatech.edu/join-us/)**,** yeah we don't do that, unlike some other water-based athletics clubs (&lt;3 you GT Crew).
+
+We welcome any skill level, any time commitment, any age. Think you won't be fast enough? We had a member last year who had never swam competitively before in their life. *Within 3 years, they went to nationals to compete.* Think you'll be too fast? We're competing for our third consecutive national championship this year, with our record times competitive with NCAA times.
+
+There are **16,047** undergraduate students at GT. There are **151** members in GT Swim Club. If you're number 160 (ie 1% of the student body), I'll give you a sticker. Maybe a cookie too.
+
+[www.gtswimclub.com](https://www.gtswimclub.com)",positive,0.9953,positive,0.13491436100131754,12/26/2019
+posts,spring semester parking. [removed],neutral,0.0,neutral,0.0,12/26/2019
+posts,"Finding undergraduate research. Hello fellow GT students:
+
+ I’m a freshman and I’m looking to do research this semester. What would be a good way to find them?
+
+ Thank you.",positive,0.8038,positive,0.7,12/26/2019
+posts,"Parking permit waitlist. I'm number 8 on the parking permit waitlist for both WR30 and W23. I can't tell how many people total are on these waitlists, but based on the other zones I would guess there are like 75 other people on each list. 
+
+With 9 days left until I will need the permit, how likely am I to get one? If I don't, where the fuck am I supposed to park? Why does PTS do this dumb shit where they release the permits in waves, I hate waiting until the last minute and it's stressing me out.",negative,-0.9287,negative,-0.13863636363636364,12/26/2019
+posts,Hair drug test probability. [removed],neutral,0.0,neutral,0.0,12/26/2019
+posts,What can we do to increase a sense of community and belonging among Georgia Tech students?. [removed],positive,0.3182,neutral,0.0,12/26/2019
+posts,Waking up over winter break and realizing I don’t have an exam today and going back to sleep be like. ,positive,0.3612,neutral,0.0,12/26/2019
+posts,"Parking Question for the Upcoming 2019 Spring Semester. Does anyone know how strict parking and transportation services are on nav lots? I'm trying to buy a spring semester parking pass but really don't feel like coughing up almost $400 to park there. If I were to \*hypothetically\* buy a evening/weekend pass for the lot what are my chances of getting a ticket while being parked in the nav deck when I'm not supposed to be. Also, do tickets increase in price for each one of are they a flat rate for each offense?",negative,-0.1951,positive,0.08750000000000001,12/27/2019
+posts,Where can I learn to weld?. [deleted],neutral,0.0,neutral,0.0,12/27/2019
+posts,the albino squirrel?. ,neutral,0.0,neutral,0.0,12/27/2019
+posts,"Questions about ROTC. How late can you join ROTC?
+
+Is there a graduation event/culminating event? I am under the idea that ROTC students can become officers but I’m not sure if that’s always the case. 
+
+Is there mandatory military service if you are apart of ROTC?
+
+Which branches have an ROTC presence at Tech?",negative,-0.3298,negative,-0.21666666666666667,12/27/2019
+posts,Which parking deck would be the most convenient for a student whose classes will mostly likely be in Skiles?. [deleted],neutral,0.0,positive,0.25,12/27/2019
+posts,Who still remembers this bad boy for attendance?. ,negative,-0.628,negative,-0.6999999999999998,12/27/2019
+posts,CS Intelligence Thread. [removed],positive,0.4767,neutral,0.0,12/27/2019
+posts,CS Intelligence Thread. [deleted],positive,0.4767,neutral,0.0,12/27/2019
+posts,Why is GPA truncated?. I noticed the GPA reported on degreeworks is slightly less than the result of dividing the number of quality points by GPA hours. It seems that degreeworks truncates GPA instead of rounding. Doesn't seem very cash money to do that.,positive,0.0772,neutral,0.016666666666666677,12/27/2019
+posts,"Flaw in the meal plan?. Hey guys, 
+
+I noticed that if you have a meal plan that includes meal swipes, you also get ""unlimited"" guest swipes. What exactly does this mean? If a friend visits but is the same age as a student would be will they stop me from using them? Furthermore, if someone is a student how will the dining hall prove they are in order to force them to use normal meal swipes?",negative,-0.3939,neutral,0.021875,12/27/2019
+posts,Prospective CS Freshman with a question. [removed],neutral,0.0,neutral,0.0,12/28/2019
+posts,My favourite one. ,neutral,0.0,neutral,0.0,12/28/2019
+posts,Will Crosland Tower be open on the 31st?. I feel like it would be an amazing spot to watch fireworks. That's all,positive,0.743,positive,0.30000000000000004,12/28/2019
+posts,"Time limit for grade replacement?. If I want to do grade replacement for a class from last semester, does that mean I have to immediately retake it the following semester (this Spring)? Or can I wait and retake it at any point during my undergrad?",positive,0.212,negative,-0.10416666666666667,12/28/2019
+posts,"Econ 2105. Can anyone give me more details on econ 2105? I don't know who my professor will be, but what were homework, quizzes, tests like for you? Tips on study tools and which units were more important would be cool too.",positive,0.8481,positive,0.4375,12/28/2019
+posts,MSE 2001 question. How hard will MSE 2001 (Qin Dong) be if I haven’t done chemistry since senior year of Hs(I am a first year rn)?,negative,-0.1027,neutral,-0.020833333333333343,12/28/2019
+posts,"Post Office Outgoing Package Size Limit?. Is there a limit to the size and/or weight of packages sent out from the GT Post Office? I'm thinking a package probably just under 40 lbs, 3' x 2.5' x 1.5'? If so, have people had experience shipping large packages through services off-campus?",positive,0.7178,positive,0.21428571428571427,12/28/2019
+posts,I heard the library renovation will be completed when we come back. Is this true or not?,positive,0.5023,positive,0.175,12/28/2019
+posts,"We out here. Lot of my friends always come to me for relationship advice and recently one of them was like, ""Thanks man, I'm surprised you aren't in a relationship. Guess you're too busy anyways."" And I just played off like haha yeahhhh, school life balance BUT REALLY we struggling out here.
+
+2020, we shooting all our shots, we taking those rejections and moving on, we getting out our comfort zones, we're probably not doing any of that but I'm sure it'll all work out. But really, I'm just bored and miss the comfort of a hug.",positive,0.7901,positive,0.1111111111111111,12/28/2019
+posts,Is GA Tech worth it?. [removed],positive,0.2263,positive,0.3,12/28/2019
+posts,Do you guys consider OMSCS students the same as Georgia Tech students/Alumni?. Looking at the OMSCS coursework there seems to be very little distinction between what is offered online vs on campus. Would you consider someone from the online program equal to an on-campus student?,neutral,0.0,negative,-0.08125,12/28/2019
+posts,"GT Parking Passes. Can you buy a parking pass for just the spring semester? How about just for the summer semester? I am not seeing an option for either online. If I buy the annual individual permit to get both semesters and need to switch the location between semesters, how do I do that?",positive,0.5224,neutral,0.0,12/28/2019
+posts,Concerns for Job Opportunities for LGBT+ at Georgia Tech. [deleted],positive,0.3818,neutral,0.0,12/28/2019
+posts,Deans list?. When or how do you find out if you are on the Dean’s List for fall semester?,neutral,0.0,neutral,0.0,12/28/2019
+posts,"SwampHacks team needed. &amp;#x200B;
+
+Anyone  from Georgia Tech who is going to SwampHacks that needs teammates? I am  interested in making a product for social good and need teammates.",positive,0.6808,positive,0.3277777777777778,12/29/2019
+posts,English Transfer Requirements. [removed],neutral,0.0,neutral,0.0,12/29/2019
+posts,English Transfer Requirements. [deleted],neutral,0.0,neutral,0.0,12/29/2019
+posts,"PHYS 2211 course requires extra fee?. On my breakdown for costs of attendence for Spring 2020, it says ""PHYS 2211 Course Fee: $75"".
+
+&amp;#x200B;
+
+What's the purpose of this extra charge? I thought any courses we take are suppose to be included in our tuition.",neutral,0.0,neutral,0.0,12/29/2019
+posts,"Business Administration at GA Tech. I'm a prospective student looking at Georgia Tech for its Business Administration major, and from what I've heard, it's much easier to get into for that major. 
+
+I'm an out-of-state applicant whose GPA is lower than I'd like, so I was wondering if I have a decent chance to get in. 
+
+Additionally, on the Georgia Tech website it says that they ""use the weighted GPA if available"", and while my unweighted GPA isn't high, my weighted GPA is. How does GA Tech consider weighted vs. unweighted GPA for undergraduate admissions?",positive,0.6249,positive,0.17527777777777778,12/29/2019
+posts,"Is it worth it to pursue a minor or double-major?. Hello! I'm currently a third-year CS major and have lately been thinking about pursuing a minor or double major. I was thinking about doing another hard science like Chemistry or BME(leaning more on BME). The thing is that I have almost no clue on the difficulty of these programs but more importantly, don't even know if it would be worth pursuing. I've had a few internships that were all in enterprise or business software and have been feeling sick of it so I thought that minoring or double majoring in one of these would allow me to specialize in software tailored to biotech or maybe even try and do something completely different like premed or research. I think I've just been in a very doubtful phase in regards to my future.
+
+I'm also worried about my graduation time. As of now, I am due to already graduate a semester late and since I haven't even started the BME track, I'd have to start with GenChem and GenBio. This means that my graduation time would be pushed back a full year or even more. At this point, is it even worth it for me to try this? How difficult would it be and would it be? Would the end result be worth it on my diploma?
+
+&amp;#x200B;
+
+Thank you for taking the time to read my post.",positive,0.7268,neutral,0.0011684303350970057,12/29/2019
+posts,Bursar down?. I can't seem to access student pay right now? Is anyone else having issues?,negative,-0.2359,positive,0.06507936507936506,12/29/2019
+posts,Transfer question. [deleted],neutral,0.0,neutral,0.0,12/29/2019
+posts,How does housing work for non-first-years?. Is there a set of second-year housing or is everything else pretty much just up for grabs for everyone else? Are there any places that I’m unlikely to get?,positive,0.5775,neutral,-0.016666666666666663,12/29/2019
+posts,I’m trash but I be trying man. ,neutral,0.0,neutral,0.0,12/29/2019
+posts,Different kinds of engineering. [removed],neutral,0.0,neutral,0.0,12/30/2019
+posts,"Any interesting course in Music, related to composing music ?. Hi,
+
+I am an MSCS student and a complete noob in music, knew nothing about it.
+
+I just want to explore any basic fun introductory course from the Music department at Georgia Tech.
+
+Can you suggest any good course or any fun / interesting course from other fields ?",positive,0.9367,positive,0.25277777777777777,12/30/2019
+posts,GTRI Affirmative Action. [deleted],neutral,0.0,positive,0.35,12/30/2019
+posts,Does the Unofficial Transcript Show Your Minor. Does Georgia Tech's unofficial transcript show your minor along with your major?,neutral,0.0,neutral,-0.012500000000000002,12/30/2019
+posts,Hey jackets. I’m sorry about Gowdy.,negative,-0.0772,negative,-0.5,12/30/2019
+posts,Has anyone taken Space Policy (INTA4803) How was the class?. [removed],neutral,0.0,neutral,0.0,12/30/2019
+posts,Can someone rank the Nave buildings.. Title.,neutral,0.0,negative,-0.8,12/30/2019
+posts,"I am interested in transferring to GA TECH, but none of the courses at my current school fulfilled the ENG 1102 req. [removed]",positive,0.6757,positive,0.125,12/30/2019
+posts,"I am interested in transferring to GA TECH, but none of the courses at my current school fulfilled the ENG 1102 req. [deleted]",positive,0.6757,positive,0.125,12/30/2019
+posts,On no. Georgia Tech signee Bryce Gowdy dies days before enrolling.. ,negative,-0.296,neutral,0.0,12/30/2019
+posts,French 2001 or LMC 2500 for a humanities credit?. These are the two humanities I found that work for my schedule. I just want to know if there are any red flags for either course and if I should drop one. Their CRNs are 36503 and 35618 respectively. Any help would be great!,positive,0.8268,positive,0.25,12/30/2019
+posts,is there on campus housing over the summer for part time students?. title,neutral,0.0,neutral,0.0,12/30/2019
+posts,will nave housing office be open sunday before classes?. title,neutral,0.0,neutral,0.0,12/30/2019
+posts,"Stay safe and don't join celebratory gunfire please. First of all, happy holidays yellow jackets!
+
+Please stay safe and don't join any celebratory gunfire. I know this sounds silly but look at this if you plan to join the gunfire party:  [https://www.ajc.com/news/crime--law/year-old-boy-shot-during-new-year-celebration-with-family-police-say/bR3Jmnlv4P7l8tRK6AKY7M/](https://www.ajc.com/news/crime--law/year-old-boy-shot-during-new-year-celebration-with-family-police-say/bR3Jmnlv4P7l8tRK6AKY7M/) 
+
+If anyone that you know plans to have celebratory gunfire this year, please try to stop them. This is nothing but something that makes them look barbaric and uncivilized. Most importantly, this can hurt or kill others when you are doing it in a crowded city. 
+
+Lastly, have a wonderful New Year!!!",positive,0.7459,positive,0.24719460227272724,12/30/2019
+posts,Transferring help. [removed],positive,0.4019,neutral,0.0,12/30/2019
+posts,Fill out a quick survey about your favorite coffee shop and enter to win a Starbucks gift card!. [removed],positive,0.8748,positive,0.611111111111111,12/30/2019
+posts,Survey about coffee shops!. [removed],neutral,0.0,neutral,0.0,12/30/2019
+posts,Cost of Attendance for Graduate Program - Mechanical Engineering. [removed],neutral,0.0,neutral,0.0,12/30/2019
+posts,How awesome is this?!. ,positive,0.6588,positive,1.0,12/31/2019
+posts,Bike Repair Stands Broken. It seems that all of the pumps at the bike repair stands around campus are broken. Does anyone know who manages these or who I could reach out to about this? This has become a pretty big inconvenience for me and I don't wanna spend like 30 bucks on a pump unless I really have to. Thanks in advance,negative,-0.5181,neutral,-0.025000000000000005,12/31/2019
+posts,"Found a necklace on the ground in the Nave parking deck, message me if it belongs to you or someone you know. ",neutral,0.0,neutral,0.0,12/31/2019
+posts,CS 3210 with Taesoo Kim. [removed],neutral,0.0,neutral,0.0,12/31/2019
+posts,CS 3210 with Taesoo Kim. [deleted],neutral,0.0,neutral,0.0,12/31/2019

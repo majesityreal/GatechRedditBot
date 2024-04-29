@@ -1,0 +1,17 @@
+type,text,VADER sentiment,VADER sentiment score,TextBlob sentiment,TextBlob sentiment score,date
+posts,Discord for grad level courses?. [removed],negative,-0.4019,neutral,0.0,08/31/2023
+posts,GAMEDAY!!!!!!!!!! (WEEK 1 vs. loserville). [removed],neutral,0.0,neutral,0.0,09/01/2023
+posts,GAMEDAY!!!!!!! (Week 1 vs. Louisville). [removed],neutral,0.0,neutral,0.0,09/01/2023
+posts,"Gameday Announcement (Week 1 vs. loserville). # IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIITTTTTTTTTTTTTT'SSSSSSSS
+
+# GAMEDAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+""This is where the fun begins!""
+
+After three years and change of unfulfilled promise and potential followed by 2/3 of a season in which the team looked much better, we finally [got the Key!](https://drive.google.com/file/d/1vS_M-eZxMf_xRDrFBo33VVfJvNfvSte_/view?usp=drive_link)
+
+And in his first season as a full-time head coach he's opening up in the Benz against Louisville.
+
+[Let's run them over](https://drive.google.com/file/d/1Phtu-bwb2fFbA5wBX9MtnLwKn2ZN9BoR/view?usp=drive_link)
+
+# GO JACKETS!!!!!!!!!!!!!!!! STING THE CARDINALS!!!!!!!!!!!!!!!!!!!!!!!!!!!!",positive,0.8035,positive,0.375,09/01/2023

@@ -1,0 +1,642 @@
+type,text,VADER sentiment,VADER sentiment score,TextBlob sentiment,TextBlob sentiment score,date
+posts,touched wreck want know,negative,-0.3818,neutral,0.0,11/30/2019
+posts,office hours reading days usual times deleted,neutral,0.0,negative,-0.25,11/30/2019
+posts,hats whichever student yelled brian kemp end 4th points embarrassing asshat staying full game things make alum proud,positive,0.128,positive,0.25,11/30/2019
+posts,looking graduation tickets removed,neutral,0.0,neutral,0.0,11/30/2019
+posts,graduation tickets removed,neutral,0.0,neutral,0.0,11/30/2019
+posts,love georgian tech touchdowns even one go yacketssss,positive,0.7249,positive,0.5,11/30/2019
+posts,talk ok boomer removed,positive,0.4466,positive,0.5,11/30/2019
+posts,mse 4010 removed,neutral,0.0,neutral,0.0,11/30/2019
+posts,anyone selling cs 3220 kit de0 cv cs 3220 want sell pm thanks,positive,0.4939,positive,0.2,11/30/2019
+posts,driving school international student tech joined semester realized owning car handicaps usa want learn driving driving schools yes good one near campus many friends car know driving,positive,0.5975,positive,0.32499999999999996,11/30/2019
+posts,zell question removed,neutral,0.0,neutral,0.0,12/01/2019
+posts,school name matters internship application results prior experience removed,negative,-0.4278,neutral,0.0,12/01/2019
+posts,university student satisfaction removed,positive,0.4404,neutral,0.0,12/01/2019
+posts,hype man anyone know hype man guy gold suspenders megaphone swarm could get touch,neutral,0.0,neutral,0.0,12/01/2019
+posts,switching one master program another want switch current program psychology anyone willing trade experiences psych department expect future prospects like etc even change major need talk someone department understand thanks,positive,0.8113,positive,0.1025,12/01/2019
+posts,completely online classes spring interning different city spring would like get free electives way spring tehre completely online classes like find list addition internship count academic credit counted electives need hours worth,positive,0.9422,positive,0.15,12/01/2019
+posts,please,positive,0.3182,neutral,0.0,12/01/2019
+posts,master student business cards anyone template removed,neutral,0.0,neutral,0.0,12/01/2019
+posts,looking graduation ticket removed,neutral,0.0,neutral,0.0,12/01/2019
+posts,virginity study results op updated start new thread hreedi007 posted virginity survey last week updated post results figure sub might want discuss gt results gt sample sizes lt include reference sample sizes refer gt thanks contribution study gt,positive,0.1154,positive,0.11212121212121212,12/01/2019
+posts,amazon black friday deals still active,positive,0.2481,negative,-0.15,12/01/2019
+posts,question arts amp sciences transfer pathway program offered 2020 fall arts amp sciences transfer pathway program last year class 2023 attend uga majoring electrical engineering german dual degree wanted originally apply transfer gt engineering student feel like want continue german degree rather engineering one going apply alis major still stuck whether want continue german engineering gt possible switch alis ece transferring case want ece german minor instead alis,positive,0.8301,neutral,0.043055555555555555,12/01/2019
+posts,visitor parking anyone know anywhere visitor park campus near campus free girlfriend visits regularly always pain pay parking annual gt parking pass want get caught two cars campus heard people using management deck unsure let know anyone recommendations,negative,-0.0858,positive,0.16666666666666666,12/01/2019
+posts,go,neutral,0.0,neutral,0.0,12/01/2019
+posts,saw wreck 5th st bridge beautiful december morning,positive,0.4069,positive,0.85,12/01/2019
+posts,things get better first year civil engineering student nearing end second semester summer freshman wanna start saying many things enjoyed tech year like campus subjects learning new friends made study feel like time much else days packed classes homework studying still enough alright difficult classes dual enrolled ung left never study much expected since tech one top schools country also wanna know life meaning willing put hard work succeed academically wish time follow interests first year struggle way succeed academically get involved extracurriculars,positive,0.9652,positive,0.14631313131313128,12/01/2019
+posts,advice ee trying get aerospace lab hi ee major really interested working aerospace industry want research aerospace lab next semester sure go process internship experience aerospace industry email professors asking opportunities labs reply tough feel qualified enough work ae lab would grateful advice,positive,0.8732,positive,0.07060185185185185,12/01/2019
+posts,nano cupcakes made ready party come play nano friends tech green area beginning 11 00 tomorrow free cupcakes cookies gluten free choices well come pet puppies de stress holidays,positive,0.9583,positive,0.2,12/01/2019
+posts,stay focused week,positive,0.3818,neutral,0.0,12/01/2019
+posts,need meal swipes hi organizations use extra meal swipes make sandwiches homeless families need would love help 30 meal swipes left remainder semester needing also would like use would love willage usually weekdays use swipes grab meal,positive,0.9431,positive,0.15,12/01/2019
+posts,advanced standing exam cs 1371 removed,positive,0.25,positive,0.4,12/01/2019
+posts,trying keep everyone motivated finals,positive,0.4588,neutral,0.0,12/02/2019
+posts,subleasing room standard spring semester hi subleasing room standard monthly rent 241 includes utilities wifi etc currently 3bd 3ba apartment two roommates guys quiet rarely ever see keep apartment clean pm interested,positive,0.8264,positive,0.13095238095238096,12/02/2019
+posts,finals woes hey everyone finals coming know already tons people post certainly last know needs hear everybody tech campus cares family cares future dog cat parakeet whichever care lot grades needing extra year two graduate say bunch different languages spoke feeling hopeless lost like want sit shower let hot water run gt care stamps busy time dont want talk someone know type thing message licensed therapist try best also know somebody struggling especially coming season finals check text let know even means losing little bit study time always good luck finals thwg,positive,0.9813,positive,0.18625,12/02/2019
+posts,blew home park heard large explosion bang noise power surge lights flickered building sirens started going street little bit street lights flickering transformer blow,neutral,0.0,neutral,0.013392857142857137,12/02/2019
+posts,georgia tech osi silences ydsa gt deleted,positive,0.4278,neutral,0.0,12/02/2019
+posts,math 1552 final removed,neutral,0.0,neutral,0.0,12/02/2019
+posts,somebody stole gatech quarterzip removed,neutral,0.0,neutral,0.0,12/02/2019
+posts,freshman quad lost laptop deleted,negative,-0.3182,neutral,0.0,12/02/2019
+posts,lot sirens fire trucks passing thru west campus anyone know happened,negative,-0.34,neutral,0.0,12/02/2019
+posts,somebody stole quarterzip bush bridge 5th street removed,neutral,0.0,neutral,0.0,12/02/2019
+posts,grade substitution removed,neutral,0.0,neutral,0.0,12/02/2019
+posts,know crowded library clough 152 323 325 423 open end finals quiet study details comments,neutral,0.0,neutral,0.0,12/02/2019
+posts,calc 1552 cios calc 1552 done cios yet please right stop reading many others students grades depending yes right thank,positive,0.6486,positive,0.35714285714285715,12/02/2019
+posts,gt volleyball robbed ncaa know women volleyball team second acc conference selected committee ncaa tournament even worse florida state notre dame made beat demolished fsu 25 23 25 12 25 13 bullshit,negative,-0.8893,negative,-0.2,12/02/2019
+posts,introduce daughter ms emma stevens future ramblin wreck,negative,-0.4926,neutral,0.0,12/02/2019
+posts,coc career fair vs majors career fair hi online student residing us wishes attend campus spring 2020 career fairs live pittsburgh girlfriend also omscs student pittsburgh 11hr drive away really afford air travel found two options two different dates spring 2020 college computing career january 17th spring 2020 majors career fair feb one think attend could probably guys know one suitable machine learning mine computing systems girlfriend concentrations typical positions looking data scientist data analyst software engineer mobile software engineer thanks,positive,0.7965,positive,0.33552188552188555,12/02/2019
+posts,lost pencil bag removed,negative,-0.3182,neutral,0.0,12/02/2019
+posts,lost pencil bag amp x200b lost pencil bag last tuesday anyone found please return shall eternally grateful lot important things thanks,positive,0.717,positive,0.20000000000000004,12/02/2019
+posts,ae department telling like,positive,0.3612,neutral,0.0,12/02/2019
+posts,thank everyone came nano party dogs great time posted public album pics facebook marla laminack feel free tag special thanks student made nano cake one brought card sweet,positive,0.957,positive,0.3511904761904762,12/02/2019
+posts,study group math 1553 intro linear algebra hey everyone organizing study group school design college architecture upper floors yeah grey concrete building close klaus plenty space plenty paper plenty tables check link groupme,positive,0.3331,neutral,0.03333333333333334,12/02/2019
+posts,applying ece ms bs ms yo 35 applying ece master program regular applicant gt grads graduating may 2020 generally get want know leaning towards looking internships full time,positive,0.5826,positive,0.13333333333333333,12/02/2019
+posts,person stole little box room removed,neutral,0.0,negative,-0.1875,12/02/2019
+posts,georgia tech uga psychology major,neutral,0.0,positive,0.0625,12/02/2019
+posts,printing problem deleted,negative,-0.4019,neutral,0.0,12/02/2019
+posts,notes stuff math 1553 chem 1212 hts 2080 lmk want notes worksheets quizzes manuals etc classes trying get rid atm,positive,0.0772,neutral,0.0,12/02/2019
+posts,vip vertically integrated project looking students 21st century global atlanta looking students interested atlanta global relevance blogging interviewing media production postproduction podcasts documentaries writing storytelling data visualization website design among interests hobbies skills find info hyperlink deciding vip team sign consider 21st century global atlanta,positive,0.9125,neutral,0.041666666666666664,12/02/2019
+posts,somebody left breakers open smith time get microwaves back deleted,neutral,0.0,neutral,0.0,12/03/2019
+posts,interested joining orgt need info really want join orgt next semester help lead trips involved outdoorsy shit know instructional course join could guys give info whole process thanks,positive,0.8585,positive,0.10833333333333334,12/03/2019
+posts,tomorrow reading day goodies library puppers 11 stressbuzzters,neutral,0.0,neutral,0.0,12/03/2019
+posts,said shower please get winter finals basically upon us sake people lectures shower wear deodorant antiperspirant please,positive,0.7096,neutral,0.0,12/03/2019
+posts,reading days vr party check meme tastic vr party struggling studying thursday 12 amp x200b,positive,0.4389,neutral,0.0,12/03/2019
+posts,best worst non residential parking decks campus deleted,neutral,0.0,neutral,0.0,12/03/2019
+posts,nerdfighter friends hank john green announced coming atlanta finally better yet ferst center campus jan 12 2020 really want go alone friends really nerdfighters would love buy tickets together 37 piece sit together order soon sit near front pls dm tumblr username,positive,0.9275,positive,0.17142857142857146,12/03/2019
+posts,looking analysis tutor removed,neutral,0.0,neutral,0.0,12/03/2019
+posts,incoming exchange student question hi guys coming gatech exchange upcoming semester spring 2020 important queries would grateful help bank account open bank offers students better schemes telecom plan join staying around months need least 2gb data month economical option open family plan options well thank,positive,0.961,positive,0.14285714285714285,12/03/2019
+posts,reading week removed,neutral,0.0,neutral,0.0,12/03/2019
+posts,fight fast fashion clothes swap hi georgian techians anyone interested winter clothes swap everyone would allowed participate ticket enter bring least one item clothing would like get rid thinking clothes leftover end one took could donated would anyone interested participating helping organize yay fighting fast fashion good luck finals believe aalllll lt 333 amp x200b edit due late semester going plan something early spring semester instead,positive,0.9169,positive,0.10833333333333334,12/03/2019
+posts,please fill cios 1301 classes deleted,positive,0.4648,neutral,0.0,12/03/2019
+posts,anyone metal detector deleted,neutral,0.0,neutral,0.0,12/03/2019
+posts,trying get christmas spirit come stop student center noon tomorrow saxiest holiday performance see year saxy christmas ensemble annual performance student center near chick fil 12 00 tomorrow come listen classic holiday tunes,positive,0.6688,neutral,0.016666666666666663,12/03/2019
+posts,tempted carry away peters,neutral,0.0,neutral,0.0,12/03/2019
+posts,support fellow filmmakers destress finals tonight student film screening midtown art cinema,positive,0.4574,neutral,0.0,12/03/2019
+posts,changing spring internship summer internship got offer company really want work already accepted another offer spring could ask hiring manager could considered position summer tech company btw,positive,0.4491,positive,0.2,12/03/2019
+posts,attention anyone cs 1371 removed,neutral,0.0,neutral,0.0,12/03/2019
+posts,everybody taking econ 2100 2101 removed,neutral,0.0,neutral,0.0,12/03/2019
+posts,everybody taking econ 2100 2101 removed,neutral,0.0,neutral,0.0,12/03/2019
+posts,friends made game data breach lmc class wanted share,positive,0.6486,negative,-0.4,12/03/2019
+posts,airpods found found airpods case one left airpod construction bridge turn,neutral,0.0,neutral,0.0,12/03/2019
+posts,everybody taking econ 2100 2101 removed,neutral,0.0,neutral,0.0,12/03/2019
+posts,good luck everyone chem 1310,positive,0.7096,positive,0.7,12/03/2019
+posts,wrong gatechdining com wanted check food truck schedules btw gatechdining com wanted install sort chrome extension seem like right link deal edit link,negative,-0.2406,negative,-0.10714285714285715,12/03/2019
+posts,buzzport broken registration received permit cs4803 ai society ethics course currently enrolled 16 hours accepting course would put 19 hours therefore unable accept course go drop another class enroll course get error repeatedly amp x200b sfkedit _update _regs 20051 ora 20051 sskfunc _upd _section _hours 4098 ora 04098 trigger prodsupp st _ssbsect _as _ldi invalid failed validation amp x200b think issue updating registration status backend buzzport contact ideally permit expires 30 morning fix issue amp x200b update tried several browsers phone roommate unable add class cool get course wanted buzzport machine broke,negative,-0.5279,negative,-0.08124999999999999,12/03/2019
+posts,dr yan 1552 cios sections almost 100 cios pls part,positive,0.2225,neutral,0.0,12/03/2019
+posts,ever touch suzy watson phillips anything es ecoa cs 1331 removed,neutral,0.0,neutral,0.0,12/03/2019
+posts,comp sci ta predicting final exam grades deleted,neutral,0.0,neutral,0.0,12/03/2019
+posts,ever take suzy watson phillips especially cs 1331 removed,neutral,0.0,neutral,0.0,12/03/2019
+posts,culc starbucks finals hours deleted,neutral,0.0,neutral,0.0,12/03/2019
+posts,cs 1331 good time take suzy watson phillips literally came ap cs extra topics like adt recursion etc class makes want die make want cs less added stress wish take life also like state appreciation tas great edit mostly venting class post expect gain attention lot people okay class okay think felt fine part frustrating moments moment,positive,0.9201,positive,0.31666666666666665,12/03/2019
+posts,cruel yellow jacket thesis,negative,-0.5859,negative,-0.5,12/03/2019
+posts,someone send last 1371 hw assignments deleted,neutral,0.0,neutral,0.0,12/03/2019
+posts,thank crc wholesome,positive,0.3612,neutral,0.0,12/03/2019
+posts,cs2110 cios ayo done cios yet please,positive,0.4648,neutral,0.0,12/03/2019
+posts,everybody taking econ 2100 2101 deleted,neutral,0.0,neutral,0.0,12/04/2019
+posts,happens return campuscloset rental really late removed,neutral,0.0,negative,-0.3,12/04/2019
+posts,changing major academic warning probation deleted,neutral,0.0,neutral,0.03125,12/04/2019
+posts,isye 4034 vs cs 4641 considering taking either isye 4034 decision data analysis cs 4641 machine learning next semester isye elective anyone taken opinion,neutral,0.0,neutral,0.0,12/04/2019
+posts,pol 1101 final removed,neutral,0.0,neutral,0.0,12/04/2019
+posts,rare singing president cabrera give good luck finals,positive,0.7096,positive,0.5,12/04/2019
+posts,fail pass fail class affect gpa get credit class removed,negative,-0.6892,negative,-0.5,12/04/2019
+posts,coffee grace house today 6pm free global mission dinner 6pm,positive,0.7269,positive,0.2,12/04/2019
+posts,1101 1102 portfolio professors typically grade heard many give 100s,neutral,0.0,positive,0.16666666666666669,12/04/2019
+posts,justin ultimate recruiter,neutral,0.0,neutral,0.0,12/04/2019
+posts,find new couch give money payment good info hello friendly university musician network president spring semester least couch student run arts space music venue home musician network shows mn helps put shows events many organizations departments within space daytime serves relaxing public lounge music atmosphere also practice spaces studio know many remember previously informed couch going upcoming student center demolition may 2020 plans new one built new campus center constructed musician network practice spaces studio remain however end student run arts space campus meeting vp campus services kasey helton senior director student center lindsay bryant undergraduate student body president pooja juvekar musician network looking alternative locations around campus serve location new couch wants needs would make location suitable ability accommodate 50 persons capacity ability install sound system big speakers equipment sound booth ability loud play amplified music space install stage lighting space store equipment easy access patrons load bathroom access space function daytime lounge visibility necessarily need met better ideas far shots dark completely wall fine brainstorming look feasibility future living learning communities room near wing zone woody food court second floor barnes noble wreck techs space east campus brittain rec rent storefront tech square somewhere library lol noise somewhere near football stadium somewhere around biotech quad know restaurant area somewhere bill moore student success center biltmore building basement dalney parking deck somehow nav west north illusions18 wacky campus ideas church west crc church north 10th annex bookstore things talked meeting forgot mention sorry coda kandeda building freshman connector west village scheller tower saa house paper building aware home ilovesilverforks organization currently occupy spaces mean step toes suggestions overseen campus services easiest solution would likely starting conversation different department could also possible anyhow good ideas underused spaces campus could suit needs want hear venmo every good unique suggestion offer personally club gt organization 50 info possible spaces ones thank help heath murphy musician network president,positive,0.9956,positive,0.17176097711811994,12/04/2019
+posts,sic ga photographer uninsured equipment,neutral,0.0,neutral,0.0,12/04/2019
+posts,like thank professor sponsoring today inevitable mental breakdown 11pm teach us hour half new material yesterday final tomorrow fact material section cover final still rest semester review please let never happen,positive,0.6249,neutral,-0.021717171717171718,12/04/2019
+posts,ece2031 lab manual sale deleted,neutral,0.0,neutral,0.0,12/04/2019
+posts,cs profs like,positive,0.3612,neutral,0.0,12/04/2019
+posts,panda express milk tea milk tea panda express good,positive,0.4404,positive,0.7,12/04/2019
+posts,brief moment calm ever get stressed put notes take minute break look window feel calm peace everything grades seem relevant fear performing lower friends subconsciously looking abilities disappear imposter syndrome fades think knowledge learned semester cool projects might want apply ever get free time finishing posting reddit pick notes go back damn wish could hold onto feeling,positive,0.7002,positive,0.21875,12/04/2019
+posts,poker anyone campus play poker much experience know play love join,positive,0.9246,positive,0.35,12/04/2019
+posts,ʎlddɐ oʇ ʇuɐʍ suɐᴉlɐɹʇsn ǝsɐɔuᴉ ʇsnſ deleted,neutral,0.0,neutral,0.0,12/04/2019
+posts,ʎlddɐ oʇ ʇuɐʍ suɐᴉlɐɹʇsn ǝsɐɔuᴉ ʇsnſ,neutral,0.0,neutral,0.0,12/04/2019
+posts,gt dining way use leftover meal swipes post title says meal swipes use share going sort currency exchange event like past swipe 10,positive,0.6901,negative,-0.25,12/04/2019
+posts,good luck finals everyone,positive,0.7096,positive,0.7,12/04/2019
+posts,friendly reminder bike lights required law night mention dusk nearly invisible bike generally moving quick please make small investment safety others,positive,0.8074,positive,0.12166666666666667,12/04/2019
+posts,back wish everyone good luck finals told loves hopes amazing,positive,0.9578,positive,0.43333333333333335,12/04/2019
+posts,spring internship housing question deleted,neutral,0.0,neutral,0.0,12/04/2019
+posts,good time review institute exam reading day policies deleted,positive,0.4404,positive,0.7,12/04/2019
+posts,help made bad choices might kicked deleted,negative,-0.0923,negative,-0.6999999999999998,12/04/2019
+posts,spring housing balance deleted,neutral,0.0,neutral,0.0,12/04/2019
+posts,props counter propaganda,neutral,0.0,negative,-0.1,12/04/2019
+posts,late night bites question anyone know late night bites going happen semester finals week,neutral,0.0,negative,-0.3,12/04/2019
+posts,midnight madness still thing,negative,-0.4404,neutral,0.0,12/05/2019
+posts,lost airpods anyone found airpods psyduck case please message last seen library 6th floor tuesday night thank,positive,0.4469,neutral,0.0,12/05/2019
+posts,lost airpods psyduck case found please message last seen library 6th floor tuesday night thank,positive,0.4469,neutral,0.0,12/05/2019
+posts,deal finals stress serious time semester felt like would good share tips dealing finals stress,positive,0.25,positive,0.18333333333333332,12/05/2019
+posts,econ 2101 institute official final exam schedule website take econ 2101 professor mikhail klimenko recent note said final exam time location posted institute official final exam schedule website found kinda freaking know final someone help,neutral,0.0498,neutral,0.0,12/05/2019
+posts,tell toastiest places study help campus apartment way cold focus,positive,0.4574,negative,-0.6,12/05/2019
+posts,whomever set fire alarm maulding 3am fuck order pizza next time,negative,-0.8074,negative,-0.2,12/05/2019
+posts,study tips removed,neutral,0.0,neutral,0.0,12/05/2019
+posts,carpool karaoke president cabrera,neutral,0.0,neutral,0.0,12/05/2019
+posts,1332 section cios deleted,neutral,0.0,neutral,0.0,12/05/2019
+posts,finals week,neutral,0.0,neutral,0.0,12/05/2019
+posts,lizzy came visit work wishes well finals,positive,0.4019,neutral,0.0,12/05/2019
+posts,study space gtpd tired spending hours searching culc study spot finals look gtpd offering community room extra study space duration finals room comes rollable tables chairs whiteboards plenty outlets electronic needs,negative,-0.7163,negative,-0.2,12/05/2019
+posts,looking buy parking pass winter removed,neutral,0.0,neutral,0.0,12/05/2019
+posts,coe 3001 prereqs ae major flowchart lists math 2552 prereq coe 3001 degreeworks says take coe 3001 concurrently math 2552 listen,neutral,0.0,positive,0.0625,12/05/2019
+posts,campus housing experiences friends considering living campus next year looking housing options near campus live together house large apartment leasing renting companies realtors specifically avoid suggestions regarding year long leases need place 10 months words advice consider anyone good bad experience regarding campus housing greatly appreciate hearing thanks,positive,0.8149,positive,0.15562770562770564,12/05/2019
+posts,gofundme tuition say quite ked international student propaganda kingdom list supporting hong kong protest meaning bank account suspended ended education training centre go back thanks instagram friend may know wanker reported authority meanwhile beloved communist father left mom last month taking away almost money love challenge life maybe far asking good idea start campaign like find co signer get loans yes research gra come next semester prove first place meaning free research next semester go restaurant bartending illegal must focusing work asking advice feeling begging money somehow wanna screw pride ask help fellows good exam say good luck cos last thing want let see many upvotes unfortunately see downvotes meanwhile ask options getting support school update currently applying academic coach see happens thanks support advice hope best love update submitted asylum application gets granted able work part time student student allow work first year,positive,0.9956,positive,0.22678571428571428,12/05/2019
+posts,kind gt student win thanks kind student mailed found one students notebooks lt location gt green subject notebook multiple classes like math 3012 reuben cs 4863 bruckman read name exactly think reads lt first name last initial gt know owner could tell call email would like back assume finals week might stressed without found notebook owner rock,positive,0.8294,positive,0.19444444444444442,12/05/2019
+posts,1331 ppl fill cios removed,neutral,0.0,neutral,0.0,12/05/2019
+posts,philosophy final removed,neutral,0.0,neutral,0.0,12/05/2019
+posts,spotted 100 midtown wonder realize basically cs meme,neutral,0.0,neutral,0.0,12/05/2019
+posts,students supporting students message undergraduate graduate sga hello yellow jackets hope exciting thanksgiving break gearing final stretch semester semester comes close overwhelming say least studying multiple final exams finishing group projects late night study sessions time may feel immense stress balancing everything yellow jackets alright feel way take care roommates friends last two weeks semester friend needs someone talk remember wish seek professional help hours please dial 404 894 2575 reach counselor two us available ever feel need talk person white gold pooja narayan,positive,0.9753,positive,0.06333333333333334,12/05/2019
+posts,gatech physics students prove earth flat,neutral,0.0,neutral,-0.025,12/05/2019
+posts,good luck,positive,0.7345,positive,0.7,12/05/2019
+posts,apph 1040 final exam removed,neutral,0.0,neutral,0.0,12/05/2019
+posts,buzzport letting register waitlisted course got waitlist course access registration page reason anything advisor help tomorrow doubt cause unhelpful waitlist expires like hours edit well found advisor going 9th really glad georgia tech really making state tuition worth,positive,0.9508,positive,0.3333333333333333,12/05/2019
+posts,apph 1044 fall 2019 final deleted,neutral,0.0,neutral,0.0,12/05/2019
+posts,apph 1040 final fall 2019 removed,neutral,0.0,neutral,0.0,12/05/2019
+posts,anyone know happened around aepi tonight 12 19 gtpd vehicles ambulance outside,neutral,0.0,neutral,0.0,12/05/2019
+posts,final ques would rather go final feeling well rested underprepared well prepared unrested,positive,0.6428,neutral,0.0,12/05/2019
+posts,stress levels ga tech hey folks hs senior trying decide going uga honors get ga tech thoughts mental health aspect tech,positive,0.2168,negative,-0.1,12/06/2019
+posts,got,neutral,0.0,neutral,0.0,12/06/2019
+posts,guys cios xxxx,neutral,0.0,neutral,0.0,12/06/2019
+posts,need commencement ticket elderly relative caretaker removed,neutral,0.0,neutral,0.0,12/06/2019
+posts,know needs read got hi local insomniac little pick 45 typing think gonna sleep urge write probably god plan work shoutout drake fine gonna great finals even matter great person unique literally one like smart complex design meant something world grade going change loved even know promise someone thought today crossed someone mind get focusing studying right take second ponder might little blip meaningless meaningful see existence without presence universe literally could function know might seem huge right years regret get caffeine system need keep grinding kid got love goodnight,positive,0.9868,positive,0.2413165266106443,12/06/2019
+posts,anybody looking new place starting january removed,neutral,0.0,positive,0.06818181818181818,12/06/2019
+posts,mediation spots campus anyone know peaceful amp quiet potential meditation spots campus preferably nature little,positive,0.5514,neutral,0.015625,12/06/2019
+posts,anybody want fully furnished bed bath tech square 1000 cash upfront lease transfer removed,positive,0.0772,neutral,0.0,12/06/2019
+posts,anybody want fully furnished bed bath tech square 1000 cash upfront lease transfer removed,positive,0.0772,neutral,0.0,12/06/2019
+posts,outlets culc anyone know outlets culc fifth floor working trying study,neutral,0.0,neutral,0.0,12/06/2019
+posts,lab due finals one professor last lab due december 12th right end finals students complained due finals professor wrote gt concern raised fact final assignment lab 10 due final exam period wanted reassure everyone clearly within rules given lieu final exam gt rules state assessment final examination replacement may due final examination period assignment considered replacement final exam gt best luck lab 10 hope enjoyed course judging rule 12 syllabus valid copy class syllabus case missed something anything else worth mentioning defense even worth pushing topic risk professor getting vindictive,positive,0.9545,positive,0.08214285714285716,12/06/2019
+posts,professor changed project grade half letter grade allowed deleted,neutral,0.0,negative,-0.16666666666666666,12/06/2019
+posts,psa tomorrow syracuse game gt mbb plays syracuse tomorrow noon playing syracuse home comes slightly different expectations games namely airball familiar chant crowd opposing player completely misses rim backboard shot airball supposed remind every single time ball defensively chanting airball syracuse two years ago completely shut one starters john gillon went 10 field three finished game points syracuse fan got fed airball chants called josh pastner complain pastner response airball shirts advance next home game orange mean saturday bring lot energy airball shirt get ready hound whichever poor soul syracuse dares airball first chants saturday noon mccamish,positive,0.7124,negative,-0.0737637362637363,12/06/2019
+posts,options students apartments outside campus recommendation westmar good,positive,0.533,positive,0.35,12/06/2019
+posts,printing picture media studio print high quality pictures could print one want one christmas gift lol,positive,0.7476,positive,0.48000000000000004,12/06/2019
+posts,good place study campus seats library else good place studying notice three classrooms open studying night study day,positive,0.6767,positive,0.4666666666666666,12/06/2019
+posts,parking sat basketball game years parked methodist church 10th attending tech sports events lot longer available recommendations inexpensive free parking park home park without permit saturday,positive,0.4606,positive,0.13333333333333333,12/06/2019
+posts,chbe transport ii cios please removed,positive,0.3182,neutral,0.0,12/06/2019
+posts,ms gra rate typical monthly stipend masters student gra,neutral,0.0,negative,-0.16666666666666666,12/06/2019
+posts,anyone else feel like georgia tech community finals week togetherweswarm thegeorgiatechfinalsweekexperience,positive,0.3612,neutral,0.0,12/06/2019
+posts,join oit network team hiring spring 2020 oit network services looking students interested gaining experience supporting operating aspects enterprise network spring 2020 semester variety opportunities available students contribute including network support wireless network auditing fiber optic infrastructure support software web application development one position available four aforementioned opportunities spring 2020 semester full details four positions well hiring application found website pay rate 13 15 hour hours schedule 20 hours max per week within 7am 5pm time frame flexible scheduling around commitments questions feel free comment send dm send email network jobs oit gatech edu,positive,0.9783,positive,0.2928571428571428,12/06/2019
+posts,happens file academic grievance professor considering filing academic grievance professor violating two institute policies regarding final exams file academic grievance happens next professor know filed need testify front committee,negative,-0.9295,neutral,0.0,12/06/2019
+posts,roommate needed midtown br ba 1150 removed,neutral,0.0,neutral,0.0,12/06/2019
+posts,lost airpoddss anyone seen airpods psyduck casing last seen tuesday night library please message seen,negative,-0.4406,neutral,0.0,12/06/2019
+posts,mini fridge throwing remove personally,neutral,0.0,neutral,0.0,12/06/2019
+posts,dear yellow jackets invited gpa funeral,neutral,0.0258,neutral,0.0,12/06/2019
+posts,lost jewelry gatech hotel parking garage removed,negative,-0.3182,neutral,0.0,12/06/2019
+posts,subleasing room bedroom apartment signature west midtown previously theory west midtown removed,neutral,0.0,negative,-0.16666666666666666,12/06/2019
+posts,happy finals season thought sweaty nerds might enjoy,positive,0.7845,positive,0.6000000000000001,12/06/2019
+posts,take break folks friday night deserve take breather ama tell something looking forward post finals break getting sleep course start discussion comment thread anything really think good break isolated bubble studying bit trees huh kinda red pretty man love fall,positive,0.8402,positive,0.32999999999999996,12/06/2019
+posts,prof tas see cios provide context filling cios one classes tried anonymous possible without giving away answers portion portion linked way professor reads guess really want happen question professors receive cios answers separately anonymous student read student responses one one feedback portion piled students answers section piled together section together etc anyone ta seen format greatly appreciate reply,positive,0.4894,positive,0.3333333333333333,12/06/2019
+posts,know anything final also fill cios class stop spamming subreddit goddamn inane posts finals go ask professor god forbid classmates hell 90 could probably look syllabus final exam matrix also give rat ass cios random ass class chances finding anybody class reddit also already filled cios small even worth time post threads desperately begging people fill go make posts piazza class actually reach people personally,negative,-0.733,negative,-0.07222222222222222,12/06/2019
+posts,cios plz neeeed extra credit attn cios insert class get people extra credit announcement deleting posts begging cios completion,positive,0.6705,neutral,0.0,12/06/2019
+posts,spontaneous event service hi wondering feedback idea thinking would appeal would app got existing events around campus facebook gt rss feed etc displayed events day give sense spontaneity students also broadcast spontaneous events studying going crc see students would want come day may may already written app deployed asking feedback publicly humiliate anyways,negative,-0.0943,positive,0.39999999999999997,12/06/2019
+posts,good therapists midtown feeling urge pay someone listen life problems kinda ghosted last therapist really time go trying random ones looking recommendations edit case someone else searches allison mangone pretty awesome blocks away scheller,positive,0.7717,positive,0.27499999999999997,12/07/2019
+posts,creating next day breach tees twitter,positive,0.296,neutral,0.0,12/07/2019
+posts,biol 1510 final removed,neutral,0.0,neutral,0.0,12/07/2019
+posts,ece 3040 class attendance usually required many hours week expect,neutral,0.0,positive,0.125,12/07/2019
+posts,students bernie sanders community cavas hey guys amp x200b looking forward ga tech students bernie group meet tomorrow pm word street meeting tech green post game 2nd term meet amp x200b solidarity,positive,0.296,negative,-0.20000000000000004,12/07/2019
+posts,course schedule removed,neutral,0.0,neutral,0.0,12/07/2019
+posts,finals got get holiday cheer tonight couch 8pm,positive,0.7424,neutral,0.0,12/07/2019
+posts,happy finals everyone,positive,0.5719,positive,0.8,12/07/2019
+posts,temporary parking passes understand possible purchase temporary parking passes daily weekly monthly searching around able find purchase apologize advance missed something obvious anyone knows would helpful thanks,positive,0.8176,positive,0.13999999999999999,12/07/2019
+posts,music technology minor hey 2nd year ee looking adding music technology minor really heard ton played instruments dabbled around making music many years thought might fun interesting change pace classes ee also really enjoy analog circuits design figure would pair well analog nature music music tech minors majors thoughts inputs love hear thanks,positive,0.9841,positive,0.25,12/07/2019
+posts,butts butts,neutral,0.0,neutral,0.0,12/07/2019
+posts,website calculates whether fill cios based submission percentage needed extra credit,positive,0.3818,neutral,0.0,12/07/2019
+posts,important deleted,positive,0.2023,positive,0.4,12/07/2019
+posts,barnes noble barnes noble price match dicks sporting goods want water bottle half price dicks,positive,0.743,positive,0.3444444444444444,12/07/2019
+posts,anybody extra graduation tickets fall 2019 willing pay removed,neutral,0.0,positive,0.125,12/07/2019
+posts,roommate needed removed,neutral,0.0,neutral,0.0,12/07/2019
+posts,rpi gets destroyed redditers post makes incredibly thankful go removed,neutral,0.0155,positive,0.9,12/07/2019
+posts,marta train full sic ga fans rn smells like cow patties despair,positive,0.0516,positive,0.10833333333333332,12/07/2019
+posts,fr ck georgia deleted,neutral,0.0,neutral,0.0,12/07/2019
+posts,fr ck georgia,neutral,0.0,neutral,0.0,12/07/2019
+posts,geaux jackets,neutral,0.0,neutral,0.0,12/07/2019
+posts,math department take letters recommendation grad school dec 20 deadline anyone success letters rec submitted deadline graduate math dept late plan call dept monday since weekend figured could ask first,positive,0.4386,positive,0.08333333333333333,12/07/2019
+posts,biol 1510 removed,neutral,0.0,neutral,0.0,12/07/2019
+posts,geaux tigers thwg,neutral,0.0,neutral,0.0,12/07/2019
+posts,anyone know limon amp chile willage closed hello wondering anyone knew taco place willage closed past two days really pressing issue really like tacos thanks,positive,0.7608,neutral,0.025000000000000005,12/08/2019
+posts,math 2552 prof yingjie liu removed,neutral,0.0,neutral,0.0,12/08/2019
+posts,people go leisurely stroll brittain dining hall monday night,neutral,0.0,neutral,0.0,12/08/2019
+posts,gt bus drivers absolute madlads,positive,0.4278,positive,0.2,12/08/2019
+posts,bioinformatics club removed,neutral,0.0,neutral,0.0,12/08/2019
+posts,people internships people internships summer luck first round career fair heard back pretty much anyone else yet trying figure point need start looking summer options,positive,0.7691,positive,0.19999999999999998,12/08/2019
+posts,submit recommendation letters hello applying international freshmen gatech want submit recommendation letters school allowed upload onto common app idk school mail email official documents submitted school ok tried emailing gatech received reply,positive,0.4039,positive,0.06666666666666667,12/08/2019
+posts,fall 2020 transfer admissions removed,neutral,0.0,neutral,0.0,12/08/2019
+posts,umami dumplings anyone know dumplings umami find listed anywhere menu feel like ask person know give true answer,positive,0.6553,positive,0.35,12/08/2019
+posts,west village umami closing hello fellow students heard umami may closing next semester due fact get much business willage way see instead removing businesses well management change businesses well jackets know anything students,positive,0.5514,neutral,0.025000000000000005,12/08/2019
+posts,butts butts butts,neutral,0.0,neutral,0.0,12/08/2019
+posts,smh almost dining employees rude unfriendly,negative,-0.3939,negative,-0.3,12/08/2019
+posts,questions repp removed,neutral,0.0,neutral,0.0,12/08/2019
+posts,questions rep hi currently attend university want transfer gt however since meet requirements thinking transferring gsu perimeter dunwoody rep 2020 fall semester wondering anyone ever taken online classes rep also noticed cs considered engineering major rep rep would better taking cs courses gsu perimeter try transfer gt long take graduate rep gt,positive,0.9013,positive,0.128125,12/08/2019
+posts,reneging spring offer removed,neutral,0.0,neutral,0.0,12/08/2019
+posts,gt dining logic,positive,0.4278,neutral,0.0,12/08/2019
+posts,reneging spring offer removed,neutral,0.0,neutral,0.0,12/08/2019
+posts,grace house study hall hours starting tonight free drip coffee cookies,positive,0.7891,positive,0.2,12/08/2019
+posts,crowded tech trolley,neutral,0.0,neutral,0.0,12/08/2019
+posts,changing major phase removed,neutral,0.0,positive,0.0625,12/08/2019
+posts,full year parking pass tried looking pts website driverseat gatech edu throws error main website pretty useless full year parking passes 2020 2021 come priority determined want park somewhere east campus preferably peters thanks,positive,0.7271,positive,0.1361111111111111,12/08/2019
+posts,concerned abt sign,neutral,0.0,neutral,0.0,12/08/2019
+posts,loud bang west side anyone west campus hear loud bang power flicker anyone know happened,neutral,0.0,positive,0.1,12/08/2019
+posts,sign deleted,neutral,0.0,neutral,0.0,12/08/2019
+posts,sign,neutral,0.0,neutral,0.0,12/08/2019
+posts,come pack house georgia tech hosts volleyball quarterfinals tuesday,neutral,0.0,neutral,0.0,12/08/2019
+posts,transferring georgia tech help removed,neutral,0.0,neutral,0.0,12/08/2019
+posts,transferring georgia tech help removed,neutral,0.0,neutral,0.0,12/08/2019
+posts,use caution afternoon student walking ferst drive near student center approached unknown male subject asked borrow student cell phone make call allowed unknown male subject fled location student cell phone cautious solicited street strangers feel uneasy contact georgia tech police department 404 894 2500 assist,negative,-0.4588,negative,-0.06666666666666667,12/08/2019
+posts,forgot go final focused final paper forgot final exam even existed pass fail elective still went class homeworks get credit first semester already fucked really sure go happens fail class edit number threads going comments recap exam putnam saturday also got final paper date wrong moron point fighting permissibilty saturday exam,negative,-0.9844,negative,-0.1954545454545455,12/08/2019
+posts,phone interview removed,neutral,0.0,neutral,0.0,12/09/2019
+posts,forgot something checked lost fee account get fee waived return,neutral,0.0,neutral,0.0,12/09/2019
+posts,ga tech essay feedback hey guys high school senior applying ee university could anyone current students uni please go essay really worried quality thank advance,positive,0.4387,positive,0.12,12/09/2019
+posts,222 pretty good episode 10,positive,0.8208,positive,0.475,12/09/2019
+posts,changed public policy hoo boy way longer thought going buckle kiddos amp x200b reference came ae student somehow gotten head going engineer ifs ands buts even pushed particularly hard direction like family pressured somehow 16 simply became obvious going engineer always good math science classes never really enjoyed course realized engineering major basically going non stop math whole career realize flashing warning light ignored plan committed change applying bit hard time extracurriculars engineering based debate club etc warning sign kept going set path felt responsible change got accepted got started classes interesting slightest classes even mildly engaging pair philosophy ethics classes took needed pad schedule engineering sciences classes dreadful figured put time lower level classes maybe things would get better finished year one strong gpa hoped things would improve first summer first year internship thought lucky get guess experience absolutely atrocious engineering intern aerospace company working certification engineering probably worst experience life soul crushing understatement worked cubicle nine hours day absolute limit intern experience officially provided company two catered lunched video calls interns locations ticket baseball game fair company fault leader team assigned transferred within two weeks arrival leading whole department bit rudderless still terrifying look possible future spent ten weeks ever summer seven worked single excel spreadsheet one file data analysis collaborative anything would put required equations report back get new set parameters input nearly fell asleep desk sheer boredom monotony started punching calculator see exactly many seconds could leave day worse last day presented worked team seemed unimpressed one person going far asking point whole exercise returned school semester sour taste mouth second year moving classes would better right wrong classes semester tedious ever one enjoyed even little bit philosophy class schedule padder others horrible hated classes hated material hated homework became chore even show grades semester certainly suffered apathy towards classes taking know already going get worse one class prospects great either frightening thing though care classes meant nothing care well anymore checked mentally around point began seriously questioning place want aerospace anymore done engineering discipline entirely hated classes hated job course took long time actually get serious change course basically resigned career stand would never really passionate choose aerospace engineering disciplines simply thought rockets cool maybe working something interesting could eek sort satisfaction happening point like give shout certain professor hans klein taught philosophy class semester took focused illusions society one quote stuck months everyone thinks want job google really want job google told want course google target really hit nail head want aerospace engineer work spacex nasa boeing convinced wanted order keep track time get seriously need extra hours next semester take classes recommend enough knew want engineering major want well actually came pretty obviously love politics government volunteered 2016 election actually met senator polling place election day went political rally preferred candidate name dear lord need open worms favorite classes high school civics economics later ap government politics month ago stayed late watching canadian election results even canadian read news opinion articles daily hell one preloaded tabs phone went boy state sort camp high schoolers put american legion basically huge mock government fictional state runs week signs looking back frustrating deliberately ignored signs run engineering track started think maybe maybe engineering generation version doctor lawyer degree everyone looks pinnacle success public policy though made official switch yet pursuing public policy degree minor international affairs begun exploring transferring schools made decisions yet stay take extra year much rather degree look forward one hate officially change major decide stay next semester kind strange right finals week exactly none actually count towards public policy course want well keep gpa taking hit anyway pretty good beforehand hurt much pressure way way lower best end world great bit side story last regular physics exam weeks ago pm help realized night completely forgot exam coincidentally earlier day made mind change majors dad swears self sabotage subconscious mind telling exactly direction going sure believe food thought next semester coming back suite public policy international relations classes might leave calculator home go back christmas break another semester like would hard time making trip airport honestly say think next semester better moral story make sure want something feels wrong let convinced following dreams really examine want life thanks reading,negative,-0.9976,neutral,0.024276483320600978,12/09/2019
+posts,hello guys please hate posting feedback friends worked anonymous chat application college students right open 70 universities outside usa 10 inside usa gtech one please take look totally free,positive,0.921,neutral,-0.022857142857142864,12/09/2019
+posts,fix windows 10 keyboard typing wrong characters changed shift,negative,-0.4767,negative,-0.5,12/09/2019
+posts,transferring georgia tech deleted,neutral,0.0,neutral,0.0,12/09/2019
+posts,professor genuinely awful semester want report know semester went abroad took six week course really shit show prof assigned ungodly amounts reading incredibly dense hour lectures would cover chapters lecture homework assignments material book lectures would assigned irregular schedule right exams clicker questions graded participation professor would close questions even asked give time response small lecture like hear us test worth 24 28 percent course given via word document despite class asking hard copies required show calculations draw figures icing top exams verbatim modified questions test bank pool 200 questions sounds like something desirable combination material poorly taught tests given shitty stressful way lack tas fact studying even concept driven infuriating save gpa course want anyone else go learned anything try memorize answers questions honestly point trying keep material overwhelming done cios want professor abroad program care cut class program entirely want someone accountable absolute rigor pipe dream know someone going tell study independent study tech difference teaching well testing student knowledge rigorously lazy bothered make sure concepts understood,negative,-0.9613,neutral,0.046708683473389356,12/09/2019
+posts,finals got like,positive,0.3612,neutral,0.0,12/09/2019
+posts,trying times massive de stress may sorely needed tonight hear going brittain dining hall 10pm help,positive,0.4019,neutral,0.0,12/09/2019
+posts,warning gtl ee take boussert removed,negative,-0.34,neutral,0.0,12/09/2019
+posts,warning gtl ee take boussert removed,negative,-0.34,neutral,0.0,12/09/2019
+posts,free electives final spring 2020 going really tough semester spring back back finals trying find easy elective final study,positive,0.4951,positive,0.0634920634920635,12/09/2019
+posts,ees going gtl take boussert removed,neutral,0.0,neutral,0.0,12/09/2019
+posts,warning future gtl ees take boussert would normally post rate professor since gtl take 3040 gtl approximately half class fails semester least happened last two semesters professor boussert completely unapproachable approach completely demeans allow cheat sheets give practice tests prepare well tests problems test like homework treats hour class like 12 hour class want enjoy time europe take 3040 class boussert,negative,-0.7983,neutral,-0.024074074074074074,12/09/2019
+posts,waiting package name deleted,neutral,0.0,neutral,0.0,12/09/2019
+posts,looking forward break,neutral,0.0,neutral,0.0,12/09/2019
+posts,bruh moment,neutral,0.0,neutral,0.0,12/09/2019
+posts,campus apartments looking live campus next year wondering anyone good bad recommendations campus apartments steer clear avoid amazing help appreciated,positive,0.9207,positive,0.14805194805194807,12/09/2019
+posts,3345 satish kumar anybody take class semester find rate professor online class prof thanks,positive,0.7399,positive,0.2,12/09/2019
+posts,platinum best answer bombed math 2552 final need answers hey like title says bombed math 2552 final freaking needed 80 50 bad praying professor zeng need know usually curves much heard different things tas looking somebody last spring summer anything tell curve help like said best answer gets platinum thanks,positive,0.9349,positive,0.14500000000000002,12/09/2019
+posts,amp program removed,neutral,0.0,neutral,0.0,12/09/2019
+posts,pain temporary,negative,-0.5106,neutral,0.0,12/09/2019
+posts,study abroad question removed,neutral,0.0,neutral,0.0,12/09/2019
+posts,study abroad question removed,neutral,0.0,neutral,0.0,12/09/2019
+posts,transfer program date change got offered transfer program fall 2020 year high school graduation suddenly date changed 2021 error tech help section transfer programs says valid year graduation received sort notice change tia edit contacted said error,positive,0.4879,positive,0.08,12/09/2019
+posts,trying figure cry deleted,negative,-0.4767,neutral,0.0,12/09/2019
+posts,band stop making noise please reeeee stop playing music 20 minutes study jk mean like midnight bud pls hurt,neutral,0.0,negative,-0.3125,12/09/2019
+posts,biol 1510 removed,neutral,0.0,neutral,0.0,12/09/2019
+posts,anyone seen tooth see title right molar probably somewhere towers quad north ave see please dm thanks,positive,0.6369,positive,0.24285714285714285,12/10/2019
+posts,happy late night bites day ayooooooo,positive,0.5719,positive,0.25,12/10/2019
+posts,scooter pictures seems people going around campus taking photos people scooters gotten picture taken times zooming around campus notable pretty much way edit one could explain helpful ass thought lmc photography class everyone acting like fbi bust door,positive,0.27,positive,0.2375,12/10/2019
+posts,anyone know happens go registered internship recieving institute scholarship fade void semester taking classes way apply previous costs,neutral,0.0,negative,-0.16666666666666666,12/10/2019
+posts,naive cover letter question removed,negative,-0.2732,negative,-0.3,12/10/2019
+posts,cs science requirement ap bio bio 1520 eas 1601 eas 2600 current freshman able find non ancient posts difficulty 1520 subreddit would really appreciate advice actually like bio earth science preference discipline would take one less science bio since ap credit bio 1510 1520 super hard class want stress much science focus cs heard eas easy,positive,0.9019,positive,0.13425925925925924,12/10/2019
+posts,graduating time removed,neutral,0.0,neutral,0.0,12/10/2019
+posts,ope,neutral,0.0,neutral,0.0,12/10/2019
+posts,people jarrio physics 2212 removed,neutral,0.0,neutral,0.0,12/10/2019
+posts,cs 2110 syllabus hey someone dm syllabus cs 2110 southern would greatly appreciate,positive,0.4576,positive,0.4,12/10/2019
+posts,econ 4180 help removed,positive,0.4019,neutral,0.0,12/10/2019
+posts,100 midtown lease lengths anyone lived 100 midtown could yall give little info lease lengths looking live next year current roonates wanted know options thanks advance,positive,0.5502,neutral,0.029772727272727274,12/10/2019
+posts,hell guest swipe idiot 40 meal swipes left rip dinner friends,negative,-0.7003,negative,-0.4,12/10/2019
+posts,graduation tickets removed,neutral,0.0,neutral,0.0,12/10/2019
+posts,ever ever walk final saying ok need grade bring grade insert letter grade grade drop grade insert letter grade take final realize grade drop two letter grades,negative,-0.3313,positive,0.16666666666666666,12/10/2019
+posts,taking semester part time hey poor idiot able afford school next semester ramifications dropping classes signed going next semester go also anyone taken semester go would part time student cheaper,negative,-0.8105,negative,-0.14000000000000004,12/10/2019
+posts,found lost buzz card student center removed,negative,-0.3182,negative,-0.1,12/10/2019
+posts,gpa watching play reach instead studying last two finals tomorrow deleted,positive,0.3612,neutral,0.0,12/10/2019
+posts,easiest ma4000 series class removed,positive,0.4215,neutral,0.0,12/10/2019
+posts,1553 exam removed,neutral,0.0,neutral,0.0,12/10/2019
+posts,looking gpa compared others probably better judgment wallowing despair gpa looked grade distribution gt feeling great constantly plagued stress worries able get decent master program gpa dips especially part way third year working ass past year spring fall 2019 matter seem stop dropping really sure posting think continue work hard defeatist attitude help come point undergoing even amount anything even make gpa plateau keeps falling would marginally less stressed going grad school anything need additional degree job ultimately want end line cut school least bottom barrel terms potential,negative,-0.9809,positive,0.10416666666666666,12/10/2019
+posts,1553 peeps gonna ignore dirty professors us curve better phat,negative,-0.3612,neutral,-0.04999999999999999,12/10/2019
+posts,come one,neutral,0.0,neutral,0.0,12/10/2019
+posts,never believe say,neutral,0.0,neutral,0.0,12/10/2019
+posts,multi final deleted,neutral,0.0,neutral,0.0,12/10/2019
+posts,person wrote note tech alumni sure deleted,positive,0.3182,positive,0.5,12/11/2019
+posts,person wrote note yellow jacket sure deleted,positive,0.3182,positive,0.25,12/11/2019
+posts,fill cios idiots removed,neutral,0.0,negative,-0.8,12/11/2019
+posts,gatech groundskeeping strikes nothing like waking someone leafblowing curran parking deck 45am van strobe lights flash violently window sunrise seriously wtf,negative,-0.8446,negative,-0.65,12/11/2019
+posts,10 minutes past chick fil still open deleted,neutral,0.0,negative,-0.125,12/11/2019
+posts,someone explain buzz statue google maps,neutral,0.0,neutral,0.0,12/11/2019
+posts,switching major hello hs senior starting college application right debating major marketing ga tech scheller college business time really like computer science one interest since years ago wondering decide switch major later would able switch tech scheller college business ga tech major computer science thank,positive,0.807,positive,0.1373015873015873,12/11/2019
+posts,anyone know late night bites got much worse years ago late night bites ran around month since become shorter shorter every semester point seems gone entirely anyone know happened,neutral,0.0,negative,-0.25,12/11/2019
+posts,uh deleted,neutral,0.0,neutral,0.0,12/11/2019
+posts,office president cabrera comparing us mindless robots,negative,-0.4404,negative,-0.2,12/11/2019
+posts,little chef smith kitchen,neutral,0.0,negative,-0.1875,12/11/2019
+posts,chem 1211k 1212k textbook removed,neutral,0.0,neutral,0.0,12/11/2019
+posts,youtube resource heat transfer thought would post forget winter break taking heat transfer next semester found series 26 vids significantly helpful professor easy watch pretty similar gt curriculum even using earlier edition book channel also fluid resources defbods format reason went 27 test 80 test thought would worth share,positive,0.9672,positive,0.16979166666666667,12/11/2019
+posts,one day finals everyone last stretch push got,positive,0.7112,neutral,0.0,12/11/2019
+posts,high resolution meme,neutral,0.0,positive,0.16,12/11/2019
+posts,math 1553 curve deleted,neutral,0.0,neutral,0.0,12/11/2019
+posts,shout math 1554 proffessors removed,neutral,0.0,neutral,0.0,12/11/2019
+posts,transfer student oglethorpe program honestly idea expect transfer since never heard student completed program anyone done anyone give tips idea,positive,0.2869,positive,0.6,12/11/2019
+posts,finals full moon 12 12 12 12,neutral,0.0,positive,0.35,12/11/2019
+posts,finals full moon 12 12 12 12,neutral,0.0,positive,0.35,12/11/2019
+posts,finals full moon 12 12 12 12,neutral,0.0,positive,0.35,12/11/2019
+posts,finals full moon 12 12 12 12,neutral,0.0,positive,0.35,12/11/2019
+posts,finals full moon 12 12 12 12,neutral,0.0,positive,0.35,12/11/2019
+posts,finals full moon 12 12 12 12,neutral,0.0,positive,0.35,12/11/2019
+posts,shoutout math department somehow math department graded several hundred linear algebra finals 19 hours returned everyone grades one fastest turnarounds ever seen kudos getting back fast,positive,0.6418,positive,0.06666666666666667,12/11/2019
+posts,think might actually depressed rant removed,negative,-0.6908,neutral,0.0,12/11/2019
+posts,getting spot classes transfer looked classes need take graduate major tech credit humanities english math etc full lt people away full since case see people un registering classes days semester starts faset 3rd first day 6th going forced register random classes unrelated requirements graduation faset miss crucial info faset course registration,negative,-0.6662,neutral,0.0236111111111111,12/11/2019
+posts,cs 1331 mcdaniel happened deleted,neutral,0.0,neutral,0.0,12/11/2019
+posts,sad boi hours removed,negative,-0.4767,negative,-0.5,12/11/2019
+posts,needed last final graduate title done got boys girls many time thought kick ass chew bubblegum fellow jackets,negative,-0.5423,positive,0.16666666666666666,12/11/2019
+posts,jarrio curve final phys 2212 got booty blasted went mid went hoping still make,positive,0.4215,negative,-0.19999999999999998,12/11/2019
+posts,willage drink machine says,neutral,0.0,neutral,0.0,12/11/2019
+posts,rough semester taking toll grades moving forward really bad semester semester due lot personal problems grades suffered semester exams even worse pre med scholarship really need keep gpa current second year moving forward try recover semester,negative,-0.9209,negative,-0.14062499999999997,12/11/2019
+posts,students keep hope zell miller tech sorry asked searched subreddit find recent answers wondering state students maintain gpa keep hope zell ik tech hard gpas reflect end disqualifying lot students hope versus maintaining sic ga specific percentages word mouth personal experience would appreciated,positive,0.9146,negative,-0.09861111111111114,12/11/2019
+posts,impresses georgia tech ladies quality impresses women students georgia tech getting good jobs versed various subjects good character vision creativity something else curious hear say,positive,0.9575,positive,0.32499999999999996,12/11/2019
+posts,registration open spring 2020 transfer deleted,neutral,0.0,neutral,0.0,12/11/2019
+posts,grades impressed,positive,0.4767,positive,1.0,12/11/2019
+posts,artists looking community ayo interested connecting artists area networking asking questions check community made newartistsatl post story know day grow know,positive,0.4574,positive,0.25,12/12/2019
+posts,cs 1331 curved removed,neutral,0.0,neutral,0.0,12/12/2019
+posts,shout whoever picked last night,neutral,0.0,neutral,0.0,12/12/2019
+posts,third year use freshmen forgiveness asking friend,positive,0.6486,neutral,0.0,12/12/2019
+posts,hiring student assistant spring semester opening one federal work study position prior experience needed desire learn customer service mindset important send resume,positive,0.6798,positive,0.2,12/12/2019
+posts,ece 2031 undergrad ta application finished class wondering could ta found old posts say email sent inviting students apply anyone confirm semesters anyone gotten email along lines semester yet thinking find info email prof ask process,positive,0.3939,positive,0.1,12/12/2019
+posts,shitposts best way ask dumb question,positive,0.2263,positive,0.3125,12/12/2019
+posts,ga tech graduation tickets sale removed,neutral,0.0,neutral,0.0,12/12/2019
+posts,oos applying industrial design ga tech stats important removed,neutral,0.0,positive,0.4,12/12/2019
+posts,free weird fiction campfire storytelling experience ga tech student,positive,0.3818,neutral,-0.04999999999999999,12/12/2019
+posts,everyone finished ece 3030 exam interesting,positive,0.4019,positive,0.5,12/12/2019
+posts,worst final ever taken end class,negative,-0.6662,negative,-0.5,12/12/2019
+posts,question current students mental health tech reputation high attrition unhappy students since long started mid 90 large portion issues fell tough curriculum partially indifferent faculty varied greatly department department staff person staff person relative lack avenues outlet workload started quarter system less forced students get ish together within first week class first test typically 2nd 3rd week read lot random zuckerberg nyetwork posts mental health issues true central forum issues could discussed back git newsgroups frequented many students online social media consisted icq aim chats amp x200b situation worse noticeable presence campus come long way since even though atlanta city early mid 90 way amenities activities access larger portion end last century e3 bricks concerts notwithstanding amp x200b seems like food situation taken turn worse maybe spots total get food back brittain woodruff student center food court restaurant 3rd floor athletic association athlete post ncaa ruling allow general access least time everything else hodge podge clubs professional society chapter meetings tech sponsored events atlantic station largely wasteland guys seem least access food trucks door dash uber eats etc one roommates stayed campus thanksgiving ate tostitos thanksgiving dinner access car feel like options available nowadays amp x200b anyways gives things always look better hindsight remember ever present stress guilt spending every waking moment studying homework engaging academic pursuits bolster grades knowledge also remember wishing could graduate done tests forever every single dead week definitely broke us mentally think one two dorm mates left campus mid term struggling hearing others made plans quarter semester due personal academic issues amp x200b besides asking whether climate worsened also asking many believe students able lean hard administration mental well therapy services classmates time would scoffed bit idea thinking akin asking abuser offer therapy abuse administering petting dog minutes going give respite lab reports coding assignments series major tests sure else administration could really offer odds going lighten academic load ask professors circumspect quality instruction make campus easier place thrive less energy amp effort undergrads across board seems preeeetty far fetched amp x200b seems like semester away co op internship would effective fix anything tech could practially offer amp x200b thoughts,negative,-0.9477,neutral,0.028832112332112334,12/12/2019
+posts,looking interdisciplinary design capstone teams next semester hello ee looking capstone team work next semester experience building electronics products specialty systems design circuit design pcbs testing etc analog radios also quite good high level programming like web backend systems programming etc looking cool bme project requires significant ee engineering nothing like connect sensor arduino keep wire tidy want build something cool technically challenging since senior design pretty much thing taking next semester also experience working solidworks probably good least know make simple model make sure fits rest system please pm leave comment interested project interested building something currently hooked making radar system senior design whatever actual context may,positive,0.9707,positive,0.24425000000000002,12/12/2019
+posts,graduation nintendo switch policy hey everyone looking email sent commencement figure stuff could brought graduation see whether could bring handheld video game read clear bag policy mccamish see prohibited item wanted make sure bringing switch thanks tldr want bring switch graduation,positive,0.8988,positive,0.1,12/12/2019
+posts,grade substitution worse grade got certain class last semester retook intending use grade substitution get retaking class work original grade counted towards gpa,positive,0.4805,neutral,0.04732142857142856,12/12/2019
+posts,math 2551 final rough,neutral,0.0,negative,-0.05,12/12/2019
+posts,town nothing come support jackets women volleyball semifinal saturday 7pm keefe,positive,0.4019,neutral,0.0,12/12/2019
+posts,recommendation letter working ga tech application know counselor teacher recommendation required would improve application lot leave think lot,positive,0.6237,neutral,0.0,12/12/2019
+posts,really concerned passing class deleted,neutral,0.0,positive,0.2,12/12/2019
+posts,madalein left buzzcard crc hallway removed,neutral,0.0,neutral,0.0,12/12/2019
+posts,last final fall 2019 congrats everybody take care winter break,positive,0.784,neutral,0.0,12/12/2019
+posts,urgent need grad cap deleted,positive,0.2714,neutral,0.0,12/12/2019
+posts,looking miracle graduation tickets 12 14 pay removed,positive,0.5267,neutral,0.0,12/12/2019
+posts,tax time coming important things remember american citizen love paying taxes person requires money love tax refunds even quick reminders college students receive fill tax form generally go turbotax amp block online unless special situation worked multiple states must pay taxes based worked rare occasions may also pay taxes based lived may claim dependent one else figure parents immigrant miracle praise god got job us must pay us taxes room board generally eligible deductions credits like tuition fees american opportunity tax credit godsend claim make sure eligible goes 2500 dollars tax credits receive american opportunity tax credit four years post high school credit deduction meaning reduces tax burden taxable income graduate student may eligible lifetime opportunity tax credit started grad school fall fourth year may still eligible american opportunity tax credit american opportunity tax credit provide refund 1000 circumstances usually better bet take earn much income keep t1098 forward parents necessary 10 keep track unreimbursed medical expenses sure deduct eligible 11 fellowships income surpass eligible expenses make sure keep tabs fellowships earned enough potentially pay taxes 12 may required fill paper form special tax purposes like working multiple states 13 american opportunity tax credit cannot used expenses required institute lifetime opportunity tax credit keep track books buy even school 14 georgia tech requires computer condition enrollment according student handbook means computer qualify expense purposes american opportunity tax credit university require 15 worked waitress waiter contractor tips payments income may pay taxes based earned likely get refund situation may end owing 16 investments interest bearing money market sweep accounts may required pay taxes capital gains dividends regardless whether took money future consider roth ira 17 cryptocurrency gains taxable consult turbotax one always hodl 18 better hire accountant go jail especially cognizant started small business year 19 married changes tax rules keep mind got married congrats 20 employer paying part tuition decrease eligibility credits 21 older student low income fit certain rules may eligible earned income tax credit ask turbotax 22 think correct ask questions 23 thwg congrats finals thanks reading disclaimer provide tax legal accounting advice material prepared informational purposes intended provide relied tax legal accounting advice consult tax legal accounting advisors engaging transaction go elsewhere reddit edit changed must fill tax return fill tax return,positive,0.9992,positive,0.17040372670807455,12/12/2019
+posts,gt library physical books beyond small set shelves elevator request physical books online everything digital,positive,0.4927,negative,-0.0625,12/13/2019
+posts,late drop class,negative,-0.2732,negative,-0.3,12/13/2019
+posts,tech really nice curves like curve applied everything put canvas need points turn first semester curious curving really works georgian technical state college,positive,0.8593,positive,0.19,12/13/2019
+posts,fb page carpool matching facebook page gt students employees guess meet carpool campus places say athens football trips break know gt thrift shop great people sell stuff wonder one sharing rides,positive,0.3367,positive,0.8,12/13/2019
+posts,happy holidays gtpd,positive,0.7644,positive,0.8,12/13/2019
+posts,watch gt dining page hijacked,positive,0.481,neutral,0.0,12/13/2019
+posts,favorite one deleted,positive,0.4588,positive,0.5,12/13/2019
+posts,retaking prereq coreq removed,neutral,0.0,neutral,0.0,12/13/2019
+posts,packages christmas break deleted,neutral,0.0,neutral,0.0,12/13/2019
+posts,ethernet problems anyone else ethernet problems last couple days randomly drops takes minute reconnect procrastinating studying finals games ow kept dcing zbar btw,negative,-0.4019,negative,-0.25,12/13/2019
+posts,semester everyone please remember leave reviews ratemyprofessors com especially new professors small class sizes nobody knows much helps spring registration lot edit im talking ratemyprofessor com,positive,0.6114,positive,0.07424242424242423,12/13/2019
+posts,cs 1171 longer offered cs 1171 offered anymore hearing friends modsim planning taking next year three year outline still says offered though,positive,0.3094,neutral,0.0,12/13/2019
+posts,russian lbat anyone done program would rate experience especially living host family thank love proud making thru semester,positive,0.8873,positive,0.325,12/13/2019
+posts,exchange limerick anyone exchange program limerick,neutral,0.0,neutral,0.0,12/13/2019
+posts,oit like,neutral,0.0,neutral,0.0,12/13/2019
+posts,tovey tovey struggling isye student needs advice removed,positive,0.3252,neutral,0.0,12/13/2019
+posts,tovey tovey struggling isye student needs advice deleted,positive,0.3252,neutral,0.0,12/13/2019
+posts,investment committee anyone member know info meeting investment committee tried find info online see anything,neutral,0.0,neutral,0.0,12/13/2019
+posts,test corrections finals removed,neutral,0.0,neutral,0.0,12/13/2019
+posts,one know gt dining hours break deleted,positive,0.4278,neutral,0.0,12/13/2019
+posts,class schedule next semester next semester taking 17 credit hours cs 1371 phys 2211 math 1553 chem 1310 engl 1102 classes gonna difficult workload already taken classes similar 1553 2211 1371 credits transfer,positive,0.5106,negative,-0.125,12/13/2019
+posts,dual degree co op removed,neutral,0.0,neutral,0.0,12/14/2019
+posts,wake grad day getting,neutral,0.0,neutral,0.0,12/14/2019
+posts,lost commencement tickets deleted,negative,-0.3182,neutral,0.0,12/14/2019
+posts,sitting graduation sister applied gech wants know buzz,neutral,0.0,positive,0.2,12/14/2019
+posts,people also sitting commencement post memes,neutral,0.0,neutral,0.0,12/14/2019
+posts,favourite one deleted,neutral,0.0,neutral,0.0,12/14/2019
+posts,bachelor ceremony speaker sounds drunk mumbling slurring words struggling etc anyone else ceremony rn hearing hearing,negative,-0.6767,negative,-0.5,12/14/2019
+posts,paint peeled command strips,neutral,0.0,neutral,0.0,12/14/2019
+posts,final little fuck georgia tech know going bother getting phonetically spell sound name going fuck anyways good luck everyone hope georgia tech could leave,negative,-0.0552,neutral,0.01874999999999999,12/14/2019
+posts,congrats finishing semester,positive,0.6103,neutral,0.0,12/14/2019
+posts,course code bridge class cs transfers taken math 1553 know 1554 required linear algebra cs majors googling able find information course need take get credit 1554 anyone know course code taken course compared 1553 expect going thanks response ahead time enjoy break,positive,0.9523,positive,0.3666666666666667,12/14/2019
+posts,computer science majors tech want make money helping private message deleted,positive,0.4199,neutral,0.0,12/14/2019
+posts,class fall 2019 double major stats always tell freshmen double majoring rare often good use time data back graduation noted many double majors well majors chosen 1500 bs graduates 14 students double majored majors chosen cs isye x2 cs math cs ae cs public policy business international affairs math econ bme neuroscience isye econ ae math compe cheme good god ee music tech ee cs cs,positive,0.2856,positive,0.1885416666666667,12/14/2019
+posts,vehicle fire ferst drive front crc ferst drive closed traffic flow directions atlanta fire department enroute,negative,-0.5859,negative,-0.1,12/14/2019
+posts,rha res adv housing maintenance request system feedback update hello residents gatech month ago asked assistance telling us experiences housing maintenance request system december 9th responses compiled report sent senior director facilities review proud announce rha department housing residence life working together improve maintenance request system future use would like read detailed report found using link found organization value data cannot disclose supplementary materials include identifiable information individual organization always open resident feedback take action feedback receive would like give organization valuable feedback feel free fill form enjoy winter recess jordan baxter rha director external relations,positive,0.9705,positive,0.22000000000000003,12/14/2019
+posts,2004 humanitarian bowl georgia tech vs tulsa largest weight disparity school mascots first glance 2004 humanitarian bowl relatively obscure bowl game boise fairly uninteresting lopsided game two wholly average programs yellow jackets took early lead first quarter enjoyed 10 lead halftime second half perfect storm explosive offense unforgiving defense tech scored 42 points allowing golden hurricane single touchdown tech stymied tulsa run game holding 56 yes negative yards tulsa worst ever rushing performance 125 year history football program matchup recent three two storied institutions previous two occurred 1944 1945 tech tulsa win respectively programs met bowl games particular bad blood one another field however three games occasion heaviest mascot fbs football golden hurricane competed lightest yellow jacket sbnation video places weight single yellow jacket 0001 lbs perhaps unscientifically estimates weight entire hurricane made gold 182 000 000 000 lbs mascot weight differential 181 999 999 999 9999 pounds largest ever occur fbs football game university lighter heavier mascot joins division existing school adopts new unconventional mascot know georgia tech play tulsa perhaps another 65 year hiatus hope personally would love cheer tiny mascot behemoth counterparts watching intently next time tech tulsa paths cross,positive,0.8224,neutral,0.02157888407888408,12/14/2019
+posts,day break background saw something familiar,neutral,0.0,positive,0.375,12/15/2019
+posts,gt undergraduate applicant query dear yellow jackets congrats finish finals merry christmas happy break need advice two potential freshman friends background visited gt love ambiance students body excellent standardized testing scores class valedictorian salutatorian decent ecs oos full fees candidate wants definitely become doctor med school super keen come gt parents friends warning grade deflation high pressure gt general advice given land one smaller ivys relatively chill collect move med school question whether med schools grad schools recognize gt much harder typical ivy terms grade deflation rigor curriculum things equal hard work motivation etc say gt ranked superior say brown please aim disparage gt ivys realistically figure trade offs amp x200b candidate super keen join gt florida number relatives friends georgia allergy issues minus zero weather realizes miserable cold weather ivys loves hot humid hotlanta candidate gt 75 percentile credentials late gt started deferring qualified candidates order yield protect early application already done candidate wants advice till jan 18 results date tell admissions team super keen definitely join given chance please please please deffer reject thinking candidate go ivys instead coming gt thank,positive,0.9987,positive,0.100632183908046,12/15/2019
+posts,post office keep mail study abroad keep mail packages semester need ask forward,neutral,0.0,neutral,0.0,12/15/2019
+posts,impressive game removed,positive,0.5106,positive,0.3,12/15/2019
+posts,bad grade distance math deleted,negative,-0.5423,negative,-0.6999999999999998,12/15/2019
+posts,gt kaplan center anyone ever taken prep classes gt kaplan center specifically inquiring mcat classes interested hearing experiences center,positive,0.7494,neutral,-0.012500000000000004,12/15/2019
+posts,cs people media 6000 level classes removed,neutral,0.0,neutral,0.0,12/15/2019
+posts,co op questions hey applying gtech cs fall 2020 wondering additional documentation fill co op option open everybody accepted school additionally would apply international student wondering co op terms would counted year optional practical training opt considered internship thanks advance,positive,0.6476,positive,0.06666666666666667,12/15/2019
+posts,400 utilities furnished room rent removed,neutral,0.0,neutral,0.0,12/15/2019
+posts,fall 2019 grades way view letter grades buzzport professors input final grades legitimately wait tuesday 6pm find letter grade class professors updating grades canvas,neutral,0.0,neutral,0.0,12/15/2019
+posts,cs 1331 final exam anyone know took final canvas graded took days hopefully sort error curve,negative,-0.1128,neutral,0.0,12/15/2019
+posts,tech compare applicants different high schools removed,neutral,0.0,positive,0.08,12/15/2019
+posts,math 1551 liu final grades curved deleted,neutral,0.0,neutral,0.0,12/15/2019
+posts,cs 1331 recitation class removed,neutral,0.0,neutral,0.0,12/15/2019
+posts,1551 final grades yingjie anyone know score canvas curved curved thanks,negative,-0.3412,positive,0.1,12/15/2019
+posts,dismissed gt know think failed two classes semester cum semester gpa means dismissed one semester feel shame despair edit first thank much advice support emailed one professors last night asking whether anything could responded class means able stay sure math works going question thanks,positive,0.4652,positive,0.16428571428571428,12/15/2019
+posts,fox west campus walking past zbar saw tiny fox cute please approach last year foxes rabies attack students warned,negative,-0.431,positive,0.0625,12/15/2019
+posts,fuckfall springsucks summerstupid,neutral,0.0,neutral,0.0,12/16/2019
+posts,balloon release work graduation ceremony saw graduation videos balloons released long string thats hung mccamish anyone know process works like still balloons left hanging string release probably cut revoke string release,positive,0.5588,neutral,-0.025,12/16/2019
+posts,alright one nerds,positive,0.25,neutral,0.0,12/16/2019
+posts,student health insurance price correct,neutral,0.0,neutral,0.0,12/16/2019
+posts,open letter georgia tech marching band dear friends know last season yellow jacket marching band leave final remarks rest season definitely ideal many fronts losing right play chords good portion home schedule losing fcs school frustrating losses course band ongoing struggle marketing despite still great job season brought energy every game kickoff last whistle regardless score supported team thick thin passion honor grace valor performed kick ass halftime show paid tribute music great city proud serve alongside one last time implore never let spirit die season team young scrappy raw unrefined despite talent roster lot unrefined raw times undisciplined football also team kept fighting never gave regardless score saw team bought geoff collins effort based culture first step deep rebuild belief eventually effort grit tenacity going translate winning seasons perhaps sooner anyone anticipates aside one critical reason cannot let spirit die together georgia tech band goldrush color guard cheer represent loudest proudest passionate group entire georgia tech fanbase front lines cheering team shoulder responsibility every game whether field stands outside stadium games one responsibility game days lead set example may cry may together family week week empower men football team came play around take care business fight win gonna fight till fight gonna lie bleed awhile gonna get fight turn yellow jackets loose next season love freshly graduated member,positive,0.9814,positive,0.12420722135007849,12/16/2019
+posts,caitlin leverson math 2106 opinions removed,neutral,0.0,neutral,0.0,12/16/2019
+posts,grades deleted,neutral,0.0,neutral,0.0,12/16/2019
+posts,favourite one,neutral,0.0,neutral,0.0,12/16/2019
+posts,math 2551 liu deleted,neutral,0.0,neutral,0.0,12/16/2019
+posts,get fs comments made low 89s three classes sorta brought gpa edit yup bs,negative,-0.2732,neutral,0.0,12/16/2019
+posts,grades posted removed,neutral,0.0,neutral,0.0,12/16/2019
+posts,1331 final grade get chance see grade released accident days ago took incredibly anxious see score final mcdaniels grade canvas rn anyone information become available come 6pm tuesday earlier,negative,-0.8268,neutral,0.030000000000000006,12/16/2019
+posts,getting job atlanta hi guys first congrats finishing semester long story short failed interviews positions atlanta firms offices big firms atlanta one onsite interview hand state really need get job atlanta since got married spouse good job know difficulty getting jobs defend thesis graduate spring really worried anyone give tips get job atlanta background statistics finance minored computer science internship experiences local healthcare firms guidance appreciated thank advance,positive,0.6958,positive,0.11363636363636363,12/16/2019
+posts,grades deleted,neutral,0.0,neutral,0.0,12/16/2019
+posts,grades starting come unofficial grade update update update looking good bois good job got gpa wanted hope lost tech rough one every semester done semester closer bag go jackets,positive,0.7896,positive,0.32499999999999996,12/16/2019
+posts,obligatory grades started posted post,neutral,0.0,neutral,0.0,12/16/2019
+posts,profs screw us someone explain profs post unofficial transcript grades without posting anything canvas final exam final grade like way even contest grades talk even know wrong see lower letter grade expected like hmm guess gotta deal lemme sleep next 24 hours maybe good grade thanks reading rant,negative,-0.4404,neutral,0.04285714285714286,12/16/2019
+posts,round 79 gpa resume looking unofficial grades got like,positive,0.3612,negative,-0.2,12/16/2019
+posts,dining dollars removed,neutral,0.0,neutral,0.0,12/16/2019
+posts,ece 3xxx 4xxx electives passing grade removed,neutral,0.0,neutral,0.0,12/16/2019
+posts,final grades get posted scores released canvas stories professors bumping grades come deleted,neutral,0.0,neutral,0.0,12/16/2019
+posts,positions available summer internship gtri still looking summer internship consider undergraduate research internship program urip gtri case know gtri non profit applied research division georgia tech research labs span variety disciplines gtri conveniently located campus minus cobb county research facility smyrna hires many tech students every year urip 10 week summer internship students work 40 hours week get paid upwards 20 hour work project outlined gtri researcher apply many projects want deadline january 17th update project preferences january 28th offer letters go february 3rd 7th students chosen see projects well faqs timeline link also intern past summer still work part time able answer questions may gtri urip specifically happy internship hunting,positive,0.7707,positive,0.29375,12/16/2019
+posts,math1553 removed,neutral,0.0,neutral,0.0,12/16/2019
+posts,job application timing 5th year cs major going graduate next december exactly one year start applying full time jobs thinking somewhere around late march early april would love get insight folks also start really like work sure sending application right still year away graduating would right move even considered thoughts,positive,0.8558,positive,0.20308441558441556,12/16/2019
+posts,unofficial transcript grades grades unofficial transcript final set stone,neutral,0.0,neutral,0.0,12/16/2019
+posts,boussert really bad deleted,neutral,0.0,negative,-0.6999999999999998,12/16/2019
+posts,admission deleted,neutral,0.0,neutral,0.0,12/16/2019
+posts,easy hour elective removed,positive,0.4404,positive,0.43333333333333335,12/16/2019
+posts,graduation anxiety removed,negative,-0.1779,neutral,0.0,12/16/2019
+posts,2110 3600 removed,neutral,0.0,neutral,0.0,12/16/2019
+posts,cancelling class little people registered coe 3001 kardomateas right 14 students 41 empty seats chance class cancelled due enough people,negative,-0.3818,neutral,-0.025357142857142863,12/16/2019
+posts,pass fail classes affect zell hope gpa removed,neutral,0.0,negative,-0.5,12/16/2019
+posts,makerspace atlanta hey hive really closed winter break anyone recommend sort makerspace atlanta basically need electronics equipment multimeter soldering iron solder desoldering pump wick wires shrinking tube thanks advance,positive,0.7442,positive,0.05,12/16/2019
+posts,walk spring graduation actually graduate fall removed,neutral,0.0,neutral,0.0,12/17/2019
+posts,feel first semester gpa deleted,neutral,0.0,positive,0.25,12/17/2019
+posts,georgia tech 100 000th living engineering graduate,neutral,0.0,neutral,0.0,12/17/2019
+posts,buzzport removed,neutral,0.0,neutral,0.0,12/17/2019
+posts,buzz,neutral,0.0,neutral,0.0,12/17/2019
+posts,sign back united healthcare graduating summer 2020 summer semester early may late july finishing last courses abroad complete minor finishing major credit hours spring thing summer program planning already includes international health insurance coverage would lot smarter search four five month plan marketplace spring save quite bit extra money instead paying spring summer semester combo paying another plan international coverage currently fall plan uhc also decide buy plan marketplace would school health plan fee waived sure would provide proof coverage fee tacked bursar page,positive,0.9523,neutral,0.034375,12/17/2019
+posts,research next semester forgot apply vip research next semester going finals taking 2110 hesitating finals hit jetlag 13th december hit time care credit hours minor need looking research figure interested suggestions find research cad 3d print useful mechanical engineering skills advice appreciated thank,positive,0.9576,positive,0.09999999999999999,12/17/2019
+posts,website registrar website loading checked oit status page loading either anyone else experiencing similar issue,neutral,0.0,neutral,0.0,12/17/2019
+posts,might explain website outages deleted,neutral,0.0,neutral,0.0,12/17/2019
+posts,hin 1001 removed,neutral,0.0,neutral,0.0,12/17/2019
+posts,buzzport completely unusable mobile past years come accept ridiculous design implementation buzzport recently serious problems unstable links hang ups transition pages desktop experience unreliable best mobile access particular seems hang 100 time heading student info registration pages anybody else experiencing thing know workarounds access computer pray rng lords edit aware georgia tech suffering networking issues right seems happen even outside heavy traffic moments registration final grade releases etc,negative,-0.4836,positive,0.06233766233766234,12/17/2019
+posts,looking grades graduation realizing need retake class,neutral,0.0,neutral,0.0,12/17/2019
+posts,music producing software recommendations removed,neutral,0.0,neutral,0.0,12/17/2019
+posts,identity buzz secret removed,neutral,0.0,negative,-0.4,12/17/2019
+posts,lost id campus name find would appreciate giving back much removed,positive,0.4215,positive,0.1,12/17/2019
+posts,ecuador lbat anyone done ecuador lbat experience like highlights thanks advance,positive,0.7685,positive,0.2,12/17/2019
+posts,professor advice removed,neutral,0.0,neutral,0.0,12/17/2019
+posts,gt volleyball defeats south dakota win 2019 women nivc,positive,0.6523,positive,0.8,12/17/2019
+posts,women volleyball team nivc championship go jackets,positive,0.6467,neutral,0.0,12/17/2019
+posts,academic dismissal retroactive withdrawal anyone experience applying readmission academic dismissal warning past semester dealing depression ended failing receiving academic dismissal since cs looks like would semesters apply return classes saw posts discussing retroactive withdrawal semester wondering could successfully complete withdrawal may able attend summer semester,negative,-0.5803,positive,0.05833333333333333,12/17/2019
+posts,caught someone cheating deleted,negative,-0.5574,neutral,0.0,12/17/2019
+posts,class schedule removed,neutral,0.0,neutral,0.0,12/17/2019
+posts,confirm graduated graduate december buzzport get updated go generate degree verification page says degree found degreeworks shows green ticks requirements major tech still giving stress hopefully graduated smh,negative,-0.6715,negative,-0.06875,12/18/2019
+posts,jeff sims star count 2020 recruiting class,neutral,0.0,neutral,0.0,12/18/2019
+posts,merry christmas nano hope enjoying break facebook please share fundraiser fb page nano human sister diagnosed metastatic melanoma incurable cancer thank amp see spring nano amp cupcakes marla laminack,positive,0.9467,neutral,0.0,12/18/2019
+posts,coursera 3340 deleted,neutral,0.0,neutral,0.0,12/18/2019
+posts,transfer application help asking friend looking apply tech computer science major everything requirements completed except lab science electives physics physics lab uga second class took physics 1252 dedicated lab section fulfill lab science requirement would still chance getting still applied without requirement would instantly denied,positive,0.8693,neutral,0.020833333333333332,12/18/2019
+posts,oscar still oscar time outs still happening everyone oit status says fixed nothing changed,neutral,0.0,positive,0.1,12/18/2019
+posts,new grad student looking current research hey guys incoming ms grad student mech engr reviewing possible websites research centers see ongoing projects active however date example imdl site updated since 2012 2013 find going wait start spring 2020 semester,positive,0.4696,neutral,0.0007575757575757555,12/18/2019
+posts,campus support groups students chronic health conditions deleted,positive,0.4019,neutral,0.0,12/18/2019
+posts,likes kero kero bonito met another person tech seems love kero kero bonito similar music much know clubs places people like music let know first year explored organizations campus enough thinking getting involved wrek would love meet new people next semester message interested meeting tell people like kkb statistically interesting engaging people personally pretty low key excited hang cool ppl much love peace happy holidays,positive,0.9911,positive,0.2784090909090909,12/18/2019
+posts,well someone quit chem ph bang,positive,0.2732,neutral,0.0,12/18/2019
+posts,need help deciding summer 2020 schedule removed,positive,0.4019,neutral,0.0,12/18/2019
+posts,need advice summer 2020 schedule removed,neutral,0.0,neutral,0.0,12/18/2019
+posts,bitcoin btc qr code generator coinqrcode com best safe,neutral,0.0,positive,0.75,12/18/2019
+posts,trump dog removed,neutral,0.0,neutral,0.0,12/18/2019
+posts,humanities credits deleted,neutral,0.0,neutral,0.0,12/18/2019
+posts,transferring graduate credits tactically deleted,neutral,0.0,neutral,0.0,12/18/2019
+posts,voting safe gt deleted,positive,0.694,positive,0.5,12/18/2019
+posts,dismissal academically dismissed second time know think rushed coming back school better anyone advice give hope awful headspace right please help,positive,0.4318,neutral,-0.04285714285714286,12/19/2019
+posts,students get free entrance duke game deleted,positive,0.5106,neutral,0.0,12/19/2019
+posts,grade changes submission deadline anyone much experience prof important attend classes unable modify grade time asked communicate anything distance learning tuition assistance hinges giving least crap feels unlikely,positive,0.2406,negative,-0.25,12/19/2019
+posts,isye 3232 spring 2020 professor advice removed,neutral,0.0,neutral,0.0,12/19/2019
+posts,swe internship questions removed,neutral,0.0,neutral,0.0,12/19/2019
+posts,resume question deleted,neutral,0.0,neutral,0.0,12/19/2019
+posts,cs 1301 uta deleted,neutral,0.0,neutral,0.0,12/19/2019
+posts,business students tell undergrad business program gracias,neutral,0.0,neutral,0.0,12/19/2019
+posts,additional standing question removed,neutral,0.0,neutral,0.0,12/19/2019
+posts,download unofficial transcript deleted,neutral,0.0,neutral,0.0,12/19/2019
+posts,mini diplomas graduate semester wanna able flex everyone nothing wallet thing get free mini diploma link graduated previously also get mini diploma link cost 10 posting bunch friends know figured share,positive,0.9126,positive,0.24444444444444446,12/19/2019
+posts,questions transferring gatech removed,neutral,0.0,neutral,0.0,12/19/2019
+posts,transcript say awarded degree graduated sent transcript new employer got email back said transcript needs say degree awarded say anywhere awarded degree anyone else problem change status edit sent official transcript parchment system,negative,-0.8569,positive,0.06818181818181818,12/19/2019
+posts,advanced standing grade took advanced standing exam phys 2211 idea find grade tried calling physics department everybody gone break anyone know,positive,0.1926,positive,0.4,12/19/2019
+posts,historical trivia question old guys trying resuscitate old neurons back late 60s perhaps beyond standup snack counter hill usually crowded chairs rows tall narrow tables called particular informal name like bite amp die cafeteria old dorm area ok name,negative,-0.1697,neutral,0.021666666666666657,12/20/2019
+posts,check buzzport degreeworks mobile hi campus dont access laptop check degree works buzzport mobile tried logging without vpn always get weird error showing stack trace stupid message saying logged gatech services please help,negative,-0.4215,negative,-0.6499999999999999,12/20/2019
+posts,summer campus housing questions deleted,neutral,0.0,neutral,0.0,12/20/2019
+posts,assembly language ece 2035 ece 2031 lc3 classified,neutral,0.0,neutral,0.0,12/20/2019
+posts,take lease removed,neutral,0.0,neutral,0.0,12/20/2019
+posts,housing houston summer internship recently got offer summer internship houston anyone experience finding month housing go finding know right place ask please point right direction,negative,-0.308,positive,0.19047619047619047,12/20/2019
+posts,institute electronics amp nanotechnology ien student assistant work study positions looking two motivated individuals work spring semester institute electronics nanotechnology help ien fulfill mission serving georgia tech research community tasks include design build projects cleanroom equipment installation laboratory layout tasks needed knowledge autocad required use common hand tools plus mechanical engineering preferred consider majors well hours flexible work around class schedule contact bob rose information,positive,0.872,positive,0.15,12/20/2019
+posts,freshmen summer internships common freshmen get summer internships experience,negative,-0.296,negative,-0.3,12/20/2019
+posts,credit easy humanities course removed,positive,0.6705,positive,0.43333333333333335,12/20/2019
+posts,increase chance accepted masters program tech recently graduated bs computer science school georgia gpa want know increase chances getting accepted master program tech else help since anything gpa point also gpa biggest deciding factor thanks,positive,0.9419,positive,0.1,12/20/2019
+posts,fbi director wray ag barr sod shanahan sos pompeo raped boys paid billions bribes soros amp koch funded child rape org trump impeachment team nadler schiff mueller media moguls redstone murdoch moonves setting arrest removed,negative,-0.9195,negative,-0.05,12/20/2019
+posts,tree services tree cutting service amp amp stump grinder brisbane,negative,-0.128,negative,-0.6,12/20/2019
+posts,weber scheller weber scheller doable speedwalk classes,neutral,0.0,neutral,0.0,12/20/2019
+posts,reliant energy rates plans reviews 281 612 3085,positive,0.3818,neutral,0.0,12/20/2019
+posts,psyc 1101 dr leader carlson could anyone recommend either teachers critique showing ratemyprofessor kinda iffy plus work load thanks,positive,0.7393,positive,0.2,12/20/2019
+posts,programming language cs 2110 programming languages use cs 2110,neutral,0.0,neutral,0.0,12/20/2019
+posts,clemson getting get internet running cow pasture like year ago,positive,0.4329,negative,-0.13333333333333333,12/20/2019
+posts,transferring credits repp student deleted,positive,0.3612,neutral,0.0,12/20/2019
+posts,screwed reneging got offer big consulting firm accepted got offer faang company really really want take banned career fair renege consequences could face,negative,-0.2103,positive,0.175,12/20/2019
+posts,content textbook syllabus chem 1212k hello slated take chem 1212k biology major spring dr zhang looking textbook name well chapters units covered also syllabus would helpful well thanks,positive,0.836,positive,0.13125,12/20/2019
+posts,internship housing removed,neutral,0.0,neutral,0.0,12/20/2019
+posts,allow send fell chair enjoy future data leak kiddos student _grades xslx student _addresses xlsx student _ssns xlsx student _kinks xslx,positive,0.2023,positive,0.2,12/20/2019
+posts,parking enforced holidays parking permits checked holidays resident halls areas,positive,0.4515,neutral,0.0,12/20/2019
+posts,long long name,neutral,0.0,negative,-0.05,12/21/2019
+posts,best around campus jobs looking job next semester freshman extra cash things best jobs around campus get looked bit crc housing stuff wondering anyone good recommendations liked best helps need morning job 12 looking like 6ish hours week,positive,0.9789,positive,0.6142857142857144,12/21/2019
+posts,ie start applying internships deleted,neutral,0.0,neutral,0.0,12/21/2019
+posts,ga tech student hangout everyone campus knows goes cousin coming home holidays like get gift card whatever local hangout spot restaurant sandwich shop coffee place etc thank advance,positive,0.8774,neutral,0.0,12/21/2019
+posts,8th st west desk size living 8th street west apartment coming spring semester curious large desk would unwise try bring two monitors fit desk fairly large hard get photos rooms housing opportunity visit one rooms yet,positive,0.2658,positive,0.08738095238095236,12/21/2019
+posts,music video mention going lil amp throwback holidays heard georgia tech mentioned 26 mark thought interesting lol,positive,0.8122,positive,0.65,12/21/2019
+posts,found wild applying summer internships,neutral,0.0,positive,0.1,12/22/2019
+posts,immunizations question transfer atl gtl anyone experience recently currently answer questions would grateful called multiple numbers left multiple voicemails emailed got unhelpful auto reply got back gtl france tbe transfer late notice bit rush saw immunizations come housing contract realized needed atlanta immunizations incomplete varicella meningococcal vaccines first history accepted second apparently waived went undergrad school know never got one questions based accomplish without spend 300 get vaccines gt accepts titer varicella might late january 10th get results anyone know let someone start campus conditionally record complete form says meningococcal vaccines required students 22 say though making wonder okay vaccine 22 experience help would appreciated,positive,0.9517,neutral,0.038461538461538464,12/22/2019
+posts,taking semester hey wanted know take semester return fall probably bme department international student sincerely request advice since know go talk offices visit may internships lined back home confirmed yet want months someone please advise,positive,0.7176,positive,0.225,12/22/2019
+posts,got create startup launch program anyone experience helpful tips would like share regarding experience taking program ama,positive,0.7777,neutral,0.0,12/22/2019
+posts,zvi back baby,neutral,0.0,neutral,0.0,12/22/2019
+posts,hello made discord solely making friends college georgia tech feel free join say hi idk want friends talk,positive,0.8473,positive,0.4,12/22/2019
+posts,home winter break found fridge properly stocked true tech family,positive,0.4215,positive,0.175,12/22/2019
+posts,hot women removed,neutral,0.0,positive,0.25,12/22/2019
+posts,would anybody want read georgia tech supplement high school senior applying bme,positive,0.0772,positive,0.16,12/22/2019
+posts,found hidden attic tonight,neutral,0.0,negative,-0.16666666666666666,12/22/2019
+posts,ms analytics hi 3rd year undergrad starting think postgraduation plans considering tech ms analytics program questions anyone currently formerly enrolled mind helping,negative,-0.2235,neutral,0.0,12/23/2019
+posts,spotify sync gt wifi removed,positive,0.4278,neutral,0.0,12/23/2019
+posts,biggest regrets time georgia tech class 2015 deleted,negative,-0.3612,negative,-0.1,12/23/2019
+posts,favourite one,neutral,0.0,neutral,0.0,12/23/2019
+posts,georgia tech grad applications decisions get released deadline dec 31 lot schools different wanted see anyone grad program might personal experiences application process share applied master architecture program,positive,0.4215,neutral,0.0,12/23/2019
+posts,umami prices removed,neutral,0.0,neutral,0.0,12/23/2019
+posts,parking pass spring trying buy car parking pass spring naa north deck er53 carpool pts gatech edu letting log sends back login page anyone guide,neutral,0.0,neutral,0.0,12/23/2019
+posts,think relate,neutral,0.0,neutral,0.0,12/23/2019
+posts,transfer help deleted,positive,0.4019,neutral,0.0,12/23/2019
+posts,georgia tech gear anyone know get gt gear shirt hoodies near savannah ga called around 10 places cary anything,positive,0.2732,positive,0.1,12/23/2019
+posts,transferring georgia tech hi freshman another university going say unless important may well thinking transferring georgia tech saw website applications open january 15th historically acceptance rate high transfer students people gatech transferred school anything special know application like important people talk another high school college application also interested good chance transferring feel like spewing stats yet kind soul subreddit enough spare time pm process greatly appreciate georgia tech dream school high school still dream school help would greatly appreciated enjoy holidays fellow redditors,positive,0.9928,positive,0.30580952380952386,12/23/2019
+posts,gonna increase gpa highest honours anytime 2021 saw grade distributions nearing avg gpa 55 idea scared administration might notice decide make getting highest honours something ridiculous like 95 cause sorta weird avg gpa college cutoff graduating highest honours thoughts might happen,positive,0.7752,negative,-0.41666666666666663,12/23/2019
+posts,laptop choice acer spin convertible laptop thoughts acer spin convertible laptop cheme major declaring cs minor taking either 2110 1332 spring would laptop sufficient tips,neutral,0.0,neutral,0.006249999999999999,12/24/2019
+posts,flew tech today,neutral,0.0,neutral,0.0,12/24/2019
+posts,ut georgia tech got accepted ut ece couple weeks ago still waiting gt decision get school better compe attend applied ee gt planning switching compe,positive,0.6901,positive,0.5,12/24/2019
+posts,yellow jackets would guys rate professors deleted,neutral,0.0,neutral,0.0,12/24/2019
+posts,stallworth vs kantwon cs 1371 deleted,neutral,0.0,neutral,0.0,12/24/2019
+posts,submit petition faculty online removed,neutral,0.0,neutral,0.0,12/24/2019
+posts,isye majors research deleted,neutral,0.0,neutral,0.0,12/24/2019
+posts,feliz bobby dodd,neutral,0.0,neutral,0.0,12/24/2019
+posts,good christmas holiday tidings heya jackets everyone getting ready already celebrating know timezones hope everyone happy holiday season make sure get good rest relax feel much spirit perfectly okay feeling dumps talk friends thread talk said happy break wait see spring,positive,0.9721,positive,0.55,12/24/2019
+posts,hiring two react flutter developers paid position deleted,neutral,0.0,neutral,0.0,12/24/2019
+posts,get feeling either gt engineer gt engineer already done,positive,0.7324,neutral,0.0,12/24/2019
+posts,donate clothes interested donating old clothes break remember student org soliciting clothing donations recall interested donating goodwill salvation army thanks,positive,0.85,positive,0.2,12/24/2019
+posts,anyone know honor societies invites scam even worth got couple email seems like chapters gt even worth joining,positive,0.6784,positive,0.3,12/25/2019
+posts,feasible 20 credit hour schedule cs removed,positive,0.3818,neutral,0.0,12/25/2019
+posts,feasible 20 credit semester comp sci cs 3600 cs 4641 cs 3630 isye 3770 vip easy humanities health freshman leap seminar felt comfortable 17 18 credits past semesters mostly cs math one humanities ss first semester taking thread level courses,positive,0.8001,positive,0.2666666666666667,12/25/2019
+posts,compe program georgia tech like describe experience program tell research opportunities professors internship prospects job opportunities graduation companies recruit extracurriculars cs classes within major,positive,0.836,positive,0.0625,12/25/2019
+posts,merry catmas,positive,0.5423,neutral,0.0,12/25/2019
+posts,interview admissions process deleted,neutral,0.0,neutral,0.0,12/25/2019
+posts,gt gt professor featured new youtube original 14 35,positive,0.7885,positive,0.2556818181818182,12/25/2019
+posts,update help made bad choices might kicked deleted,negative,-0.3365,negative,-0.6999999999999998,12/25/2019
+posts,chances getting gt summer fall 2020 international student used study penn state university got gpa 18 credits however transferred nc state university 20 credits scored gpa 52 think transfer effect bunch extracurricular activities volunteering leadership experiences participation clubs organizations good eventful resume calculated gpa schools got gpa 75 38 credits sure supposed calculated way however applying summer fall 2020 chances acceptance note best spring boost gpa 8ish,positive,0.9711,positive,0.55,12/26/2019
+posts,many windows 10 licenses removed,neutral,0.0,positive,0.5,12/26/2019
+posts,things campus winter break currently quarterly ish vacation sobe decided stop spend days atl heading back norcal buzzcard probably wont work access buildings next days new living building open visitors campus activities things changed last months check thanks guys super excited coming home days,positive,0.9319,positive,0.11607744107744107,12/26/2019
+posts,usage word dawg us,neutral,0.0,neutral,0.0,12/26/2019
+posts,works georgia tech mentioned video 19 million views deleted,neutral,0.0,neutral,0.0,12/26/2019
+posts,ok go pace,positive,0.296,positive,0.5,12/26/2019
+posts,best summer internship opportunities deleted,positive,0.6369,positive,1.0,12/26/2019
+posts,new years resolution gt swim club tl dr fill form entirely give making resolution terrible keeping maybe already perfect human needs improvement doubt give yet want get shape join gt swim club splash around together reserved lanes amazing coaches matter skill level never wait line machine guess exercise correctly want become social know start join gt swim club go trivia every thursday willy tailgate every football game mixers within club clubs consist welcoming people met school want boost resume learn leadership skills join gt swim club 12 leadership positions social media management treasurer fundraising time commitment spanning hours month hours day become leader one largest clubs campus 150 members want join club harassing kids skiles walkway join gt swim club yeah unlike water based athletics clubs lt gt crew welcome skill level time commitment age think fast enough member last year never swam competitively life within years went nationals compete think fast competing third consecutive national championship year record times competitive ncaa times 16 047 undergraduate students gt 151 members gt swim club number 160 ie student body give sticker maybe cookie www gtswimclub com,positive,0.9953,positive,0.10686868686868686,12/26/2019
+posts,spring semester parking removed,neutral,0.0,neutral,0.0,12/26/2019
+posts,finding undergraduate research hello fellow gt students freshman looking research semester would good way find thank,positive,0.8038,positive,0.7,12/26/2019
+posts,parking permit waitlist number parking permit waitlist wr30 w23 tell many people total waitlists based zones would guess like 75 people list days left need permit likely get one fuck supposed park pts dumb shit release permits waves hate waiting last minute stressing,negative,-0.9287,negative,-0.1416666666666667,12/26/2019
+posts,hair drug test probability removed,neutral,0.0,neutral,0.0,12/26/2019
+posts,increase sense community belonging among georgia tech students removed,positive,0.3182,neutral,0.0,12/26/2019
+posts,waking winter break realizing exam today going back sleep like,positive,0.3612,neutral,0.0,12/26/2019
+posts,parking question upcoming 2019 spring semester anyone know strict parking transportation services nav lots trying buy spring semester parking pass really feel like coughing almost 400 park hypothetically buy evening weekend pass lot chances getting ticket parked nav deck supposed also tickets increase price one flat rate offense,negative,-0.1951,positive,0.08750000000000001,12/27/2019
+posts,learn weld deleted,neutral,0.0,neutral,0.0,12/27/2019
+posts,albino squirrel,neutral,0.0,neutral,0.0,12/27/2019
+posts,questions rotc late join rotc graduation event culminating event idea rotc students become officers sure always case mandatory military service apart rotc branches rotc presence tech,negative,-0.3298,neutral,0.03333333333333333,12/27/2019
+posts,parking deck would convenient student whose classes mostly likely skiles deleted,neutral,0.0,neutral,0.0,12/27/2019
+posts,still remembers bad boy attendance,negative,-0.628,negative,-0.6999999999999998,12/27/2019
+posts,cs intelligence thread removed,positive,0.4767,neutral,0.0,12/27/2019
+posts,cs intelligence thread deleted,positive,0.4767,neutral,0.0,12/27/2019
+posts,gpa truncated noticed gpa reported degreeworks slightly less result dividing number quality points gpa hours seems degreeworks truncates gpa instead rounding seem cash money,positive,0.0772,negative,-0.16666666666666666,12/27/2019
+posts,flaw meal plan hey guys noticed meal plan includes meal swipes also get unlimited guest swipes exactly mean friend visits age student would stop using furthermore someone student dining hall prove order force use normal meal swipes,negative,-0.3939,negative,-0.08125,12/27/2019
+posts,prospective cs freshman question removed,neutral,0.0,neutral,0.0,12/28/2019
+posts,favourite one,neutral,0.0,neutral,0.0,12/28/2019
+posts,crosland tower open 31st feel like would amazing spot watch fireworks,positive,0.743,positive,0.30000000000000004,12/28/2019
+posts,time limit grade replacement want grade replacement class last semester mean immediately retake following semester spring wait retake point undergrad,positive,0.212,negative,-0.10416666666666667,12/28/2019
+posts,econ 2105 anyone give details econ 2105 know professor homework quizzes tests like tips study tools units important would cool,positive,0.8481,positive,0.375,12/28/2019
+posts,mse 2001 question hard mse 2001 qin dong done chemistry since senior year hs first year rn,negative,-0.1027,neutral,-0.020833333333333343,12/28/2019
+posts,post office outgoing package size limit limit size weight packages sent gt post office thinking package probably 40 lbs people experience shipping large packages services campus,positive,0.7178,positive,0.21428571428571427,12/28/2019
+posts,heard library renovation completed come back true,positive,0.5023,positive,0.175,12/28/2019
+posts,lot friends always come relationship advice recently one like thanks man surprised relationship guess busy anyways played like haha yeahhhh school life balance really struggling 2020 shooting shots taking rejections moving getting comfort zones probably sure work really bored miss comfort hug,positive,0.7901,positive,0.1,12/28/2019
+posts,ga tech worth removed,positive,0.2263,positive,0.3,12/28/2019
+posts,guys consider omscs students georgia tech students alumni looking omscs coursework seems little distinction offered online vs campus would consider someone online program equal campus student,neutral,0.0,negative,-0.09375,12/28/2019
+posts,gt parking passes buy parking pass spring semester summer semester seeing option either online buy annual individual permit get semesters need switch location semesters,positive,0.5224,neutral,0.0,12/28/2019
+posts,concerns job opportunities lgbt georgia tech deleted,positive,0.3818,neutral,0.0,12/28/2019
+posts,deans list find dean list fall semester,neutral,0.0,neutral,0.0,12/28/2019
+posts,swamphacks team needed amp x200b anyone georgia tech going swamphacks needs teammates interested making product social good need teammates,positive,0.6808,positive,0.3277777777777778,12/29/2019
+posts,english transfer requirements removed,neutral,0.0,neutral,0.0,12/29/2019
+posts,english transfer requirements deleted,neutral,0.0,neutral,0.0,12/29/2019
+posts,phys 2211 course requires extra fee breakdown costs attendence spring 2020 says phys 2211 course fee 75 amp x200b purpose extra charge thought courses take suppose included tuition,neutral,0.0,neutral,0.0,12/29/2019
+posts,business administration ga tech prospective student looking georgia tech business administration major heard much easier get major state applicant whose gpa lower like wondering decent chance get additionally georgia tech website says use weighted gpa available unweighted gpa high weighted gpa ga tech consider weighted vs unweighted gpa undergraduate admissions,positive,0.6249,positive,0.17527777777777778,12/29/2019
+posts,worth pursue minor double major hello currently third year cs major lately thinking pursuing minor double major thinking another hard science like chemistry bme leaning bme thing almost clue difficulty programs importantly even know would worth pursuing internships enterprise business software feeling sick thought minoring double majoring one would allow specialize software tailored biotech maybe even try something completely different like premed research think doubtful phase regards future also worried graduation time due already graduate semester late since even started bme track start genchem genbio means graduation time would pushed back full year even point even worth try difficult would would would end result worth diploma amp x200b thank taking time read post,positive,0.7268,neutral,-0.039738095238095246,12/29/2019
+posts,bursar seem access student pay right anyone else issues,negative,-0.2359,positive,0.2857142857142857,12/29/2019
+posts,transfer question deleted,neutral,0.0,neutral,0.0,12/29/2019
+posts,housing work non first years set second year housing everything else pretty much grabs everyone else places unlikely get,positive,0.5775,neutral,0.039999999999999994,12/29/2019
+posts,trash trying man,neutral,0.0,neutral,0.0,12/29/2019
+posts,different kinds engineering removed,neutral,0.0,neutral,0.0,12/30/2019
+posts,interesting course music related composing music hi mscs student complete noob music knew nothing want explore basic fun introductory course music department georgia tech suggest good course fun interesting course fields,positive,0.9367,positive,0.3,12/30/2019
+posts,gtri affirmative action deleted,neutral,0.0,positive,0.35,12/30/2019
+posts,unofficial transcript show minor georgia tech unofficial transcript show minor along major,neutral,0.0,neutral,-0.012500000000000002,12/30/2019
+posts,hey jackets sorry gowdy,negative,-0.0772,negative,-0.5,12/30/2019
+posts,anyone taken space policy inta4803 class removed,neutral,0.0,neutral,0.0,12/30/2019
+posts,someone rank nave buildings title,neutral,0.0,negative,-0.8,12/30/2019
+posts,interested transferring ga tech none courses current school fulfilled eng 1102 req removed,positive,0.6757,positive,0.125,12/30/2019
+posts,interested transferring ga tech none courses current school fulfilled eng 1102 req deleted,positive,0.6757,positive,0.125,12/30/2019
+posts,georgia tech signee bryce gowdy dies days enrolling,negative,-0.296,neutral,0.0,12/30/2019
+posts,french 2001 lmc 2500 humanities credit two humanities found work schedule want know red flags either course drop one crns 36503 35618 respectively help would great,positive,0.8268,positive,0.2,12/30/2019
+posts,campus housing summer part time students title,neutral,0.0,neutral,0.0,12/30/2019
+posts,nave housing office open sunday classes title,neutral,0.0,neutral,0.0,12/30/2019
+posts,stay safe join celebratory gunfire please first happy holidays yellow jackets please stay safe join celebratory gunfire know sounds silly look plan join gunfire party anyone know plans celebratory gunfire year please try stop nothing something makes look barbaric uncivilized importantly hurt kill others crowded city lastly wonderful new year,positive,0.7459,positive,0.34292929292929286,12/30/2019
+posts,transferring help removed,positive,0.4019,neutral,0.0,12/30/2019
+posts,fill quick survey favorite coffee shop enter win starbucks gift card removed,positive,0.8748,positive,0.5444444444444444,12/30/2019
+posts,survey coffee shops removed,neutral,0.0,neutral,0.0,12/30/2019
+posts,cost attendance graduate program mechanical engineering removed,neutral,0.0,neutral,0.0,12/30/2019
+posts,awesome,positive,0.6588,positive,1.0,12/31/2019
+posts,bike repair stands broken seems pumps bike repair stands around campus broken anyone know manages could reach become pretty big inconvenience wanna spend like 30 bucks pump unless really thanks advance,negative,-0.5181,negative,-0.07,12/31/2019
+posts,found necklace ground nave parking deck message belongs someone know,neutral,0.0,neutral,0.0,12/31/2019
+posts,cs 3210 taesoo kim removed,neutral,0.0,neutral,0.0,12/31/2019
+posts,cs 3210 taesoo kim deleted,neutral,0.0,neutral,0.0,12/31/2019

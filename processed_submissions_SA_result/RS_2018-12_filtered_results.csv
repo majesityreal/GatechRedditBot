@@ -1,0 +1,21 @@
+type,text,VADER sentiment,VADER sentiment score,TextBlob sentiment,TextBlob sentiment score,date
+posts,spring graduation info hello know undergraduate commencement date registrar calendar may commencement days show one undergrads thanks,positive,0.63,positive,0.2,11/30/2018
+posts,guy skated past window playing saxophone thank,positive,0.5106,negative,-0.25,11/30/2018
+posts,fail basically screwed probably gonna fail class edit thanks life lessons logistic wise,positive,0.509,neutral,-0.025000000000000022,11/30/2018
+posts,weekend one gif,neutral,0.0,neutral,0.0,11/30/2018
+posts,yelling glc deleted,neutral,0.0,neutral,0.0,11/30/2018
+posts,anybody know markings outside culc taken 4th floor culc,neutral,0.0,neutral,0.0,12/01/2018
+posts,looking swap person apartment person hi roommates currently assigned person room four us two roommates campus next semester figured hurt ask groups four looking get six maybe switch would possible prefer west would probs consider anywhere amp x200b thanks,positive,0.8319,positive,0.05,12/01/2018
+posts,dining dollars expiration date deleted,neutral,0.0,neutral,0.0,12/01/2018
+posts,psyc 1101 cap paper anyone taken rick thomas psyc 1101 us writing cap paper submitted two days guidance expected language like would appreciated,positive,0.7003,positive,0.05,12/01/2018
+posts,psa massive puddle outside nave inside nave bad also outside well serious note massive puddle stagnant water hard see lot people step watch,negative,-0.5744,negative,-0.18928571428571428,12/01/2018
+posts,dining services please answer deleted,positive,0.3182,neutral,0.0,12/01/2018
+posts,jojo fans write community board love read manga anime thought duty report year old tech halls event erased bruno beautifully drawn face person drew could wants fix amazing fix injustice,positive,0.8516,positive,0.45,12/01/2018
+posts,gtother gtother anyone else gtwrecktechs,neutral,0.0,neutral,0.0,12/01/2018
+posts,parents co oping title parents concerned graduating late friends back campus even though first feel like lot people gt end graduating late anyway second depends keep touch also co op state like ga also home state oos housing co op location work kinda stressed right want co op believe experience gt gt gt gt gt graduating early need talk parents lol asian also want seem randomly going help appreciated esp regards parental concerns talking thanks,positive,0.9395,positive,0.061309523809523814,12/01/2018
+posts,roll tide wg,neutral,0.0,neutral,0.0,12/01/2018
+posts,west village smell terrible smells humid bad like storage container,negative,-0.6249,negative,-0.8499999999999999,12/01/2018
+posts,women health paid research study part research study examining sexual functioning relationship menstrual cycle woman 18 45 years age experienced menstrual cycles past year answered yes questions may eligible participate research study participants receive 20 payment time effort purpose research study understand relationship sexual functioning sexual behaviors menstrual cycle web based survey designed understand women emotions sexual functioning focus may may change menstrual cycle ask initial time commitment 30 minutes individuals meet certain eligibility requirements may invited take part second phase study medications given women ages 18 45 years age eligible participate study posting approved kent state university irb please contact depression rumination lab call 330 672 1192 information,positive,0.7897,positive,0.30714285714285716,12/01/2018
+posts,access channel 13 gt cable sec championship game cbs channel 13 gt cable network really want watch sic ga get crushed channel 13 seem exist hdmi anyone else dealt problem,negative,-0.3331,negative,-0.1,12/01/2018
+posts,lost phone crc galaxy s7 edge deleted,negative,-0.3182,neutral,0.0,12/01/2018
+posts,graduation tickets anyone extra ticket sell please dm offer,positive,0.5502,neutral,0.0,12/01/2018

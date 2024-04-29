@@ -1,0 +1,510 @@
+Topic,Frequency,Total Score,Positive,Negative,Neutral
+fitness,9,898,3,1,5
+technology,12,784,3,1,7
+honor,1,516,0,0,1
+tribute,1,516,0,0,1
+remembrance,1,516,0,0,1
+memorial,1,516,0,0,1
+condolence,1,516,0,0,1
+controversy,2,477,0,1,1
+love,2,384,1,0,1
+celebration,2,383,1,0,0
+marriage,1,383,1,0,0
+spouse,1,383,1,0,0
+anniversary,1,383,1,0,0
+health,5,380,2,0,3
+community,3,371,0,0,2
+gatech,5,359,0,1,4
+students,5,347,0,1,4
+fitbit,7,281,2,0,5
+taiwan,1,277,0,0,1
+street,1,277,0,0,1
+overseen,1,277,0,0,1
+location,1,277,0,0,1
+social media,2,261,0,0,2
+wearables,4,255,2,0,2
+customer service,1,236,1,0,0
+return policy,1,236,1,0,0
+education,14,227,0,2,12
+campus,6,201,0,1,4
+branding,2,194,0,0,2
+promotion,1,177,0,0,1
+fashion,1,177,0,0,1
+mindfulness,1,166,0,0,1
+balance,1,166,0,0,1
+exercise,2,166,1,0,1
+self-improvement,1,166,0,0,1
+self-care,1,166,0,0,1
+wellness,2,166,1,0,1
+nutrition,1,166,0,0,1
+happiness,1,166,0,0,1
+summer,2,162,0,0,1
+game,1,161,0,0,0
+lost and found,1,161,0,0,0
+challenge,1,161,0,0,0
+suffering,1,157,0,1,0
+agony,1,157,0,1,0
+emotion,1,157,0,1,0
+distress,1,157,0,1,0
+anguish,1,157,0,1,0
+transfer,11,152,0,0,10
+tips,1,141,0,0,0
+excitement,1,141,0,0,0
+networking,3,124,0,0,3
+conquest,1,111,1,0,0
+triumph,1,111,1,0,0
+achievement,1,111,1,0,0
+victory,1,111,1,0,0
+accomplishment,1,111,1,0,0
+building,2,110,0,0,2
+online,2,100,0,1,1
+influence,1,88,0,0,1
+retail,1,80,0,0,1
+decline,2,80,0,0,2
+trends,1,80,0,0,1
+shopping,2,80,0,0,2
+economy,1,80,0,0,1
+assistance,5,78,0,0,5
+semester,5,60,0,0,5
+resources,3,53,1,1,1
+withdrawal,2,53,0,0,2
+options,3,52,0,0,3
+circumstance,1,52,0,0,1
+support,1,52,0,0,1
+illness,1,52,0,0,1
+family,1,52,0,0,1
+housing,6,52,0,1,5
+data,2,48,1,0,1
+future,2,47,1,0,1
+relationships,2,47,1,0,1
+analysis,1,46,1,0,0
+comfort,1,42,0,1,0
+college,7,42,1,0,6
+management,1,42,0,1,0
+temperature,1,42,0,1,0
+maintenance,1,42,0,1,0
+access,3,41,0,1,2
+gadgets,1,41,1,0,0
+dorm,4,41,0,0,4
+advice,5,40,0,0,5
+learning,2,38,1,0,1
+interest,1,37,0,0,1
+skill-building,1,37,0,0,1
+social,1,37,0,0,1
+language,1,37,0,0,1
+inclusion,1,37,0,0,1
+club,1,37,0,0,1
+communication,1,37,0,0,1
+shipping,4,34,0,0,4
+essentials,1,33,0,0,1
+job search,1,33,0,0,1
+gtri,1,33,0,0,1
+georgia,1,33,0,0,1
+dod,1,33,0,0,1
+opportunities,1,33,0,0,1
+events,3,30,0,0,1
+socializing,1,23,0,0,1
+packing,1,23,0,0,1
+fitbits,2,23,0,1,1
+georgiatech,1,23,0,0,1
+limitations,1,23,0,0,1
+entertainment,2,23,0,0,0
+information,5,23,0,1,4
+moving,2,23,0,0,2
+attire,1,23,0,0,1
+closed,1,22,0,0,1
+staircase,1,22,0,0,1
+public,1,22,0,0,1
+alum,1,22,0,0,1
+general,1,22,0,0,1
+curious,1,22,0,0,1
+sunday,1,22,0,0,1
+spiral,1,22,0,0,1
+requirements,3,21,0,1,2
+atlanta,2,21,0,0,2
+availability,3,20,0,0,3
+application,6,20,0,0,6
+hours,4,20,0,1,3
+robbery,1,19,0,1,0
+safety,1,19,0,1,0
+fedex,2,19,0,0,2
+alumni,2,19,0,0,2
+investigation,1,19,0,1,0
+alert,1,19,0,1,0
+vehicle,1,19,0,1,0
+security,1,19,0,1,0
+off-campus,2,19,0,1,1
+willage,1,19,0,1,0
+prevention,1,19,0,1,0
+inconvenience,1,19,0,1,0
+suspect,1,19,0,1,0
+awareness,1,19,0,1,0
+lockout,1,19,0,1,0
+crime,1,19,0,1,0
+incident,2,19,0,1,1
+law,1,19,0,1,0
+kayaking,1,18,0,0,1
+hiking,1,18,0,0,1
+organizations,1,18,0,0,1
+orgt,1,18,0,0,1
+mountain biking,1,18,0,0,1
+confusion,2,18,0,0,2
+backpacking,1,18,0,0,1
+outdoor recreation,1,18,0,0,1
+marketing,1,17,0,0,1
+identity,1,17,0,0,1
+eligibility,4,17,0,1,3
+design,1,17,0,0,1
+ending,1,16,1,0,0
+theme park,1,16,0,0,0
+tickets,1,16,0,0,0
+issue,1,16,1,0,0
+discussions,1,16,1,0,0
+discounts,1,16,0,0,0
+interactions,1,16,1,0,0
+enjoyment,1,16,1,0,0
+returns,3,15,0,0,3
+recommendations,3,15,0,1,2
+schedule,5,15,0,0,5
+return,3,15,0,0,3
+strategy,1,14,0,0,1
+fraternity,2,14,0,0,2
+multiplayer,1,14,0,0,1
+steam,1,14,0,0,1
+video games,1,14,0,0,1
+holiday,2,14,0,0,1
+instrument,1,13,0,0,1
+drop-off,1,13,0,0,1
+cancellation,1,13,0,0,1
+logistics,1,13,0,0,1
+undergrad,2,13,0,0,2
+music,1,13,0,0,1
+package,1,13,0,0,1
+usps,1,13,0,0,1
+order,1,13,0,0,1
+resolution,1,13,0,0,1
+experience,2,13,0,0,2
+internship,4,13,0,1,3
+post office,1,13,0,0,1
+secure,1,13,0,0,1
+graduation,2,13,0,0,2
+company culture,1,12,0,1,0
+reputation,1,12,0,1,0
+complaint,1,12,0,1,0
+workplace,1,12,0,1,0
+transportation,2,12,0,0,2
+transfer student,2,12,0,2,0
+behavior,1,12,0,1,0
+distractions,1,12,0,1,0
+process,3,12,0,0,3
+professionalism,1,12,0,1,0
+service,1,12,0,1,0
+financial aid,2,12,0,2,0
+productivity,1,12,0,1,0
+proctoring,1,12,0,1,0
+time management,1,12,0,1,0
+email,2,11,0,0,2
+dorms,1,11,0,0,1
+questions,2,11,0,0,2
+courses,6,11,0,0,6
+concerns,1,10,0,1,0
+usg,1,10,0,1,0
+fall,4,10,0,0,4
+threats,1,10,0,1,0
+grants,2,9,0,1,1
+low income,1,9,0,1,0
+zell,1,9,0,1,0
+freshman,3,9,0,0,3
+timeline,2,9,0,0,2
+loans,1,9,0,1,0
+expectations,1,9,0,1,0
+scholarships,3,9,1,1,1
+isye,3,9,0,0,3
+supplies,2,8,0,0,2
+planning,5,8,0,0,5
+uncertainty,2,8,0,0,1
+performances,1,7,0,0,0
+party,1,7,0,0,1
+llcs,1,7,0,0,1
+point,1,7,0,0,1
+parties,1,7,0,0,1
+professors,1,7,0,0,1
+joining,1,7,0,0,1
+junior,1,7,0,0,1
+improv,1,7,0,0,0
+rushing,1,7,0,0,1
+academically focused,1,7,0,0,1
+wait,1,7,0,0,1
+bids,1,7,0,0,1
+big 10,1,7,0,0,1
+career,2,7,0,0,2
+chapters,1,7,0,0,1
+characteristics,1,7,0,0,1
+co-ed,1,7,0,0,1
+comedy,2,7,1,0,0
+tech,2,7,0,0,2
+taship,1,7,0,0,1
+sororities,1,7,0,0,1
+sophomore,2,7,0,0,2
+discord.,1,7,0,0,1
+online groups,1,7,0,0,1
+rush,1,7,0,0,1
+first year,1,7,0,0,1
+grad student,1,7,0,0,1
+gender ratio,1,7,0,0,1
+greek scene,1,7,0,0,1
+grand challenges,1,7,0,0,1
+restrictions,1,7,0,0,1
+fraternities,1,7,0,0,1
+religious,1,7,0,0,1
+labs,2,6,0,0,2
+data science,1,6,0,0,1
+masters,1,6,0,0,1
+co-op,1,6,0,0,0
+fear,1,6,0,0,0
+commitment,1,6,0,0,0
+fields,1,6,0,0,1
+industry,1,6,0,0,1
+bme,1,6,0,0,1
+machine learning,2,6,0,0,2
+bioinformatics,1,6,0,0,1
+purchasing,2,6,0,0,2
+credit,2,6,0,0,2
+experiences,1,6,0,0,1
+deadline,2,6,0,1,1
+decision,3,6,0,0,2
+operations research,1,6,0,0,1
+undergrads,1,6,0,0,1
+label,1,6,0,0,1
+paid,1,6,0,0,1
+ocm,1,5,0,0,1
+workload,1,5,0,0,1
+waitlist,3,5,0,0,3
+overpriced,1,5,0,0,1
+campuses,1,5,0,0,1
+university,2,5,0,0,2
+quality,1,5,0,0,1
+purchase,1,5,0,0,1
+comparison,1,5,0,0,1
+study abroad,1,5,0,0,1
+convenience,1,5,0,0,1
+difficulty,1,5,0,0,1
+event,1,4,1,0,0
+esports,1,4,1,0,0
+portals,1,4,0,0,1
+stem,1,4,0,0,1
+ms-hci,1,4,0,0,1
+spring,2,4,0,0,2
+gaming,1,4,1,0,0
+tournament,1,4,1,0,0
+major,3,4,0,0,3
+competition,1,4,1,0,0
+international,1,4,0,0,1
+orientation,2,3,0,0,2
+thrift,1,3,0,0,1
+used,1,3,0,0,1
+side business,1,3,0,0,1
+semesters,1,3,0,0,1
+walk-in,1,3,0,0,1
+websites,1,3,0,0,1
+scholarship,2,3,0,0,2
+repair,1,3,0,0,1
+$2000,1,3,0,0,1
+zell miller,1,3,0,0,1
+classes,6,3,0,1,5
+appliances,1,3,0,0,1
+mail,1,3,0,0,1
+affordable,1,3,0,0,1
+area,1,3,0,0,1
+car,1,3,0,0,1
+marketplace,1,3,0,0,1
+address,1,3,0,0,1
+amazon,1,3,0,0,1
+group,1,3,0,0,1
+electronics,1,3,0,0,1
+missed,1,3,0,1,0
+furniture,1,3,0,0,1
+delivery,1,3,0,0,1
+first,1,3,0,0,1
+dealerships,1,3,0,0,1
+georgia tech,2,2,0,0,2
+pre-med,2,2,0,0,2
+undergraduate,1,2,0,0,1
+jackets,1,2,0,0,1
+science,1,2,0,0,1
+isolation,1,2,0,0,1
+combination,1,2,0,0,1
+internships,3,2,0,0,3
+relatability,1,2,0,0,1
+computer science,3,2,1,0,2
+graduate,2,2,0,0,2
+analytics,1,2,0,0,1
+registration,2,2,0,0,2
+odds,1,2,0,0,1
+level,1,2,0,0,1
+majors,2,2,0,0,2
+admissions,1,1,0,0,1
+essays,1,1,0,0,1
+extracurriculars,1,1,0,0,1
+romance,1,1,0,0,1
+chances,1,1,0,0,1
+dessert,1,1,0,0,1
+sculpture,1,1,0,0,1
+move-in,1,1,0,0,1
+gpa,1,1,0,0,1
+success,1,1,0,0,1
+activities,2,1,0,0,1
+graduates,1,1,0,0,1
+mathematics,1,1,0,0,1
+school,1,1,0,0,1
+achievements,1,1,0,0,1
+contact,1,1,0,0,1
+employment,2,1,0,0,2
+memory,1,1,1,0,0
+employees,1,1,0,0,1
+dates,1,1,0,0,1
+policy,1,1,0,0,1
+art,1,1,0,0,1
+progress,1,1,0,0,1
+advising,1,1,0,0,1
+food,1,1,0,0,1
+upperclassmen,1,1,0,0,1
+dating,1,1,0,0,1
+abroad,1,1,0,0,1
+distance learning,1,1,0,0,1
+2020,1,1,0,0,1
+conflicts,1,0,0,0,1
+cons,1,0,0,0,1
+course,2,0,0,0,2
+supervisor,1,0,0,0,1
+contraband,1,0,0,0,1
+connectivity,1,0,0,0,1
+student accounts,1,0,1,0,0
+studying,1,0,0,0,1
+credits,1,0,0,0,1
+worth,1,0,0,0,1
+cryptocurrency,1,0,0,0,1
+struggles,1,0,0,1,0
+cs,1,0,0,0,1
+curriculum,1,0,0,0,1
+data structures,1,0,0,0,1
+year,1,0,0,0,1
+startup,1,0,0,0,1
+degree,1,0,0,0,1
+synthesis,1,0,0,0,1
+algorithms,1,0,0,0,1
+confirmation,1,0,0,0,1
+artificial intelligence,1,0,0,0,1
+training,1,0,1,0,0
+budgeting,1,0,1,0,0
+bid,1,0,0,0,1
+benefits,1,0,0,0,1
+travel,1,0,0,0,1
+adventure,1,0,0,0,1
+tv,1,0,1,0,0
+computing,1,0,0,0,1
+appropriate,1,0,0,0,1
+approaches,1,0,0,0,1
+african american,1,0,0,0,1
+aid,1,0,1,0,0
+ap credits,1,0,0,0,1
+unlikely,1,0,0,0,1
+trading,1,0,0,0,1
+business,1,0,0,0,1
+advanced placement,1,0,0,0,1
+chemistry,1,0,0,0,1
+time,1,0,0,0,1
+class action,1,0,0,0,1
+thrills,1,0,0,0,1
+cognitive science,1,0,0,0,1
+third year,1,0,0,0,1
+woodruff,1,0,0,0,1
+airport,1,0,0,0,1
+testing,1,0,0,0,1
+test,1,0,0,0,1
+computer organization,1,0,0,0,1
+academics,1,0,0,0,1
+computer vision,1,0,0,0,1
+academic,1,0,0,0,1
+sorority,1,0,0,0,1
+operations,1,0,0,0,1
+development,1,0,0,0,1
+digital currency,1,0,0,0,1
+prefer,1,0,0,0,1
+preparation,1,0,0,0,1
+knowledge-based,1,0,0,0,1
+processing,1,0,0,0,1
+job,1,0,0,0,1
+professional,1,0,0,0,1
+invitation,1,0,0,0,1
+program,1,0,0,0,1
+programming,1,0,0,0,1
+investment,1,0,0,0,1
+pros,1,0,0,0,1
+intelligence,1,0,0,0,1
+ie,1,0,0,0,1
+ib,1,0,0,0,1
+questioning,1,0,0,0,1
+humor,1,0,1,0,0
+hour,1,0,0,0,1
+laptops,1,0,0,0,1
+positions,1,0,0,0,1
+lawsuit,1,0,0,0,1
+math,2,0,0,0,2
+offer,1,0,0,0,1
+organization,1,0,0,0,1
+non-freshman,1,0,0,0,0
+orgo,1,0,0,0,1
+natural language,1,0,0,0,1
+minor,1,0,0,0,1
+meal plans,1,0,0,0,0
+materials,1,0,0,0,1
+pop culture,1,0,1,0,0
+payment,2,0,0,0,2
+payments,1,0,1,0,0
+perception,1,0,0,0,1
+performance,1,0,0,0,1
+phys 2211,1,0,0,0,1
+physics,1,0,0,0,1
+police,1,0,0,0,1
+recreation,1,0,0,0,1
+recruitment,1,0,0,0,1
+refunds,1,0,1,0,0
+expenses,1,0,1,0,0
+scheduling,2,0,0,0,2
+fall 2019,1,0,0,0,0
+extreme,1,0,0,0,1
+school website,1,0,0,0,0
+schools,1,0,0,0,1
+scores,1,0,0,0,1
+offers,1,0,0,0,1
+entrepreneurship,1,0,0,0,1
+sales,1,0,0,0,1
+engineers,1,0,1,0,0
+engineering,1,0,0,0,1
+embodied intelligence,1,0,0,0,1
+sitcom,1,0,1,0,0
+ecosystem,1,0,0,0,1
+skip,1,0,0,0,1
+dining provider,1,0,0,0,0
+feasibility,1,0,0,0,1
+salary,1,0,0,0,1
+reimbursement,1,0,1,0,0
+retake,1,0,0,0,1
+high school,1,0,0,0,1
+help,2,0,0,1,1
+request,1,0,0,0,1
+requirement,1,0,0,0,1
+gradschool,1,0,0,0,1
+game ai.,1,0,0,0,1
+results,1,0,0,0,1
+funding,1,0,0,0,1
+feedback,1,0,0,0,1
+formal,1,0,0,0,1
+returning,1,0,0,0,1
+ride,1,0,0,0,1
+robot intelligence,1,0,0,0,1
+robotics,1,0,0,0,1
+finances,1,0,1,0,0
+finance,1,0,0,0,1
+search,1,0,0,0,1
