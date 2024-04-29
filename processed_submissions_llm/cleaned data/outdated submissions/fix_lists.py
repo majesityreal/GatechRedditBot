@@ -17,22 +17,22 @@ def process_csv_files(directory):
             print(f"Updated file saved: {file_path}")
 
 def transform_topics(topics):
-    # Check if the topics are in the numbered list format
+    # check if the topics are in the numbered list format
     if re.match(r'^\d+\.\s*[\w\s/,-]+(?:\n\d+\.\s*[\w\s/,-]+)*$', topics, flags=re.DOTALL):
         print("fixing")
-        new_topics = re.sub(r'\d+\.\s+', '', topics)  # Remove the numbers
-        new_topics = new_topics.replace('\n', ', ')  # Replace newlines with commas
+        new_topics = re.sub(r'\d+\.\s+', '', topics)  # remove the numbers
+        new_topics = new_topics.replace('\n', ', ')  # replace newlines with commas
         new_topics = new_topics.lower()
         return new_topics.strip()
     return topics
 
-def check_format(df, file_path):
+def check_format(df, file_path): # we check formatting
     incorrect_format = df['generalized_topic'].apply(lambda x: bool(re.search(r'\d+\.\s*[\w\s/,\-\(\)]+', x)))
     if incorrect_format.any():
         print(f"Entries in incorrect format found in {file_path}:")
         print(df.loc[incorrect_format, 'generalized_topic'])
 
-def check_for_errors(df, file_path):
+def check_for_errors(df, file_path):# we check formatting
     error_entries = df['generalized_topic'] == "error"
     if error_entries.any():
         print(f"'Error' entries found in {file_path}:")
