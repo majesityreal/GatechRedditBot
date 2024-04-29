@@ -1,0 +1,16 @@
+type,text,VADER sentiment,VADER sentiment score,TextBlob sentiment,TextBlob sentiment score,date
+posts,"Housing for spring 2020. I am going abroad for fall '19, so I am looking for an off-campus apartment. I'm not really sure where or how to start looking, If someone is going abroad for spring and is willing to sublease to me thatd be great( we can PM) otherwise if someone knows how to find a place to stay in this situaton any advice would be appreciated.",positive,0.2781,positive,0.25,02/28/2019
+posts,"Wreck Techs Interview. So I was somehow picked for an interview with Wreck Techs and was wondering if anyone had any advice on a general idea of what I should know going into it. I've followed some of the links they've sent me and looked over some general information, but I don't know how technical the interview gets and I doubt my skills enough to come asking for help/advice. 
+
+Thanks in advance!",negative,-0.3802,positive,0.07,02/28/2019
+posts,"Professional photo. Hello. I need to upload professional head shot photos for my summer 2019 employer. The photos have to be of high resolution. 
+
+Do you know any place on campus that provides this service? 
+
+Thank you!",positive,0.4199,positive,0.13333333333333333,02/28/2019
+posts,"thanks for the moldy cheese, nave.. ",positive,0.4404,positive,0.2,02/28/2019
+posts,Dining Services during Spring Break. Are dining halls and restaurants open during Spring break?,neutral,0.0,neutral,0.0,02/28/2019
+posts,What 3D printers are available at the invention studio?. I’m planning on printing and was wondering what machines they had so I know what settings to search for my prints.,neutral,0.0,positive,0.4,02/28/2019
+posts,"SoyBoy Club GATech. I want to start a thread for SoyBoys interested in joining a new student organization. It’s okay embrace your soy 
+
+SoYBoYz",positive,0.7351,positive,0.29545454545454547,02/28/2019

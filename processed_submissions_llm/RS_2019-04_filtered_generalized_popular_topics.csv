@@ -1,0 +1,693 @@
+Topic,Frequency,Total Score,Positive,Negative,Neutral
+awareness,5,689,1,2,1
+safety,4,584,0,1,0
+announcement,3,580,3,0,0
+security,6,442,0,3,2
+prevention,3,438,0,2,0
+distractions,1,396,0,1,0
+responsibility,1,396,0,1,0
+accidents,1,396,0,1,0
+education,24,378,4,0,18
+training,3,365,1,0,1
+animals,1,360,1,0,0
+police,1,360,1,0,0
+unit,1,360,1,0,0
+alcohol,2,338,0,1,1
+intoxication,1,322,0,1,0
+buzzed,1,322,0,1,0
+inebriation,1,322,0,1,0
+intoxicated,1,322,0,1,0
+graduation,7,312,2,0,3
+petition,4,312,1,1,1
+cleanliness,1,287,0,1,0
+hygiene,1,287,0,1,0
+personal care,1,287,0,1,0
+university,7,281,0,1,5
+privacy,4,263,0,3,1
+cybersecurity,3,262,0,2,1
+mistake,2,241,0,2,0
+community,6,238,2,0,4
+consolidation,1,202,1,0,0
+merging,1,202,1,0,0
+collaboration,1,202,1,0,0
+subreddits,1,202,1,0,0
+technology,7,200,2,0,5
+academic,2,199,0,1,1
+prank,1,198,0,1,0
+registrar,1,198,0,1,0
+dismissal,1,198,0,1,0
+april fools,1,198,0,1,0
+panic,1,198,0,1,0
+inclusion,1,195,0,0,0
+notification,2,188,0,1,1
+investigation,1,186,0,1,0
+data breach,2,186,1,1,0
+protocols,1,186,0,1,0
+vulnerability,1,186,0,1,0
+students,8,185,3,0,5
+movie,1,170,0,0,1
+stairs,1,170,0,0,1
+tourist attraction,1,170,0,0,1
+pop culture,1,170,0,0,1
+promotion,2,151,1,0,1
+strategy,1,149,1,0,0
+advertising,1,149,1,0,0
+branding,1,149,1,0,0
+marketing,1,149,1,0,0
+sports,7,122,1,2,3
+transportation,5,108,1,3,1
+excel,2,106,1,0,1
+leadership,2,97,2,0,0
+missing,2,97,0,1,1
+change,2,96,0,1,1
+grief,1,96,0,1,0
+absence,2,96,0,1,1
+loss,1,96,0,1,0
+separation,1,96,0,1,0
+appointment,2,95,1,1,0
+achievement,1,92,1,0,0
+birds,2,89,0,0,1
+library,3,85,0,2,1
+event,5,83,3,0,1
+environment,1,82,0,0,1
+coverage,1,82,0,0,1
+wildlife,1,82,0,0,1
+habitat,1,82,0,0,1
+ecology,1,82,0,0,1
+news,1,82,0,0,1
+student organization,1,80,0,1,0
+chinese embassy,1,80,0,1,0
+government,1,80,0,1,0
+foreign influence,1,80,0,1,0
+nostalgia,1,80,0,1,0
+human rights,1,80,0,1,0
+falun gong,1,80,0,1,0
+campus speeches,1,80,0,1,0
+censorship,1,80,0,1,0
+college,13,79,2,0,10
+hacking,2,76,0,1,1
+lost,6,75,0,0,5
+treatment,1,74,0,1,0
+control,1,74,0,1,0
+damage,1,74,0,1,0
+infestation,1,74,0,1,0
+bugs,1,74,0,1,0
+extermination,1,74,0,1,0
+insects,1,74,0,1,0
+eradication,1,74,0,1,0
+pests,1,74,0,1,0
+changes,2,66,1,0,1
+club,3,66,1,0,1
+purpose,1,63,0,0,1
+noise,1,63,0,0,1
+whistle,1,63,0,0,1
+georgia,3,63,2,0,1
+fees,2,63,2,0,0
+admissions,6,59,1,0,4
+tradition,2,58,1,1,0
+rivalry,3,55,0,1,1
+contact,2,54,0,0,2
+item,2,54,0,0,2
+runoff,3,54,0,0,3
+information,1,54,0,1,0
+store,1,53,0,0,1
+lab,1,53,0,0,1
+opening,1,53,0,0,1
+software,3,53,0,0,3
+retail,1,53,0,0,1
+14th street,1,53,0,0,1
+whole foods,1,53,0,0,1
+building,1,53,0,0,1
+village,1,53,0,0,1
+waitlist,8,53,0,0,6
+bribery,1,50,0,0,0
+scandal,1,50,0,0,0
+advocacy,2,49,1,0,1
+game,1,48,1,0,0
+anniversary,1,48,1,0,0
+ncaa,1,48,1,0,0
+championship,1,48,1,0,0
+schedule,5,45,0,0,5
+bike,1,43,0,1,0
+sga,3,43,1,0,2
+elections,3,43,1,0,2
+careful,1,43,0,1,0
+locking,1,43,0,1,0
+incident,1,43,0,1,0
+results,2,38,0,0,2
+vote,1,37,0,0,1
+spring,1,37,0,0,1
+2019,1,37,0,0,1
+whistle blows,1,35,0,0,1
+time,1,35,0,0,1
+tomorrow,1,35,0,0,1
+5:15,1,35,0,0,1
+food,4,34,2,1,0
+healing,1,33,1,0,0
+unity,1,33,1,0,0
+activism,1,33,1,0,0
+justice,1,33,1,0,0
+empowerment,1,33,1,0,0
+resilience,1,33,1,0,0
+solidarity,1,33,1,0,0
+stress,3,31,0,2,1
+employment,6,30,0,1,5
+professor,6,29,1,1,4
+grade,1,28,0,1,0
+missed,1,28,0,1,0
+eye surgery,1,28,0,1,0
+hospitalized,1,28,0,1,0
+absences,1,28,0,1,0
+medical,1,28,0,1,0
+excuses,1,28,0,1,0
+class,5,28,1,1,3
+termination,1,26,0,1,0
+abuse,1,26,0,1,0
+summer,10,25,3,1,6
+georgia tech,7,25,2,0,5
+school,2,25,0,1,1
+happiness,2,24,1,0,1
+walk,1,24,1,0,0
+job,4,23,1,1,2
+prospects,1,22,0,1,0
+cuisine,2,22,0,0,2
+failure,1,22,0,1,0
+found,4,21,0,0,3
+assistance,4,21,1,0,2
+experience,11,19,2,1,8
+skip,1,18,1,0,0
+line,1,18,1,0,0
+social,3,18,0,0,3
+waiver,1,18,1,0,0
+reminder,1,18,1,0,0
+hackathon,1,17,1,0,0
+art,1,17,1,0,0
+deadline,1,17,1,0,0
+instagram,1,17,1,0,0
+performers,1,17,1,0,0
+creativity,1,17,1,0,0
+guest speakers,1,17,1,0,0
+registration,4,17,1,1,2
+fraternity,2,16,0,0,1
+student government,1,16,0,0,1
+voting,1,16,0,0,1
+greek life,1,16,0,0,1
+candidates,1,16,0,0,1
+efficiency,1,16,0,1,0
+rushing,1,16,0,0,1
+election,1,16,0,0,1
+incentives,1,16,0,1,0
+membership,1,16,0,0,1
+campus,8,16,0,0,8
+tech,4,15,1,0,3
+emotions,1,14,0,0,1
+careers,1,14,0,0,1
+culc,2,14,0,0,2
+cs,10,14,1,0,9
+product.,1,13,1,0,0
+co-founder,1,13,1,0,0
+ee,1,13,1,0,0
+livestock,1,13,1,0,0
+full-time,1,13,1,0,0
+computer vision,1,13,1,0,0
+webapp,1,13,1,0,0
+app development,1,13,1,0,0
+ios,1,13,1,0,0
+android,1,13,1,0,0
+management,2,13,2,0,0
+cv,1,13,1,0,0
+startup,1,13,1,0,0
+social media,2,13,0,1,1
+development,1,13,1,0,0
+ml,1,13,1,0,0
+neural network,1,13,1,0,0
+scared,1,12,0,1,0
+wallet,1,12,0,0,0
+lost and found,1,12,0,0,0
+survey,4,12,1,0,3
+fear,1,12,0,1,0
+interviews,3,12,1,0,2
+reward,1,12,0,0,0
+desperate,1,12,0,0,0
+crosswalk,1,12,0,1,0
+opportunities,5,11,1,0,4
+leisure,1,11,0,0,1
+sustainability,1,11,0,1,0
+fashion,1,11,0,1,0
+adventure,1,11,0,0,1
+recreation,1,11,0,0,1
+parking,2,11,0,0,1
+dining,1,11,0,0,1
+gastronomy,1,11,0,0,1
+nutrition,1,11,0,0,1
+hobbies,1,11,0,0,1
+exercise,1,11,0,0,1
+air quality,1,11,0,1,0
+website,2,10,0,0,2
+internships,3,10,1,0,2
+difficulty,2,10,0,1,1
+course,5,10,0,0,5
+challenges,2,9,0,0,2
+celebration,2,9,1,0,1
+practice,1,9,1,0,0
+positions,3,9,1,0,2
+pursuing,1,9,1,0,0
+software engineer,1,9,1,0,0
+senior,4,9,1,0,3
+usage,1,8,0,0,1
+study,3,8,0,1,2
+meeting,1,8,0,0,1
+traditions,1,8,0,0,1
+airpods,1,8,0,0,1
+pairing,1,8,0,0,1
+perception,1,8,0,0,1
+spirit,1,8,0,0,1
+bluetooth,1,8,0,0,1
+history,1,8,0,0,1
+reck,1,8,1,0,0
+details,1,8,0,0,1
+ride,1,8,1,0,0
+claim,1,8,0,0,1
+legislation,1,8,0,0,1
+master's,1,7,0,0,1
+keys,2,7,0,0,1
+application,4,7,1,0,3
+graduate,5,7,1,0,3
+statistics,1,7,0,0,1
+right of way,1,7,0,0,0
+mechanical engineering,1,7,0,0,1
+undergrad,1,7,0,0,1
+posts,1,7,0,0,1
+public,1,7,0,0,0
+mazda,1,6,0,0,0
+station,1,6,0,0,0
+cancellation,1,6,0,0,1
+purging,1,6,0,0,1
+abolition,1,6,0,0,1
+professor brito,1,6,0,0,1
+questions,1,6,0,0,1
+atlanta,1,6,0,0,1
+clubs,1,6,0,0,1
+healthcare,2,6,0,1,1
+removal,1,6,0,0,1
+intersection,1,6,0,0,0
+items,1,6,0,0,1
+cs3510,1,6,0,0,1
+lanyard,1,6,0,0,0
+anxiety,1,6,0,1,0
+activities,2,6,0,0,2
+concepts,1,6,0,0,1
+omission,1,6,0,0,1
+concerns,1,6,0,0,1
+small town,1,6,0,0,1
+annulment,1,6,0,0,1
+connections,1,6,0,0,1
+midterms,1,6,0,0,1
+transition,1,6,0,0,1
+atlanta united,1,6,0,0,0
+car,1,6,0,0,0
+disposal,1,6,0,0,1
+test,2,6,0,0,2
+gtpd,1,6,0,0,0
+erasure,1,6,0,0,1
+freshman,3,6,0,0,3
+elimination,1,6,0,0,1
+teaching style,1,6,0,0,1
+big city,1,6,0,0,1
+exclusion,1,6,0,0,1
+green,1,6,0,0,1
+test difficulty,1,6,0,0,1
+friendships,1,6,0,0,1
+big school,1,6,0,0,1
+final,1,6,0,0,1
+crossland tower,1,5,0,0,1
+recommendations,1,5,0,0,1
+car maintenance,1,5,0,0,1
+area,1,5,0,0,1
+legal,1,5,0,0,1
+improvement,1,5,1,0,0
+coach,1,5,0,0,0
+involvement,1,5,1,0,0
+grad student,1,5,0,0,1
+team,1,5,0,0,0
+threads,2,5,0,0,2
+contracts,1,5,0,0,1
+plans,1,5,1,0,0
+mechanic,1,5,0,0,1
+binding,1,5,0,0,1
+support,1,5,0,0,0
+offer,2,5,0,0,2
+help,3,5,0,0,3
+drop-off,1,5,0,0,1
+warnings,1,5,0,0,1
+accessibility,1,5,0,0,1
+graduate students,1,5,1,0,0
+microwave,1,5,0,0,1
+interview,3,5,1,0,2
+coffee,1,4,0,0,1
+alumni,4,4,0,0,4
+permits,1,4,0,0,1
+locations,1,4,0,0,1
+prices,1,4,0,0,1
+advice,3,4,0,0,2
+rules,1,4,0,0,1
+engineering,2,3,0,0,2
+roommates,1,3,0,0,1
+stamps,1,3,0,1,0
+urgent care,1,3,0,1,0
+math,3,3,0,0,3
+visit,1,3,0,0,1
+tips,1,3,0,0,0
+mascot,1,3,0,0,1
+letter,1,3,0,0,0
+decision-making,1,3,0,0,1
+link,1,3,0,0,1
+phone call,1,3,0,0,1
+housing,5,3,1,0,4
+sys arch,1,3,0,0,1
+science,2,3,0,0,2
+cough,1,3,0,1,0
+buzz,1,3,0,0,1
+aerospace engineering,1,3,0,0,0
+switching,2,3,0,0,2
+gt,1,3,0,0,0
+medicine,1,3,0,0,1
+exams,1,3,0,0,1
+chances,2,3,0,0,1
+seminar,1,3,0,0,1
+career,4,3,0,0,4
+interest,1,3,0,0,0
+prospective,1,3,0,0,1
+future,4,3,0,0,4
+pressure,1,3,0,0,1
+computer science,3,3,0,0,3
+selection,3,3,0,1,2
+assignment,1,3,0,0,1
+discussion,1,3,0,0,1
+classes,5,3,0,0,5
+technical,1,2,0,0,1
+timeline,1,2,0,0,1
+access,1,2,0,0,1
+syllabus,1,2,0,0,1
+tool,1,2,0,0,1
+portfolio,1,2,0,0,1
+troubleshooting,1,2,0,0,1
+organization,1,2,0,0,1
+service,1,2,0,0,1
+templates,1,2,0,0,1
+online,2,2,0,0,2
+group,2,2,0,0,2
+health,1,2,0,0,1
+after-hours,1,2,0,0,1
+travel,1,2,0,0,1
+next year,1,2,0,0,1
+graphic design,1,2,0,0,1
+mental health,1,2,0,0,1
+athletics,1,2,0,0,1
+physics,3,2,0,0,3
+request,3,2,1,0,2
+comparison,5,2,0,0,4
+impact,1,2,0,0,1
+process,1,2,0,0,1
+printers,1,2,0,0,1
+curiosity,1,2,0,0,1
+volunteering,1,2,0,0,1
+projects,1,2,0,0,1
+project,1,2,0,0,1
+discussions,1,2,0,0,1
+communication,2,2,0,0,2
+issue,1,2,0,0,1
+cs 1371,1,2,0,0,1
+deadlines,1,2,0,0,1
+apph,1,2,0,0,1
+internship,3,2,0,0,3
+acceptance,1,2,0,0,1
+transfer,4,2,0,0,4
+ta,1,2,0,0,1
+majors,3,2,0,0,3
+exciting,1,1,1,0,0
+pay,1,1,0,0,1
+excitement,1,1,0,0,1
+biochemistry,1,1,0,0,1
+selling,3,1,0,0,2
+co-op,1,1,0,0,1
+requirements,4,1,0,0,4
+purchase,1,1,0,0,0
+protection,1,1,0,1,0
+facility,1,1,1,0,0
+scholarships,1,1,0,0,1
+real-world,1,1,1,0,0
+coda tech square,1,1,1,0,0
+uncertainty,1,1,0,0,1
+cheers,1,1,0,0,1
+achievements,1,1,0,0,1
+enhancements,1,1,0,1,0
+electronics,1,1,0,0,1
+products,1,1,0,1,0
+enigma,1,1,0,0,1
+prioritization,1,1,0,0,1
+accessories,1,1,0,1,0
+rental,1,1,0,0,0
+experiences,1,1,0,0,1
+recycling,1,1,0,0,1
+undergraduates,1,1,0,0,1
+president,1,1,0,0,1
+digital business,1,1,1,0,0
+motivated,1,1,1,0,0
+options,4,1,0,1,3
+locksmiths,1,1,0,0,1
+courses,9,1,1,1,7
+vice president,1,1,0,0,1
+gain.,1,1,1,0,0
+vip,1,1,0,0,1
+gathering,1,1,0,0,1
+opportunity,1,1,1,0,0
+web developer,1,1,1,0,0
+joy,1,1,0,0,1
+jobs,1,1,0,0,1
+values,1,1,1,0,0
+gown,1,1,0,0,0
+cap,1,1,0,0,0
+waste,1,1,0,0,1
+archives,1,1,0,0,1
+initiative,1,1,1,0,0
+information technology,1,1,1,0,0
+curriculum,3,1,0,0,3
+student,1,1,1,0,0
+data,1,1,0,1,0
+toasting,1,1,0,0,1
+choices,1,1,0,1,0
+decorations,1,1,0,1,0
+hiring,1,1,0,0,1
+height,1,1,0,0,0
+automotive,1,1,0,1,0
+hands-on,1,1,1,0,0
+diffeq,1,1,0,0,1
+locks,1,1,0,0,1
+variety,1,1,0,1,0
+mathematics,2,1,0,0,2
+financial aid,1,1,0,0,1
+services,2,1,0,0,2
+on-campus,1,1,1,0,0
+obscurity,1,1,0,0,1
+sunglasses,1,1,0,0,1
+confidentiality,1,1,0,1,0
+festivity,1,1,0,0,1
+mystery,1,1,0,0,1
+double majoring,1,1,0,0,1
+drive,1,1,1,0,0
+digital,1,1,0,0,1
+websites,1,1,1,0,0
+mission,1,1,1,0,0
+enrollment,4,1,0,0,4
+merchandise,1,1,0,1,0
+medal,1,1,1,0,0
+drinking,1,1,0,0,1
+ambiguity,1,1,0,0,1
+socializing,1,1,0,0,1
+skills,1,0,0,0,1
+tuesday,1,0,0,0,0
+risk,1,0,0,0,1
+wifi,1,0,0,0,1
+stock,1,0,0,0,0
+tickets,3,0,0,0,3
+specialization,1,0,0,0,1
+workouts,1,0,0,0,1
+ship,1,0,0,0,1
+video,1,0,0,0,1
+riedl,1,0,0,0,1
+vegetarian,1,0,1,0,0
+swap,1,0,0,0,1
+scheduling,1,0,0,1,0
+rewards,1,0,1,0,0
+unemployment,1,0,0,0,1
+worth,1,0,0,0,1
+ruins,1,0,0,0,1
+structure,1,0,0,0,1
+space,1,0,0,1,0
+sleeping,1,0,0,1,0
+soup,1,0,0,0,1
+sublease,1,0,0,0,1
+snoring,1,0,0,1,0
+undergraduate,1,0,0,0,0
+workload,1,0,0,0,1
+sales,1,0,0,0,1
+sq5,1,0,0,0,1
+tracking,1,0,1,0,0
+student life,1,0,0,0,1
+suitability,1,0,0,0,1
+sowell,1,0,0,0,1
+social life,1,0,0,0,1
+thursday,1,0,0,0,1
+internet,1,0,0,0,1
+resume,1,0,0,0,1
+decision,5,0,1,0,3
+cubs,1,0,0,0,1
+cs4641,1,0,0,0,1
+cs3600,1,0,0,0,1
+cs 2110,2,0,0,0,2
+credits,2,0,0,0,2
+cost,2,0,1,0,1
+cornell,1,0,0,0,1
+cons,1,0,0,0,1
+connection,1,0,0,0,1
+confusion,2,0,0,0,2
+conflict,1,0,0,1,0
+conference,1,0,0,0,1
+competitiveness,1,0,0,0,1
+compensation,1,0,1,0,0
+company,1,0,0,0,1
+culture,1,0,0,0,1
+decisions,1,0,0,0,1
+classrooms,1,0,0,0,1
+deposit,1,0,0,0,1
+excused,1,0,0,0,1
+exchange,1,0,0,0,1
+exam,1,0,0,0,1
+events,1,0,0,0,1
+evans,1,0,0,0,1
+etiquette,1,0,0,1,0
+ethernet,1,0,0,0,1
+error,1,0,0,0,1
+enjoyment,1,0,0,0,1
+engineer,1,0,0,0,1
+ece,2,0,0,0,2
+dorms,1,0,0,0,1
+discoveries,1,0,0,0,1
+discord,1,0,0,0,1
+disappointment,1,0,0,0,0
+commencement,1,0,0,0,1
+civilization,2,0,0,0,2
+exploration,1,0,0,0,1
+aspirations,1,0,0,0,1
+artifacts,1,0,0,0,1
+apps,1,0,1,0,0
+applications,2,0,0,0,2
+app,1,0,0,0,1
+antiquity,1,0,0,0,1
+ancient,1,0,0,0,1
+alternatives,1,0,1,0,0
+ai,1,0,0,0,1
+aerospace,1,0,0,0,0
+accommodation,1,0,0,0,1
+academics,1,0,0,0,1
+a level,1,0,0,0,1
+7 o'clock,1,0,0,0,0
+4400,1,0,0,0,1
+2250,1,0,0,0,1
+artificial intelligence,1,0,0,0,1
+attention,1,0,0,0,1
+choice,2,0,0,0,2
+availability,2,0,0,0,1
+chem 1310,1,0,0,0,1
+chat,1,0,0,0,1
+chance,1,0,0,0,1
+catalog,1,0,0,0,1
+capacity,1,0,0,0,1
+buzzport,1,0,0,0,1
+business,1,0,0,0,1
+braves,1,0,0,0,1
+boots,1,0,0,0,1
+bmed,1,0,0,0,1
+beverage,1,0,0,0,0
+better times,1,0,0,0,1
+best,1,0,1,0,0
+bad,1,0,0,0,0
+bachelor's,1,0,0,0,1
+expectations,1,0,0,0,1
+extracurriculars,1,0,0,0,1
+restriction,1,0,0,0,1
+preferences,2,0,0,0,2
+perspective,1,0,1,0,0
+passion,1,0,0,0,1
+participation,1,0,1,0,0
+overlap,1,0,0,1,0
+outdoor,1,0,0,0,0
+others,1,0,0,1,0
+option,1,0,1,0,0
+opinions,1,0,0,0,1
+opinion,1,0,0,0,1
+oos,1,0,0,0,1
+online presence,1,0,0,0,1
+obnoxious,1,0,0,0,0
+notes,1,0,0,0,1
+networking,1,0,0,0,1
+multiple,1,0,0,0,1
+planning,1,0,0,0,1
+prerequisites,1,0,0,0,1
+minor,1,0,0,0,1
+priority,1,0,0,0,0
+respect,1,0,0,1,0
+research,2,0,1,0,1
+rescinded,1,0,0,0,1
+relocation,1,0,0,0,1
+regional,1,0,0,0,1
+refundable,1,0,0,0,1
+recruitment,1,0,0,0,1
+recitation,1,0,0,0,1
+rating,1,0,0,0,1
+quiet,1,0,0,1,0
+queries,1,0,0,0,1
+qualifications,1,0,0,0,1
+pros and cons,1,0,0,0,1
+pros,1,0,0,0,1
+program,2,0,1,0,1
+morning,1,0,0,0,1
+mentoring,1,0,0,0,1
+fall,1,0,0,0,1
+high school,1,0,0,0,1
+hackathons,1,0,0,0,1
+graduate school,1,0,0,0,1
+grads,1,0,0,0,1
+grades,2,0,0,0,2
+gpa,1,0,0,0,1
+goals,1,0,0,0,1
+gatech,1,0,0,0,1
+freshmen,1,0,0,0,1
+floors,1,0,0,1,0
+fitness,1,0,0,0,1
+finance,1,0,0,0,1
+finals,1,0,0,0,1
+feedback,1,0,0,0,1
+favor,1,0,1,0,0
+faset,1,0,0,0,1
+heritage,1,0,0,0,1
+house,1,0,0,0,1
+memory,1,0,0,0,1
+humanities,1,0,0,0,1
+major,3,0,0,0,3
+machine learning,1,0,0,0,1
+location,1,0,0,0,1
+local,1,0,0,0,1
+lab science,1,0,0,0,1
+karaoke,1,0,0,0,0
+jump,1,0,0,0,1
+jackets,1,0,1,0,0
+invitation,1,0,0,0,1
+investing,1,0,0,0,1
+intro,1,0,0,0,1
+2000 level,1,0,0,0,1
+insight,1,0,0,0,0
+industry,2,0,1,0,1
+importance,1,0,0,0,1
+youtube,1,0,0,0,1

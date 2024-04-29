@@ -1,0 +1,5479 @@
+Topic,Frequency,Total Score,Positive,Negative,Neutral
+error,698,7901,0,1,3
+education,423,2815,61,111,247
+sports,213,2784,62,65,83
+mental health,77,1248,20,32,22
+food,102,1169,28,26,47
+college,65,830,16,16,31
+transportation,56,829,5,17,34
+humor,77,760,14,13,44
+technology,98,759,7,28,63
+dining,22,655,4,6,12
+entertainment,39,647,14,3,21
+social media,57,608,4,24,27
+suicide,23,578,0,19,4
+safety,52,545,5,17,29
+parking,37,530,2,14,21
+voting,36,485,6,5,25
+support,42,448,25,2,13
+school,35,447,6,19,10
+football,36,441,12,10,14
+students,25,405,2,8,15
+performance,28,381,7,9,12
+suicide prevention,8,378,1,5,2
+stress,19,377,2,8,9
+coaching,18,370,3,6,9
+service,10,352,2,5,3
+politics,58,348,4,37,17
+university,19,344,1,8,10
+encouragement,20,330,12,0,8
+comparison,32,318,3,9,20
+buses,6,318,0,4,2
+gratitude,97,315,80,1,12
+question,29,308,1,1,27
+emotion,38,306,5,23,9
+advice,33,305,9,7,12
+customer service,32,299,3,14,15
+time,40,296,1,9,30
+communication,40,290,5,7,27
+frustration,27,288,0,24,2
+investigation,6,284,0,4,2
+appreciation,37,282,35,0,1
+housing,40,282,9,6,25
+location,37,272,2,6,28
+tragedy,8,272,0,6,2
+confusion,18,271,1,4,13
+community,16,267,6,4,6
+money,11,259,2,4,5
+complaint,11,251,0,11,0
+disappointment,19,246,0,18,1
+police,10,245,1,4,5
+graduation,19,244,2,6,11
+traffic,6,236,0,3,3
+government,10,234,1,4,5
+assistance,24,225,8,0,15
+campus,26,217,5,4,16
+relationships,19,215,5,10,4
+efficiency,14,210,2,2,10
+library,18,209,1,3,14
+animals,10,206,0,2,8
+reporting,9,205,0,3,6
+competition,13,205,1,6,6
+emotions,13,204,2,7,3
+georgia tech,15,200,3,3,9
+time management,39,200,8,5,26
+funding,8,199,0,2,6
+resources,11,198,1,6,3
+finance,7,194,1,2,2
+cost,19,193,3,4,12
+dating,14,191,4,6,4
+music,20,189,6,1,12
+inspiration,6,189,3,0,3
+compliment,13,186,13,0,0
+restaurant,17,185,8,5,3
+mental illness,3,185,1,1,1
+student,15,181,5,3,7
+academics,30,181,5,8,16
+health,23,180,3,10,8
+gym,10,180,6,2,1
+reddit.,4,179,0,1,3
+social issues,7,178,0,5,2
+general,6,178,0,2,4
+personal,15,178,1,7,7
+personal experience,9,177,5,3,1
+security,12,177,0,4,8
+athletics,13,176,2,1,10
+events,10,176,1,0,9
+advocacy,4,176,2,2,0
+business,18,174,0,3,15
+excitement,14,170,12,1,0
+request,24,168,4,2,18
+work,31,167,5,11,15
+registration,31,166,1,8,21
+family,13,163,2,7,4
+anger,5,159,0,4,0
+prevention,7,157,1,3,3
+copycat prevention.,1,156,1,0,0
+gender,13,156,3,6,4
+concern,12,156,1,9,2
+survivor stories,1,156,1,0,0
+fear,5,155,0,4,0
+expectations,6,155,0,2,4
+priorities,6,155,1,4,1
+apology,19,151,1,11,6
+cycling,5,151,0,2,3
+study,14,150,4,2,7
+counseling,11,149,4,3,4
+fast food,4,149,1,1,2
+mold,5,149,0,3,2
+sacrifice,3,145,2,0,1
+wait,2,144,0,0,2
+changes,7,143,0,0,7
+road safety,4,143,0,0,4
+professor,33,143,14,4,13
+response,12,142,2,3,6
+homework,13,142,5,3,5
+change,13,140,2,3,8
+department,6,139,0,4,2
+administration,6,139,2,1,3
+kindness,5,138,2,1,2
+agreement,20,136,5,1,13
+profanity,11,136,0,10,1
+options,6,135,0,1,5
+spelling,3,134,0,1,2
+teaching,20,133,6,8,6
+friendship,24,133,11,4,8
+entertainment.,6,133,0,2,4
+advisor,8,133,3,1,4
+misinformation,9,132,0,8,1
+feedback,20,132,5,7,8
+internship,14,132,2,2,10
+attention.,3,131,0,1,2
+proactive,3,130,1,0,2
+masculinity,1,130,0,1,0
+gaming,22,130,7,5,9
+event,17,130,8,1,8
+career,24,128,3,6,14
+distraction,4,128,0,3,1
+humor.,6,128,2,1,3
+studying,14,125,5,1,8
+rules,10,125,1,3,6
+management,4,125,0,2,2
+difficulty,22,124,5,6,11
+email,21,124,2,3,16
+travel,16,123,2,2,11
+history,13,123,1,2,10
+weather,16,122,3,3,10
+religion,11,121,2,7,2
+tech,20,121,3,5,12
+statistics,8,120,0,4,4
+death,12,118,1,9,2
+student well-being.,1,117,0,1,0
+"family.
+categories: family",1,116,0,0,1
+rivalry,7,116,1,5,1
+empathy,6,116,3,2,1
+gt dining,5,114,0,3,2
+counseling center,7,113,0,4,3
+opinion,25,112,3,8,14
+class,39,112,8,11,19
+grading,22,112,2,5,15
+"confirmation
+categories: confirmation",2,111,0,0,2
+fitness,20,111,11,2,7
+atmosphere,2,111,2,0,0
+game,10,110,5,3,2
+inquiry,17,110,1,0,15
+sadness,4,110,0,4,0
+availability,12,110,1,1,9
+sexual health,2,110,0,0,2
+commendation,1,109,1,0,0
+"commendation 
+categories: safety",1,109,1,0,0
+reputation,2,108,0,2,0
+rumors,2,108,0,1,1
+closure,5,108,0,2,3
+grades,20,107,3,3,12
+finals,5,106,2,2,1
+numbers,3,106,0,0,3
+public transportation,10,106,1,4,5
+"inappropriate
+categories: inappropriate",1,105,0,1,0
+story.,1,105,0,1,0
+reminded,1,105,0,1,0
+generational differences,1,105,0,0,1
+headphones,1,105,0,1,0
+internet,14,103,1,6,5
+criticism,14,102,0,14,0
+college football,15,102,1,10,4
+cheating,11,102,0,5,6
+ticket distribution,2,102,0,1,1
+science,10,101,2,2,6
+connection,4,100,3,0,1
+preparation,6,100,0,2,4
+travel.,3,100,1,0,2
+money.,3,100,0,2,0
+professors,17,100,2,3,12
+"appreciation
+general categories: gratitude",2,100,2,0,0
+condolences,2,99,0,2,0
+conflict,5,99,0,4,1
+greeting,4,99,0,0,4
+fire,1,99,0,0,1
+academic stress,3,98,0,1,2
+conversation,4,98,0,1,3
+uga degree,1,98,0,1,0
+tech hoodie,1,98,0,1,0
+petsmart,1,98,0,1,0
+attendance,7,98,2,1,3
+training,1,98,0,1,0
+trainer,1,98,0,1,0
+hope,5,97,0,0,5
+controversy,8,96,0,7,1
+student resources.,1,96,0,1,0
+elections,10,96,1,4,5
+political,4,96,0,1,2
+begging,2,95,0,1,1
+expenses,4,95,0,2,2
+academic support,4,95,0,2,0
+impression,1,94,1,0,0
+trust,3,94,1,2,0
+mental health.,2,94,1,1,0
+"love
+categories: emotion",1,93,1,0,0
+mistake,5,93,0,3,2
+phone,4,93,1,1,2
+math,18,92,4,5,9
+language,13,92,1,4,7
+north ave,2,92,0,2,0
+prices,7,92,1,2,4
+hiring,7,92,2,0,5
+major,8,92,1,1,5
+holidays,2,91,1,1,0
+scheduling,13,91,1,0,12
+solutions,7,91,0,4,3
+slang,13,90,4,0,9
+student center,6,90,2,0,4
+farewell,4,90,0,2,2
+ingredients,2,89,0,0,1
+loss,6,88,1,3,2
+"money
+categories: negative",2,88,0,2,0
+"goods
+categories: odds",1,88,0,0,1
+goods,1,88,0,0,1
+productivity,15,88,5,1,9
+odds,1,88,0,0,1
+achievement,6,87,1,0,5
+subreddit,6,87,1,4,1
+news,8,86,1,2,5
+scam,7,86,0,7,0
+retirement,5,86,2,3,0
+attempt,2,85,0,0,2
+student well-being,1,85,0,1,0
+personal life,1,84,1,0,0
+policy,11,84,0,2,9
+maintenance,6,84,0,3,3
+campus life,3,84,1,0,2
+recruiting,13,84,0,8,5
+clickbait,1,84,0,0,1
+"police
+categories: law enforcement",1,84,0,0,1
+mistakes,6,84,0,3,3
+youtube.,1,84,0,0,1
+route,1,84,0,0,1
+enforcement,4,83,0,3,1
+expectation,1,83,0,1,0
+confirmation,12,82,1,0,10
+organization,11,82,3,3,5
+picture,4,82,3,0,1
+"comparison
+general categories: dining",1,82,0,1,0
+job search,12,82,2,2,8
+semester,19,82,3,4,12
+athletic department,3,81,0,3,0
+head coach,2,81,0,1,1
+meal plan,6,80,0,4,2
+interests,2,80,0,0,0
+motivation,11,80,4,1,6
+salary,4,80,2,0,2
+job,11,80,2,4,5
+nature,3,80,1,1,1
+reaction,7,80,1,2,3
+link,7,80,2,1,3
+update,10,80,3,0,7
+stress management,4,79,0,1,2
+academic,30,79,4,4,20
+revolutionize.,1,78,0,1,0
+transfer,23,78,3,3,17
+parking and transportation services,1,78,0,1,0
+exploitation,1,78,0,1,0
+cars,4,77,0,2,1
+time management.,6,76,2,1,3
+curiosity,10,76,2,0,8
+schools,6,76,0,1,5
+team,5,75,1,3,1
+failure,4,75,0,3,1
+regret,6,75,0,5,1
+gpa,23,75,4,4,15
+ticket,8,75,2,2,4
+campus safety,2,74,1,0,1
+city,3,74,1,2,0
+access,3,74,1,0,2
+engineering,21,73,5,3,13
+diversity,8,73,4,2,2
+celebration,2,73,2,0,0
+issues,3,72,0,1,2
+interpersonal conflicts,1,72,0,1,0
+advertising,5,72,0,3,2
+starbucks,4,72,0,1,3
+cheerleading,3,71,0,1,2
+party.,2,71,1,0,1
+"contract
+general categories: business",1,71,0,1,0
+tradition,8,71,1,4,3
+video games,8,71,3,3,2
+announcement,5,71,0,1,4
+emergency response,1,70,0,0,1
+petitions,4,70,0,3,1
+petition,5,70,1,3,1
+aramark,2,70,0,2,0
+image,4,70,0,1,1
+curriculum,4,70,0,3,1
+research,14,70,1,0,13
+roommates,8,70,2,3,3
+learning,15,70,8,3,3
+culture,6,69,2,1,3
+information.,6,69,2,1,3
+discussion,4,69,0,1,3
+student id,1,69,1,0,0
+buzz card,1,69,1,0,0
+alcohol,4,69,1,1,2
+food poisoning,3,69,0,3,0
+leisure,4,68,2,0,2
+theft,4,68,0,3,1
+self-care,3,68,2,0,1
+georgia tech football,2,68,2,0,0
+social,6,67,1,0,5
+cleaning,3,67,0,1,2
+movie,3,67,2,0,1
+crime,8,67,0,4,4
+media,13,66,4,0,8
+deception,2,66,0,2,0
+exercise,6,66,4,1,1
+attitude,5,66,0,3,2
+text,4,66,0,1,3
+leisure.,2,66,0,1,1
+society,5,65,0,2,3
+greeting.,2,65,0,0,1
+"education
+general categories: exam",1,65,0,0,1
+technical,6,65,0,1,5
+planning,6,65,0,2,4
+mortality rate,4,65,0,1,3
+love,7,65,3,2,2
+people,12,65,1,5,6
+website,11,65,3,1,7
+suicide rate,3,64,0,1,2
+memory,11,64,4,1,6
+apologies.,1,64,0,1,0
+replacement,5,64,0,1,4
+admissions,15,64,2,3,10
+"apologies.
+categories: technology",1,64,0,1,0
+institution,2,64,0,1,1
+behavior,13,64,0,10,3
+shopping,10,64,2,1,7
+projects.,1,63,0,1,0
+representation,4,63,1,1,2
+personal growth,10,63,5,1,4
+move,2,63,0,0,2
+coffee,4,63,2,1,1
+"student.
+categories: community",1,62,0,1,0
+taco bell,1,62,0,1,0
+student athletes,2,62,1,0,1
+depression,7,62,0,5,2
+school community,1,62,0,1,0
+student.,1,62,0,1,0
+tailgate,1,62,0,1,0
+ethics,9,62,0,6,2
+job opportunities,3,62,1,0,2
+major.,2,62,1,0,1
+test,8,61,1,4,3
+academic performance,11,61,1,4,6
+"reddit.
+more general categories: social media",1,61,0,0,1
+follow-up,4,61,1,0,3
+flavor,1,61,0,0,1
+"investigation.
+general categories: crime",1,61,0,0,1
+details,4,60,0,1,3
+students.,4,60,2,1,1
+nostalgia,6,60,0,3,3
+sodexo,5,59,0,2,3
+exam,6,59,0,1,5
+loneliness,5,59,2,1,2
+exclamation,5,59,2,0,2
+gatech,3,59,0,0,3
+bowl game,1,58,0,0,1
+identity,8,58,1,3,4
+parking permit,2,58,0,1,1
+recommendation,12,58,6,3,3
+legal,8,58,0,0,7
+"question.
+categories: inquiry",1,58,0,0,1
+donors,1,58,0,0,1
+lost and found,5,58,0,0,5
+personality.,1,58,0,0,1
+benefit,1,58,1,0,0
+student assistants,4,58,0,0,4
+night game,1,58,0,0,1
+program,6,57,1,1,4
+renovation,4,57,0,0,4
+moderation,6,57,0,3,3
+copying,1,57,0,0,1
+shop,2,57,0,1,1
+weight loss,5,56,1,1,3
+employees,5,56,0,1,4
+curiosity.,3,56,0,0,3
+school shootings,1,56,0,1,0
+committee,2,56,0,0,2
+scholarship,3,56,0,0,3
+university administration,1,56,0,1,0
+academic success,6,56,4,0,2
+ncaa violations,1,56,0,1,0
+schedule,24,55,5,1,17
+gt band,1,55,1,0,0
+safety rides,2,55,0,1,1
+coding,13,55,3,2,8
+cs,13,55,0,3,10
+attack,3,55,0,2,1
+cooking,6,55,3,1,2
+contract,3,55,0,0,3
+information,18,55,1,0,17
+national average.,2,54,0,1,1
+drug counseling,1,54,0,1,0
+outreach,1,54,0,0,1
+services,6,54,0,2,4
+dispute,1,54,0,1,0
+reactionary,1,54,0,0,1
+thoughts.,1,54,0,0,1
+beliefs,3,54,0,0,3
+"legal.
+general categories: lawsuit",1,54,0,1,0
+gt,8,54,0,3,5
+leadership.,1,54,1,0,0
+empirical data,1,54,0,0,1
+legal action.,1,54,0,1,0
+"leadership.
+categories: voting",1,54,1,0,0
+communication.,6,53,0,1,5
+pain.,1,53,0,1,0
+social interaction,5,53,1,0,4
+"meal plan
+general categories: food",1,53,0,0,1
+reddit,16,53,0,3,12
+majors,10,53,0,4,6
+"school
+categories: negative",1,53,0,1,0
+concessions,1,53,0,0,1
+band,5,53,0,0,5
+scholarships,3,53,2,0,1
+candidate,2,53,0,1,1
+universities,2,53,1,0,1
+mirror,1,53,0,1,0
+withdrawal,2,53,0,1,1
+rat,1,52,0,1,0
+commission,3,52,0,1,2
+comfort,3,52,0,1,2
+send-off,1,52,0,1,0
+college sports,4,52,0,3,1
+typing,3,52,1,0,2
+student opinions.,1,52,0,1,0
+privacy,6,52,0,4,2
+bid,1,52,0,1,0
+home game,1,52,0,1,0
+furniture,3,51,0,0,3
+class availability.,1,51,0,1,0
+swipes,2,51,0,0,2
+opinions,4,51,0,1,3
+marketing.,2,50,0,0,2
+truth.,2,50,0,1,1
+placement,2,50,0,1,1
+flex,1,50,0,0,1
+dining.,2,50,0,1,1
+graduation rate,1,50,1,0,0
+online communities,3,50,1,0,2
+convenience,9,50,2,2,5
+"replacement
+categories: food",1,50,0,0,1
+country,1,50,0,0,1
+"emotions
+sentiment: negative",1,50,0,1,0
+online,8,50,2,2,3
+key,1,49,0,0,1
+sourcing,1,49,0,0,1
+approval,13,49,4,2,7
+sexuality,2,49,0,2,0
+"information
+general categories: information",1,49,0,0,1
+punishment,4,49,0,2,2
+ydsa,3,49,1,1,1
+photography,7,49,3,1,3
+conflict.,1,49,0,1,0
+procrastination,1,49,0,1,0
+document,1,49,0,0,1
+"education
+general categories: cost",1,49,0,1,0
+netflix,1,49,0,1,0
+dining hall,5,49,1,1,3
+neighbours,1,49,0,1,0
+relaxation,4,49,3,0,1
+sidewalks,4,48,0,1,3
+cios,4,48,0,1,3
+academic advising,9,48,1,5,3
+self-improvement,7,48,4,1,2
+system.,2,48,0,1,0
+workload,9,48,0,2,7
+physics,15,48,2,2,11
+"transportation
+categories: frustration",2,48,0,2,0
+expectations.,2,48,0,1,1
+insult,10,48,0,10,0
+alcohol.,1,48,0,0,1
+employee,3,48,0,2,1
+staff,7,48,2,1,4
+noise,2,48,0,1,1
+waitlist,14,48,2,3,9
+etiquette,1,48,0,1,0
+"library.
+general categories: library",1,48,0,1,0
+"condescending
+categories: host matching",1,47,0,1,0
+match,2,47,0,0,2
+emergency,4,47,0,1,3
+diner,1,47,0,0,1
+4410.,1,47,0,0,1
+mse,1,47,0,0,1
+dreaming,1,47,0,1,0
+dominance,2,47,0,0,2
+classes,18,47,4,2,12
+southern,1,47,0,0,1
+spam,2,47,0,1,1
+deals,6,47,5,0,1
+negotiations,3,47,0,0,3
+rest,2,47,0,0,2
+chain,1,47,0,0,1
+fee,1,47,0,1,0
+"restaurant 
+general categories: food",1,47,0,0,1
+battery charge,1,47,1,0,0
+athletic,1,47,0,1,0
+"greeting.
+categories: student",1,47,0,0,1
+issue,4,47,0,2,2
+breakfast,1,47,0,0,1
+russian roulette,1,46,0,1,0
+general.,3,46,0,0,3
+identity theft,1,46,0,0,1
+bullying,4,46,0,3,0
+alum,2,46,0,1,1
+medical,5,46,2,0,3
+"brittain,",1,46,0,1,0
+praise,8,46,8,0,0
+decision-making,5,46,0,0,5
+waiting,2,46,0,2,0
+bank,1,46,0,0,1
+brittain,1,46,0,1,0
+cash,1,46,0,1,0
+innovation,4,46,0,0,4
+"respect.
+
+categories: gt dining",1,46,0,1,0
+backpacks,1,46,0,0,1
+complaining,3,46,0,3,0
+affordability,4,46,0,2,2
+considerate,1,46,0,1,0
+discrimination,4,46,0,4,0
+data breach,1,46,0,0,1
+"education.
+general categories: education",2,45,0,2,0
+campus services,2,45,0,1,1
+time.,5,45,0,1,4
+rat cap,1,45,0,0,1
+success,11,45,4,2,4
+race,5,45,1,3,1
+articles,2,45,0,2,0
+gatorade,2,45,0,0,2
+google,2,45,0,1,1
+"culture
+categories: complaining",1,45,0,1,0
+pikachu,1,45,0,0,1
+improvement,13,45,4,4,5
+gate,2,45,0,1,1
+expression,9,45,2,2,4
+formatting,2,45,1,0,1
+"background
+categories: girl",1,45,1,0,0
+emotions.,2,44,0,2,0
+affiliation,1,44,0,0,1
+family.,1,44,0,0,1
+time-consuming,3,44,1,1,1
+handicapped,1,44,0,1,0
+downvoting,1,44,0,0,1
+administrators,2,44,0,0,2
+national security advisor,1,44,1,0,0
+reflection,4,44,0,1,3
+ads,1,44,0,0,1
+secretary of state,1,44,1,0,0
+licensing,3,44,0,2,1
+landlords,3,44,0,0,3
+memories,2,44,1,0,1
+condi,1,44,1,0,0
+resource,3,44,1,1,1
+valuable insight,1,44,1,0,0
+commencement speech,1,44,1,0,0
+mayor lance-bottoms,1,44,1,0,0
+flexing,1,44,0,0,1
+reminder,8,44,1,0,7
+"exception.
+general categories: exception",1,44,1,0,0
+proposal,1,43,0,0,1
+wildlife,2,43,0,0,2
+"proposal
+categories: transportation",1,43,0,0,1
+warning beacon,1,43,0,0,1
+gondor,1,43,0,0,1
+cleanliness,2,43,0,1,1
+subscription,2,43,0,0,2
+disgust,3,43,0,3,0
+instructions,3,43,0,1,2
+life,6,42,1,2,3
+disagreement,7,42,0,5,2
+celebration.,1,42,1,0,0
+pet care,1,42,0,0,1
+student fees,3,42,0,2,1
+accusation,4,42,0,3,1
+rejection,10,42,0,5,5
+movies,2,42,1,0,1
+implementation,2,42,1,0,1
+well wishes,2,42,2,0,0
+assignments,6,42,1,1,3
+basis,1,42,0,0,1
+daily,1,42,0,0,1
+administrators.,1,42,0,0,1
+hedges,3,42,0,1,2
+catering,3,42,0,2,1
+reconciliation,1,42,0,0,1
+meal plans,3,42,0,1,2
+questions,7,41,0,1,6
+nonsense,2,41,0,1,1
+value,4,41,0,3,1
+extra credit,3,41,2,1,0
+pedestrian safety,1,41,0,1,0
+clubs,6,41,2,1,3
+"time
+general categories: time",2,41,0,1,1
+responsibility,10,41,0,3,7
+social life,4,41,2,1,1
+service.,2,41,0,1,1
+payment,6,40,0,1,4
+post history,3,40,0,1,2
+sorting,1,40,0,0,1
+suicide.,1,40,0,0,1
+body,4,40,0,3,1
+"cycling
+categories: roads",1,40,0,1,0
+group.,1,40,0,0,1
+bowl,2,40,0,0,2
+fundraising,3,40,0,2,1
+electrical,1,40,0,0,1
+cooking equipment,1,39,0,1,0
+industry.,1,39,0,1,0
+pet,4,39,2,0,2
+usage,4,39,0,1,3
+teacher,7,39,3,2,2
+food vendor,1,39,0,1,0
+private food service,1,39,0,1,0
+effort.,2,39,0,2,0
+commuting,8,39,0,2,6
+roast,1,39,1,0,0
+poor quality food,1,39,0,1,0
+school newspaper,1,39,0,1,0
+branding,3,39,0,1,2
+rats,1,39,0,1,0
+poor hygiene,1,39,0,1,0
+exploration.,1,38,0,0,1
+deadline,8,38,0,2,6
+negative sentiment,1,38,0,1,0
+general categories: negative,1,38,0,1,0
+clough undergraduate learning commons,1,38,0,0,1
+stadium policy.,1,38,0,0,1
+employment,6,38,0,2,4
+recommendations,2,38,0,0,2
+tech square,1,38,0,0,1
+rules of the road,1,38,1,0,0
+employment.,1,38,0,0,1
+osi,6,38,0,3,3
+police enforcement,1,38,1,0,0
+misconceptions,1,38,0,0,1
+battlefield,1,38,0,0,1
+grateful,2,38,2,0,0
+policies,3,38,0,3,0
+failure.,3,37,0,2,1
+leadership,7,37,2,1,4
+center,3,37,0,2,1
+pleasure,1,37,0,0,1
+nightlife,3,37,2,0,1
+complaints,6,37,1,5,0
+night,3,37,0,1,2
+long-term,1,37,0,0,1
+prevention.,3,37,0,2,1
+interest,9,37,3,0,6
+locations.,1,37,0,0,1
+angry,1,37,0,1,0
+experience,20,37,7,2,11
+hall.,1,36,0,0,1
+road.,1,36,0,1,0
+hazard,1,36,0,1,0
+rude behavior,2,36,0,0,2
+architecture,4,36,1,0,2
+coach,3,36,1,0,2
+retail,3,36,0,0,3
+data analysis,3,36,0,1,2
+tech stress,1,36,1,0,0
+prison,2,36,0,2,0
+experiences,3,36,0,1,2
+moonshine,2,36,0,0,2
+"contact 
+general categories: assistance",1,36,0,0,1
+squalor,1,36,0,0,1
+uncertainty,13,36,1,5,7
+forwarding,2,36,0,0,2
+admission,4,36,2,0,2
+transparency,2,36,1,1,0
+professional help,1,36,1,0,0
+"lights.
+categories: police",1,36,0,1,0
+lights,1,36,0,1,0
+mental health resources,2,35,0,1,1
+building,4,35,0,1,2
+america,3,35,0,2,1
+pyramid schemes,1,35,0,1,0
+beer,5,35,3,1,1
+political climate,1,35,0,0,1
+physical activity,2,35,1,0,1
+consequences,3,35,0,1,2
+ae,3,35,1,1,1
+emergency preparedness,1,35,0,0,1
+water,2,35,0,0,2
+tenant issues,1,35,0,0,1
+singing,2,34,0,0,2
+efficient,1,34,1,0,0
+oversight,1,34,1,0,0
+"boobs
+general categories: coding",1,34,0,0,1
+cooperation,1,34,1,0,0
+student body,2,34,0,1,1
+fashion,6,34,2,0,4
+"feedback.
+categories: helpful",1,34,1,0,0
+war,5,34,0,5,0
+responsive,1,34,1,0,0
+break,5,34,3,0,2
+academics.,1,34,1,0,0
+ownership,2,34,0,1,1
+stigma,3,34,0,0,3
+healthcare,5,34,0,1,4
+displeasure,1,34,0,1,0
+job responsibilities,2,34,0,2,0
+software,11,34,2,0,8
+inconvenience,1,34,0,1,0
+"gardening
+general categories: gardening",1,34,0,1,0
+ascii,1,34,0,0,1
+box,1,33,0,0,1
+suggestions,8,33,3,1,4
+constructive criticism,1,33,0,0,1
+shot,1,33,0,0,1
+ra,4,33,0,2,2
+video,7,33,0,0,7
+manned,1,33,0,0,1
+physical sensation,1,33,0,1,0
+autism,6,33,0,2,4
+georgia.,1,33,1,0,0
+reason,1,33,0,0,1
+rudeness.,2,33,0,1,0
+"counseling center.
+categories: friend",1,33,0,1,0
+real world,2,33,0,0,2
+hiding.,1,33,0,1,0
+"education.
+categories: education",2,33,0,1,1
+"slang.
+general categories: approval",1,33,1,0,0
+mind,1,33,0,0,1
+robbery,4,33,0,2,2
+cannon,1,33,0,0,1
+sunshine,1,33,0,0,1
+course,17,33,2,0,14
+product,8,33,2,3,2
+ratio,3,33,0,1,2
+hip hop,1,33,1,0,0
+stadium,3,33,0,0,3
+wellbeing,1,33,0,0,1
+absentee ballots,1,33,1,0,0
+quality.,1,33,1,0,0
+legacy,2,33,2,0,0
+"food safety.
+more general categories: food",1,32,0,1,0
+company,5,32,1,1,3
+assertion,1,32,0,1,0
+gratitude.,3,32,1,2,0
+south region,1,32,0,1,0
+accidents,1,32,0,0,1
+harmful actions,1,32,0,1,0
+happiness,5,32,4,1,0
+drugs.,2,32,0,0,2
+accommodation,3,32,0,1,2
+safety.,1,32,0,1,0
+style,2,32,0,0,2
+cdc,1,32,0,1,0
+medication,7,32,1,2,4
+"instructions.
+categories: instructions",1,31,0,0,1
+quality,5,31,0,5,0
+recency bias,1,31,0,0,1
+student safety,3,31,0,2,1
+m-train.,1,31,0,0,1
+action,4,31,0,2,2
+course registration,11,31,0,1,10
+activism,2,31,1,0,1
+pets,2,31,2,0,0
+budget,3,31,0,2,1
+story,2,31,0,1,1
+future,3,31,0,0,3
+chat,2,31,0,1,1
+2022,1,31,0,0,1
+volunteer,3,31,0,2,1
+consumerism,2,31,0,1,1
+"question.
+general categories: communication",1,31,0,0,0
+tutoring,4,31,0,4,0
+goals,3,30,1,0,2
+conspiracy,1,30,0,1,0
+civil discourse,1,30,1,0,0
+cost savings,2,30,0,0,2
+daily routine,2,30,0,0,2
+skepticism,1,30,0,0,1
+acc,2,30,1,1,0
+nutrition,7,30,1,3,3
+"emotion
+categories: emotion",2,30,2,0,0
+women,4,30,1,1,1
+fees,4,30,0,2,2
+energy.,1,30,0,0,1
+nickname,1,30,0,0,1
+help,6,30,0,0,5
+"sports
+categories: sports",2,30,0,2,0
+"sports
+categories: football",1,30,1,0,0
+recruitment,7,30,2,2,3
+special teams,1,30,1,0,0
+governor,2,30,0,2,0
+assisting,1,29,0,1,0
+undertrained,1,29,0,1,0
+purchases,3,29,1,1,1
+mmo,1,29,0,0,1
+age,3,29,0,0,3
+source,4,29,0,2,2
+email.,4,29,0,0,4
+"loss
+general categories: hope",1,29,1,0,0
+bot,2,29,0,1,1
+denial,2,29,0,1,1
+"moderation
+general categories: moderation",2,29,0,1,1
+address,2,29,0,0,2
+measurement,4,29,0,0,4
+sports.,4,29,2,0,2
+difficulty.,6,29,0,2,4
+activities.,3,29,0,1,2
+"customer service
+categories: understaffed",1,29,0,1,0
+reliability,2,29,0,1,1
+student life,3,28,1,0,2
+prayers,1,28,0,1,0
+business hours,1,28,0,1,0
+funding.,2,28,0,1,1
+change of major,2,28,0,0,2
+cancer,2,28,0,1,1
+vulgar,2,28,0,2,0
+food and drink,1,28,1,0,0
+gold,1,28,1,0,0
+after-hours.,1,28,0,1,0
+piazza,2,28,0,1,1
+wishes,8,28,5,1,2
+thoughts,1,28,0,1,0
+"humor.
+categories: humor.",1,28,0,0,1
+decision,4,28,1,0,2
+course evaluation,1,28,1,0,0
+unsubscribe.,1,28,0,0,1
+weekend,2,28,0,0,2
+academic struggles,3,28,1,2,0
+statistics.,1,28,0,0,1
+propagation,1,28,0,0,1
+student feedback,1,28,1,0,0
+transit,2,28,0,1,1
+onomatopoeia,1,27,0,0,1
+requirements,9,27,1,1,7
+sleep,5,27,0,2,3
+enemies,1,27,0,1,0
+fetish,2,27,0,0,2
+rankings,3,27,0,0,3
+dean of students.,1,27,0,0,1
+gt.,1,27,0,1,0
+hygiene,3,27,0,2,1
+"suicide 
+sentiment: neutral",1,27,0,0,1
+"none 
+
+categories: disappointment",1,27,0,1,0
+insurance,4,27,0,0,4
+ta,3,27,0,0,3
+crisis intervention,1,27,1,0,0
+"sports 
+categories: sports",1,27,1,0,0
+greek life,5,27,3,1,1
+joke,3,27,0,1,2
+degree,4,27,2,1,1
+data,8,27,0,2,6
+optimism,1,27,1,0,0
+reading,5,27,1,0,4
+"democracy
+categories: politics",2,27,0,2,0
+"rights
+categories: rights",1,27,0,1,0
+laundry,4,27,0,0,4
+bottles,1,27,0,0,1
+work-life balance,1,27,0,0,1
+technical issues,2,27,1,1,0
+university resources.,1,27,1,0,0
+computing,4,27,0,0,4
+thanks,6,27,4,0,1
+"colors
+categories: colors",1,27,0,0,1
+usefulness,2,27,1,1,0
+adhd,4,27,1,3,0
+shankar.,1,26,0,1,0
+ticking,2,26,0,0,2
+meal planning,3,26,1,1,1
+mental health services,3,26,1,1,1
+current problems,1,26,0,0,1
+candidates,1,26,0,1,0
+new job,1,26,1,0,0
+projects,4,26,2,0,2
+next semester.,1,26,1,0,0
+los angeles chargers.,1,26,1,0,0
+sign up.,1,26,0,0,1
+comment,3,26,0,2,1
+friends,6,26,1,1,3
+commentary,1,26,0,1,0
+office hours,5,26,1,1,3
+winter break,1,26,1,0,0
+git,2,26,1,0,1
+social acceptance,1,26,1,0,0
+solution,5,26,0,3,2
+rigging,1,26,0,1,0
+scooters,3,26,0,1,2
+bonus,1,26,0,1,0
+books,1,26,1,0,0
+hoax,2,26,0,2,0
+holland plant.,1,26,0,0,1
+home,4,26,0,2,2
+end of semester events,1,26,1,0,0
+understanding,9,26,7,0,2
+chick-fil-a.,1,26,0,1,0
+clearing head,1,26,1,0,0
+eligibility,2,26,0,1,1
+awareness,5,26,2,1,2
+state department,1,26,0,1,0
+resolution,3,26,2,0,1
+drinking,3,26,1,1,1
+rent,3,26,0,0,3
+relationships.,3,26,0,1,1
+compensation,2,26,0,2,0
+tax,1,26,0,1,0
+sport,2,26,0,0,2
+treatment,4,26,0,2,2
+year,3,26,0,1,2
+plagiarism,8,26,0,3,5
+"social media
+categories: technology",1,26,0,1,0
+zip code,2,25,0,0,2
+korean studies,1,25,1,0,0
+critical thinking,2,25,1,1,0
+survey,4,25,0,2,2
+subreddits,2,25,0,0,2
+exams,6,25,3,1,1
+op problem,1,25,0,0,1
+dining options,2,25,0,1,1
+alumni,4,25,2,2,0
+system,2,25,0,0,2
+antagonistic.,1,25,0,0,1
+engineers,2,25,0,0,2
+false accusation,1,25,0,1,0
+struggle,8,25,0,5,3
+deletion,3,25,0,2,1
+sec,1,25,0,0,1
+fan behavior,3,25,1,2,0
+reach,2,25,0,0,2
+parenting,1,25,0,0,1
+package pickup,1,25,0,0,1
+self-image,1,25,0,0,1
+currency,1,25,0,0,1
+regulations,2,25,0,0,2
+guessing,2,25,0,0,2
+"restaurant
+general categories: food",3,25,2,1,0
+notification,2,24,0,0,2
+insecurity,1,24,0,0,1
+"location
+categories: village",1,24,0,0,1
+fandom,2,24,0,1,1
+attractions,1,24,0,0,1
+report,5,24,0,1,4
+code plagiarism,1,24,0,0,1
+refusal,4,24,0,2,2
+meeting,8,24,2,2,4
+academic dishonesty,3,24,0,3,0
+meme,2,24,0,1,1
+"memory.
+category: memory",1,24,0,0,1
+consideration,3,24,1,1,1
+disrespect,2,24,0,1,0
+west,1,24,0,0,1
+holiday,1,24,1,0,0
+none.,4,24,0,0,3
+income,1,24,1,0,0
+hooking up.,1,24,0,0,1
+networking,4,24,2,0,2
+misrepresentation,2,24,0,2,0
+cheat detection,1,24,0,0,1
+shortness,1,24,0,0,1
+good,2,24,1,0,1
+moving on.,1,24,0,1,0
+labor,2,24,0,1,1
+customers,2,24,0,0,2
+automated software,1,24,0,0,1
+blackout,2,24,0,0,2
+resume,5,24,1,2,2
+law,4,24,0,0,3
+invalid,1,24,0,1,0
+warning,5,23,1,3,1
+georgia tech.,1,23,0,0,1
+financial score,1,23,0,0,1
+guidelines,1,23,0,0,1
+freshman,1,23,1,0,0
+miami,3,23,0,2,1
+rfps,1,23,0,0,1
+test.,1,23,0,0,1
+staffing,1,23,0,1,0
+notaries,1,23,0,0,1
+"pop culture
+general categories: pop culture",1,23,0,0,1
+frequency,1,23,0,0,1
+waste management,2,23,0,1,1
+city life,1,23,0,0,1
+outlook.,2,23,0,0,2
+false accusation.,1,23,0,1,0
+"reaction
+general categories: surprised",1,23,0,0,1
+preventative care,1,23,0,1,0
+quality of services.,1,23,0,1,0
+accountability.,1,23,0,0,1
+cbd,7,23,3,0,4
+technical score,1,23,0,0,1
+responses,3,23,0,1,2
+savings,2,23,0,1,1
+coach johnson,1,23,1,0,0
+interior design,1,23,0,0,1
+revenge.,2,23,0,2,0
+perspective,3,23,2,0,1
+food variety,1,23,0,0,1
+committee members,1,23,0,0,1
+substance abuse,1,23,0,1,0
+parties,2,23,0,2,0
+catchphrase,1,23,0,0,1
+offer,5,23,2,1,2
+proposals,1,23,0,0,1
+capacity,2,22,0,0,2
+banning,2,22,0,1,1
+players,1,22,0,0,1
+lyrics,1,22,0,0,1
+athletic event,1,22,0,1,0
+artificial intelligence,1,22,0,1,0
+facilities,4,22,0,0,4
+aspirations,1,22,0,1,0
+color,3,22,0,1,2
+restoration.,2,22,0,0,2
+cs clubs,1,22,1,0,0
+bdsm,2,22,1,0,1
+physical appearance,1,22,0,1,0
+interview,5,22,1,2,2
+graduate program,2,22,0,0,2
+experience.,2,22,1,0,1
+expectation.,1,22,0,0,1
+reselling,1,22,0,1,0
+cool,2,22,1,0,1
+winners,1,22,0,0,1
+growth,3,22,1,1,1
+observation,2,22,0,0,2
+defense,3,22,1,0,2
+traffic safety,3,22,0,2,1
+"unknown
+general categories: unknown",1,22,0,0,0
+fitness.,1,22,0,1,0
+"football
+categories: sports",1,22,0,1,0
+self-reflection,1,22,0,0,1
+try.,1,22,1,0,0
+opportunities.,1,22,1,0,0
+"sports.
+categories: money",1,22,0,0,1
+corrections,1,22,0,0,1
+"none.
+categories: none",1,22,0,0,0
+normal,2,22,0,0,2
+management system.,1,22,0,1,0
+"none.
+general categories: like",1,22,1,0,0
+mobile,2,21,0,1,1
+documentation,3,21,0,0,3
+public transport,1,21,0,1,0
+agency,1,21,0,0,1
+iphone,3,21,0,0,3
+"callout
+categories: conflict",1,21,0,1,0
+start.,2,21,0,1,1
+person,6,21,0,0,6
+mod election,1,21,0,0,1
+delivery,6,21,0,3,3
+appearance,8,21,3,2,3
+rodents,1,21,0,1,0
+university.,3,21,0,1,2
+"retirement
+categories: gratefulness",1,21,1,0,0
+ignored,2,21,0,2,0
+apartment,4,21,0,3,1
+new,3,21,1,0,2
+football.,2,21,0,2,0
+drugs,5,21,1,4,0
+plane.,1,21,0,0,1
+similarity,4,21,0,1,3
+state jurisdiction,1,21,0,0,1
+grill.,1,21,0,0,1
+scam.,1,21,0,1,0
+bikers,2,21,0,2,0
+false advertising,1,21,0,1,0
+plants,4,21,0,0,4
+guy,1,21,0,0,1
+quarterbacks,1,21,0,0,1
+inclusion,2,21,1,0,1
+nuclear affairs,2,21,1,1,0
+joint jurisdiction,1,21,0,0,1
+support group,1,21,0,0,1
+programming,7,21,0,1,5
+harassment,3,21,0,3,0
+iq,1,20,0,1,0
+grading.,2,20,1,0,1
+transition,2,20,0,0,2
+"policy
+categories: same",1,20,0,0,1
+"education.
+categories: grades",1,20,0,1,0
+date,8,20,1,0,7
+gender ratio,1,20,1,0,0
+quality of life,1,20,0,1,0
+tools,4,20,0,0,3
+budget.,1,20,0,1,0
+typing skills,1,20,1,0,0
+athletic program,1,20,0,0,1
+f.,1,20,0,1,0
+upgrade,2,20,0,2,0
+fermentation,1,20,0,0,1
+far,1,20,0,0,1
+near.,1,20,0,0,1
+fellows,1,20,0,0,1
+"fees
+categories: money",1,20,0,1,0
+online cs masters program,1,20,0,0,1
+helpful,2,20,0,0,2
+excitement.,1,20,1,0,0
+counselors.,1,20,0,0,1
+"opinion.
+categories: negative",1,20,0,1,0
+old,1,20,0,0,1
+sign-up,1,20,0,0,1
+project,4,20,0,2,2
+drinks,1,20,0,0,1
+unpleasant,3,20,0,3,0
+off-campus,2,20,0,0,2
+"entertainment
+categories: entertainment",2,20,1,0,1
+enrollment,4,20,0,0,4
+navigation,2,20,0,1,1
+weight,2,20,0,2,0
+ideas,2,20,0,0,2
+tapingo,1,20,0,0,1
+prejudice,2,20,0,1,1
+women's organizations.,1,20,1,0,0
+workout,2,20,2,0,0
+other,3,20,0,1,2
+batch,1,20,0,0,1
+workplace,2,20,1,1,0
+opportunities,6,19,3,0,3
+reverse parking,2,19,0,1,1
+preference,2,19,0,1,1
+apathy,3,19,0,1,2
+consideration.,1,19,0,0,1
+resilience,2,19,0,1,1
+threat,2,19,0,2,0
+responsibility.,3,19,0,2,1
+luck,5,19,2,1,2
+authority,1,19,1,0,0
+course selection,10,19,2,0,8
+countryside,1,19,0,1,0
+anxiety,6,19,3,2,1
+democracy,2,19,0,1,1
+counterproductive.,1,19,0,1,0
+student complaints,1,19,0,0,1
+intent,1,19,0,1,0
+ticketing,4,19,0,2,2
+spa,1,19,0,0,1
+power outage,2,19,0,0,2
+ticket scanning,2,19,0,0,2
+calories,4,19,0,2,2
+"time
+general categories: opening",1,19,0,0,1
+condescension,2,19,0,1,1
+organizational structure,1,19,0,1,0
+academic withdrawal,1,19,1,0,0
+discounts,3,19,2,1,0
+switch,1,19,0,0,1
+college life,3,19,1,2,0
+campus.,8,19,3,1,4
+lgbt,1,19,0,0,1
+cheaper.,1,19,0,0,1
+sourdough.,1,19,0,0,1
+vision,1,19,0,0,1
+thanksgiving,3,19,0,1,2
+questioning,4,19,0,2,1
+greco,3,19,0,0,3
+torture,3,19,0,3,0
+ban,2,19,0,2,0
+transportation.,2,19,0,0,2
+cyclists,4,19,0,1,3
+suspicious,1,19,0,1,0
+furry club,1,19,0,0,1
+importance,1,19,0,1,0
+"theft
+categories: safety",1,19,0,1,0
+monster,1,19,0,1,0
+month,1,19,0,0,1
+influence.,1,19,0,0,1
+pumpkin,1,19,0,0,1
+haters.,1,18,0,0,1
+"fitness.
+
+general categories: exercise",1,18,0,1,0
+unhelpful,2,18,0,2,0
+"education
+more general categories: education",2,18,0,1,1
+"booted
+general categories: sports",1,18,0,0,1
+"dressing
+categories: confidence",1,18,0,0,1
+undergrad degree,1,18,0,0,1
+pest,1,18,0,1,0
+tuxedo,1,18,0,0,1
+control,3,18,1,1,1
+worry,3,18,1,1,1
+classmate,2,18,0,2,0
+contact,5,18,1,0,4
+modern,3,18,2,0,1
+shortcomings,2,18,0,1,1
+food quality,2,18,0,0,2
+predictions,3,18,0,1,2
+customer complaints,1,18,0,1,0
+direction,1,18,0,0,1
+sga,5,18,0,1,4
+social media.,3,18,0,1,2
+competence,1,18,0,0,1
+self-care.,1,18,1,0,0
+contract renewal,1,18,0,1,0
+food.,2,18,1,0,1
+nave,2,18,0,1,1
+courses,9,18,1,0,8
+price,4,18,0,0,4
+"actions
+general categories: actions",1,18,0,0,1
+student activism,2,18,0,1,1
+highlights,1,18,0,0,1
+t-shirt,1,18,0,0,1
+creation,1,18,0,0,1
+selection,1,18,0,0,1
+morality,2,18,0,1,1
+delay,2,18,0,0,2
+poor quality.,1,18,0,1,0
+tourist attractions,1,18,1,0,0
+bio,2,18,1,0,1
+general categories: text,1,18,0,0,1
+revenue,2,18,0,0,1
+concert,2,18,1,0,1
+voiceover,1,18,1,0,0
+prioritization,4,18,0,0,4
+frustration.,2,18,0,2,0
+explanation,6,18,1,0,5
+assignment,4,18,1,2,1
+dates,3,18,0,1,2
+coach.,2,18,1,0,1
+ageism,2,18,0,1,0
+openness,1,18,0,0,1
+mixed drinks,1,18,0,1,0
+"sports 
+general categories: sports",1,18,0,1,0
+victimhood,1,18,0,1,0
+fun,5,18,4,1,0
+breaks.,1,17,0,0,1
+lack of heat,1,17,0,1,0
+due date,2,17,0,1,1
+remembrance,3,17,1,0,2
+discomfort,1,17,0,1,0
+"assistance
+more general categories: support",1,17,0,0,1
+"registration
+general categories: time",1,17,0,0,1
+easy,3,17,1,1,1
+tips,5,17,2,2,1
+classical,2,17,1,0,1
+mobile.,1,17,0,0,1
+sugar,2,17,0,0,2
+well-being,3,17,1,0,2
+wellness,2,17,2,0,0
+"eligibility
+categories: housing",1,17,0,0,1
+progress,5,17,0,2,3
+sub.,1,17,0,0,1
+ai,3,17,0,2,1
+days,1,17,0,0,1
+sports.categories: sports,1,17,0,0,1
+noise.,1,17,0,0,1
+college basketball,1,17,1,0,0
+group,4,17,0,0,4
+support.,3,17,0,1,2
+identity.,3,17,1,0,2
+museum,1,17,0,0,1
+college majors,1,17,0,0,1
+"mystery
+general categories: mystery",1,17,0,0,1
+roof,2,17,1,0,0
+spring semester,3,17,1,0,2
+buzzport,2,17,0,0,2
+performance.,2,17,1,0,1
+election rigging,1,17,0,1,0
+highschool,2,17,0,0,2
+efficiency.,3,17,0,0,3
+directions,3,17,0,0,3
+"dining
+general categories: food",1,17,0,1,0
+digital thermostats,1,17,0,1,0
+marketing,2,17,1,1,0
+outsourcing,2,17,0,2,0
+car,2,17,1,1,0
+comparison.,4,17,0,0,4
+hate week,1,17,0,0,1
+rationality,1,17,0,1,0
+interaction,3,17,2,1,0
+meal swipe,1,17,0,0,1
+"savings
+categories: expenses",1,17,0,1,0
+uga,2,17,0,0,2
+table,1,17,0,1,0
+course requirements,7,17,0,0,7
+media coverage,1,17,0,1,0
+routine,3,17,0,0,3
+social interactions,2,16,1,1,0
+track history,1,16,0,1,0
+bluetooth speaker,1,16,0,1,0
+veterans,2,16,0,0,2
+upvote,2,16,1,1,0
+room,2,16,0,0,2
+top,1,16,0,0,1
+interests.,1,16,1,0,0
+return,2,16,0,1,1
+"efficiency
+categories: time",1,16,0,0,1
+intensifies,1,16,0,0,0
+pharmacy,3,16,1,0,2
+job application,4,16,0,0,4
+job loss,1,16,0,1,0
+self care,1,16,0,1,0
+"grading
+more general categories: education",1,16,0,0,1
+technology investment.,1,16,0,0,1
+ridgeview,1,16,0,1,0
+improvements,1,16,0,0,1
+karma,1,16,0,1,0
+clarification,6,16,0,0,6
+requirement,2,16,0,0,2
+images,2,16,0,0,2
+landmarks,2,16,1,0,1
+dining services,1,16,0,1,0
+fairness,3,16,1,1,1
+perfectionism,1,16,0,1,0
+support structure,1,16,0,1,0
+dish,2,16,0,1,1
+neglect.,1,16,0,1,0
+"color
+general categories: education",1,16,0,1,0
+shower,1,16,0,0,1
+suite,1,16,0,0,1
+psychiatric hospital,1,16,0,1,0
+apple,2,16,1,0,1
+dating advice,1,16,0,1,0
+disassembly.,1,16,0,0,1
+"disappointment
+general categories: frustration",1,16,0,1,0
+tickets,7,16,0,1,6
+water main,1,16,0,0,1
+menu options,1,16,0,0,1
+mentorship,4,16,3,0,1
+pet policy,1,16,0,0,1
+racism,3,16,0,3,0
+manually,1,16,0,0,1
+marching band,3,16,0,1,2
+ramen,2,16,2,0,0
+media.,3,16,0,0,3
+code,3,16,1,1,1
+gtl orientation,1,16,1,0,0
+walking,2,16,0,0,2
+generations,2,16,0,0,2
+addiction,3,16,1,1,1
+plans,2,16,0,0,2
+"student complaint.
+general categories: student life",1,16,0,1,0
+nsfw,1,16,0,1,0
+laws,1,16,0,0,1
+academic struggle,1,16,1,0,0
+tags,1,16,0,0,1
+virtual permit pilot program,1,16,0,0,1
+relaxation.,2,16,1,0,1
+free time,1,16,1,0,0
+convenient,2,16,1,0,1
+donations,2,16,0,1,1
+"mental health
+more general categories: psychology",1,15,0,1,0
+stupid,1,15,0,1,0
+podcasts,6,15,2,0,4
+mental health care,1,15,0,1,0
+inflation,1,15,0,1,0
+flinch,1,15,0,1,0
+pleasant,2,15,1,0,1
+thread combinations,1,15,0,0,1
+friendships,2,15,1,0,1
+chance,2,15,0,1,1
+coping,4,15,1,1,2
+happiness.,1,15,1,0,0
+instructor,1,15,0,0,1
+false,1,15,0,1,0
+blaming,1,15,0,1,0
+democratic,1,15,0,0,1
+meal swipes,3,15,0,0,3
+censorship,1,15,0,1,0
+controlled substances,3,15,0,2,1
+final,5,15,1,1,3
+foreign policy,1,15,0,1,0
+dean.,1,15,0,0,1
+"subreddit.
+general categories: technology",1,15,0,0,1
+matlab.,1,15,0,0,1
+"creepy
+general categories: creepy",1,15,0,1,0
+rumor,3,15,0,0,2
+boosters,1,15,0,1,0
+credits,7,15,1,0,6
+syntax,2,15,0,1,1
+human consequences.,1,15,0,1,0
+notification.,1,15,0,0,1
+syracuse,2,15,1,0,1
+frequency.,1,15,0,0,1
+"society.
+category: society",1,15,0,0,1
+"sports.
+categories: replay",1,15,0,1,0
+exclusion.,1,15,0,1,0
+public.,1,15,0,0,1
+"technical support
+general categories: technical",1,15,0,0,1
+suggestion,1,15,0,0,1
+change.,2,15,0,2,0
+miss,1,15,0,1,0
+printing,4,15,1,0,3
+therapy,5,15,1,4,0
+boredom,2,15,0,1,1
+actions,2,15,0,1,1
+section,2,15,0,2,0
+small,1,15,0,1,0
+staffer,1,15,0,0,1
+knowledge,6,15,0,0,6
+dilution,1,15,0,0,1
+donations.,1,15,0,1,0
+antibiotics,2,15,0,0,2
+fact-checking,1,15,1,0,0
+"education
+categories: university",1,15,0,1,0
+student government,1,15,0,1,0
+"confusion.
+categories: confusion",1,15,0,1,0
+student id cards,1,15,0,1,0
+"education
+categories: education",1,15,0,1,0
+application,5,15,1,1,3
+japanese,2,15,0,1,1
+locker rooms,1,15,0,1,0
+discussions,1,15,0,1,0
+visitors,2,15,0,0,2
+personality,4,15,2,2,0
+british navy,1,15,0,0,1
+drivers.,1,15,0,0,1
+residency,3,15,0,2,1
+readers,1,15,0,1,0
+georgia legislature,1,15,0,0,1
+"reminder
+categories: reminder",1,15,0,0,1
+breach,1,15,0,0,1
+internet culture,1,15,0,0,1
+"regret.
+categories: life",1,14,0,1,0
+notices,1,14,0,0,1
+course.,2,14,0,0,2
+bike riders,1,14,0,0,1
+season,1,14,0,1,0
+hole in the wall,1,14,0,1,0
+cover.,1,14,0,0,1
+violation,1,14,0,0,1
+organizations,2,14,1,1,0
+time-management,1,14,0,0,1
+professor.,2,14,1,1,0
+slowdown,1,14,0,0,1
+overboard,1,14,0,1,0
+"registration
+categories: automatic",1,14,0,1,0
+chart,2,14,0,2,0
+approach,1,14,0,0,1
+end of term,1,14,0,0,1
+gtpd,3,14,0,0,3
+"registrar
+categories: registrar",1,14,0,0,1
+sign,1,14,0,0,1
+"research assistant
+categories: rules",1,14,0,0,1
+licenses,1,14,0,0,1
+bollywood,1,14,1,0,0
+esteem,1,14,0,1,0
+challenges,1,14,0,1,0
+foodcourt,1,14,0,1,0
+passport,3,14,0,0,3
+viral,1,14,0,0,1
+coping.,1,14,0,0,1
+terms and conditions,1,14,0,0,1
+opioid crisis,1,14,0,1,0
+"food.
+categories: dislike",1,14,0,1,0
+labeling,2,14,0,0,2
+pride,1,14,0,1,0
+lenient,1,14,0,0,1
+controversy.,1,14,0,1,0
+acapella,1,14,1,0,0
+"conversation 
+categories: humor",1,14,0,1,0
+bias,3,14,1,1,1
+teamwork,3,14,1,0,2
+prescription,4,14,0,2,2
+strong emotion,1,14,0,1,0
+doctor,3,14,1,1,1
+"high school
+categories: school",1,14,0,1,0
+comments,6,14,0,1,5
+grad school,3,14,0,0,3
+buford highway,1,14,0,1,0
+godsend.,1,14,0,1,0
+expensive,1,14,0,1,0
+restaurant experience,1,14,0,1,0
+solidarity,1,14,0,0,1
+vendors,2,14,0,1,1
+dining dollars,1,14,0,0,1
+balance,1,14,0,0,1
+restrooms,2,14,0,1,1
+clothing,3,14,2,0,1
+infringement,1,14,0,0,1
+average,3,14,0,1,2
+"self-esteem
+general categories: self",1,14,0,1,0
+meeting.,2,14,0,0,2
+value.,2,14,0,1,1
+default,2,14,0,1,1
+student ticket policy,1,14,0,0,1
+inspection,1,14,0,0,1
+backlog.,1,14,0,0,1
+state institution,1,14,0,1,0
+ticket sales.,1,14,1,0,0
+study-habits,1,14,0,0,1
+medical expenses,1,14,0,0,1
+existence,2,14,0,0,2
+reviews,3,14,1,1,1
+readmission,1,14,0,0,1
+annoyance,4,14,0,4,0
+restaurants,3,14,2,0,1
+rental,2,14,1,0,1
+daily digest,1,14,0,0,1
+mo bamba,1,14,0,0,1
+"summer 
+categories: weather",1,14,0,1,0
+locations,1,14,0,0,1
+cs department,2,14,0,2,0
+adidas,1,14,0,0,1
+"politics.
+
+general categories: politics",1,14,0,1,0
+tweet,1,14,0,0,1
+personalities,1,14,1,0,0
+recycling,8,14,0,1,7
+"study
+categories: productivity",1,14,0,0,1
+"username
+categories: username",1,14,0,0,1
+bar,2,14,1,0,1
+"luck
+general categories: disappointment",1,14,0,1,0
+"question
+categories: like",1,14,1,0,0
+mail,1,14,0,0,1
+living alone,4,14,3,0,1
+dining/wining,1,14,0,0,0
+uncategorized,1,14,0,0,1
+"software.
+more general categories: technology",1,13,0,0,1
+shit.,1,13,0,0,1
+breakout room,1,13,0,0,1
+cause,2,13,0,1,1
+feelings,1,13,0,1,0
+casting call,1,13,0,0,1
+flute,1,13,0,0,1
+social skills,3,13,0,2,1
+slow cooker,1,13,0,1,0
+sex,4,13,1,2,1
+skills,2,13,1,0,1
+good luck,3,13,1,1,1
+career advancement,1,13,1,0,0
+speculation,1,13,0,0,1
+relatability,1,13,1,0,0
+desperate.,1,13,0,1,0
+debt,1,13,0,1,0
+support staff,1,13,0,0,1
+comfort.,2,13,0,0,2
+negative experience,2,13,0,2,0
+psychiatry,2,13,1,0,1
+mood.,2,13,0,2,0
+cynical,1,13,0,1,0
+college campus,1,13,0,0,1
+damage,1,13,0,1,0
+qualifications,1,13,0,1,0
+things to do in atlanta,1,13,1,0,0
+alone,1,13,0,1,0
+leave,1,13,0,1,0
+thursday,2,13,1,0,1
+scared,1,13,0,1,0
+dfd,1,13,0,0,1
+dining experience,1,13,0,1,0
+dining halls,2,13,0,1,1
+"voting.
+categories: negative",1,13,0,1,0
+mailbox,3,13,0,0,3
+voting.,1,13,0,1,0
+referral,3,13,0,0,3
+argument.,1,13,0,1,0
+commemoration,1,13,0,1,0
+survival.,1,13,0,1,0
+progressive,1,13,0,0,1
+"professor
+more general categories: education",1,13,0,0,1
+technical support,6,13,1,0,5
+phone interviews,1,13,0,0,1
+aa.,1,13,0,0,1
+person.,1,13,0,0,1
+political organization,1,13,1,0,0
+connector.,1,13,0,0,1
+academic calendar,2,13,0,1,1
+temperature,3,13,0,2,1
+academic options,1,13,0,0,1
+override,1,13,0,0,1
+prerequisites,5,13,1,1,3
+talks,1,13,0,0,1
+"comparison
+categories: comparison",1,13,0,1,0
+talent,2,13,0,0,2
+online interaction,1,13,0,1,0
+"test
+categories: test",2,13,0,0,2
+"access
+categories: access",1,13,0,1,0
+process,4,13,0,0,4
+whacky,1,13,0,0,1
+"profanity.
+
+general categories: vulgarity",1,13,0,1,0
+"professor
+general categories: education",2,13,2,0,0
+relief,2,13,2,0,0
+fire truck,1,13,0,0,1
+rooftop,1,13,0,0,1
+saving,1,13,0,1,0
+"response.
+
+general categories: feedback",1,13,0,0,1
+inbox,1,13,0,0,1
+hu's lab,1,13,0,0,1
+rush,2,13,0,1,1
+emergency medical service,1,13,0,0,1
+drink,1,13,0,0,1
+easy.,1,13,0,0,1
+"email.
+categories: focused",1,13,0,0,1
+biking,2,13,0,1,1
+"ban
+categories: negative",1,13,0,1,0
+elon musk,1,13,0,0,0
+choice,4,13,1,2,1
+athens,2,13,0,1,1
+awareness.,1,13,0,0,1
+health inspection,1,13,0,1,0
+effort,4,13,1,0,3
+equipment,1,13,0,0,1
+office,4,12,3,0,1
+instruments,1,12,0,0,1
+signatures.,1,12,0,0,1
+cable network,1,12,0,0,1
+fortune 100,1,12,0,0,1
+siren,1,12,0,0,1
+free speech,1,12,0,0,1
+offer deadlines,1,12,0,1,0
+revolting.,1,12,0,1,0
+freebies,1,12,0,1,0
+risky,1,12,1,0,0
+print.,1,12,0,0,1
+reminders,4,12,0,1,3
+barking,1,12,0,0,1
+open mic night,1,12,0,0,1
+hbo,1,12,0,0,1
+first appearance,1,12,0,0,1
+ydsa handouts,1,12,0,0,1
+"personal interaction
+categories: social",1,12,0,1,0
+world.,1,12,0,0,1
+grown-ass men,1,12,0,0,1
+unknown,2,12,0,0,2
+positivity.,1,12,1,0,0
+"history
+categories: buzz",1,12,0,0,1
+"parking
+categories: cost",1,12,0,1,0
+precinct,2,12,1,1,0
+academic policy,2,12,0,0,2
+host matching,1,12,0,1,0
+grievance.,1,12,0,0,1
+out-of-state tuition,1,12,1,0,0
+organizing,1,12,1,0,0
+"beauty
+categories: beauty",2,12,1,1,0
+"insult
+categories: aggression",1,12,0,1,0
+opinion.,1,12,0,0,1
+non-athletes,1,12,0,0,1
+nfc,3,12,0,1,2
+promotions,1,12,0,0,1
+"lost mode
+general categories: technology",1,12,0,0,1
+residence halls,1,12,0,0,1
+answer,2,12,0,0,2
+real estate,3,12,0,0,2
+manufacturing,1,12,0,0,1
+research.,2,12,0,1,1
+view,2,12,1,0,1
+selfishness,1,12,0,0,1
+brands,3,12,0,1,2
+loudest band,1,12,0,0,1
+lost,1,12,0,0,1
+victory,1,12,0,0,1
+logic pro,1,12,1,0,0
+appointment,2,12,0,0,2
+lobbying,1,12,0,1,0
+registrar,4,12,0,0,4
+bribery,1,12,0,1,0
+visit,2,12,0,0,2
+google internship,1,12,0,1,0
+under the couch,1,12,0,0,1
+associate chair,1,12,0,0,1
+"math
+general categories: education",2,12,0,1,1
+annoying,1,12,0,1,0
+add up,1,12,0,0,1
+internet/technology,1,12,0,1,0
+"breakout rooms.
+general categories: education",1,12,0,0,1
+bowl games,1,12,0,1,0
+ncaa regulations,1,12,0,0,1
+adobe creative cloud,1,12,1,0,0
+national champs,1,12,0,0,1
+website.,2,12,0,0,2
+vehicles.,1,12,0,0,1
+"advertising
+general categories: advertising",1,12,0,0,1
+motion.,1,12,1,0,0
+intersection,2,12,0,0,2
+matlab,3,12,1,0,2
+"restoration.
+general categories: technology",1,12,0,0,1
+model a,1,12,0,0,1
+intro,2,12,0,2,0
+involvement,2,12,0,1,1
+alert,1,12,0,0,1
+resource allocation.,1,12,0,1,0
+ramblin' wreck,1,12,0,0,1
+mechanical,1,12,0,0,1
+jealousy,2,12,0,2,0
+school chair,1,12,0,0,1
+concentration,1,12,0,0,1
+topic,3,12,1,2,0
+"disgust.
+categories: gross",1,12,0,1,0
+discord,1,12,0,0,1
+costumes.,1,12,0,0,1
+transfer students,3,12,0,0,3
+stand up comedy.,1,12,0,0,1
+environmental,1,12,0,1,0
+student support,2,12,1,0,1
+final cut pro,1,12,1,0,0
+employee experience,1,12,0,0,1
+sportsmanship,2,12,0,2,0
+diagnosis,2,12,0,0,2
+design,4,12,2,1,1
+transcript,5,12,0,1,4
+ted roof,1,12,0,0,0
+campus resources,2,12,0,1,1
+class schedule,8,12,0,2,6
+"sports
+general categories: rivalry",1,12,0,1,0
+defeat,1,12,0,1,0
+"criticism
+general categories: fire",1,12,0,0,0
+student services,3,12,0,2,1
+study tips,5,12,3,0,2
+extra benefits,1,12,0,0,1
+content,3,12,1,0,2
+curving,2,12,0,0,2
+competition.,2,12,0,1,1
+disrespectful,2,12,0,2,0
+summer,6,12,1,0,5
+stinger sharpener,1,12,0,0,1
+stimulant medications,1,12,0,1,0
+distraction.,1,12,0,1,0
+computer,3,11,2,0,1
+bitcoin,1,11,0,0,1
+percentage,3,11,0,0,3
+subscriptions,1,11,1,0,0
+esports.,1,11,0,1,0
+tragedy.,1,11,0,0,1
+tv show,2,11,0,1,1
+"fans.
+general categories: family",1,11,0,1,0
+family weekend,1,11,0,1,0
+norovirus,1,11,0,1,0
+politics.,1,11,0,0,1
+accountability,2,11,0,2,0
+tech community,1,11,0,0,1
+computation,1,11,0,0,1
+midtown,1,11,0,0,1
+hate,2,11,0,2,0
+personal struggles,1,11,0,1,0
+gt grad,1,11,0,0,1
+quenching,1,11,0,1,0
+braves,1,11,0,0,1
+public data.,1,11,0,0,1
+career choices,1,11,0,1,0
+monotony,1,11,0,0,1
+github,3,11,0,0,3
+worth,2,11,0,1,1
+semesters,3,11,1,0,2
+semantics,1,11,0,1,0
+personal hygiene,1,11,0,1,0
+"syntax.
+categories: negative",1,11,0,1,0
+self-assign,1,11,0,0,1
+purchase,3,11,2,1,0
+number,3,11,0,0,3
+ground,1,11,0,1,0
+alarm,1,11,0,1,0
+accounting,4,11,2,1,1
+"weather
+category: environment",1,11,0,0,1
+scott rapponotti,1,11,0,0,1
+chaos,1,11,0,1,0
+entrepreneurship,2,11,0,1,1
+linkedin.,1,11,0,0,1
+climate change,3,11,0,2,1
+practice,4,11,0,2,2
+"recruitment.
+categories: brotherhood",1,11,1,0,0
+pain,2,11,0,2,0
+academic integrity,1,11,0,0,1
+living conditions,2,11,1,1,0
+invasive species,1,11,0,1,0
+investment,1,11,0,0,1
+"invitation
+general categories: generosity",1,11,0,0,0
+authenticity,1,11,0,0,1
+ranking,2,11,0,1,1
+job postings,1,11,0,0,1
+presentation.,1,11,0,0,1
+duration,3,11,0,1,2
+keyboard,2,11,1,0,1
+kickback,1,11,0,0,1
+doctor's office,1,11,0,1,0
+language.,3,11,0,1,2
+cop car.,1,11,0,1,0
+dorm,3,11,0,1,2
+rha,2,11,0,1,1
+baked potatoes,1,11,0,0,1
+madness,1,11,0,0,1
+power,2,11,0,2,0
+study rooms,1,11,0,0,1
+media spaces,1,11,0,0,1
+demand,1,11,0,0,1
+analyst,1,11,0,0,1
+"sports.
+more general categories: sports",1,11,0,1,0
+course difficulty,4,11,1,1,2
+culc,1,11,0,0,1
+endorsement,2,11,1,1,0
+bicycle policy,1,11,0,0,1
+annual permit,1,11,0,0,1
+"employment
+categories: decision",1,11,0,0,1
+older buildings,1,11,0,0,1
+commlab,1,11,0,0,1
+employee mistreatment,1,11,0,0,1
+post,4,11,2,0,2
+idea,5,11,2,1,2
+romance,1,11,0,0,1
+partial credit,1,11,0,1,0
+"maintenance
+more general categories: complaints",1,11,0,1,0
+future outlook.,1,11,0,0,1
+assessment,5,11,0,1,4
+"food
+categories: delicious",1,11,1,0,0
+"none
+categories: neutral",1,11,0,0,1
+c++,1,11,0,1,0
+financial struggles.,1,11,0,1,0
+c,1,11,0,1,0
+player,1,11,0,0,1
+sobriety,1,11,1,0,0
+ncaa football,1,11,0,0,1
+protest,1,11,0,0,1
+trauma,2,11,0,2,0
+yummy,1,11,1,0,0
+flavor.,1,11,1,0,0
+"food.
+categories: delicious",1,11,1,0,0
+no-nonsense.,1,11,0,0,1
+play,1,11,0,0,1
+hygiene.,1,10,0,1,0
+relationship,4,10,1,1,2
+exam period,1,10,0,0,1
+understanding.,2,10,0,0,2
+major change,2,10,0,1,1
+"feedback.
+categories: appreciation",1,10,1,0,0
+wisdom,3,10,1,0,2
+concordance,1,10,1,0,0
+egos,1,10,0,1,0
+resident assistant,1,10,1,0,0
+"school.
+categories: school",1,10,0,0,1
+user interface,2,10,0,1,1
+gun violence,1,10,0,1,0
+boating,1,10,0,0,1
+principle.,1,10,0,0,1
+submission site,1,10,0,0,1
+"fraternity 
+categories: false",1,10,0,1,0
+macbook,3,10,1,0,2
+life.,2,10,0,0,2
+christmas,1,10,1,0,0
+campanile,2,10,0,0,2
+credit,1,10,0,0,1
+"feedback
+more general categories: experience",1,10,0,0,1
+freshman dorms,1,10,1,0,0
+protests,1,10,0,1,0
+professionalism,2,10,0,1,1
+lab,2,10,0,0,2
+student grievances.,1,10,0,0,1
+"personal happiness
+categories: personal",1,10,1,0,0
+"grading.
+
+general categories: false",1,10,0,0,1
+"self-reflection
+categories: failure",1,10,0,1,0
+personal habits,1,10,1,0,0
+publix,2,10,0,1,1
+rivalry.,2,10,1,0,1
+outage,1,10,0,0,1
+focus,2,10,0,2,0
+exclamation mark,1,10,0,0,1
+"agreement
+general categories: agreement",1,10,1,0,0
+initiatives,1,10,0,0,1
+grievance,1,10,0,1,0
+jeff bezos,1,10,0,1,0
+protection,1,10,0,0,1
+"humor.
+categories: humor",3,10,1,0,2
+contagion,1,10,0,1,0
+risk,2,10,0,1,1
+topics: sports,1,10,0,0,1
+office 365,1,10,0,0,1
+homecoming concerts.,1,10,0,1,0
+student opinions,1,10,0,0,1
+honor.,1,10,0,1,0
+studio,3,10,1,0,2
+inefficiency.,1,10,0,1,0
+rude,2,10,0,1,1
+housing office,1,10,0,0,1
+"reddit
+general categories: social media",1,10,1,0,0
+final exam.,1,10,0,0,1
+"employees
+categories: workforce",1,10,0,1,0
+human rights,1,10,0,1,0
+"tone.
+general categories: emotion",1,10,0,1,0
+club,8,10,2,1,5
+anti-semitism,1,10,0,1,0
+win,2,10,0,0,2
+team discipline,1,10,0,1,0
+terrorism,1,10,0,1,0
+influence,2,10,0,2,0
+perception,1,10,0,0,1
+decor,1,10,1,0,0
+attractions.,1,10,1,0,0
+it,3,10,0,0,3
+machine learning,3,10,0,1,2
+absentee voting,1,10,0,0,1
+"response.
+categories: positive",1,10,1,0,0
+cost.,4,10,0,1,3
+discrimination.,1,10,0,1,0
+"contamination.
+more general categories: health",1,10,0,1,0
+forcing,1,10,0,1,0
+tech administration,1,10,0,1,0
+war.,1,10,0,1,0
+robotics,4,10,0,0,4
+power grid,1,10,0,0,1
+flag building.,1,10,0,0,1
+historical,2,10,0,0,1
+player behavior,1,10,0,1,0
+consumption,1,10,0,0,1
+budgeting.,1,10,1,0,0
+ncaa,2,10,0,1,1
+virtual lab,1,10,0,0,1
+game.,1,10,1,0,0
+rfp,1,10,0,0,1
+personnel,1,10,0,1,0
+college.,1,10,0,1,0
+assumptions,1,10,0,1,0
+recreation,1,10,0,0,1
+north ave north,1,10,0,0,1
+dorm life,1,10,1,0,0
+swimming.,1,10,0,0,1
+pledging,1,10,0,1,0
+student drivers.,1,10,1,0,0
+"cooking.
+categories: cooking",1,10,1,0,0
+"expression
+general categories: emotion",1,10,0,0,0
+fashion.,1,10,0,0,1
+advising,3,10,0,1,2
+labor rights,1,10,0,1,0
+pests,1,10,0,0,1
+georgia,7,9,0,5,2
+"technology.
+general categories: technology",1,9,0,0,1
+solitude,1,9,0,0,1
+recognition,2,9,1,0,1
+death.,1,9,0,1,0
+situation,2,9,0,1,1
+bicycles,1,9,0,0,1
+empowerment.,1,9,0,0,1
+veganism,1,9,1,0,0
+isolation,1,9,1,0,0
+alcoholic beverages,1,9,1,0,0
+"motivation.
+general categories: engineering",1,9,0,0,1
+residents,1,9,1,0,0
+clemson,2,9,1,1,0
+pipe,1,9,0,0,1
+baked potato,1,9,0,0,1
+racing,1,9,0,0,1
+"suggestion.
+general categories: advice",1,9,1,0,0
+swipe limits,1,9,0,0,1
+encouragement.,1,9,1,0,0
+classmates,1,9,0,0,1
+introductory.,1,9,1,0,0
+"spelling.
+general categories: grammar",1,9,0,1,0
+evaluation,3,9,0,1,2
+headlines,1,9,0,1,0
+costs,2,9,0,0,2
+magic,1,9,1,0,0
+laptop.,1,9,0,0,1
+attraction,1,9,1,0,0
+jerseys,1,9,1,0,0
+possibility,1,9,1,0,0
+consent,3,9,1,2,0
+unfair advantages,1,9,0,1,0
+"love
+categories: emotions",1,9,1,0,0
+"housing.
+categories: affordable",1,9,0,0,1
+end of an era,1,9,0,0,1
+industry,2,9,0,0,2
+stay,2,9,1,1,0
+"none
+more general categories: humor",1,9,1,0,0
+"business closure
+categories: business",1,9,0,1,0
+propaganda,1,9,1,0,0
+music.,2,9,0,0,2
+"voter registration.
+more general categories: voting",1,9,0,1,0
+passion,2,9,2,0,0
+bobble head,1,9,0,0,1
+free,3,9,1,0,2
+varying quality.,1,9,0,0,1
+advisors,4,9,1,0,3
+calligraphy,1,9,1,0,0
+studying abroad,1,9,1,0,0
+umbrellas,2,9,0,0,2
+programming concepts,1,9,0,0,1
+"hvac
+categories: energy",1,9,0,1,0
+hockey,1,9,1,0,0
+friend,1,9,0,0,1
+linear regression,1,9,0,0,1
+generation,1,9,0,0,1
+cultural experience,1,9,1,0,0
+categories: bias,1,9,0,0,0
+bars,1,9,1,0,0
+"business
+categories: hours",1,9,0,0,1
+coursework,6,9,1,0,5
+bike lane,2,9,0,0,2
+suppression.,1,9,0,1,0
+korean language learning,1,9,1,0,0
+cheerleaders,1,9,0,1,0
+release date,2,9,0,0,2
+cookbook,1,9,0,0,1
+wwii,1,9,0,0,1
+sidewalks.,1,9,0,0,1
+art,1,9,1,0,0
+"grades
+categories: academics",1,9,0,0,1
+modeling,2,9,0,0,2
+documents,1,9,0,0,1
+semester schedule,1,9,0,0,1
+grade,4,9,0,0,4
+pokémon,1,9,0,0,1
+timing,3,9,0,0,3
+socializing in korea,1,9,1,0,0
+curve,2,9,0,0,2
+duke,3,9,1,1,1
+self-awareness,3,9,0,3,0
+paid,2,9,0,1,1
+profit,1,9,0,0,1
+language learning resources,1,9,1,0,0
+battery life,2,9,0,1,1
+tutoring services,1,9,0,1,0
+academic courses,4,9,1,1,2
+transcription,1,9,0,0,1
+henna.,1,9,1,0,0
+college acceptance,1,9,0,0,1
+advice.,2,9,0,0,2
+food literacy.,1,9,0,1,0
+lecture,2,9,1,0,1
+ta behavior,1,9,0,1,0
+dorm.,2,9,1,0,1
+none specified,3,9,0,1,2
+study abroad,4,9,3,0,1
+home decor,2,9,1,0,1
+treat,1,9,1,0,0
+excuses,2,9,0,2,0
+themed,1,9,0,0,1
+fired,2,9,0,1,1
+illness,2,9,0,2,0
+high school,7,9,1,2,4
+course critique,2,8,0,1,1
+music showcase,1,8,1,0,0
+fans,2,8,1,1,0
+music technology,1,8,0,1,0
+psychology,2,8,1,0,0
+honor,2,8,0,0,2
+rumors.,1,8,0,1,0
+packages,1,8,0,0,1
+intelligence.,1,8,0,1,0
+online vs in-person,1,8,1,0,0
+list,3,8,0,1,2
+smell,1,8,0,0,1
+fan base.,1,8,0,1,0
+gas,1,8,0,0,1
+engagement,3,8,2,0,1
+pc,1,8,0,0,1
+confidence,3,8,2,0,1
+"encouragement 
+general categories: motivation",1,8,1,0,0
+online shopping,1,8,0,0,1
+mail server,1,8,0,0,1
+managers,2,8,0,1,1
+ssd,1,8,0,0,1
+"comparison
+general categories: agreement",1,8,1,0,0
+chemistry,2,8,0,2,0
+conflict of interest,1,8,0,1,0
+direct,1,8,0,0,1
+making friends,1,8,0,0,1
+potential,2,8,0,0,2
+interesting.,1,8,1,0,0
+roasting,1,8,0,1,0
+ee major,1,8,0,0,1
+buzzcard,2,8,0,1,1
+"major requirements
+general categories: major",1,8,0,0,1
+posting,2,8,0,1,1
+inappropriate behavior,1,8,0,1,0
+"interest
+categories: interest",1,8,1,0,0
+vpython,1,8,0,0,1
+online form,1,8,0,0,1
+"marching band
+general categories: humor",1,8,0,1,0
+pipe dreams,1,8,0,1,0
+id major,1,8,0,0,1
+instructor comparison,1,8,0,0,1
+emailing,1,8,0,0,1
+updates,2,8,0,0,2
+std testing,1,8,0,0,1
+walk,1,8,0,0,1
+college transfer,1,8,0,1,0
+path,1,8,0,0,1
+electives,4,8,0,1,3
+toxicity,1,8,0,1,0
+realistic,1,8,1,0,0
+sprinklers,1,8,0,0,1
+marta,3,8,0,0,3
+student petition,1,8,0,0,1
+co-op,4,8,1,0,3
+restroom,1,8,0,1,0
+institute policy,1,8,0,0,1
+proof writing,1,8,1,0,0
+statement,1,8,0,1,0
+"humor.
+categories: fun",1,8,1,0,0
+twitter,1,8,0,1,0
+topic:advice,1,8,0,0,0
+meal swipes.,1,8,0,0,1
+online learning,4,8,0,0,4
+extracurriculars,2,8,0,1,1
+timer,1,8,0,0,1
+fireworks,1,8,1,0,0
+lgbtqia+ resource center,1,8,0,0,1
+stress relief.,1,8,0,0,1
+rfp process,1,8,0,0,1
+practice.,1,8,0,0,1
+time off,2,8,0,0,2
+air pollution,1,8,0,1,0
+"relationship.
+categories: connection",1,8,0,1,0
+language learning,4,8,2,1,1
+advisory council,2,8,0,0,2
+sexual,2,8,0,0,2
+number theory,1,8,1,0,0
+"research.
+categories: research.",1,8,0,0,1
+celebrities.,1,8,0,0,1
+technology.,7,8,2,1,2
+quantity,3,8,0,0,3
+celebrity.,1,8,0,0,1
+e-mail,1,8,0,0,1
+area,2,8,0,0,2
+military,2,8,0,0,2
+free food.,1,8,0,0,1
+product name change,1,8,0,0,1
+lies.,1,8,0,1,0
+college admissions,6,8,1,1,4
+specs,1,8,0,0,1
+freedom.,1,8,1,0,0
+dress code.,1,8,0,0,1
+under-equipped,1,8,0,1,0
+affirmation,1,8,0,0,0
+courtesy.,1,8,0,0,1
+recovery,1,8,0,1,0
+career.,1,8,0,0,1
+originality,1,8,0,0,0
+south korea.,1,8,1,0,0
+opinion.categories: people,1,8,0,0,1
+career fair,4,8,3,0,1
+necessity,2,8,0,0,2
+good.,1,8,1,0,0
+"opinion.
+categories: ranking",1,8,0,0,1
+success.,2,8,2,0,0
+tech rec,1,8,0,0,1
+graduate programs,1,8,0,0,1
+sunday.,1,8,0,0,1
+korea,1,8,1,0,0
+finance.,2,8,1,1,0
+undergraduate,1,8,0,0,1
+vigil,1,8,0,1,0
+elementary,1,8,0,0,1
+graphics card,1,8,0,0,1
+academia,1,8,0,0,1
+timestamp,1,8,0,0,1
+buzzwords,1,8,0,0,1
+academic achievement,2,8,0,0,2
+product inquiry,1,8,0,0,1
+health care,2,8,1,0,1
+ram,1,8,0,0,1
+saying,1,8,0,0,1
+practice problems,1,8,1,0,0
+adjustment,1,8,0,0,1
+study space,1,8,1,0,0
+environment,2,8,0,2,0
+shock,1,8,0,1,0
+info desk,1,8,0,0,1
+analysis.,1,8,0,1,0
+cleaning supplies,1,8,0,0,0
+3-dimensional cad drawings.,1,8,0,0,1
+ms cs program,1,8,1,0,0
+"general
+categories: pleasant",1,8,1,0,0
+study habits,3,8,0,0,3
+responsibilities,2,8,0,0,2
+buildings,1,8,0,0,1
+social justice,4,8,1,1,2
+"canvas
+more general categories: technology",1,8,0,1,0
+large group,1,8,0,1,0
+hipaa.,1,8,0,0,1
+buildings.general,1,8,0,0,1
+"criticism
+categories: creativity",1,8,0,0,0
+engineering programs,1,8,0,0,1
+job motivation,1,8,0,1,0
+college experience,1,8,0,0,1
+fake news,1,8,0,1,0
+threads,1,8,0,0,1
+quizzes,3,8,2,0,1
+account,1,8,1,0,0
+"social media
+general categories: social",1,8,0,0,0
+customer experience,1,8,0,1,0
+card,1,8,0,0,1
+"mental health services.
+general categories: mental health",1,8,0,1,0
+"mental health resources.
+additional categories: discussion",1,8,0,1,0
+bleach,1,8,0,0,0
+"job loss
+general categories: ethics",1,8,0,1,0
+terrible,1,8,0,1,0
+carcinogen,1,8,0,1,0
+attractive,1,8,1,0,0
+emergency situations,1,8,0,0,1
+processor,1,8,0,0,1
+amusement.,1,8,1,0,0
+socializing.,2,8,1,1,0
+ridiculous,1,8,0,1,0
+pest control,2,8,0,0,2
+competing,1,8,0,1,0
+visualization.,1,8,0,0,1
+accessibility,2,8,0,1,1
+respect.,1,8,0,1,0
+"reviews.
+general categories: reputation",1,7,0,1,0
+standards,4,7,1,0,2
+community action,1,7,0,0,1
+revamp,1,7,0,0,1
+print,2,7,1,0,1
+integrity,1,7,1,0,0
+computer lab.,1,7,0,0,1
+logs,1,7,0,0,1
+classroom discussions,1,7,1,0,0
+compassion,1,7,1,0,0
+residency requirements,1,7,0,0,1
+join.,1,7,1,0,0
+attack.,1,7,0,1,0
+comparisons,2,7,0,0,2
+"library
+categories: education",1,7,1,0,0
+required,1,7,0,0,1
+strong,1,7,1,0,0
+social interaction.,1,7,1,0,0
+"terminology
+category list: terminology",1,7,0,0,1
+knowledgeable,1,7,1,0,0
+driving,6,7,1,2,3
+legitimate grievances,1,7,0,1,0
+campanile.,1,7,0,0,1
+ascii-art,1,7,0,0,1
+organic,1,7,0,1,0
+repairs,1,7,0,1,0
+late-night,1,7,1,0,0
+timeline,1,7,0,1,0
+"time.
+more general categories: time",1,7,0,0,1
+time ticket distribution,1,7,0,0,1
+academic rigor,1,7,0,1,0
+technical issue,3,7,0,3,0
+"working environment
+categories: work",1,7,0,1,0
+overcharging,1,7,0,1,0
+education.general categories: education,1,7,0,1,0
+life satisfaction,1,7,1,0,0
+started,1,7,1,0,0
+"international
+categories: global",1,7,0,0,1
+retaliation,1,7,0,1,0
+surprise,1,7,0,0,1
+education.,4,7,0,0,4
+"disgust
+categories: gross",1,7,0,1,0
+calorie intake,1,7,0,1,0
+"location
+categories: applications",1,7,0,0,1
+disgusting,1,7,0,1,0
+stem,3,7,1,0,2
+living arrangements,1,7,0,0,1
+living,3,7,1,0,1
+trees,1,7,0,1,0
+camaraderie,1,7,0,0,0
+predictive analytics,1,7,0,1,0
+time commitment,2,7,0,0,2
+snitching.,1,7,0,0,1
+criteria,1,7,0,0,1
+store and forward,1,7,0,0,1
+attractiveness,1,7,0,1,0
+places,2,7,1,0,1
+title contenders,1,7,0,1,0
+early voting,1,7,0,0,1
+"attraction
+categories: friends",1,7,0,1,0
+anonymity,1,7,0,0,1
+voter turnout,1,7,1,0,0
+protesting,1,7,0,1,0
+west side.,1,7,0,1,0
+quiz,1,7,0,1,0
+menu,1,7,0,0,1
+perseverance.,1,7,0,0,0
+"guessing
+categories: information",1,7,0,0,1
+guarantee,1,7,0,0,1
+subreddits.,1,7,0,0,1
+albino,1,7,0,0,1
+"enrollment.
+general categories: credits",1,7,0,0,1
+gt name,1,7,0,1,0
+course outline,2,7,2,0,0
+"text
+categories: bottom",1,7,0,0,1
+group work,1,7,1,0,0
+deadlines,4,7,1,0,3
+excel,1,7,0,0,1
+"social segregation.
+categories: school",1,7,0,1,0
+course options,3,7,0,0,3
+o365,1,7,0,0,1
+"technology.
+categories: memories",1,7,0,0,1
+cofh,1,7,0,0,1
+cs classes,2,7,0,0,2
+warmup,1,7,0,0,1
+skiles,1,7,0,0,1
+bird,1,7,0,0,1
+physics.,3,7,1,1,1
+2014 season.,1,7,0,1,0
+medications,2,7,0,1,1
+fragility,1,7,0,1,0
+"academic advising
+general categories: advising",1,7,0,0,0
+decommission,1,7,0,0,1
+academic advice,2,7,1,0,1
+stairs,1,7,0,0,1
+hardware,3,7,0,1,2
+memory.,1,7,0,0,1
+schedule.,1,7,0,0,1
+"celebration
+categories: gathering",1,7,0,0,0
+bookstore,1,7,1,0,0
+"excitement
+categories: excitement",1,7,1,0,0
+worth it.,1,7,1,0,0
+services.,1,7,0,0,1
+goal setting,2,7,1,0,1
+goal,2,7,1,0,1
+summoning,1,7,0,0,1
+monthly,1,7,0,0,1
+pet peeve,1,7,0,1,0
+sock,1,7,0,0,1
+"fast food
+categories: food",1,7,1,0,0
+college rivalries,1,7,0,1,0
+"gaming
+general categories: entertainment",1,7,0,1,0
+full,1,7,0,0,1
+conflict resolution,1,7,0,0,1
+g.i bill,1,7,0,0,1
+fascism,2,7,0,2,0
+canvas,1,7,0,0,1
+"nostalgia
+categories: memory",1,7,1,0,0
+aesthetics,1,7,1,0,0
+"exclamation
+categories: positive",1,7,1,0,0
+syllabus,1,7,0,0,1
+aging,1,7,1,0,0
+"gratitude
+general categories: appreciation",4,7,3,0,0
+"personal attack.
+general categories: personal",1,7,0,1,0
+punctuation,2,7,0,0,1
+specialist,1,7,0,0,1
+caveat,1,7,0,0,1
+bowl eligibility,1,7,1,0,0
+data analytics,1,7,0,0,1
+case,1,7,0,0,1
+transfer student experience,1,7,1,0,0
+dance,3,7,1,0,2
+self-segregation,1,7,0,1,0
+negative emotion.,1,7,0,1,0
+sell out,1,7,0,0,1
+personal safety,2,7,0,1,1
+changing majors,1,7,0,0,0
+"sports.
+
+categories: sports",1,7,0,0,1
+peer relations,1,7,0,0,1
+initiative,1,7,0,0,1
+tsc,1,7,0,0,1
+house,2,7,1,0,1
+vaccine effectiveness,1,7,0,1,0
+past,1,7,0,0,1
+rotc,1,7,0,0,1
+cross-posting,1,7,0,0,1
+initial,2,7,0,0,2
+elite athletes,1,7,0,1,0
+room thermostat,1,7,0,0,1
+crosland tower,1,7,0,0,1
+mark,1,7,0,0,1
+apartment buildings,1,7,0,0,1
+weighting,1,7,0,0,1
+march,1,7,0,0,1
+machine,1,7,0,0,1
+pipes,1,7,0,1,0
+ideology,1,7,0,1,0
+program capacity,1,7,0,1,0
+"enrollment 
+categories: course",1,7,0,0,1
+ie,1,7,0,0,1
+clough,1,7,0,0,1
+impact,1,7,0,0,1
+construction,2,7,0,0,2
+industries,1,7,0,0,1
+imperialism,2,7,0,2,0
+tacos.,1,7,0,0,0
+dinner,1,7,0,0,0
+improvement.,3,7,2,0,1
+emojis,1,7,0,0,1
+coaches,2,7,0,1,1
+filling,1,7,0,0,0
+"food.
+general categories: food",1,7,0,1,0
+workplace skills,1,7,1,0,0
+backup,1,7,0,0,1
+"support group.
+categories: support",1,7,1,0,0
+academic experience,1,7,0,0,0
+unpaid,1,7,0,0,1
+demographics,2,7,0,0,2
+hive,1,7,0,0,1
+walking.,1,7,0,0,1
+night games,1,7,1,0,0
+emfl,1,7,0,0,1
+calculate.,1,7,0,0,1
+"bicycling
+general categories: transportation",1,7,0,0,1
+"ticket policy
+general categories: link",1,7,0,0,1
+disability,2,7,1,0,0
+crosswalk safety,1,7,0,1,0
+mathematics,4,7,0,0,4
+disabilities,1,7,0,0,1
+portion sizes.,1,7,0,1,0
+"none.
+negative",1,6,0,1,0
+community.,2,6,0,1,1
+online community,1,6,0,0,1
+magic.,1,6,1,0,0
+public speaking,1,6,1,0,0
+waterboarding,1,6,0,1,0
+accounts,2,6,0,0,2
+csv,1,6,0,0,1
+voter registration,1,6,0,1,0
+monday,2,6,0,0,2
+web design,1,6,0,0,1
+corporate,2,6,1,1,0
+online dating,2,6,0,0,2
+nomination,1,6,0,1,0
+"website.
+categories: website",1,6,0,1,0
+sun exposure,1,6,0,0,1
+"religion.
+categories: christian",1,6,0,1,0
+dollars,1,6,0,0,1
+psychiatrist,1,6,0,0,1
+religion.,2,6,1,0,1
+lost limbs,1,6,0,0,1
+actions.,1,6,0,1,0
+relief.,1,6,1,0,0
+name,1,6,0,0,1
+locked.,1,6,0,1,0
+public transportation system,1,6,0,1,0
+vitamin d level,1,6,0,0,1
+obama administration,1,6,0,1,0
+decline,2,6,0,1,0
+property,2,6,0,0,2
+meh,1,6,0,1,0
+me,2,6,1,0,1
+"animal attack
+categories: bird",1,6,0,1,0
+war crimes,1,6,0,1,0
+adjustments,1,6,1,0,0
+description,2,6,0,0,2
+adhd/add,1,6,0,0,1
+accuracy.,1,6,0,0,1
+rates,1,6,0,0,1
+"none
+sentiment: negative",1,6,0,0,1
+critical,1,6,0,1,0
+vocabulary,1,6,0,0,1
+supplement,1,6,0,0,1
+distance,2,6,0,0,2
+"subreddit
+categories: negativity",1,6,0,1,0
+dank,1,6,0,0,1
+arms,1,6,0,0,1
+closure.,1,6,0,0,1
+course schedule,3,6,0,0,3
+data scraping,1,6,0,0,1
+accountable,1,6,0,1,0
+tacos,1,6,1,0,0
+"dining dollars
+categories: dining",1,6,0,0,1
+test preparation,1,6,0,0,1
+priority,1,6,0,0,1
+message.,1,6,0,0,1
+"accountability.
+categories: wasted",1,6,0,1,0
+miserable.,1,6,0,1,0
+correction,1,6,0,0,1
+reality,1,6,0,0,1
+swearing,1,6,0,1,0
+academic success advisors,1,6,1,0,0
+appointment schedule,1,6,0,1,0
+pricing,3,6,0,2,1
+leave.,1,6,0,1,0
+held,1,6,0,1,0
+complaint.,1,6,0,0,1
+pr,1,6,0,1,0
+ride,1,6,0,0,1
+parking.,1,6,0,0,1
+"stadiums
+categories: history",1,6,0,0,1
+shame,1,6,0,1,0
+gitmo.,1,6,0,1,0
+personal space,1,6,0,0,1
+inconsiderate.,1,6,0,1,0
+"good.
+categories: confusion",1,6,0,1,0
+expressions,1,6,0,0,1
+south,1,6,0,0,1
+implication,1,6,0,0,1
+emotion.,2,6,2,0,0
+bowling,1,6,0,0,1
+"grading
+categories: education",1,6,0,1,0
+expiration,1,6,0,0,1
+"personal experience.
+categories: finances",1,6,0,1,0
+infrastructure,2,6,1,1,0
+input,1,6,0,0,1
+room swap,2,6,0,1,1
+chips,1,6,1,0,0
+contact information,1,6,0,0,1
+shrug,1,6,0,0,1
+fantasy.,1,6,0,0,1
+"education.
+more general categories: negative",1,6,0,1,0
+shoulders,1,6,0,0,1
+fantasy,1,6,0,0,1
+games.,1,6,0,0,1
+garbo,1,6,0,1,0
+standing,1,6,1,0,0
+gardening,3,6,1,1,1
+gas leak,1,6,0,0,1
+bush administration,1,6,0,1,0
+stamps.,1,6,0,0,1
+general categories: agreement,1,6,0,0,1
+conflicted,1,6,0,1,0
+institution responsibility.,1,6,0,1,0
+wrong,1,6,0,1,0
+seeking help,1,6,0,0,1
+"humor
+categories: entertainment",1,6,1,0,0
+internships,2,6,0,0,2
+body type,2,6,0,0,2
+"safety
+categories: safety",1,6,0,1,0
+penalized,1,6,0,1,0
+gtens,1,6,0,0,1
+sales,2,6,0,1,1
+salsa.,1,6,1,0,0
+gtpd.,1,6,0,1,0
+school resources,1,6,0,1,0
+school promises,1,6,0,1,0
+hair loss,1,6,0,0,1
+board,1,6,0,0,1
+bitter,1,6,0,1,0
+permit,2,6,2,0,0
+blood test,1,6,0,0,1
+escape.,1,6,0,0,1
+harry potter,1,6,1,0,0
+uniforms,1,6,0,0,1
+essays,3,6,1,0,2
+bike lanes,1,6,0,1,0
+evidence,6,6,0,4,2
+understaffed,1,6,0,0,1
+engaging,1,6,1,0,0
+personal advice,1,6,0,0,1
+patients,1,6,0,0,1
+"bedroom
+categories: home",1,6,0,0,1
+grief,1,6,0,0,1
+grief.,1,6,0,0,1
+unused,1,6,0,0,1
+portions,1,6,1,0,0
+horror,1,6,0,1,0
+seasonality,1,6,0,0,1
+hope scholarship.,1,6,0,1,0
+search,3,6,1,1,1
+"honor advisory council
+general categories: osi",1,6,0,0,1
+scrubbed,1,6,0,1,0
+big o notation,1,6,0,0,1
+energy,1,6,0,1,0
+"sadness
+categories: humor",1,6,0,1,0
+pop culture.,1,6,0,0,1
+"business.
+general categories: time",1,6,0,0,1
+scene.,1,6,0,0,1
+citrus,1,6,0,1,0
+"stereotypes
+more general categories: location",1,6,0,1,0
+"language
+general categories: expression",1,6,0,0,1
+clarity,1,6,0,0,1
+flunked,1,6,0,1,0
+"social media
+categories: anonymity",1,6,0,0,0
+stop sign,1,6,0,1,0
+pixel quality,1,6,0,0,1
+dropping,1,6,0,1,0
+resources.,1,6,0,1,0
+athletic fee,1,6,0,0,1
+eating,1,6,0,0,1
+preppy,1,6,0,1,0
+true,1,6,0,0,1
+fraternities,1,6,0,0,1
+task,3,6,0,1,2
+"size
+general categories: size",1,6,0,0,1
+calculation,1,6,0,1,0
+"social media.
+
+categories: social media",1,6,0,0,1
+streetwise,1,6,0,0,1
+atlanta.,2,6,0,1,1
+eada,1,6,0,0,1
+atlantic station.,1,6,1,0,0
+"attendance
+categories: registration",1,6,1,0,0
+restrictions,2,6,1,0,1
+"victory.
+categories: follow-up",1,6,1,0,0
+"football
+general categories: sports",1,6,0,1,0
+job/career,1,6,1,0,0
+tiredness,1,6,0,0,1
+"education
+categories: english",1,6,0,0,1
+slow,1,6,0,1,0
+troll,1,6,0,1,0
+"trolling.
+more general categories: deception",1,6,0,1,0
+laughed.,1,6,0,1,0
+stellar,1,6,1,0,0
+triggers,1,6,0,0,1
+"education
+categories: teaching",1,6,1,0,0
+stereotypes,1,6,0,1,0
+large,1,6,0,0,1
+society.,1,6,0,0,1
+interview process,1,6,1,0,0
+photoshop,1,6,0,0,1
+introversion,2,6,1,0,1
+assistant,2,6,0,1,1
+language classes,2,6,0,0,2
+film classes,1,5,0,0,1
+blaming others,1,5,0,1,0
+new york times,1,5,1,0,0
+ethics awareness week,1,5,0,0,1
+guinness,1,5,0,0,1
+"happy
+categories: college",1,5,1,0,0
+file upload,1,5,1,0,0
+grudge,1,5,0,1,0
+water tower,1,5,0,0,1
+ethical behavior,1,5,0,0,1
+seating,2,5,0,0,1
+programs,1,5,1,0,0
+decisions.,1,5,0,1,0
+comfortable,2,5,0,0,2
+speeds,1,5,0,0,1
+pictures,1,5,0,1,0
+skill,2,5,1,0,1
+miracle.,1,5,0,0,1
+slacking,2,5,0,2,0
+gt athletic association,1,5,0,0,1
+body image.,1,5,0,1,0
+centennial place.,1,5,0,0,1
+production,1,5,0,0,1
+spiral binding,1,5,0,0,1
+thermo,1,5,0,0,1
+question/confirmation,1,5,0,0,1
+smartphone,1,5,0,1,0
+place,2,5,2,0,0
+tech of representation,1,5,0,0,1
+school name,1,5,0,0,1
+missed,1,5,1,0,0
+body positivity,1,5,1,0,0
+minorities,1,5,0,0,1
+mental tools,1,5,1,0,0
+composting,1,5,0,1,0
+dean of students,1,5,0,0,1
+call,1,5,0,0,1
+"alphabet
+categories: letters",1,5,0,0,1
+smash,1,5,1,0,0
+subleasing,1,5,0,0,1
+spending time,1,5,0,0,0
+"college
+general categories: education",1,5,1,0,0
+calculus,2,5,0,0,2
+daycare,1,5,1,0,0
+yoga.general categories: yoga,1,5,1,0,0
+youth,1,5,0,0,1
+coursera,1,5,1,0,0
+fedele,1,5,0,1,0
+college life.,1,5,0,0,1
+facility,1,5,0,0,1
+moral failings,1,5,0,1,0
+georgia tech community,1,5,0,1,0
+"sports
+categories: athletics",1,5,0,1,0
+freshman dorm,1,5,0,0,1
+proverb,1,5,0,0,1
+computer science,4,5,0,1,3
+capitalism,1,5,0,1,0
+advisers,1,5,0,1,0
+friday,1,5,1,0,0
+tech students,1,5,1,0,0
+cs minor,1,5,1,0,0
+"friendliness.
+general categories: friendship",1,5,1,0,0
+bor,1,5,0,1,0
+shock top,1,5,0,0,1
+multimedia,2,5,0,0,2
+a man for all seasons.,1,5,0,0,1
+short response,1,5,0,0,1
+gasoline,1,5,1,0,0
+yellow jacket,1,5,0,0,1
+cancellation,1,5,1,0,0
+"fun
+general categories: enjoyment",1,5,1,0,0
+psych holds,1,5,1,0,0
+myths,1,5,0,0,1
+psych institutions,1,5,1,0,0
+collision.,1,5,0,0,1
+shoutout.,1,5,0,0,0
+buzz.,1,5,0,0,1
+"none.
+categories: failure",1,5,0,1,0
+unc's performance,1,5,0,1,0
+yellowing,1,5,1,0,0
+glee club,1,5,0,0,1
+pushback.,1,5,0,0,1
+congratulations,1,5,0,0,1
+ages,1,5,0,1,0
+professional development,1,5,0,0,1
+exclusion,1,5,0,1,0
+personal attack,2,5,0,1,0
+mixers,1,5,0,1,0
+playback attacks,1,5,0,1,0
+"academic
+general categories: humor",1,5,0,0,0
+age.categories: age,1,5,0,0,1
+self-confidence.,1,5,0,0,1
+graduate school applications,1,5,0,1,0
+congestion,1,5,0,0,1
+bowl season,1,5,1,0,0
+"age
+categories: tech",1,5,0,1,0
+fracture mechanics,1,5,0,0,1
+symbol,1,5,0,0,1
+underage,1,5,0,1,0
+situation.,1,5,0,0,1
+frame.,1,5,1,0,0
+personal opinion,1,5,1,0,0
+absurd,1,5,0,1,0
+transience,1,5,0,1,0
+expressing dislike,1,5,0,1,0
+physical confrontation,1,5,0,1,0
+traps,1,5,0,0,1
+wealth,1,5,0,1,0
+cards,1,5,0,0,1
+facebook,2,5,0,0,2
+moss,1,5,0,0,1
+learning.,1,5,0,1,0
+printing services,1,5,0,0,1
+instruction,2,5,0,0,1
+instructors,3,5,0,0,3
+elective,3,5,0,1,2
+paranoia,1,5,0,1,0
+academic honor issues,1,5,0,0,1
+integration,1,5,0,1,0
+disciplinary action,1,5,0,1,0
+chorale,1,5,0,0,1
+apple tax,1,5,0,1,0
+apple watch,1,5,0,1,0
+panda express,1,5,0,0,1
+painting,1,5,0,0,1
+interest.,2,5,0,0,2
+clemson's success,1,5,0,1,0
+volume,1,5,0,0,1
+"education
+general categories: education",1,5,0,1,0
+restaurants.,2,5,0,0,2
+dismissal,1,5,1,0,0
+parents,1,5,0,1,0
+institutions,1,5,1,0,0
+lmc humanities requirement,1,5,0,0,1
+loved ones,1,5,1,0,0
+road laws,1,5,0,0,1
+recitation,1,5,0,0,1
+emergency alert,1,5,0,0,1
+direct sunlight,1,5,1,0,0
+industrial management,1,5,0,1,0
+ineptitude,1,5,0,1,0
+inequality,1,5,0,1,0
+"email
+categories: thanks",1,5,1,0,0
+memorization,2,5,1,0,1
+valuable speech,1,5,0,1,0
+machine code,1,5,0,0,1
+chinese food,1,5,0,0,1
+teams,1,5,0,1,0
+communication & culture/tech of representation,1,5,0,0,1
+bad opinions,1,5,0,1,0
+background.,1,5,0,1,0
+"recreation.
+categories: technology",1,5,0,0,1
+disordered eating,1,5,1,0,0
+"appreciation
+general categories: social media",1,5,1,0,0
+chemicals,1,5,0,0,1
+diy.,1,5,0,0,1
+corporate greed,1,5,0,1,0
+doable,3,5,1,0,2
+stress-free,1,5,0,0,1
+kinkos.,1,5,0,0,1
+arrogance,1,5,0,1,0
+letter of recommendation,1,5,0,1,0
+class action law suit,1,5,1,0,0
+representative media,1,5,0,0,1
+orientation,1,5,1,0,0
+leniency.,1,5,0,1,0
+cooks.,1,5,0,0,1
+laptop,3,5,0,0,3
+coping with depression,1,5,1,0,0
+options.,1,5,0,0,1
+dorms.,1,5,0,0,1
+coping with adhd,1,5,1,0,0
+"dorm.
+general categories: question",1,5,0,0,1
+library.,1,5,1,0,0
+duty,1,5,0,0,1
+venue,1,5,0,0,1
+joining,2,5,1,0,1
+intro to film,1,5,0,0,1
+verification,1,5,0,1,0
+refreshment.,1,5,1,0,0
+refugees,1,5,0,1,0
+invitation.,1,5,0,1,0
+wmds,1,5,0,1,0
+editing.,1,5,0,0,1
+iraq war.,1,5,0,1,0
+limitations,1,5,0,0,1
+stoplight,1,5,0,0,1
+teaching.,2,5,2,0,0
+disruption,1,5,0,1,0
+territory,1,5,0,1,0
+strategies,1,5,0,0,1
+distilling,1,5,0,0,1
+contract violation,1,5,0,1,0
+archival,1,5,1,0,0
+"stadium
+categories: change",1,5,1,0,0
+non-retaliation policy,1,5,0,0,1
+cheesiness,1,5,1,0,0
+honesty,3,5,1,0,2
+environmentalism,1,5,0,1,0
+course catalog,2,5,0,0,2
+sarcasm.,1,5,0,0,1
+diet,4,5,0,0,4
+"coach
+categories: sports",1,5,1,0,0
+test anxiety,2,5,1,0,1
+development.,1,5,0,1,0
+health inspections,2,5,0,2,0
+environmental destruction.,1,5,0,1,0
+opportunity,1,5,0,1,0
+material,2,5,1,0,1
+hornet,1,5,0,0,1
+studios,1,5,0,0,1
+participation,1,5,0,0,1
+mascot,1,5,0,0,1
+"enforcement
+categories: sports",1,5,0,0,1
+mba program,1,5,1,0,0
+rating system,1,5,0,1,0
+meal plan options,1,5,0,0,1
+cocktail,1,5,0,0,1
+sadness.,1,5,1,0,0
+entrance,1,5,1,0,0
+safe space,1,5,0,1,0
+pedestrians.,1,5,0,0,1
+hemp,2,5,0,0,2
+problems,2,5,0,2,0
+enjoyment,2,5,1,0,1
+high school memories,1,5,1,0,0
+hudson grille,1,5,0,0,1
+student-athletes,1,5,0,0,1
+hiding,1,5,1,0,0
+ta applicants,1,5,0,0,1
+illegal,1,5,0,1,0
+post-bacc,1,5,0,0,1
+black and tan,1,5,0,0,1
+cheating.,1,5,0,1,0
+town,1,5,0,0,1
+"health
+categories: health",1,5,1,0,0
+wireless,1,5,0,0,1
+race wars,1,5,0,1,0
+academic achievements,1,5,1,0,0
+maladies,1,5,1,0,0
+club.,1,5,0,0,1
+town hall,1,5,0,0,1
+spring,3,5,1,0,2
+rear-view camera,1,5,0,0,1
+completion,2,5,0,1,1
+beautiful,1,5,1,0,0
+headaches.,1,5,0,0,1
+human rights violations,1,5,0,1,0
+bashing,1,5,0,1,0
+nonconference basketball games,1,4,1,0,0
+conditions,2,4,1,1,0
+presentation,2,4,0,1,1
+programming.,3,4,1,0,2
+obama,1,4,0,1,0
+penalty,1,4,0,0,1
+overhead,1,4,0,0,1
+"permit
+general categories: permit",1,4,0,0,1
+presidential election,1,4,1,0,0
+piloting,1,4,0,0,1
+talking,1,4,0,0,1
+procedures,1,4,0,0,1
+connections,1,4,1,0,0
+academic requirements,2,4,0,0,2
+coolness,1,4,1,0,0
+workwear,1,4,0,0,1
+off-campus living,1,4,0,0,1
+permit process,1,4,0,0,1
+pl,1,4,0,1,0
+sustainability,3,4,0,1,2
+pilot,1,4,0,0,1
+payment systems,1,4,0,0,1
+proactive response,1,4,0,0,1
+accuracy,3,4,1,0,2
+"courses.
+categories: education",1,4,1,0,0
+password.,1,4,1,0,0
+workplace culture,1,4,1,0,0
+police car,1,4,0,1,0
+politeness,3,4,2,0,1
+academic culture,1,4,1,0,0
+tech store,1,4,0,1,0
+on-campus living,1,4,0,0,1
+compromise.,1,4,0,0,1
+accounting.,1,4,0,1,0
+personal information,1,4,0,1,0
+partnership,1,4,0,0,1
+potential prank,1,4,1,0,0
+notes,2,4,0,0,2
+part time classes,1,4,0,1,0
+online harassment,4,4,0,4,0
+a la carte,1,4,1,0,0
+test preparation.,1,4,0,1,0
+"office hours
+categories: communication",1,4,0,1,0
+yoga,3,4,2,0,1
+condolence,1,4,0,1,0
+coverage,1,4,0,0,1
+ta training,1,4,0,1,0
+private lessons,2,4,2,0,0
+ta.,1,4,1,0,0
+television,1,4,0,1,0
+privacy invasion,1,4,0,1,0
+office hours queues,1,4,0,0,1
+nuclear holocaust,1,4,0,0,0
+"prayer
+general categories: spirituality",1,4,1,0,0
+primerica,1,4,0,1,0
+academic accommodations,2,4,0,0,2
+course recommendations,2,4,2,0,0
+course load,2,4,0,1,1
+"health
+categories: confidentiality",1,4,0,0,1
+classes.,2,4,0,0,2
+attention,3,4,2,0,1
+job market,2,4,0,0,2
+girl,1,4,1,0,0
+"facebook group
+categories: thrift",1,4,0,0,1
+give,1,4,0,1,0
+"jealousy
+categories: envy",1,4,0,1,0
+ece,2,4,0,0,2
+issues.,2,4,0,0,2
+"response
+categories: feedback",1,4,0,0,1
+"uncertainty.
+general categories: belief",1,4,0,0,1
+autism.,1,4,0,1,0
+invention studio,1,4,0,0,1
+gouging.,1,4,0,1,0
+intolerances,1,4,0,1,0
+tolled,1,4,0,0,1
+state law,1,4,0,1,0
+sequence,1,4,0,0,1
+state,1,4,0,0,1
+avoidance,1,4,0,1,0
+vegetables,1,4,1,0,0
+christian ministry,1,4,1,0,0
+eigenvalues,2,4,0,0,2
+separated,1,4,0,1,0
+election,6,4,1,3,2
+sentiment,1,4,0,1,0
+stamps,1,4,0,0,1
+softwares,1,4,1,0,0
+generic,1,4,0,0,1
+explanation.,1,4,0,0,1
+residency status,1,4,1,0,0
+tuition,4,4,1,0,3
+letters,1,4,0,1,0
+letter,1,4,0,0,1
+"school.
+categories: academics",1,4,0,1,0
+sickness,1,4,0,0,1
+asking,2,4,0,0,2
+gad,1,4,1,0,0
+social deficiencies,1,4,0,1,0
+assignment.,1,4,0,1,0
+dorm styles,1,4,0,0,1
+gaming.,1,4,0,0,1
+violations,1,4,0,1,0
+tylenol,1,4,0,0,1
+gender equality,2,4,0,2,0
+capacity problem,1,4,0,0,1
+general fund,1,4,0,0,1
+labs,2,4,1,0,1
+shit,1,4,0,1,0
+lab reports,1,4,0,1,0
+korean,1,4,1,0,0
+structured,1,4,0,1,0
+kids,2,4,0,1,1
+requirements.,1,4,0,0,1
+stress management.,1,4,1,0,0
+faith,1,4,1,0,0
+branches,1,4,0,0,1
+rfid,1,4,0,0,1
+"library.
+general categories: resources",1,4,0,0,1
+special events.,1,4,0,0,1
+chaos.,1,4,0,0,1
+"specific
+general categories: specific",1,4,0,0,1
+holistic.,1,4,0,1,0
+hobbies,3,4,0,0,3
+"safety and preparation
+categories: safety",1,4,0,1,0
+undergraduate degree,1,4,0,0,1
+gratefulness,1,4,1,0,0
+salary negotiation,1,4,0,1,0
+"gratitude
+general categories: health",1,4,1,0,0
+healthy,1,4,1,0,0
+tragedies.,1,4,0,0,1
+hbogo,1,4,0,0,1
+hbo go,1,4,0,0,1
+esports,1,4,0,0,1
+blackboard,1,4,0,0,1
+hawk beacon,1,4,0,1,0
+second half,1,4,0,0,1
+second floor,1,4,0,0,1
+cbd oil,1,4,0,0,1
+"ethics violations 
+categories: audit",1,4,0,1,0
+unexpected hookup,1,4,1,0,0
+etiquette.,1,4,0,1,0
+unexpected,2,4,0,2,0
+center street north,1,4,0,0,1
+gtid,1,4,1,0,0
+cats,1,4,1,0,0
+categories,1,4,0,1,0
+rha expectations,1,4,0,1,0
+hospital.,1,4,0,1,0
+rice cooker,1,4,1,0,0
+rideshare,1,4,0,1,0
+info viz,1,4,1,0,0
+info,2,4,0,1,1
+industrial design,1,4,0,0,1
+independence,1,4,0,0,1
+vague,1,4,0,0,1
+incompetent,1,4,0,1,0
+vacation,2,4,1,0,1
+"emotion
+categories: sadness",1,4,0,1,0
+"emotion
+emotion",1,4,0,1,0
+impatience,1,4,0,1,0
+towers,1,4,0,0,1
+checking,1,4,0,0,1
+"grading.
+
+categories: negative",1,4,0,1,0
+hypocrisy.,1,4,0,1,0
+transfer program,2,4,0,0,2
+cheapest,1,4,0,1,0
+roommate selection,1,4,0,0,1
+rooms,1,4,0,0,1
+how-to,1,4,0,0,1
+housing.,1,4,1,0,0
+housing options,1,4,0,0,1
+cheap,1,4,1,0,0
+unwilling,1,4,0,1,0
+do,1,4,0,1,0
+evaluating,1,4,0,0,1
+student involvement,1,4,1,0,0
+"questioning
+general categories: emotion",1,4,0,1,0
+cold/flu.,1,4,0,0,1
+allegations,1,4,0,1,0
+ra job,1,4,0,1,0
+alternate reality,1,4,1,0,0
+negation,2,4,0,1,1
+cognition,1,4,0,1,0
+"mental health
+general categories: emotions",1,4,0,1,0
+negative criticism,1,4,0,1,0
+negative experience.,1,4,0,1,0
+life insurance,1,4,0,1,0
+memorization.,2,4,0,0,2
+memes,2,4,0,0,2
+race.,1,4,0,1,0
+medicine,1,4,0,0,1
+feeling,1,4,0,1,0
+"admissions
+general categories: education",1,4,0,1,0
+"admissions
+categories: strict",1,4,0,0,1
+size,2,4,0,0,2
+analyze,1,4,0,1,0
+free housing,1,4,0,1,0
+neighborhood.,1,4,0,0,1
+messaging,4,4,0,0,4
+watch,2,4,0,2,0
+feedback.,1,4,0,0,1
+minor,3,4,0,0,3
+"food
+categories: hunger",1,4,0,1,0
+"college life.
+categories: housing",1,4,0,1,0
+"mood
+categories: attitude",1,4,0,1,0
+college housing,1,4,0,0,1
+"money.
+categories: helpfulness",1,4,0,1,0
+msg,1,4,0,1,0
+public,1,4,0,0,1
+natural disaster,1,4,0,1,0
+cyclist,1,4,0,0,1
+"suggestion.
+general categories: action",1,4,0,0,1
+darksiders 3.,1,4,1,0,0
+thc,2,4,0,0,2
+mlm,1,4,0,1,0
+proving,2,4,0,0,2
+mistakes.,2,4,0,2,0
+force,1,4,0,0,1
+python,2,4,0,0,2
+calorie count,1,4,0,1,0
+dead week,1,4,1,0,0
+"miscommunication.
+general categories: misunderstanding",1,4,0,1,0
+deadlock,1,4,0,0,1
+free resource,1,4,0,0,1
+"me class.
+categories: physics",1,4,0,0,1
+recommendation.,1,4,0,0,1
+mad,1,4,0,1,0
+directv now,1,4,0,0,1
+can't,1,4,0,1,0
+fit,1,4,0,0,1
+"time
+categories: education",1,4,0,0,1
+voter purging,1,4,0,1,0
+disaster zone.,1,4,0,0,1
+volunteerism,1,4,1,0,0
+disbelief,1,4,1,0,0
+favorite,2,4,2,0,0
+nighttime,1,4,0,0,1
+red tape.,1,4,1,0,0
+"fast food
+
+general categories: fast food",1,4,0,1,0
+fuck,1,4,0,1,0
+living communities.,1,4,0,0,1
+refund,2,4,0,1,1
+linear algebra,2,4,0,0,2
+"registration 
+categories: registration",1,4,0,1,0
+project management.,1,4,1,0,0
+fun.,1,4,0,0,1
+announcement.,1,4,0,0,1
+calm,1,4,1,0,0
+magical,1,4,1,0,0
+sneak,1,4,0,0,1
+rationalization,1,4,1,0,0
+nervousness.,1,4,1,0,0
+federal law enforcement,1,4,0,1,0
+reactive method,1,4,0,0,1
+simple,1,4,0,1,0
+campus initiatives,1,4,1,0,0
+dhs,1,4,0,1,0
+crosswalk,1,4,0,1,0
+real world.,1,4,1,0,0
+anti-anxiety medication,1,4,1,0,0
+student tickets,1,4,1,0,0
+night and weekend permit,1,4,0,0,1
+waitlisting,2,4,0,1,1
+freshmen year,1,4,0,0,1
+antivaxxers,1,4,0,1,0
+majors.,3,4,0,0,3
+anxious,1,4,0,1,0
+criticisms,1,4,0,1,0
+schoolwork,1,3,1,0,0
+plate recognition,1,3,0,1,0
+plate size,1,3,0,0,1
+soccer,1,3,0,1,0
+"technical
+general categories: technical",1,3,0,0,1
+social connections.,1,3,1,0,0
+self help,1,3,0,1,0
+social science,2,3,0,1,1
+troubleshooting,1,3,0,0,1
+"social media.
+general categories: spam",1,3,0,1,0
+"podcast.
+general categories: design",1,3,1,0,0
+plus,1,3,0,0,1
+year-end roundup,1,3,0,0,1
+technologies,1,3,1,0,0
+shopping.,1,3,1,0,0
+shhh,1,3,0,1,0
+writing,1,3,0,0,1
+sharing,1,3,0,0,1
+uga engineering program,1,3,0,0,1
+signs.,1,3,0,0,1
+wristband,1,3,0,0,1
+player development,1,3,0,1,0
+song lyrics,1,3,0,1,0
+sources,1,3,0,1,0
+sisyphus.,1,3,0,0,1
+size.,1,3,0,0,1
+trashy,1,3,0,1,0
+trust.,1,3,0,1,0
+tech skills,1,3,1,0,0
+self-taught,1,3,1,0,0
+skill set,1,3,0,1,0
+slack,1,3,0,0,1
+social norms,1,3,0,1,0
+"suspicion
+categories: suspicion",1,3,0,1,0
+team performance,1,3,0,1,0
+school spirit,1,3,1,0,0
+virtual parking permit,1,3,0,1,0
+warm,1,3,0,0,0
+rate my professor,1,3,0,0,1
+study groups,1,3,1,0,0
+walks.,1,3,1,0,0
+ratings,1,3,0,0,1
+ticket pricing,1,3,0,0,1
+privacy.,1,3,0,0,1
+tables,1,3,0,0,0
+real.,1,3,0,1,0
+receiver,1,3,0,0,1
+recreational drugs,1,3,0,0,1
+student performance,1,3,0,0,1
+student organization,1,3,0,0,1
+reference,2,3,1,0,0
+"student life.
+categories: food",1,3,0,1,0
+"pricing
+categories: budget",1,3,0,0,1
+"time frame
+categories: time",1,3,1,0,0
+registry.,1,3,0,0,1
+prices.,1,3,0,1,0
+raspberry pi,1,3,0,0,1
+radioactive seeds,1,3,1,0,0
+"studying habits.
+categories: discipline",1,3,0,1,0
+provisional,1,3,0,1,0
+"surprising.
+general categories: surprise",1,3,0,1,0
+"programming.
+categories: programming",1,3,0,0,1
+project work,2,3,1,0,1
+pronunciation,1,3,0,0,1
+sustenance,1,3,0,1,0
+"support 
+categories: exceptional",1,3,1,0,0
+props.,1,3,0,0,1
+professor recommendations,1,3,1,0,0
+thank you.,1,3,0,0,1
+warranty.,1,3,0,0,1
+"weather 
+general categories: weather",1,3,0,0,1
+pub,1,3,1,0,0
+public api,1,3,0,0,1
+weakness,1,3,0,0,1
+"purchase
+general categories: disbelief",1,3,0,1,0
+succeeding.,1,3,1,0,0
+substitution,1,3,0,1,0
+waste,2,3,0,2,0
+price.,1,3,0,0,1
+relocation.,1,3,0,0,1
+poll,1,3,0,1,0
+women's rights,1,3,0,1,0
+review,1,3,1,0,0
+temporary,1,3,0,0,1
+variety,1,3,1,0,0
+van leer,1,3,0,0,1
+rewards,1,3,0,0,1
+stage setup,1,3,0,0,1
+us citizen,1,3,0,0,1
+urban,1,3,0,1,0
+"rumors
+general categories: rumors",1,3,0,1,0
+unprofessionalism,2,3,0,2,0
+tradition.,1,3,0,0,1
+popularity,1,3,0,0,1
+popular mechanics,1,3,1,0,0
+"sports.
+general categories: memories",1,3,0,1,0
+unlimited,1,3,0,0,1
+satisfaction,2,3,2,0,0
+"sports
+categories: criticism",1,3,0,1,0
+trans,1,3,0,1,0
+polling place,1,3,0,0,1
+state code,1,3,0,0,1
+test scores,3,3,2,0,1
+stipends,1,3,0,0,1
+research program,1,3,0,0,1
+student center.,1,3,0,0,1
+repeat offenders.,1,3,0,0,1
+repeating,1,3,0,0,1
+timeline.,1,3,0,0,1
+student advice,1,3,1,0,0
+work environment,1,3,0,1,0
+tip.,1,3,1,0,0
+requests,1,3,0,0,1
+strengths,1,3,0,0,1
+stop,1,3,0,1,0
+terminology,1,3,0,0,1
+tenants association,1,3,0,0,1
+teaching style,1,3,0,0,1
+resigned,1,3,0,0,1
+teaching style.,2,3,0,1,1
+streaming,2,3,1,0,1
+prereq,1,3,1,0,0
+todd,1,3,0,1,0
+social dynamics,2,3,0,1,1
+zvi galil,1,3,0,0,1
+planning.,1,3,0,0,1
+film,1,3,0,0,1
+myth,1,3,0,0,1
+narrative,1,3,0,1,0
+java,2,3,0,1,0
+"command
+general categories: instruction",1,3,0,0,1
+comforting,1,3,1,0,0
+freshman year,1,3,0,0,1
+college courses,2,3,0,0,2
+negotiation,1,3,0,1,0
+neighborhood,1,3,0,0,1
+collaboration tools,1,3,0,0,1
+new locations,1,3,0,0,1
+new protocol,1,3,0,0,1
+coincidence,1,3,0,1,0
+"news
+general categories: information",1,3,0,0,1
+nfl,1,3,0,1,0
+commencement speaker,1,3,0,1,0
+frame,1,3,1,0,0
+"form
+general categories: agreement",1,3,0,1,0
+jobs,2,3,0,0,2
+finances.,1,3,0,1,0
+financial costs,1,3,0,1,0
+misrepresentation.categories: education,1,3,0,1,0
+"finding accommodation.
+categories: spring",1,3,1,0,0
+finite mathematics,1,3,0,0,1
+misunderstanding,1,3,0,0,1
+flexible.,1,3,1,0,0
+comparison of gt and mit,1,3,0,0,1
+folks,1,3,0,1,0
+"food
+categories: pizza",1,3,1,0,0
+complacency.,1,3,0,1,0
+competitiveness,2,3,0,0,2
+food safety,1,3,1,0,0
+"competition
+categories: design",1,3,0,0,1
+coffee shop.,1,3,0,0,0
+coed,1,3,0,1,0
+coc.,1,3,0,0,1
+chronic pain,1,3,0,0,1
+"class
+categories: education",2,3,0,1,1
+north ave.,1,3,0,0,1
+claim,3,3,0,1,2
+city planning,1,3,1,0,0
+notre dame,1,3,0,0,1
+circumstance,1,3,1,0,0
+giveaways,1,3,1,0,0
+class options,3,3,2,0,1
+"interview
+categories: typical",1,3,0,0,1
+glitches,1,3,0,0,1
+chances,2,3,0,0,2
+goalposts.,1,3,0,1,0
+google search,1,3,0,1,0
+government employees.,1,3,0,0,1
+ghost,1,3,0,0,1
+"none.
+
+general categories: none.",1,3,0,0,1
+coc advising,1,3,0,1,0
+games,1,3,0,1,0
+coastal division,1,3,0,0,1
+nobody,2,3,1,1,0
+non-binary,1,3,0,1,0
+coaching.,3,3,0,2,1
+"coaching
+categories: program",1,3,0,0,1
+"game.
+categories: entertainment",1,3,1,0,0
+irony,1,3,0,1,0
+class registration,2,3,0,0,2
+"gaming
+categories: entertainment",2,3,1,0,1
+election commission,1,3,0,1,0
+gender inequality,1,3,0,0,1
+cleaning staff,1,3,0,0,1
+"general interview information
+category list: point",1,3,0,1,0
+generation gap,1,3,0,1,0
+contribution,1,3,0,0,1
+conversion,1,3,0,0,1
+nutrients,1,3,0,1,0
+cope,1,3,0,1,0
+doubt,1,3,0,1,0
+dorms,1,3,0,0,1
+energy drink,1,3,0,1,0
+enrollment.,1,3,1,0,0
+machines,1,3,0,0,1
+macro concepts.,1,3,0,1,0
+discovery,1,3,0,0,1
+"entertainment
+more general categories: entertainment",1,3,1,0,0
+mall,1,3,0,0,0
+"directions.
+categories: help",1,3,0,0,1
+directions.,1,3,0,0,1
+digital access,1,3,0,0,1
+dick,1,3,0,1,0
+lesson,1,3,0,0,1
+devices minor,1,3,1,0,0
+download,1,3,0,0,1
+liability.,1,3,0,0,1
+employer,1,3,0,0,1
+ece 4180,1,3,0,0,1
+literature,1,3,0,0,1
+electric bus initiative,1,3,1,0,0
+"education.
+general categories: credits",1,3,0,1,0
+llcs,1,3,0,0,1
+"education.
+categories: learning",1,3,0,0,1
+"education
+categories: technology",1,3,0,0,1
+"emotions
+general categories: emotions",1,3,0,1,0
+drones,1,3,0,0,1
+ebike laws,1,3,0,0,1
+license plate,1,3,0,0,1
+employ safety related issue,1,3,0,1,0
+"library.
+categories: construction",1,3,0,0,1
+employee behavior,1,3,0,1,0
+library renovation,1,3,0,0,1
+mascots,1,3,0,0,1
+mass transit,1,3,0,1,0
+legalization,1,3,0,0,1
+"memory
+general categories: memory",1,3,0,0,1
+medical use,1,3,0,0,1
+laboratory,1,3,0,0,1
+lab science.,1,3,0,0,1
+mediocrity,1,3,0,1,0
+course syllabus,1,3,0,0,1
+course selection.,1,3,0,0,1
+faculty position,1,3,0,0,1
+creative writing,1,3,1,0,0
+faculty/staff,1,3,1,0,0
+mentor,1,3,0,0,1
+mentoring,1,3,0,1,0
+mexican,1,3,1,0,0
+mgt,1,3,1,0,0
+coping strategies,2,3,1,0,1
+crash,1,3,1,0,0
+"language
+categories: negative",1,3,0,1,0
+desperate,1,3,0,1,0
+materials,1,3,0,0,1
+designing drones,1,3,0,0,1
+essay,1,3,0,0,1
+exam anxiety,1,3,0,0,1
+leds,1,3,0,0,1
+exams.,1,3,0,0,1
+exceptions,1,3,0,1,0
+deaths,1,3,0,1,0
+criticism.,1,3,0,1,0
+exercises,2,3,0,1,1
+daily use.,1,3,0,0,1
+expense,1,3,0,0,1
+mbzirc,1,3,0,0,1
+cs class,1,3,0,0,1
+cs 1331,1,3,1,0,0
+"internships
+categories: education",1,3,1,0,0
+gech.,1,3,1,0,0
+"elective
+general categories: education",1,3,0,0,1
+gt experience,1,3,1,0,0
+infer,1,3,0,0,1
+gt tracker,1,3,0,0,1
+accomplishment.,1,3,1,0,0
+accident,1,3,0,1,0
+back end,1,3,0,1,0
+"information
+general categories: privacy",1,3,0,1,0
+paperwork,1,3,0,0,1
+"ban
+general categories: humor",1,3,0,0,1
+acceptance rate,2,3,1,0,1
+pains,1,3,0,0,1
+packed,1,3,1,0,0
+barista,1,3,0,0,0
+acceptance,3,3,1,0,2
+photos,1,3,0,0,1
+bbq,1,3,0,0,1
+phase 2,1,3,0,1,0
+academic standards,1,3,0,1,0
+gt account,1,3,0,0,1
+humanities,3,3,1,0,2
+hire,1,3,0,1,0
+beauty,1,3,0,0,1
+academic incest,1,3,0,0,1
+abu dhabi,1,3,0,0,1
+bike accident,1,3,0,1,0
+bike safety,1,3,0,1,0
+gross.,1,3,0,1,0
+high school club swim meet,1,3,0,0,1
+"address.
+categories: delivery",1,3,0,0,1
+"parking.
+general categories: transportation",1,3,0,1,0
+herbalife.,1,3,0,1,0
+hard.,1,3,0,0,1
+antivaxxer,1,3,0,0,1
+ap credit.,1,3,0,0,1
+annoying.,1,3,0,1,0
+percentiles,1,3,0,0,1
+animal,2,3,0,0,2
+paul johnson,1,3,0,0,1
+"apology
+general categories: apology",1,3,0,1,0
+application process,1,3,1,0,0
+appreciation.categories: gratitude,1,3,1,0,0
+approval.,1,3,0,0,1
+performances,1,3,1,0,0
+performing problems,1,3,0,0,1
+patient,1,3,1,0,0
+asap,1,3,1,0,0
+amway,1,3,0,1,0
+permits,1,3,0,0,1
+half-time,1,3,1,0,0
+incidents,1,3,0,0,1
+inclusivity,2,3,0,1,1
+afternoon,1,3,0,0,0
+affirmation.,1,3,1,0,0
+advisor.,2,3,0,0,2
+"person
+general categories: inquiry",1,3,0,0,1
+help.,2,3,1,0,1
+"greeting
+categories: greeting",1,3,0,0,1
+academic professionals.,1,3,0,0,1
+business exam,1,3,0,1,0
+bursar's office,1,3,0,0,1
+international student,1,3,0,0,1
+homelessness,1,3,0,1,0
+online persona,1,3,0,1,0
+"online harassment.
+categories: bullying",1,3,0,1,0
+housing buildings.,1,3,0,0,1
+online forum discussion,1,3,0,0,1
+"graduation
+categories: registration",1,3,0,1,0
+buzzcards,1,3,0,0,1
+3d printing,3,3,0,0,3
+graduating semester,1,3,1,0,0
+bitching,1,3,0,1,0
+camus,1,3,0,0,1
+2nd floor,1,3,0,0,1
+calendar,1,3,0,0,1
+omscs,2,3,0,0,2
+pi kit,1,3,0,0,1
+oit,1,3,0,0,1
+graduate schools,1,3,1,0,0
+grades.,1,3,0,0,1
+offensive,1,3,0,1,0
+graduate school,1,3,0,0,1
+campus living,1,3,0,1,0
+graduate candidate,1,3,0,1,0
+career/advice,1,3,1,0,0
+"housing
+general categories: lgbtqia+",1,3,0,1,0
+online usernames,1,3,0,0,1
+optional.,1,3,0,1,0
+outcome.,1,3,0,1,0
+abandonment.,1,3,0,0,1
+grad schools,1,3,0,0,1
+blandness,1,3,0,1,0
+open,2,3,1,0,1
+125khz readers,1,3,0,0,1
+gre,1,3,0,0,1
+blackboard hardware,1,3,0,0,1
+blues,1,3,0,0,1
+opioids,1,3,0,0,1
+bonus points,1,3,1,0,0
+grave,1,3,0,1,0
+brittian,1,3,0,0,1
+"gratitude.
+general categories: appreciation",3,3,3,0,0
+building collapses,1,3,1,0,0
+insects,1,3,0,0,1
+outdoor activities,1,3,1,0,0
+elective classes,1,2,0,0,1
+spaces,1,2,0,0,1
+speaking,1,2,0,1,0
+speed limit,1,2,0,1,0
+"elevators
+categories: efficiency",1,2,0,0,1
+hardware address,1,2,0,0,1
+elevator pitches,1,2,1,0,0
+exchange.,1,2,0,0,1
+specific questions,1,2,0,1,0
+rune scimitar,1,2,1,0,0
+scala,1,2,0,1,0
+spring 2017,1,2,0,0,1
+equality,1,2,0,1,0
+exam tips,1,2,0,0,1
+hearing,1,2,0,1,0
+"safety
+general categories: campus",1,2,0,0,1
+historical significance,1,2,0,0,1
+hoarding,1,2,0,0,1
+emphasis.,1,2,0,0,1
+scenario,1,2,0,0,1
+higher power,1,2,0,1,0
+"sports.
+general categories: sports",1,2,0,0,0
+salaries,1,2,0,0,1
+"entertainment
+categories: leisure",1,2,0,1,0
+high volume.,1,2,0,0,1
+high performance schools,1,2,0,1,0
+equipment malfunction,1,2,0,0,1
+"emoticon
+categories: emotion",1,2,1,0,0
+emory.,1,2,1,0,0
+stadium.,1,2,1,0,0
+emag,1,2,0,0,1
+saving.,1,2,1,0,0
+escalation,1,2,0,1,0
+help desk,1,2,0,0,1
+experimentation,1,2,0,0,1
+grad school.,1,2,0,0,1
+soviet union,1,2,0,1,0
+free elective,1,2,0,0,1
+great leap forward.,1,2,0,1,0
+friendship.,1,2,1,0,0
+similar.,1,2,0,1,0
+french,2,2,0,0,2
+"group
+categories: email",1,2,0,0,1
+scripts,1,2,0,1,0
+scraping,1,2,0,1,0
+funny,1,2,0,1,0
+sizing,1,2,0,0,1
+formulaic,1,2,0,0,1
+"form
+categories: form",1,2,0,0,1
+skills development,1,2,0,0,1
+skin care,1,2,0,0,1
+"football.
+additional categories: education",1,2,1,0,0
+sightseeing,1,2,1,0,0
+game changer,1,2,1,0,0
+flair,1,2,0,0,1
+"gift
+general categories: generosity",1,2,1,0,0
+senior year,1,2,1,0,0
+september 11th,1,2,0,0,1
+grade inflation,1,2,0,1,0
+gradedistribution,1,2,0,0,1
+selling,1,2,0,0,1
+sell yourself,1,2,1,0,0
+"grading.
+more general categories: education",1,2,0,0,1
+graduation.,1,2,0,0,1
+german,1,2,0,0,1
+graduating,1,2,0,0,1
+shared,1,2,0,0,1
+shared pathways,1,2,0,0,1
+generation y,1,2,0,0,1
+generalization,1,2,0,1,0
+gt stats,1,2,0,1,0
+gt student garden,1,2,0,0,1
+south korea,1,2,1,0,0
+sorority rush,1,2,1,0,0
+software development,1,2,0,0,1
+software.,1,2,0,1,0
+handicaps.,1,2,1,0,0
+faculty,2,2,0,0,2
+scheduling conflicts,2,2,0,1,1
+sonar lab,1,2,0,0,1
+happy.,1,2,1,0,0
+fair.,1,2,0,0,1
+schedule planning,1,2,0,0,1
+extracurricular activities,2,2,0,0,2
+"schedule
+categories: organization",1,2,1,0,0
+soup program,1,2,0,0,1
+expulsion,1,2,0,1,0
+expressing gratitude,1,2,1,0,0
+"school
+categories: education",2,2,0,0,2
+hall council,1,2,0,0,1
+first year,3,2,0,0,3
+final transcript,1,2,0,0,1
+fine,1,2,0,0,1
+finding love,1,2,1,0,0
+guilt,1,2,0,1,0
+social justice warriors,1,2,0,1,0
+"social media
+categories: internet",1,2,0,1,0
+"finals
+categories: finals",1,2,1,0,0
+filming,1,2,0,0,1
+social.,2,2,0,1,1
+school rankings,1,2,0,0,1
+haha,1,2,1,0,0
+"social media.
+general categories: social",1,2,0,0,1
+hairloss,1,2,0,0,1
+gps,1,2,0,0,1
+hairstyles,1,2,0,0,1
+fight song,1,2,0,0,1
+crisis hotline.,1,2,0,0,1
+ego boost,1,2,0,1,0
+casual,1,2,0,0,1
+transfer equivalency,1,2,0,0,1
+transfer student,1,2,0,0,1
+career development,1,2,0,0,1
+cardio,1,2,0,0,1
+"cancellation
+categories: frustration",1,2,0,1,0
+"campus sustainability.
+categories: waste",1,2,0,0,1
+campus security,1,2,0,0,1
+"travel.
+categories: friendship",1,2,0,0,1
+campus involvement,1,2,1,0,0
+trial.,1,2,0,1,0
+trouble,1,2,1,0,0
+c2d2,1,2,0,0,1
+buzzport.,1,2,1,0,0
+business.,1,2,0,0,1
+tutoring.,1,2,0,0,1
+broaden horizons,1,2,0,0,1
+"uncertainty.
+
+general categories: uncertainty",1,2,1,0,0
+blog,1,2,0,0,1
+unique,1,2,0,0,1
+unity,1,2,0,0,1
+birth years,1,2,0,0,1
+transfer credit,2,2,0,0,2
+transcripts,2,2,0,0,2
+theorems,1,2,0,0,1
+cda,1,2,0,0,1
+tim berners-lee,1,2,0,0,1
+close,1,2,0,0,1
+client-side.,1,2,0,1,0
+time and money waste,1,2,0,1,0
+time frame,1,2,0,0,1
+classwork,1,2,0,0,1
+class workload,1,2,0,0,1
+time periods,1,2,0,0,1
+time ticket,1,2,1,0,0
+time-management.,1,2,0,1,0
+"class registration
+categories: normal",1,2,1,0,0
+"class
+categories: reviews",1,2,0,0,1
+today,1,2,0,0,1
+china,1,2,0,1,0
+cheating prevention,1,2,0,0,1
+chbe degree,1,2,1,0,0
+tracking,1,2,0,0,1
+chance me posts,1,2,0,1,0
+"training
+general categories: education",1,2,0,0,1
+chair,1,2,1,0,0
+ceremony,1,2,0,0,1
+biking.,1,2,0,0,1
+bezoria,2,2,0,0,2
+updates.,1,2,0,0,1
+upper body,1,2,0,0,1
+another class,1,2,1,0,0
+android,1,2,0,1,0
+"waste
+categories: demand",1,2,0,1,0
+algorithms,1,2,0,0,1
+algorithm.,1,2,0,1,0
+adviser,1,2,0,1,0
+"advice
+general categories: learning",1,2,0,0,1
+admissions staff,1,2,0,0,1
+adderall,1,2,0,1,0
+"will call
+categories: family",1,2,0,0,1
+winter,1,2,0,0,1
+woodruff,1,2,1,0,0
+academic restrictions,1,2,0,0,0
+workout routine,1,2,0,0,1
+absence,1,2,0,0,1
+abrams,1,2,0,0,1
+abdominal muscles.,1,2,0,0,1
+xbox,1,2,0,0,1
+18 hours,1,2,0,0,1
+1332.,1,2,0,1,0
+youtube,1,2,0,0,1
+antennas,1,2,0,0,1
+anti-vaxxer arguments,1,2,0,1,0
+ap.,1,2,0,0,1
+auxiliary services,1,2,0,0,1
+upper level math,1,2,0,0,1
+useless,1,2,0,1,0
+vaccinations,1,2,0,1,0
+ballots,1,2,0,0,1
+backend,2,2,0,0,2
+vectors.,1,2,0,0,1
+vehicle,1,2,0,0,1
+vendor,1,2,0,0,1
+"vendors
+general categories: technology",1,2,0,0,1
+versatility,1,2,1,0,0
+apartment living,1,2,0,1,0
+author,1,2,0,0,1
+attitudes,1,2,0,0,1
+attachment,1,2,0,0,1
+"video.
+general categories: entertainment",1,2,0,0,1
+virtual meetings,1,2,0,0,1
+asdl,1,2,0,0,1
+virtual parking permit program,1,2,1,0,0
+argument,1,2,0,1,0
+voter suppression,2,2,0,2,0
+co-op length requirement,1,2,0,0,1
+college applications,1,2,0,0,1
+stanford,1,2,0,1,0
+difficulties,1,2,0,0,1
+devices thread,1,2,0,0,1
+detail,1,2,0,0,1
+desire,1,2,0,0,1
+departments,1,2,0,0,1
+study hours,1,2,0,0,1
+degrees,1,2,0,0,1
+defeat.,1,2,0,0,1
+"decision 
+more general categories: decision",1,2,1,0,0
+sub,1,2,0,0,1
+decades.,1,2,1,0,0
+debut,1,2,1,0,0
+submit,1,2,1,0,0
+deactivation,1,2,0,0,1
+cx 4240,1,2,0,0,1
+curved,1,2,0,0,1
+curtis,1,2,0,0,1
+current process.,1,2,0,0,1
+cs2110,1,2,0,1,0
+cs1371,1,2,0,0,1
+cs experience,1,2,1,0,0
+cruise missile.,1,2,0,0,1
+dietary restriction,1,2,0,0,1
+"disapproval
+categories: odd",1,2,0,1,0
+the economist,1,2,1,0,0
+discrete math,1,2,0,0,1
+start date,1,2,0,0,1
+"education.
+general categories: learning",1,2,0,0,1
+"education.
+categories: standard",1,2,0,0,1
+"education.
+categories: negative",1,2,0,1,0
+"education
+general categories: classes",1,2,0,0,1
+"education
+categories: recommendation",1,2,0,1,0
+"education
+categories: frustration",1,2,0,1,0
+editing,1,2,0,0,1
+store pickup,1,2,0,0,1
+easier combination.,1,2,0,0,1
+streamlined,1,2,0,0,1
+stress relief,1,2,1,0,0
+durability,2,2,0,0,2
+strikes,1,2,0,1,0
+stubbornness,1,2,0,0,1
+stuck.,1,2,0,0,1
+dress code,1,2,0,0,1
+"student center printers
+general categories: technology",1,2,0,0,1
+"dog.
+categories: cute",1,2,1,0,0
+distractions.,1,2,0,0,1
+"dislike 
+categories: dislike",1,2,0,0,1
+supportive,2,2,2,0,0
+rules.,1,2,0,0,1
+"credit
+categories: education",1,2,0,0,1
+courseload,1,2,0,0,1
+"technical issue.
+general categories: waitlist",1,2,0,1,0
+technical.,1,2,0,1,0
+techniques,1,2,0,0,1
+computer engineering,1,2,0,0,1
+compost,1,2,0,0,1
+"technology.
+productivity",1,2,1,0,0
+temptation,1,2,0,0,1
+tennessee,1,2,1,0,0
+compe,1,2,0,0,1
+companionship,1,2,0,0,1
+companies,1,2,1,0,0
+commute,1,2,0,1,0
+commonality,1,2,0,0,1
+"test
+categories: difficulty",1,2,0,1,0
+common,1,2,0,0,1
+commitment,1,2,1,0,0
+test taking,1,2,0,0,1
+combos,2,2,0,0,2
+text comments,1,2,0,0,1
+textbook,1,2,1,0,0
+college justice systems,1,2,0,1,0
+concern.,1,2,0,1,0
+confidence.,1,2,1,0,0
+confrontation,1,2,0,1,0
+cords,1,2,0,0,1
+switch.,1,2,0,0,1
+"switching.
+general categories: hard",1,2,0,0,1
+coursecritique,1,2,0,0,1
+course overload,1,2,0,0,1
+course list,1,2,0,0,1
+"course drop 
+categories: registrar",1,2,0,0,1
+counting,1,2,0,0,1
+counseling office,1,2,0,0,1
+taking,1,2,0,1,0
+tas,1,2,1,0,0
+"confused
+categories: confused",1,2,0,1,0
+conversations,1,2,0,0,1
+control system design,1,2,0,0,1
+contracting,1,2,1,0,0
+contention,1,2,0,1,0
+contender,1,2,0,0,1
+teams.,1,2,0,0,1
+consider,1,2,1,0,0
+conservative,1,2,0,0,1
+"confusion
+general categories: communication",1,2,0,0,1
+homeworks,1,2,1,0,0
+f,1,2,0,0,1
+#metoo,1,2,0,1,0
+overrides,1,2,0,1,0
+login,1,2,0,0,1
+package,1,2,0,1,0
+iraq,1,2,0,1,0
+irrelevance,1,2,0,1,0
+"moderation.
+categories: moderation",1,2,0,0,1
+prediction,1,2,0,0,0
+public policy,1,2,1,0,0
+pacing,1,2,1,0,0
+moderators,1,2,0,1,0
+pregame show,1,2,0,1,0
+iucc,1,2,0,0,1
+minority groups,1,2,0,0,1
+override request,1,2,0,1,0
+japanese.,1,2,1,0,0
+psyc 1101,1,2,0,0,1
+overlap,1,2,0,0,1
+jersey,1,2,0,0,1
+"job
+categories: employment",1,2,0,0,1
+need,1,2,1,0,0
+job fair,1,2,0,0,1
+resident programming,1,2,0,0,1
+orgo,1,2,0,0,1
+pre-med,1,2,1,0,0
+mock trial,2,2,0,0,2
+recyclable,1,2,0,1,0
+mock interviews,1,2,1,0,0
+portion size,1,2,0,1,0
+pay,2,2,0,0,2
+intelligence thread,1,2,0,0,1
+possession,1,2,1,0,0
+lower body,1,2,0,0,1
+low-level systems,1,2,0,0,1
+retake,1,2,0,1,0
+party,2,2,0,2,0
+recruiters.,1,2,0,0,1
+purpose,1,2,0,1,0
+posters,2,2,1,0,1
+purge,1,2,0,0,1
+interstate,1,2,0,0,1
+interviewing,1,2,0,0,1
+lost pet,1,2,0,0,1
+"recruitment
+categories: dislike",1,2,0,1,0
+intro to ai,1,2,0,0,1
+misunderstanding.,1,2,0,0,1
+inventory,1,2,0,0,1
+pull,1,2,0,0,1
+prank,1,2,0,0,1
+resident life,1,2,0,0,1
+local,1,2,0,0,1
+network,1,2,0,0,1
+"rejection
+categories: education",1,2,0,1,0
+"none
+categories: uncertainty",1,2,0,0,1
+official,1,2,0,0,1
+liberal.,1,2,0,0,1
+pro,1,2,0,0,1
+proactivity,2,2,0,0,2
+probability,2,2,0,1,1
+problem solving,1,2,0,0,1
+ochem,1,2,0,1,0
+"none.
+general categories: confusion",1,2,0,0,1
+numerical methods.,1,2,0,0,1
+noteworthy.,1,2,0,0,1
+product review,1,2,1,0,0
+last day,1,2,0,0,1
+leaving.,1,2,0,0,1
+learning experience,1,2,0,0,1
+product/service,1,2,1,0,0
+numerical,1,2,0,0,1
+nsfw.,1,2,0,0,1
+products,1,2,0,1,0
+laziness.,1,2,0,0,1
+remote,1,2,0,0,1
+on-campus access,1,2,0,1,0
+"programming.
+
+general categories: coding",1,2,0,1,0
+job search advice,1,2,0,0,1
+nonchalant,1,2,0,0,1
+networking.,1,2,1,0,0
+job security,1,2,0,0,1
+new section.,1,2,1,0,0
+lines,1,2,0,0,1
+"linear algebra
+categories: education",1,2,0,0,1
+residence,1,2,0,0,1
+lighting,1,2,0,0,1
+join,1,2,0,0,1
+joke.,1,2,0,1,0
+opening,1,2,0,0,1
+judgement call,1,2,0,0,1
+june,1,2,0,0,1
+kantwon,1,2,0,0,1
+"requirements
+general categories: consideration",1,2,0,1,0
+printer,1,2,0,0,1
+online courses,1,2,0,0,1
+requirement courses,1,2,0,0,1
+key factors,1,2,0,0,1
+lifestyle.,1,2,0,1,0
+online classes,1,2,0,0,1
+online access,1,2,1,0,0
+pc.,1,2,0,0,1
+ml knowledge,1,2,0,0,1
+qup,1,2,0,0,1
+information technology.,1,2,0,0,1
+master's degree,1,2,0,0,1
+master,1,2,0,0,1
+personal finance,1,2,0,0,1
+massage therapy,1,2,1,0,0
+mary holder,1,2,0,0,1
+information request,1,2,0,0,1
+phrasing,1,2,0,1,0
+roommate behavior,1,2,0,0,1
+marginalized communities,1,2,0,0,1
+rice,1,2,0,0,1
+injuries,1,2,0,0,1
+"quizzes.
+categories: education",1,2,1,0,0
+med school,1,2,1,0,0
+"housing.
+categories: roommate",1,2,0,0,1
+math minor,1,2,0,0,1
+independent,1,2,0,0,1
+"housing.
+categories: housing.",1,2,0,0,1
+material demand,1,2,0,1,0
+phd,2,2,0,0,2
+robotics.,2,2,0,1,1
+medical withdrawal,1,2,0,0,1
+meditation,1,2,0,1,0
+persuasion,1,2,1,0,0
+"hype video
+general categories: excitement",1,2,1,0,0
+in-house,1,2,1,0,0
+inclusivity.,1,2,0,1,0
+"humor
+general categories: comedy",1,2,0,0,0
+math classes.,1,2,0,0,1
+personal property,1,2,0,1,0
+phenomenal.,1,2,1,0,0
+"road safety
+categories: safety",1,2,0,1,0
+personal projects.,1,2,1,0,0
+persistence.,1,2,1,0,0
+radio,1,2,1,0,0
+matrix,1,2,0,0,1
+mindset,1,2,0,0,1
+mba,1,2,0,0,1
+recalibration.,1,2,0,0,1
+ratemyprofessor,1,2,0,0,1
+"politics.
+general categories: misinterpretation",1,2,0,0,1
+male.,1,2,0,0,1
+mathworks,1,2,0,0,1
+midterm,1,2,0,0,1
+meaningless,1,2,0,1,0
+inquiry.,2,2,0,0,2
+midterms,1,2,0,0,1
+mindfulness,1,2,0,0,1
+tiling problems,1,1,0,0,1
+cs recruiting,1,1,0,0,1
+nre,1,1,0,0,1
+host institution.,1,1,0,0,1
+non-permit holders,1,1,0,0,1
+medical professionals,1,1,0,0,0
+ramifications.,1,1,0,0,1
+cs majors,1,1,0,0,1
+"credit hours
+categories: education",1,1,0,0,1
+crime rate,1,1,0,0,0
+sunglasses,1,1,0,0,1
+close friends,1,1,0,0,1
+timeslots,1,1,0,0,1
+medical treatment,1,1,0,1,0
+topics,1,1,0,1,0
+switching,1,1,0,0,1
+coding experience,1,1,0,0,1
+chick-fil-a,1,1,0,1,0
+radio signal,1,1,0,0,1
+topics: recommendation,1,1,0,0,1
+promotion.,1,1,0,0,1
+summer internships,1,1,0,0,1
+courseloads,1,1,0,0,1
+summer semester,1,1,1,0,0
+no disturbance,1,1,1,0,0
+nobel prize.,1,1,0,0,1
+ticket fraud,1,1,0,1,0
+non-judgmental,1,1,1,0,0
+sweatshirt,1,1,0,1,0
+survey of calc,1,1,0,0,1
+non-peak times.,1,1,0,0,1
+"none
+categories: none",1,1,0,0,1
+criminal activity,1,1,0,0,0
+"professors.
+general categories: education",1,1,0,0,1
+croot.,1,1,0,0,1
+"croot.
+categories: difficulty",1,1,0,0,1
+"class restrictions.
+categories: spanish",1,1,0,0,1
+medical conditions,1,1,0,0,0
+"none
+more general categories: sound",1,1,0,0,0
+class registration game,1,1,0,0,1
+"class
+more general categories: education",1,1,1,0,0
+time tickets.,1,1,0,0,1
+class difficulty,1,1,0,0,1
+timed labs,1,1,1,0,0
+"class registration
+categories: academics",1,1,0,0,1
+"none specified.
+categories: missed",1,1,0,0,1
+class recommendations,1,1,0,0,1
+class information,1,1,0,0,1
+"class schedule
+categories: classes",1,1,0,1,0
+"class schedule
+categories: teaching",1,1,1,0,0
+ranked,1,1,0,0,1
+program requirements,1,1,0,0,1
+cities,1,1,0,0,0
+"surprised
+more general categories: surprise",1,1,0,1,0
+cs major,1,1,1,0,0
+time intensive,1,1,0,1,0
+not accepting,1,1,0,1,0
+medical documentation,1,1,0,0,1
+"none.
+more categories: disappointing",1,1,0,1,0
+"coffee cart
+categories: coffee",1,1,0,1,0
+class selection,1,1,0,0,1
+professor gpas,1,1,0,0,1
+"class
+categories: enjoyment",1,1,1,0,0
+cs 4590 computer audio,1,1,1,0,0
+"none
+general categories: disappointment",1,1,0,1,0
+professor interaction,1,1,0,0,1
+teaching assistant,2,1,1,0,1
+thanksgiving break,1,1,1,0,0
+nights.,1,1,1,0,0
+taken,1,1,0,0,1
+tech support,1,1,0,0,1
+tech tower,1,1,0,0,1
+metric,1,1,0,0,1
+tech.,4,1,0,1,3
+concerns,1,1,0,1,0
+core requirement,1,1,0,0,1
+concealed carrying,1,1,0,0,0
+"quiz
+categories: stress",1,1,0,1,0
+computing.,1,1,0,0,1
+compostability,1,1,0,0,1
+computers,1,1,0,0,1
+cost-saving,1,1,0,0,1
+computer system,1,1,0,0,1
+counseling.,1,1,0,0,1
+technique,1,1,1,0,0
+computer programming,1,1,0,1,0
+tourist attraction,1,1,0,1,0
+"computer
+general categories: technology",1,1,0,1,0
+conflicting,1,1,0,1,0
+conflicts,1,1,0,0,1
+"missed
+general categories: missed",1,1,0,0,1
+"missed
+categories: missed",1,1,0,0,1
+minor requirements,1,1,0,0,1
+"miracle
+categories: miracle",1,1,1,0,0
+contact.,1,1,0,0,1
+construction methods.,1,1,0,0,1
+misleading.,1,1,0,1,0
+consistency,1,1,0,0,1
+considerate.,1,1,0,0,1
+"tech
+categories: technology",1,1,0,0,1
+quality control,1,1,0,1,0
+cooking.,1,1,1,0,0
+misogyny,1,1,0,1,0
+consequence,1,1,0,0,1
+tech marching band,1,1,0,0,1
+"connection
+categories: connection",1,1,0,1,0
+confusion.,1,1,0,0,1
+"misplacement 
+categories: forgetfulness",1,1,0,0,1
+midtown atlanta,1,1,0,0,1
+"composting
+categories: waste",1,1,0,1,0
+complex analysis,1,1,0,0,1
+third parties,1,1,1,0,0
+minoring,1,1,0,1,0
+neatness,1,1,1,0,0
+course recommendation,1,1,1,0,0
+course requirement deadline,1,1,0,0,1
+sysarch,1,1,0,0,1
+thank,1,1,0,0,1
+college living,1,1,0,1,0
+thankfulness,1,1,1,0,0
+negligence,1,1,0,0,1
+sysadmin.,1,1,0,0,1
+mobile-friendly,1,1,0,0,1
+course retake,1,1,0,0,1
+"course selection
+categories: difficulty",1,1,0,1,0
+college advising,1,1,0,0,1
+racial tensions.,1,1,0,0,1
+"college admissions
+categories: college",1,1,0,0,1
+medical.,1,1,0,0,1
+new concepts,1,1,1,0,0
+collaboration,1,1,1,0,0
+course planning,1,1,0,0,1
+nc teams,1,1,0,0,1
+tests,1,1,0,0,1
+testing,1,1,0,0,1
+courage,1,1,1,0,0
+course change,1,1,0,0,1
+course comparison,1,1,0,0,1
+"compensation
+categories: salary",1,1,0,1,0
+model un.,1,1,0,0,1
+course cost,1,1,0,0,1
+course descriptions,1,1,0,0,1
+mention,1,1,0,0,1
+commuting.,1,1,0,0,1
+monday.,1,1,0,0,1
+money management,1,1,1,0,0
+psychology.,1,1,0,0,1
+"music
+general categories: music",1,1,1,0,0
+"music.
+categories: club",1,1,1,0,0
+"meeting
+categories: excitement",1,1,1,0,0
+navy,1,1,0,0,1
+nc state,1,1,0,0,1
+toppings bar,1,1,1,0,0
+offer.,1,1,0,0,1
+chemistry.,1,1,0,0,1
+weak,1,1,0,0,1
+waiting list,1,1,0,1,0
+"waitlist
+categories: registration",1,1,0,0,1
+pepper spray,1,1,0,0,0
+"performance
+general categories: performance",1,1,0,1,0
+anecdote,1,1,0,0,1
+analysis,1,1,0,0,1
+amusing,1,1,1,0,0
+ambition,1,1,0,0,1
+wastes,1,1,0,1,0
+aircraft design,1,1,0,0,1
+waters,1,1,1,0,0
+"politics
+categories: morality",1,1,0,0,1
+atrium,1,1,1,0,0
+aerospace,1,1,0,0,1
+"advisor
+categories: theoretical",1,1,0,0,1
+political discussion,1,1,0,1,0
+personal achievement,1,1,1,0,0
+web development,1,1,0,0,1
+"advertising
+categories: late night bites",1,1,0,0,1
+advertisements,1,1,0,0,1
+week,1,1,0,1,0
+"week
+categories: health",1,1,0,0,1
+admit year,1,1,0,0,1
+weekends,1,1,0,0,1
+peace,1,1,0,0,1
+vulnerabilities,1,1,0,0,1
+aor,1,1,0,0,1
+apartment rooms,1,1,1,0,0
+atomic,1,1,0,1,0
+atlanta,1,1,0,0,1
+athletics.,1,1,0,1,0
+assistance.,1,1,0,0,1
+"assistance
+general categories: assistance",1,1,1,0,0
+ask,1,1,0,0,1
+"post history.
+general categories: social media",1,1,0,0,1
+passing.,1,1,0,0,1
+passionate,1,1,0,0,1
+"possession
+categories: ownership",1,1,0,0,1
+argue,1,1,0,1,0
+arch class.,1,1,0,0,1
+approvals,1,1,0,0,1
+patriot act,1,1,0,1,0
+appointments,1,1,1,0,0
+applications,2,1,0,0,1
+positivity,1,1,1,0,0
+app,1,1,0,0,1
+"apology 
+categories: decision",1,1,0,0,1
+positive,1,1,1,0,0
+api,1,1,0,1,0
+positions,1,1,0,0,1
+apcs,1,1,0,1,0
+weekly routine,1,1,0,0,1
+weeknights.,1,1,1,0,0
+weight training,1,1,0,0,1
+pm'd,1,1,0,0,1
+academic choices,1,1,0,0,1
+workshop,1,1,0,0,1
+world,1,1,0,0,1
+"academic
+more general categories: academics",1,1,0,0,0
+abuse,1,1,0,0,1
+phone issues,1,1,0,1,0
+wrek,1,1,1,0,0
+playing,1,1,0,0,1
+phys 1,1,1,0,0,1
+y2k.,1,1,0,0,1
+5,1,1,0,1,0
+4032,1,1,0,0,1
+phys 2,1,1,0,0,1
+3 credits.,1,1,0,1,0
+physical,1,1,0,0,1
+21st century,1,1,0,0,1
+yoga.,1,1,0,0,1
+physical pain,1,1,0,1,0
+you,1,1,0,0,1
+pick,1,1,0,0,1
+1331,1,1,0,1,0
+place out,1,1,0,1,0
+1081,1,1,0,0,1
+academic freedom,1,1,1,0,0
+workouts,1,1,1,0,0
+welcome.,1,1,0,0,1
+academic planning,1,1,0,0,1
+activities,1,1,0,0,1
+acquisition,1,1,0,0,1
+acct 2101,1,1,0,0,1
+access.,1,1,0,0,1
+accepted,1,1,0,0,1
+windows,1,1,1,0,0
+"windows
+categories: technology",1,1,0,0,1
+police department,1,1,0,0,1
+academic/career advice,1,1,0,0,1
+"academic.
+categories: tough",1,1,0,0,1
+academic.,1,1,0,0,1
+academic workload,1,1,0,0,1
+phase i,1,1,0,0,1
+women's only workout area,1,1,0,0,1
+academic scheduling,1,1,0,0,1
+academic schedule,1,1,0,0,1
+pointless,1,1,0,1,0
+"work
+general categories: advice",1,1,0,1,0
+academic registration,1,1,0,0,1
+work schedule,1,1,0,0,1
+academic programs,1,1,0,0,1
+working,1,1,0,0,1
+phd program,1,1,0,0,1
+"video
+categories: report",1,1,0,0,1
+part-time,1,1,0,0,1
+nuclear industry,1,1,0,0,1
+calc ii,1,1,0,0,1
+"travel 
+categories: time",1,1,0,1,0
+meaning,1,1,0,0,1
+treadmill,1,1,0,0,0
+offers,1,1,0,0,0
+campus housing,1,1,0,0,1
+trend,1,1,0,0,1
+trends,1,1,0,0,1
+camping,1,1,0,0,1
+offline,1,1,0,0,1
+calculus ii.,1,1,0,0,1
+calculus i,1,1,0,0,1
+calc i,1,1,0,0,1
+posts.,1,1,0,0,1
+"business.
+categories: open",1,1,0,0,1
+business majors,1,1,0,0,1
+tv,1,1,0,0,1
+"business
+categories: experience",1,1,0,0,1
+online sections,1,1,0,0,1
+building access,1,1,0,0,1
+bugs,1,1,0,1,0
+buff guys,1,1,0,0,0
+uga football game,1,1,0,0,1
+browser extensions,1,1,0,0,1
+pricey,1,1,1,0,0
+prob stat,1,1,1,0,0
+probability and statistics,1,1,0,0,1
+transphobia,1,1,0,0,1
+career advice,1,1,0,0,1
+"cheating
+categories: academics",1,1,0,0,1
+cheaper,1,1,1,0,0
+trading,1,1,0,0,1
+traffic lights,1,1,0,1,0
+changing major,1,1,0,0,1
+"chance
+categories: sports",1,1,0,0,1
+challenge.,2,1,1,0,1
+challenge,1,1,0,1,0
+training.,1,1,0,0,1
+product quality,1,1,0,0,1
+transaction,1,1,0,0,1
+numerical analysis.,1,1,0,0,1
+transcript update,1,1,0,0,1
+observation.,1,1,0,0,1
+obvious,1,1,0,0,1
+transfer credit policy,1,1,0,0,1
+transfer equivalency table,1,1,0,0,1
+transfer process,1,1,0,0,1
+cart,1,1,0,1,0
+caring,1,1,0,0,1
+carelessness,1,1,0,0,1
+off-campus places,1,1,0,0,1
+career services,1,1,0,0,1
+operating system,1,1,0,0,1
+operations.,1,1,0,0,1
+brewery,1,1,1,0,0
+oversight.,1,1,0,0,1
+beginner,1,1,0,0,1
+overwhelmed.,1,1,0,0,1
+ownership.,1,1,0,0,1
+beast.,1,1,1,0,0
+battery drop-off locations,1,1,0,0,1
+basketball,1,1,1,0,0
+basement,1,1,0,0,1
+user id,1,1,0,0,1
+barber shop,1,1,1,0,0
+usselman.,1,1,0,0,1
+uva,1,1,0,0,1
+band camp,1,1,0,0,1
+paper,1,1,0,0,1
+bag,1,1,0,0,1
+back-to-school,1,1,0,0,1
+practical,1,1,0,0,1
+vehicles,1,1,0,0,1
+parking situation,1,1,0,0,1
+availability.,1,1,0,0,1
+parkmobile,1,1,0,1,0
+parliamentary,1,1,0,0,1
+part assignments,1,1,0,0,1
+audition,1,1,0,0,1
+belief,1,1,0,1,0
+"biking
+general categories: transportation",1,1,1,0,0
+bread,1,1,0,0,1
+unlikely,1,1,0,0,1
+brand loyalty.,1,1,1,0,0
+bowl streaks,1,1,0,1,0
+bowl selections,1,1,0,0,1
+boundaries,1,1,1,0,0
+bot ranking,1,1,1,0,0
+bot assistance,1,1,0,0,1
+"understanding
+categories: difficulty",1,1,0,1,0
+"opinion.
+categories: opinion",1,1,1,0,0
+body image,1,1,0,0,1
+bme,2,1,1,0,1
+outbreaks,1,1,0,0,0
+unfamiliarity,1,1,0,0,1
+prestige,1,1,0,0,1
+outdoor recreation,1,1,0,0,1
+prescriptions,1,1,0,0,1
+outdoor skills,1,1,0,0,1
+black friday,1,1,0,0,1
+birthday,1,1,1,0,0
+university of florida,1,1,0,0,1
+university options,1,1,0,0,1
+prerequisite,1,1,0,0,1
+bio major,1,1,0,0,1
+"unknown
+general categories: information",1,1,0,0,1
+summer 2019,1,1,0,0,1
+crc,1,1,0,0,1
+"request
+categories: assistance",1,1,0,0,1
+"exercise
+categories: fitness",1,1,1,0,0
+"interest 
+categories: curiosity",1,1,1,0,0
+experiences.,1,1,1,0,0
+retirement.,1,1,0,0,1
+"grades
+categories: education",1,1,0,0,1
+remote control,1,1,0,0,1
+special orders,1,1,0,1,0
+"grades
+categories: worried",1,1,0,1,0
+"grades
+general categories: education",1,1,0,1,0
+specific,1,1,0,1,0
+"song
+general categories: music",1,1,0,0,1
+self-sufficiency,1,1,1,0,0
+"interest
+
+categories: robotics",1,1,0,0,1
+"grading.
+categories: education",1,1,0,0,1
+returning,1,1,0,0,1
+speech,1,1,0,0,1
+leaks,1,1,0,0,1
+graduate level,1,1,0,0,1
+remembrance.,1,1,0,1,0
+intern applications,1,1,0,0,1
+retaking sat,1,1,1,0,0
+grade distribution,1,1,0,0,1
+semester.,1,1,0,0,1
+extracurriculars.,1,1,0,0,1
+interruption,1,1,0,0,1
+landscaping,1,1,0,1,0
+interpreting,1,1,0,0,1
+internet.,1,1,0,0,1
+repeated classes,1,1,0,0,1
+extra-curriculars,1,1,0,0,1
+laptops,1,1,0,0,1
+expressions.,1,1,0,0,1
+"expression
+categories: expression",1,1,0,0,1
+"resume
+categories: education",1,1,1,0,0
+"explanation
+categories: oops",1,1,0,0,1
+expire,1,1,0,0,1
+resumé,1,1,1,0,0
+internet trolling,1,1,0,1,0
+renovations,1,1,0,0,1
+grad students,1,1,0,0,1
+integrals,1,1,0,0,1
+event.,1,1,0,0,1
+graduate student,1,1,0,0,1
+graph theory,1,1,0,0,1
+license,1,1,0,0,1
+security clearance,1,1,0,0,1
+springs.,1,1,0,0,1
+spun off,1,1,0,0,1
+grateful.,1,1,1,0,0
+instrument.,1,1,0,0,1
+life coach,1,1,0,0,1
+lifestyle,1,1,0,0,1
+lifting,1,1,0,0,1
+email response,1,1,0,0,1
+secondhand.,1,1,0,0,1
+freshmen,1,1,0,0,0
+"registration.
+categories: enrollment",1,1,0,0,1
+"email
+categories: technology",1,1,0,1,0
+light timer,1,1,0,0,1
+staff shortage,1,1,0,1,0
+light.,1,1,1,0,0
+seeking behavior,1,1,0,0,1
+spots,1,1,0,0,0
+split,1,1,0,1,0
+level,1,1,0,0,0
+insults,1,1,0,1,0
+evacuation,1,1,0,0,1
+ethical,1,1,0,0,1
+"legal.
+general categories: legal",1,1,0,0,1
+relevant,1,1,0,1,0
+"graduation
+general categories: education",1,1,0,1,0
+self defense,1,1,1,0,0
+self confidence,1,1,1,0,0
+environmental science,1,1,0,0,1
+enthusiasm.,1,1,1,0,0
+enthusiasm,1,1,1,0,0
+"sports.
+categories: football",1,1,0,1,0
+released,1,1,0,1,0
+lessons,1,1,0,0,1
+release,1,1,0,0,1
+"letter
+
+sentiment: neutral",1,1,0,0,1
+engineering.,1,1,0,0,1
+goodbye,1,1,0,0,1
+replacing.,1,1,1,0,0
+insight,1,1,0,0,1
+fixed-wing,1,1,0,0,1
+full body workout,1,1,0,0,1
+it management transfer,1,1,0,0,1
+flu shots,1,1,0,0,0
+smartphone.,1,1,0,0,1
+job skills,1,1,0,0,1
+flexbone,1,1,0,1,0
+future goals,1,1,0,0,1
+job.,1,1,0,1,0
+first week,1,1,0,0,1
+good luck charm,1,1,1,0,0
+future planning,1,1,0,0,1
+gainesville,1,1,0,0,1
+finite math,1,1,0,0,1
+gambling.,1,1,0,0,1
+joining in,1,1,0,0,1
+response rate,1,1,0,0,0
+finding,1,1,0,0,0
+response.,1,1,1,0,0
+"food
+categories: anger",1,1,0,1,0
+frontend design,1,1,0,1,0
+"food 
+general categories: food",1,1,0,0,1
+food and drinks,1,1,1,0,0
+single life,1,1,0,0,1
+free time.,1,1,0,0,1
+sign.,1,1,0,0,1
+free parking,1,1,0,0,1
+resource.,1,1,0,0,1
+javascript,1,1,0,0,1
+foundation,1,1,1,0,0
+found,1,1,0,0,1
+foster,1,1,0,0,1
+forms,1,1,0,0,1
+skill improvement,1,1,1,0,0
+job interview,1,1,0,0,1
+form,1,1,0,0,1
+resignation,1,1,0,1,0
+"job search
+categories: internship",1,1,0,0,0
+food stand,1,1,0,0,1
+"slang
+
+general categories: slang",1,1,0,0,1
+gba,1,1,0,1,0
+financial,1,1,0,0,1
+short,1,1,0,0,1
+intro to ml,1,1,1,0,0
+fasb,1,1,1,0,0
+faqs,1,1,0,0,1
+fantasy football,1,1,0,0,1
+fall semester,1,1,1,0,0
+sexuality.,1,1,0,0,1
+interviews,1,1,0,0,0
+failing,1,1,0,1,0
+girls,1,1,0,0,0
+know,1,1,0,0,1
+lab classes,1,1,0,0,1
+lab format,1,1,0,0,1
+repp,1,1,1,0,0
+sexual education,1,1,1,0,0
+solidworks,1,1,1,0,0
+restricted,1,1,0,0,1
+plan,1,1,0,0,1
+eyefucking,1,1,0,0,0
+intro to linear,1,1,0,0,1
+"fear
+general categories: emotions",1,1,0,1,0
+"shopping
+more general categories: recommendation",1,1,0,0,1
+rest day,1,1,0,0,1
+"finances
+general categories: education",1,1,0,1,0
+gear,1,1,0,1,0
+karen wells,1,1,1,0,0
+ios programming.,1,1,0,1,0
+keys.,1,1,0,0,1
+"social media.
+general categories: criticism",1,1,0,1,0
+involvement.,1,1,1,0,0
+"social media.
+general categories: internet",1,1,0,0,1
+kinky,1,1,0,0,1
+filament,1,1,0,0,1
+"request 
+general categories: assistance",1,1,0,0,1
+feeling better,1,1,0,0,1
+inventory management,1,1,0,1,0
+social settings,1,1,0,0,1
+shitty class,1,1,0,1,0
+social support.,1,1,1,0,0
+invention,1,1,0,0,1
+"registration
+categories: registration",1,1,0,0,1
+insight.,1,1,1,0,0
+second chances,1,1,1,0,0
+"student.
+categories: cross-registration",1,1,0,0,1
+room temperature,1,1,0,1,0
+student schedule,1,1,0,0,1
+rebuilding,1,1,0,1,0
+reassurance,1,1,1,0,0
+sats,1,1,0,0,1
+difficult,1,1,1,0,0
+differential equations,1,1,0,0,1
+marijuana,1,1,0,0,1
+"student.
+general categories: education",1,1,0,0,1
+immunizations,1,1,0,0,0
+realism.,1,1,0,1,0
+sat score,1,1,0,0,1
+master's program,1,1,0,0,1
+herd immunity.,1,1,0,0,0
+sales tax.,1,1,0,0,1
+masters,1,1,0,0,1
+study methods,1,1,0,0,1
+delete,1,1,0,0,1
+discipline,1,1,0,0,1
+recipe,1,1,0,0,1
+"maintenance
+categories: comfort",1,1,0,1,0
+"health.
+general categories: health",1,1,0,1,0
+schedule conflicts,1,1,0,0,1
+recommendations.,1,1,0,1,0
+student discounts.,1,1,0,0,1
+seats,1,1,0,0,1
+dom,1,1,0,0,1
+mac,1,1,0,1,0
+document submission,1,1,0,0,1
+doctors,1,1,1,0,0
+dj,1,1,1,0,0
+scandal,1,1,0,0,1
+"scam
+categories: work",1,1,0,1,0
+"health
+categories: nutrition",1,1,0,0,1
+mac os,1,1,1,0,0
+dissatisfaction,1,1,0,1,0
+disposal,1,1,0,0,1
+student manual,1,1,0,0,1
+display,1,1,0,1,0
+study schedule.,1,1,0,0,1
+study skills,1,1,0,0,1
+degreeworks,1,1,0,0,1
+debate team,1,1,0,0,1
+home maintenance,1,1,1,0,0
+deans,1,1,0,0,1
+dean's office,1,1,0,0,1
+daylight savings,1,1,0,0,1
+sac,1,1,0,0,1
+dating strategies,1,1,0,0,1
+"dating
+categories: relationships",1,1,0,0,1
+hours.,1,1,0,0,1
+homeschooling,1,1,0,0,1
+data manipulation,1,1,0,0,1
+cybersecurity,3,1,0,2,1
+hours,1,1,0,0,1
+custom,1,1,0,0,1
+rational,1,1,0,0,0
+maturity.,2,1,1,1,0
+"hourly pay
+categories: hours",1,1,0,0,1
+hopeful,1,1,0,0,1
+debate,1,1,0,0,1
+debugging,1,1,0,0,1
+study strategies,1,1,0,0,1
+hobby,1,1,0,0,1
+read,1,1,0,0,1
+high specs,1,1,1,0,0
+study workload,1,1,0,0,1
+definition,4,1,0,1,3
+humanities.,1,1,0,0,1
+defense courses,1,1,0,0,0
+reactor design,1,1,0,0,1
+"decision-making
+categories: application",1,1,0,0,1
+matchups,1,1,0,0,1
+roommates.,1,1,1,0,0
+hip-hop,1,1,1,0,0
+html,1,1,0,0,1
+subleases,1,1,0,0,1
+hiring process,1,1,0,1,0
+math methods,1,1,0,0,1
+rc-scale,1,1,0,0,1
+"hiring process
+categories: hiring",1,1,0,0,1
+lsat,1,1,0,0,1
+itm students,1,1,0,0,1
+"education
+categories: liberalism",1,1,0,0,1
+school work,3,1,0,1,2
+rigged game,1,1,0,1,0
+guest,1,1,1,0,0
+"education
+categories: online",1,1,0,0,1
+draining,1,1,0,0,1
+guidance,1,1,0,0,1
+loans,1,1,0,0,1
+"education.
+categories: scholarships",1,1,0,0,1
+industrial engineering,1,1,0,0,1
+locking door,1,1,1,0,0
+edge cases,1,1,1,0,0
+econ class,1,1,0,0,1
+logic,2,1,1,0,1
+straightforward,1,1,0,0,1
+inquiries,1,1,0,0,1
+stickers,1,1,0,0,1
+"information.
+
+general categories: information",1,1,0,0,1
+scores,1,1,0,0,1
+"education
+categories: struggle",1,1,0,1,0
+redundancy,1,1,0,0,1
+"education
+general categories: academics",1,1,0,0,1
+infosec,1,1,0,0,1
+"education
+general categories: concern",1,1,0,0,1
+staying in touch,1,1,0,0,1
+"education
+general categories: difficulty",1,1,0,1,0
+stats,1,1,0,0,1
+"education
+general categories: interest",1,1,0,0,1
+"education
+general categories: learning",1,1,1,0,0
+group projects,1,1,0,0,1
+"education
+more general categories: school",1,1,0,1,0
+injustice,1,1,0,0,1
+search engine,1,1,0,0,1
+ease,1,1,1,0,0
+"education.
+categories: coin",1,1,0,1,0
+hand-holding.,1,1,0,0,1
+drop,1,1,0,0,1
+drug use.,1,1,0,1,0
+drumline,1,1,0,0,1
+dual enrollment,1,1,0,0,1
+imposter syndrome,1,1,0,0,1
+hanging out with friends,1,1,0,0,1
+lipos,1,1,0,0,1
+eduroam,1,1,0,1,0
+efforts,1,1,0,0,1
+dynamics and bifurcations,1,1,0,0,1
+"road.
+categories: transportation",1,1,1,0,0
+hacking,1,1,0,1,0
+hall council bill,1,1,0,0,1
+inbreeding.,1,1,0,0,1
+early admissions,1,1,0,0,1
+low-occupancy lots,1,1,0,0,1
+street,1,1,0,1,0
+"lost and found
+categories: lost",1,1,0,0,1
+streaming.,1,1,0,0,1
+refurbished products,1,1,0,1,0
+road,1,1,0,1,0
+live,1,1,1,0,0
+eas major,1,1,0,0,1
+registering.,1,1,0,0,1
+grilling,1,1,0,0,1
+strategy,1,1,0,0,1
+grocery store,1,1,0,0,1
+"love
+categories: love",1,1,1,0,0
+analytics,1,0,0,1,0
+overselling,1,0,0,0,1
+"politics.
+general categories: news",1,0,0,0,1
+"weather
+categories: temperature",1,0,0,0,1
+searching,1,0,0,0,1
+homebuilding,1,0,0,0,1
+alums,1,0,0,0,1
+installation.,1,0,0,0,1
+pj,1,0,0,1,0
+rv12.,1,0,0,0,1
+weather.,1,0,0,1,0
+rv-12.,1,0,0,0,1
+wise,1,0,0,0,1
+anecdotal evidence,1,0,0,0,1
+individuals,1,0,0,0,1
+athletes,1,0,0,0,1
+wisdom of the crowd,1,0,0,0,1
+image linking,2,0,0,0,2
+"harassment.
+more general categories: hate",1,0,0,1,0
+hanger,1,0,0,0,1
+acceptances,1,0,0,0,1
+georgia board of regents,1,0,0,0,1
+"humor
+general categories: humor",2,0,0,1,0
+automobiles,1,0,0,0,1
+saturday,1,0,0,0,1
+irrelevant,2,0,0,1,0
+aviation,1,0,0,0,1
+generalization.,1,0,0,0,1
+van's aircraft,1,0,0,0,1
+weird,1,0,0,0,1
+self-expression,1,0,0,0,0
+workplace discrimination,1,0,0,1,0
+personal development,3,0,3,0,0
+insulted,1,0,0,1,0
+anti-vaxxer,1,0,0,1,0
+scary,1,0,0,1,0
+cumulative,1,0,0,0,1
+crow,1,0,0,0,1
+e-lsa,1,0,0,0,1
+chapter,1,0,0,0,1
+traffic citations,1,0,0,0,1
+data science,1,0,0,1,0
+database,1,0,0,1,0
+mit,1,0,0,0,1
+traffic laws,1,0,0,0,1
+"fear 
+categories: girls",1,0,0,1,0
+student experience,1,0,0,0,1
+cumulative gpa,1,0,0,0,1
+program turnaround,1,0,0,0,1
+compliments,1,0,0,1,0
+"relationship
+categories: like",1,0,1,0,0
+crowd,1,0,0,0,1
+socialism,2,0,0,1,1
+expert.,1,0,0,0,1
+miscommunication,1,0,0,0,1
+laughed at,1,0,0,1,0
+medical diagnosis,1,0,0,1,0
+"sound
+general categories: comparison",1,0,0,0,1
+trash attitudes.,1,0,0,1,0
+kit aircraft,1,0,0,0,1
+nutrition.,1,0,0,0,0
+lack.,1,0,0,1,0
+freshman.,1,0,0,0,1
+station,1,0,0,0,1
+"social media
+general categories: gatech",1,0,0,0,1
+"difficulty
+categories: difficulty",1,0,0,1,0
+defensive scheme,1,0,0,0,1
+"clear distinction.
+categories: transfer",1,0,0,0,1
+"recruiting
+more general categories: inheritance",1,0,0,1,0
+"no
+general categories: rejection",1,0,0,0,1
+smart,1,0,0,1,0
+collective,1,0,0,0,1
+firing,1,0,0,0,1
+clear,1,0,0,0,1
+journalism.,1,0,0,0,1
+bullying.,1,0,0,1,0
+prospective,1,0,0,0,1
+e-commerce,1,0,0,0,1
+"suicide.
+categories: ethics",1,0,0,0,1
+law enforcement,1,0,0,1,0
+student projects,1,-1,0,0,1
+chest,1,-1,0,0,1
+marginalization,1,-1,0,0,1
+"education.
+
+more general categories: insult",1,-1,0,1,0
+entries,1,-1,0,0,1
+academic misconduct,1,-1,0,1,0
+event planning,1,-1,0,1,0
+"roommate
+more general categories: temperature",1,-1,0,1,0
+aircraft maintenance,1,-1,0,0,1
+a&p,1,-1,0,0,1
+swarm,2,-1,0,1,1
+10/10.,1,-1,1,0,0
+"recommendation
+categories: luck",1,-1,1,0,0
+tool kit,1,-1,0,0,1
+"video
+categories: entertainment",1,-1,0,0,1
+bigger things.,1,-1,0,0,1
+bots,1,-1,0,0,1
+fines,3,-1,0,1,2
+lucky buddha,1,-1,0,0,1
+online resources.,1,-1,0,1,0
+best,1,-1,1,0,0
+mechanics,1,-1,0,0,1
+buddha,1,-1,1,0,0
+eaa,2,-1,0,0,2
+roommate,1,-1,0,1,0
+rv12,1,-1,0,0,1
+academic advisor,1,-1,0,1,0
+sympathy,4,-1,0,3,1
+campus life.,1,-1,0,0,1
+337 form,1,-1,0,0,1
+rc drones,1,-1,0,0,1
+airplanes,1,-1,0,0,1
+"feedback
+more general categories: feedback",1,-2,0,1,0
+birds,3,-2,0,1,2
+chatbot,1,-2,0,1,0
+workforce,1,-2,0,1,0
+social life.,1,-2,1,0,0
+sound,2,-2,0,0,2
+legal assistance,1,-3,0,1,0
+"food
+categories: food",1,-3,0,0,1
+"politics
+more general categories: politics",1,-3,0,1,0
+decency,1,-3,0,1,0
+"politics
+categories: politics",1,-3,0,1,0
+"legal
+categories: sympathy",1,-3,0,1,0
+suicides,1,-3,0,0,1
+finances,8,-3,0,5,3
+"procedures
+categories: family",1,-3,0,1,0
+bantz,1,-3,0,1,0
+wakeup,1,-3,0,1,0
+acknowledgement,1,-3,1,0,0
+mom,1,-3,0,1,0
+philosophy,1,-3,0,0,1
+facilities.,1,-4,0,1,0
+downvote,2,-4,0,1,1
+mobile development,1,-4,0,0,1
+unspecified,1,-4,0,0,1
+respect,5,-4,2,1,2
+election promise,1,-5,0,1,0
+refrigeration,1,-5,0,0,1
+"commenting
+categories: repeating",1,-5,0,0,1
+limes,1,-5,0,0,1
+scooter gangs,1,-5,0,0,1
+temperature.,1,-5,0,0,1
+personal folders,1,-5,0,0,1
+ides,1,-5,0,0,1
+donation,1,-5,0,0,1
+student discounts,1,-5,0,0,1
+cloud computing,1,-5,0,0,1
+permissions,1,-5,0,0,1
+hosting,1,-5,0,0,1
+downloading,1,-5,0,0,1
+exclamation.,1,-5,0,0,1
+azure,1,-5,0,0,1
+aws,1,-5,0,0,1
+campaign,1,-5,0,0,1
+banana,1,-5,0,0,1
+"customer service.
+general categories: courtesy",1,-5,1,0,0
+power dynamics.,1,-5,0,0,1
+carbohydrates,1,-5,0,0,1
+debugging.,1,-5,0,0,1
+character,3,-5,0,1,2
+fruit,1,-5,0,0,1
+executables,1,-5,0,0,1
+numbers.,1,-5,0,1,0
+peer pressure,2,-5,1,1,0
+cli tools,1,-5,0,0,1
+demeaning,1,-5,0,1,0
+reading.,1,-6,0,1,0
+"disappointment
+categories: disappointment",1,-6,0,1,0
+"wishes
+categories: negative",1,-6,0,1,0
+commission.,1,-6,0,0,1
+laughter,3,-6,1,0,1
+burden of proof,1,-6,0,0,1
+coursicle,1,-6,0,1,0
+intelligence,4,-6,0,2,2
+courseoff,1,-6,0,1,0
+anti-vaccination,1,-6,0,1,0
+diy,2,-7,0,0,2
+"none
+categories: duty",1,-7,0,0,1
+inappropriate,1,-7,0,0,1
+"profanity.
+categories: inappropriate",1,-7,0,1,0
+insulting.,1,-7,0,1,0
+smoking,1,-7,0,0,1
+identification,1,-7,0,1,0
+voting rights,1,-7,0,1,0
+"voting
+categories: politics",1,-7,0,1,0
+"power tools
+general categories: tools",1,-8,0,0,1
+mistreatment,1,-8,0,1,0
+parking management,1,-10,0,0,1
+campus culture,1,-10,0,1,0
+solutions.,1,-10,0,1,0
+parking policies,1,-10,0,0,1
+adaptation,1,-10,0,1,0
+campus issues,1,-10,0,0,1
+adulting,1,-10,0,1,0
+negative,3,-10,0,3,0
+humility,1,-10,0,1,0
+contaminated food,1,-11,0,1,0
+stolen food,1,-11,0,1,0
+worker.,1,-11,0,1,0
+"smoking.
+general categories: health",1,-11,0,0,1
+credibility,1,-11,0,1,0
+better,2,-11,0,1,1
+closed dining hall,1,-11,0,1,0
+hazing,2,-12,0,2,0
+clothes,1,-12,0,1,0
+"laundry.
+categories: laundry",1,-12,0,1,0
+socializing,6,-12,2,1,3
+tomorrow,1,-12,0,1,0
+wet,1,-12,0,1,0
+grammar,3,-13,0,2,0
+college athletics,2,-13,0,2,0
+seasons,2,-14,0,0,2
+relevance.,1,-15,0,0,1
+"location.
+general categories: escape",1,-16,0,1,0
+human rights.,2,-16,0,2,0
+parking enforcement,2,-16,0,0,2
+"none
+general categories: brevity",1,-16,0,0,1
+hack,2,-19,0,2,0
+gas.,1,-21,0,1,0
+employee attitude,1,-22,0,0,1
+vaccines,5,-22,0,5,0
+school.,2,-22,1,0,1
+substantiated,1,-23,0,1,0
+mentality,1,-23,0,0,1
+democrats.,1,-23,0,1,0
+gbi,1,-23,0,1,0
+violence,7,-25,0,7,0
+"sports
+more general categories: disappointment",1,-25,0,1,0
+location.,3,-26,0,1,2
+"humor
+categories: funny",2,-29,1,0,0
+pts,2,-30,0,1,1
+pedestrians,2,-31,0,0,2
+playfulness.,1,-32,1,0,0
+pop culture,2,-32,0,0,2
+reporting.,1,-33,0,1,0
+live viruses,1,-36,0,1,0
+shedding,1,-36,0,1,0
+polio,1,-36,0,1,0
+mmr,1,-36,0,1,0
+winning,2,-41,0,1,1
+none,25,-42,0,5,20
+intimidation,1,-44,0,1,0
+thugs.,1,-44,0,1,0
+sarcasm,3,-46,0,2,0
+"sports
+general categories: sports",2,-46,0,2,0
+fatass,1,-50,0,1,0
+unnecessary,1,-50,0,0,1
+checks,1,-50,0,1,0
+"insult.
+categories: username",1,-50,0,1,0
+duplicate,1,-50,0,0,1
+redundant,1,-50,0,0,1
+lol,1,-50,0,1,0
+"duplicate
+categories: repost",1,-50,0,0,1
+personal.,1,-50,0,1,0
+priorities.,1,-60,0,0,1
+"politics
+general categories: election",1,-63,1,0,0
+drama,1,-64,0,1,0
+spam.,2,-66,0,1,1
+offense,8,-75,0,5,3
+ball,1,-93,0,1,0
+win.,1,-93,0,1,0

@@ -1,0 +1,363 @@
+type,text,VADER sentiment,VADER sentiment score,TextBlob sentiment,TextBlob sentiment score,date
+posts,GTPD at Barnes and Noble. This afternoon there were several GTPD officers questioning an African American gentleman. What was going on? Is he OK?,positive,0.7089,positive,0.22000000000000003,06/30/2019
+posts,"Rigor of GT Lorraine campus vs ATL campus?. Hey yall! I am currently a student at Emory but I am planning on doing the Dual Degree Program. I was thinking about studying abroad next summer at the GT Lorraine campus(if I can work out the details with both schools etc.). But, before I actually try to do anything, I was wondering how the courses there compare to the main campus in terms of difficulty and workload?",positive,0.497,neutral,0.041666666666666664,06/30/2019
+posts,GTPE proctoring service thru GTPE. Does anyone else also feel like the proctoring service through GTPE is a huge shit show? The sign up link looks sketchy and they recently got rid of a bunch of time blocks without emailing the students about it?,negative,-0.264,positive,0.0666666666666667,06/30/2019
+posts,Spring 2020 Transfer Advice/Chances. [removed],neutral,0.0,neutral,0.0,06/30/2019
+posts,"TAship Query: Incoming MSCS student Fall '19. Hi All! 
+
+I am an incoming Grad student and want to apply for TAship in my first semester. I wanted to know how difficult is it to secure for a new grad student, considering that most positions will be filled up by Grad seniors already? Is it worth a try? If yes, what the best way to go about it (directly emailing profs etc.)? Also, can I apply for TAship in undergrad level courses? 
+
+Any help is greatly appreciated :) TIA",positive,0.9754,positive,0.2987603305785124,07/01/2019
+posts,Any incoming freshman get their AP scores yet?. ,neutral,0.0,neutral,0.0,07/01/2019
+posts,"Shipping via FedEx. so I'm trying to return the fitbits and was just wondering where I could send my package? The Gatech post office only delivers USPS i believe. Are there drop off locations on campus and if there are, in your experience are they secure?",positive,0.168,positive,0.2,07/01/2019
+posts,How to acquire clout?. fr tho,neutral,0.0,neutral,0.0,07/01/2019
+posts,"Your Neighbors at Relapse Theatre! (Weekly Shows). Hey guys we're right down the road from you so I wanted to show you all what shows we have this week! Go Jackets!  
+
+
+**July 2 8:00 PM** \- *People Garden Improv*: Every Tuesday at 8pm enjoy two hours of improv from the Relapse House Cast.
+
+[Ticket information here.](https://relapsecomedy.com/event.cfm?id=529071&amp;cart)
+
+**July 4 1030 PM** \- *Filibusters*: After the fireworks and celebrations, come on down to Relapse Theatre to watch stand up comics improvise sets based on words or phrases that pop up on a screen. Quick note: If you want to try performing on this show simply fill our this [form](https://forms.gle/BajJXgriiV2LhFD36) and bring people and buy something at the bar! Everyone's welcome!
+
+[Ticket information here.](https://relapsecomedy.com/event.cfm?id=529843&amp;cart)
+
+**July 5th 800 PM** \- *Six Kids Improv*: This isn't even a show I produce but these guys are great. So check them out
+
+[Ticket information here.](https://relapsecomedy.com/event.cfm?id=529840&amp;cart)
+
+***DOUBLE FEATURE!*** **July 6th 800 PM and 1030 PM** \- *People Garden Improv -* A special double show from the house cast at Relapse Theatre. Buy one ticket and see both shows.
+
+[Ticket information here.](https://relapsecomedy.com/event.cfm?id=529747&amp;cart)",positive,0.9483,positive,0.252507215007215,07/01/2019
+posts,"ATL Reign Homestand Weekend: Sunday Tickets still available!. Attention all eSports fans! 
+
+The Atlanta Reign is hosting HOMESTAND WEEKEND this July 6th and 7th at the Cobb Energy Centre. Eight Overwatch League teams from around the world will come together to compete in this two-day event. The festivities will carry over to our after-party where you can meet the ATL Reign team and hear MayhemSLR and HeroesxVillains perform live!
+
+We still have Sunday tickets available, which you can purchase [here](https://www1.ticketmaster.com/atlanta-reign/event/0E005683B7173C52). Can’t make it to the games? Join us for the after-party by registering [here](https://go.skillshot.com/atlreignafterparty/332172).
+
+For more information, visit [ATL Reign’s website](https://www.atlreign.com). We look forward to seeing you there!",positive,0.8209,positive,0.45511363636363633,07/01/2019
+posts,"Will I need my suit?. Hi, I am from Spain and the next year I will be at Georgia Tech. I am organizing everything I have to take with me. Are there social events at GeorgiaTech that require to wear a suit? The amount of things that I can put in my bag is limited, that's why I am asking. Thanks!",positive,0.3923,positive,0.052976190476190475,07/01/2019
+posts,"Any ISYE pre-med students?. I am an ISYE major and am really interested in the major, but also have a passion for healthcare. ISYE would be a good backup in case med school doesn’t pan out. I am wondering if there are any people who are doing or did this combination successfully. How did you plan internships along with fulfilling med school requirements like volunteering/shadowing/research, and what was the timeline like? Any info would be appreciated!",positive,0.9793,positive,0.3458333333333334,07/01/2019
+posts,Six Flags early bird tix are now available. ,neutral,0.0,positive,0.25,07/01/2019
+posts,"Gatech Organic Chemistry Course Question. Hello everyone,
+
+So I'm considering to transfer to Gatech, and I was looking at the courses that will get transferred. Then I realized that Georgia Tech doesn't have Orgo chem I and II labs, instead it has 1 synthesis lab that is 2 credit houres. My question is, does this class cover both organic chemistry I and II labs from other universities and if it satisfies the pre-med requirement of taking 1 year of organic chemistry with lab (to my understanding, this class is only for 1 semester and not a whole year). Thanks.",positive,0.4577,neutral,-0.006249999999999999,07/01/2019
+posts,"Clery Act Safety Alert Off Campus Armed Robbery.   
+
+**Clery Act Safety Alert**  
+ **Off Campus Armed Robbery**
+
+  
+
+**Incident Date/Time:** July 1, 2019, at approximately 2:46 pm.  
+ 
+
+**Incident Location:** West Peachtree Street NW at Ponce de Leon Avenue NW  
+ 
+
+**Incident Description:**  The victim stated he was standing next to his vehicle on West Peachtree Street when a male approached him and presented a black handgun. The male took his cell phone and the keys to his car, then drove off in his car. The suspect was last seen traveling westbound on Ponce de Leon Avenue toward Spring Street NW in the victim’s vehicle. The victim is a graduate student at Georgia Institute of Technology.  
+ 
+
+**Description of Suspect**
+
+African-American male, tall with a thin build and a beard, wearing a blue hooded jacket with the hood up. Armed with a black handgun.
+
+**Description of Suspect Vehicle**
+
+2016 Lexus GS350 4-door sedan, black in color, Florida tag DKZA71 
+
+**Status of Investigation:** This incident is being investigated by the Atlanta Police Department. Report any information regarding this and other criminal incidents to Crime Stoppers Atlanta at **404-577-TIPS (8477)**.  
+ 
+
+**See Something, Say Something**  
+ Report any information regarding this and other criminal incidents to the Georgia Tech Police Department (GTPD) by calling **404-894-2500** or by emailing [crimetips@police.gatech.edu](mailto:crimetips@police.gatech.edu). In addition, you can help GTPD and the community fight crime. Don’t look the other way or ignore suspicious activity. If you see something that prompts concern, say something and notify GTPD immediately.  
+ 
+
+**Additional Safety Information for Georgia Tech**
+
+&amp;#x200B;
+
+* Walk in well-lit areas. To report inoperative exterior      campus lighting, visit: [http://www.facilities.gatech.edu/om/requests/lighting.php](http://www.facilities.gatech.edu/om/requests/lighting.php).
+* Walk with a friend or in a group.
+* Be aware of your surroundings.
+* Immediately report suspicious activity to the      Georgia Tech Police by calling 404-894-2500. Program GTPD's number into your cell      phone.
+* For on campus transportation from 6:00 p.m. to 7:00      a.m., please call Stingerette at 404-385-RIDE.
+* Safety escorts are available through the Georgia      Tech Police Department by calling 404-894-2500 or 4-GTPD.
+* Download the [LiveSafe](http://livesafe.gatech.edu/) safety app for quick access      to the Georgia Tech Police Department and      other safety resources. 
+
+**Clery Act Requirements**  
+ *Federal law, the Clery Act, requires colleges and universities to report certain crime statistics as well as to make timely notifications about crimes that pose a threat to the community. The purpose of this alert is to help make you aware of crime so that you are able to take appropriate precautions.  For more information, please visit* [*www.police.gatech.edu*](http://www.police.gatech.edu/)*.*",negative,-0.6908,neutral,-0.02163382594417077,07/01/2019
+posts,"Shipping label returning fitbits. For those who are returning their fitbits, how did you obtain the FedEx shipping label? All I have gotten from Fitbit was a return authorization. Thanks!",positive,0.4926,positive,0.25,07/01/2019
+posts,The AJC wrote an article about the Fitbit fiasco. ,negative,-0.5106,neutral,0.0,07/01/2019
+posts,Financial aid. [deleted],neutral,0.0,neutral,0.0,07/01/2019
+posts,"Intend to Transfer Summer 2020. Need Advice or Information. I’m planning on transferring to Georgia Tech for Computer Science in the summer of 2020, which means I’ll need to apply in December after fall classes end. It will be right before Spring, but I’ll assume I can put the classes I’m signed up for in Spring on my application as “in progress.”
+
+I will have 60 credit hours at University of North Georgia fully completed, and 75 total if I include the Spring in-progress classes. I’m applying for Summer because I believe it will be a little less competitive compared to the influx of high school seniors in the fall and because it will be easier to find an apartment.
+
+Overall GPA: 3.89
+UNG GPA: 3.97
+Math &amp; Science GPA: 3.92
+
+These are subject to slight change over the upcoming semesters.
+
+I’m taking Calculus II right now as a summer course and will be taking Computer Science I, Physics II, and Calculus III in the fall.
+
+The Oakwood campus only offers 3 Computer Science related courses, so I’ve chosen to wait until right before I transfer to take them.
+
+I have a few extracurriculars, but the internship I was going to secure ghosted me after a change in funding.
+
+I’m concerned that I’m going to be denied and not have anywhere to go considering that my current school does not offer any other classes after this. Tech has been my dream school since I was a child and I want to do anything possible to make my place there.
+
+Does anyone have any advice as far as my essays, anyone I could contact, or things I could do to further ensure that I land a spot? I can provide more info if asked, but it is quite a lot to type out.
+
+Thank you.",positive,0.9446,positive,0.05260204081632654,07/01/2019
+posts,"Is it normal to not get aid?. I'm an incoming transfer student. I'm supposed to start this fall. I just got my financial aid letter and... it looks a lot more empty than I expected.
+
+There are no grants, loans, or scholarships listed. I've taken courses at plenty of schools and I've NEVER had that happen. Is that... normal? I'm in such a low income bracket that I always get at least some aid. I find it really weird. I know I'm eligible for Zell, but that's not on there, either.",negative,-0.4772,neutral,-0.01999999999999999,07/01/2019
+posts,"Dorm Stuff Advice?. Hey guys! 
+
+I'll be a freshman this upcoming fall, and was wondering what necessities some of you guys consider as things you should definitely bring or buy for your dorm?  I'm the first in my family to attend a college in the US so my parents and I are a bit clueless as to some of the things we should not forget.
+
+Thanks so much in advance!",negative,-0.3578,positive,0.175,07/02/2019
+posts,"Fitbit question. So I know that the Fitbit link was originally only for Georgia tech staff, but does it count than I’m a student employee at Georgia tech currently employed  by the school? I got the USG email telling me to return it but is there any way I could dispute it?",negative,-0.6007,neutral,0.0,07/02/2019
+posts,"Registration for Transfer Students?. Hello, everyone! Incoming fall transfer student here - have a quick question regarding registration. I am unable to attend the July 30-31 orientation and must opt for the August 15th session; does this mean I will not be registering for classes until a few days prior to the start of the semester? If so, what are the odds of me getting into the courses I need?
+
+Anyone willing to share advice on this matter would be greatly appreciated, go Jackets! 🐝",positive,0.793,neutral,-0.025595238095238098,07/02/2019
+posts,GTPD u good?. ,neutral,0.0,positive,0.7,07/02/2019
+posts,fitbit returns from abroad. [deleted],neutral,0.0,neutral,0.0,07/02/2019
+posts,"missing transfer faset. Hello!
+I am about to transfer to gt for the fall and there are two faset options. It’s looking like I won’t be able to attend either. I was wondering how exactly this would impact my registration and when registration would become open to me? Is it hard to get any classes? Thanks so much for the help!",positive,0.8198,positive,0.09404761904761905,07/02/2019
+posts,"Need Help Moving 8/3. So August 3rd is the official day for Summer-Fall room switch day, if I'm not mistaken. I live in WDS right now and need to move to Harris. I don't have family who lives down here to help me, my friends will be gone, and the trip between the two dorms is far too lengthy to just take x trips back and forth to say the least. If anyone would be willing to take a couple of hours to help me drive my stuff over to Harris, PM me. I'll gladly pay you for your help. :)
+
+Thanks!",positive,0.969,positive,0.14241112422930605,07/02/2019
+posts,Hurts to see. ,negative,-0.4767,neutral,0.0,07/02/2019
+posts,Any students who fix electronics as a side business?. [deleted],neutral,0.0,neutral,0.0,07/02/2019
+posts,"Incoming freshman(international) wanting answers for some questions/confusions. -So I got to know about my email(known as the gt account related address) after my housing was confirmed. But today I also made a customized GT email address from PASSPORT. Can someone tell me the difference between customized gt email address and gt account related address? Both emails are now showing up on my email preferences in passport. I thought after I created the customized one, the other would disappear but it didn’t. 
+The customized one is coming under contact info-&gt;directory entry-&gt; your directory listing. 
+
+-What’s the difference between buzzport and passport? These portals are hella confusing. What is OSCAR?
+
+-In my housing, my roommate had the earlier number so she assigned us a room. I later checked and saw from my portal too and our name, room number and email address was there. What I mean to say is that I didn’t select anything, she did so it means that the room is confirmed right?
+
+-Can I submit the immunizations form later in July. On the website I saw that according to my last name, my deadline is 8 July. Can I submit it like 5-6days late? I was out of country and got to know about the deadline very late. 
+
+I’m sorry if some are dumb questions but I just want to know that I’m on the right track and know what is what.",positive,0.8033,negative,-0.054768907563025215,07/02/2019
+posts,"People who graduated ISyE, where are you now?. [deleted]",neutral,0.0,neutral,0.0,07/02/2019
+posts,Georgia Tech Distance Math admissions. [removed],neutral,0.0,neutral,0.0,07/02/2019
+posts,Ice Cream Statue Spotted.. [deleted],neutral,0.0,neutral,0.0,07/02/2019
+posts,GT Scholarship App. The deadline for the scholarship application for Zell Miller (GT App) was July 1 but my form only went through today - am I still going to be able to get Zell for the Fall and Spring Semesters?,positive,0.2303,positive,0.25,07/02/2019
+posts,"Has anyone bought their dorm stuff from OCM? If so, how’d it end up being quality-wise?. Incoming freshman, and I keep getting emails about these OCM dorm packs with sheets, laundry bags, etc. This seems pretty convenient since it’s a one time purchase, and I’ll be getting the majority of my dorm supplies. I’m worried if it’s overpriced though and the quality as well.",positive,0.5362,positive,0.25,07/02/2019
+posts,"What the hell do we do with the Fitbits?. I've seen many people return their Fitbits, but I've also seen many people keep theirs and claim that USG won't come after them and charge them or go to collections. Will they or will they not actually follow through with their weird threat, and wtf do we do?",negative,-0.9433,neutral,0.0,07/02/2019
+posts,The T on Coda. I noticed today that the T in the logo on top of the Coda building is white while the rest of the logo is gold. Is it always like that or had somebody pulled off the next best thing to stealing it?,positive,0.5859,positive,0.375,07/02/2019
+posts,Fall 2019 Upperclassmen Move In Dates. Is it possible to move in the Sunday before school starts or just Saturday? Is there any info about this anywhere on the housing site?,neutral,0.0,neutral,0.0,07/02/2019
+posts,On r/UGA. ,neutral,0.0,neutral,0.0,07/03/2019
+posts,Update from Fitbit Customer service! (we dont have to pay or return). ,positive,0.1501,neutral,0.0,07/03/2019
+posts,Is MS-HCI course a STEM Major?. Hoping to apply to GATech but would like to know if the HCI major is STEM. Thanks,positive,0.8402,positive,0.10833333333333334,07/03/2019
+posts,We Won!!!!. ,neutral,0.0,neutral,0.0,07/03/2019
+posts,"How much do recommendations matter?. Hey guys, I’m a rising junior at my first internship - it’s a fairly large company based in Florida. There’s around fifty other interns, with a few of them also being from GT, but everyone is scattered throughout the buildings. However, I sit by 5-6 other interns that are all from UF.
+
+Last week, I got pulled aside by a full-time employee and was told that our “group” has already made a name for being loud and not doing work. The other interns like to sit in a circle and talk for most of the day. None of us are really assigned a ton of work, so we usually finish it within a few hours, and there’s nothing to do but look bored on the computer. I don’t sit and talk nearly as much as they do, but I do have a bad habit of sitting on my phone sometimes, which I know isn’t a good look at all for an intern. I’ve been trying to do the normal “help, I don’t have any work at my internship” things - do personal projects, learn new things, etc. But, it’s still hard to focus, and I understand why the full-time employees are all annoyed. Any advice? I’m not particularly looking for a full-time or return offer, so at this point I’m more worried about if a company I interview with for next summer calls my current boss and he tells them about our current “reputation.” Thanks!",negative,-0.5307,neutral,0.014308905380333954,07/03/2019
+posts,"Melissa (no) Moore, Press F to Pay Respects. ",positive,0.2263,neutral,0.0,07/03/2019
+posts,Feasability of a Class Action Lawsuit. [deleted],negative,-0.2263,positive,0.1,07/03/2019
+posts,"Has anyone done or doing the BS/MS Digital Media degree? Need some help.... So it seems like I'll graduate in Fall 2019, but as a result, I won't be able to follow the program properly (cause some classes must be taken in sequence). Has anyone had this experience before? What does/did your schedule end up being like? Did you do internships or something in the gaps?",positive,0.757,positive,0.16666666666666666,07/03/2019
+posts,Please tell me I am not the only one.... [deleted],positive,0.3182,neutral,0.0,07/03/2019
+posts,"Looking to buy a 3D printer. I’m an ECE MS student thinking of getting started in 3D printing without investing too much upfront. Is anyone looking to sell a used printer?
+Something like an ender 3 perhaps?",positive,0.4329,positive,0.2,07/03/2019
+posts,Official confirmation. Enjoy your fitbit!. ,positive,0.5411,positive,0.5,07/03/2019
+posts,Update about this Fitbit nonsense. ,negative,-0.4019,neutral,0.0,07/03/2019
+posts,Now that this Fitbit issue is ending.... I really enjoyed talking/ arguing/ complaining with you all!,positive,0.474,positive,0.625,07/03/2019
+posts,Buying all your Fitbits. [deleted],neutral,0.0,neutral,0.0,07/03/2019
+posts,Even better Fitbit news if you've already returned yours:. ,positive,0.4404,positive,0.5,07/03/2019
+posts,For those asking about what to do if you're already submitted your Fitbit back - Response from USG. ,neutral,0.0,neutral,0.0,07/03/2019
+posts,GTRI Co-op position and don't know whether to accept. Just got an offer for the fall of 2019 and was wondering if I should accept if it's my first semester here. I have only taken summer courses here and thought my fall courses would be kind of an important milestone academically and socially. I'm also scared of the three-semester commitment as I don't think I will be committed long enough to be there. I'm honestly tied up and don't what I should do. Any suggestions would be greatly appreciated!,positive,0.9285,positive,0.2314814814814815,07/03/2019
+posts,"Canceled Fitbit Order. They canceled my fitbit order before it shipped... but I reached out to them and they are ""uncanceling"" and sending me the fitbits anyway!
+
+&amp;#x200B;
+
+[https://imgur.com/6eff5D8](https://imgur.com/6eff5D8)",positive,0.2244,neutral,0.0,07/03/2019
+posts,"Seeing as the FitBits have been returned. I want to introduce my new business model.. I'mma sell some hot contraband FitBits that I fought the man for!!! They're worth like $70 but I got a low price for you and a couple ways to pay:
+
+1) treethiddy cash
+
+2) Notes for whatever class I'mma be taking in fall.
+
+3) A really sexy graphing calculator to add to my collection (no I'm not aroused by them *that much*) 
+
+I'll be the one in a Matlab &amp; chill shirt and a black fedora hanging out by the nearest dark corner filled with electric scooters. Come see me if you dare.",positive,0.6559,positive,0.17345256542699722,07/03/2019
+posts,Should I retake classes for gradschool/internships. [deleted],neutral,0.0,neutral,0.0,07/03/2019
+posts,Transfer Housing Waitlist. [deleted],neutral,0.0,neutral,0.0,07/03/2019
+posts,"Create - X Scholar?. Hey,
+Any Create X scholars out there?
+
+I received an email invitation to become a create x scholar and I don't know what it's about. The website contains very little information too. 
+
+The email said that these were the benefits.
+
+""
+*A startup adviser to answer your questions and help you hone your business idea
+
+*A guaranteed paid internship working with a startup
+
+*Guaranteed slots in Startup Lab and Idea to Prototype, two courses that help you learn evidence based entrepreneurship and help you develop a prototype of your idea
+
+*Eligibility for a guaranteed slot in the coveted Startup LAUNCH, during which your team will receive a $4,000 grant for living expenses; $50,000 in legal services to help launch your startup; and $50,000 in accounting services to help build the financial structure of your startup. 
+
+
+In addition to the benefits above, you'll receive VIP access to the entrepreneurship ecosystem at GA Tech through a host of CREATE-X programs, workshops, and special events. 
+""
+
+It definitely looks interesting. I would like to know any students currently enrolled in it.",positive,0.9899,positive,0.10167410714285714,07/04/2019
+posts,CRC open today (July 4th)?. [deleted],neutral,0.0,neutral,0.0,07/04/2019
+posts,"Personal Training for Cheap. Hey all! if you still want to try to get that summer beach body, or you just want to feel better; I'd love to help you. My services include: building you a meal plan, being a CRC buddy up to 3 days a week, and I'll try to be available if you ever have questions. I'm only planning on having one or two clients max, so this will probably fill up pretty soon. DM me on here if you are interested or have any further questions.
+
+Edit: also to encourage trying, the first 2 days are free trial sessions, if you don't like what we're doing by day 3, no charge to you at all.",positive,0.9632,positive,0.2772727272727273,07/04/2019
+posts,"How hard is it to get housing as an incoming sophomore transfer. Currently, 77 on the waitlist and I don't really want to live off campus. At this point, I wouldn't mind even living in Woodruff.
+Thanks!",positive,0.3298,positive,0.05893939393939394,07/04/2019
+posts,"Car dealerships near campus. I've been wanting to get a used car for a while now (something affordable) and am wondering what's the best way I can get a solid deal in Atlanta. Is it a good idea to just walk in some car delearships and see what they're offering? Can anyone recommend a good one that's near campus or an area that has a lot of them and I could just walk from one to another? I tried websites that people list their cars on and the GT thrift shop group but wasn't successful (this would be my first car btw). For reference, I'm looking for something that's around \~$2000. Thanks!",positive,0.8343,positive,0.4277777777777778,07/04/2019
+posts,Gatech students after the fit bit fiasco. ,negative,-0.2023,positive,0.4,07/04/2019
+posts,4TH of July CRC/Tech??. Is the CRC or Tech doing something for fourth of July? I'm looking for plans or fun things to do for today?,positive,0.644,positive,0.15,07/04/2019
+posts,"Recommendations on dorm router?. Hi, my daughter was accepted to Georgia Tech for this Fall. She hasn't done FASET yet to ask, and thought to ask here. I'm thinking of getting her a router, laptop and small printer in the next few days. So, as far I can tell from the GT web site, routers are allowed, but their WiFi radios need to be disabled. Then I thought about a switch, but THAT seems to be prohibited. What's the real deal at GT with dorm connectivity? Any advise would be appreciated. Thanks.",positive,0.9421,neutral,0.006249999999999999,07/04/2019
+posts,"LLCs and Fraternities. Hey, oncoming freshmen here. I know you guys hate these kinds of posts but I couldn't find anything online so here I am.         
+
+Anyways, are there any restrictions with regard to joining both LLCs and fraternities your first year? I am in Grand Challenges and was recently wondering if it was possible for me to join a fraternity at the same time. Would I have to wait, or is it fine?        
+
+Side question, apart from rushing, what is the best way to find out about the characteristics of each of the different chapters (such as which are academically focused, party frats, religious, etc)? Any online groups where I could ask questions (discord?). Thanks.",positive,0.9791,positive,0.13055555555555556,07/04/2019
+posts,Real Engineer watches Big Bang Theory - Thought you guys would enjoy this. ,positive,0.4939,positive,0.20000000000000004,07/04/2019
+posts,"Undergraduate Data Science Courses. Hi, I'll be attending gatech for the upcoming fall sem as an exchange student! Would love to hear your thoughts on which courses are good for someone looking to get into data analytics. I also see that there are some graduate level courses, would I be able to take those courses?",positive,0.8122,positive,0.5666666666666667,07/04/2019
+posts,#CactusJackets. ,neutral,0.0,neutral,0.0,07/05/2019
+posts,"Gatech sorority rush. Hi guys Im a third year transfer to GT and I was wondering if third years can still go through formal recruitment for a sorority and end up getting a bid? I know at some schools, its very unlikely. Thanks for the help!",positive,0.8403,negative,-0.1,07/05/2019
+posts,Anyone driving to the airport in the next hour and a half?. Will pay for a ride,negative,-0.1027,negative,-0.08333333333333333,07/05/2019
+posts,I got a 4 on BC. Should I skip calc 2?. Title,neutral,0.0,neutral,0.0,07/05/2019
+posts,Where to jump from?. [removed],neutral,0.0,neutral,0.0,07/05/2019
+posts,To the person dropping their mancala pieces around west campus this summer. I've been picking them up. I'm willing to return them if you can best me in the game when we bring the pieces together to make a full set.,positive,0.6369,positive,0.3,07/05/2019
+posts,"IE majors, what math classes did/will you take?. Incoming freshman IE major, was trying to plan out my classes and didn’t know whether to take MATH 1553 + 2551 or MATH 1554 + 2550.",neutral,0.0,positive,0.0625,07/05/2019
+posts,"No classes Today?. I'm about to reveal myself as a moron, but do we not have class today? The classroom is locked but the professor referred to having class today multiple times despite acknowledging the 4th as a holiday.",positive,0.2982,negative,-0.4,07/05/2019
+posts,Idk if this has been posted yet - GT Professor explains why malls are dying. ,positive,0.347,neutral,0.0,07/05/2019
+posts,"Dont live at the standard. The heater and A/C works poorly in our unit. It was freezing in the winter time but hot as hell in the summer time. Management basically told us to fuck off and didnt do anything to fix it. 
+
+Anyone have similar problems living there?",negative,-0.9509,negative,-0.06893939393939395,07/05/2019
+posts,CRC hours today. Is the CRC running on regular hours today?,neutral,0.0,neutral,0.0,07/05/2019
+posts,"Career after BME undergrad -- someone to speak with?. Hi everyone, I'm entering my 3rd year as a BME with a CS minor and am starting to think about my post-graduation plans. At the moment I think my ideal situation would be finding an industry job (I'm interested in bioinformatics) and eventually moving on to pursue my Masters degree. I'm not sure if I'm on the right track, and was wondering if there are any recently graduated BMEs who might be willing to speak with me about their experiences after graduation. Thanks!",positive,0.809,positive,0.16357142857142856,07/05/2019
+posts,"ECE 2026 (help!). I don't know what's going on in this class for the past 4 weeks. I got a decent score on our first midterm but we have another one coming up next week. Basically I need to learn almost all the material by myself. Any tips? Lecturer says we need to have the book when we go to office hours but there's no way I'm spending $200 on something I'll never use and the only TA is rude and literally gets mad when we ask too many questions. There's not much on Youtube, so I was wondering if anyone has some outside resources to recommend?
+
+Also, is this class similar to other general EE classes? Except for ECE 3084, will the other classes I take be like this one if I don't concentrate in this area? Thank you!!",negative,-0.6353,neutral,-0.0449032738095238,07/05/2019
+posts,Good resources for learning cache and virtual memory. Hi I have an ECE 3057 quiz Tuesday and am confused about virtual memory and cache. Any good online resources?,positive,0.5423,positive,0.3333333333333333,07/05/2019
+posts,"For alumni who have participated ORGT as a student, have you managed to find any organizations similar to participate in around Atlanta?. I'm looking for kayaking trips mainly right now, but am open to backpacking, hiking or mountain biking too",neutral,0.0,positive,0.09523809523809523,07/05/2019
+posts,"Transfer Fraternity Rush Experience. Do transfers often get bids from fraternity's or is there really no point in rushing as a transfer? I'm going to be a junior by time in college when I transfer in this fall but my graduation timeline is looking like I'll be taking 5 years to graduate. So should I just state that I'm a sophomore if people ask?
+
+Also kind of off topic question but is it true that only the top 10 or so fraternities have co-ed parties at Tech? I've heard from some people that the gender ratio of the greek scene at tech causes this to happen. Not sure if they were just pulling my leg though since at my previous Big 10 college that wasn't the case but they also didn't have so few sororities at my previous school.",positive,0.8765,positive,0.05151515151515152,07/05/2019
+posts,Overseen at the street in Taiwan. ,neutral,0.0,neutral,0.0,07/06/2019
+posts,Any Cute Girls in 2110?. [deleted],positive,0.4588,positive,0.5,07/06/2019
+posts,"Shipping amazon stuff to gatech mail address. Since I am interning abroad and the hub at Tech Square holds stuff for only like 20 days, wanted to confirm ahead of prime day if we can have like a shit ton of parcels delivered to our 3XXXXX mailing addresses and collect them like a month later without any hassels.",positive,0.5574,negative,-0.06666666666666667,07/06/2019
+posts,"CS Major Schedule Question. Hi everyone, I'm an incoming freshman majoring in CS and was trying to decide my course schedule. I got 5 in AP Calculus BC, AP micro and macroeconomics, AP CSA, and AP Physics 1. So,right now I am planning to take:
+CS1331(3 credit)
+MATH1554 (4 credit) (I took a linear algebra course on MIT Open course taught by Professor Gilbert Strang this summer, so I may have some background knowledge for this course)
+PHYS2211(4 credit)
+ENGL1101(3 credit)
+
+In total, it is 14 credits. I am wondering whether this schedule is doable and what about taking one more social science course. By the way, since I signed up for FAEST 7, am I able to register for all these courses I want to take? 
+Thanks!!!",positive,0.7633,positive,0.21235119047619047,07/06/2019
+posts,"Transfer Student...Missed Financial Aid Deadline. The title says it all...I just checked buzz port and saw the financial aid application link and it says the deadline was July 1st.  It's Saturday so I can't call them until Monday.  I was wondering if anyone has ever been in this situation before and what I should do.  Does this mean I might not get Zell?  Thanks for you help guys.  By the way, I already submitted FAFSA a while back.",positive,0.0757,neutral,-0.0225,07/06/2019
+posts,"minor is CS. Hey guys, I was wondering if a minor in Computing and intelligence is actually worth it?
+
+Can someone please help me figure out the pros and cons?
+
+Like is there a stark difference in salary/ internship offers
+
+I am an IE that would love to graduate in 4 years.
+
+Here are the required classes btw :)
+
+ 
+
+* CS 1332 Data Structures and Algorithms, 3
+* CS 2110 Computer Organization and Programming, 4
+* CS 3600 Introduction to Artificial Intelligence, 3
+* Pick 1 from *Embodied Intelligence (below)*:
+   * CS 3630 Robotics and Perception, 3
+   * CS 3790 Introduction to Cognitive Science, 3
+* Pick 1 from *Approaches to Intelligence (below)*:
+   * CS 4476 Intro Computer Vision, 3
+   * CS 4635 Knowledge-based AI, 3
+   * CS 4641 Machine Learning, 3
+   * CS 4646 Machine Learning for Trading, 3
+   * CS 4649 Robot Intelligence, 3
+   * CS 4650 Natural Language and Processing, 3
+   * CS 4731 Game AI, 3
+
+&amp;#x200B;
+
+Thanks!",positive,0.9892,neutral,0.040909090909090916,07/06/2019
+posts,For those who transferred as Computer Science majors. Did you guys have to take CS 1301 and CS 1371 or just CS 1301?? I am kinda confused,negative,-0.3328,negative,-0.4,07/06/2019
+posts,Financial Aid Refunds. I recently got a refund for getting rewarded more scholarships/aid then the cost of attendance for summer. The money went into my bank account and I was wondering if that’s supposed to happen? Or should it have went to my student account?,positive,0.5514,positive,0.16666666666666666,07/06/2019
+posts,Whats the easiest way to move in from oos?. I’m coming from California for my first year at GT and was wondering how most people from far away are planning on shipping their stuff to campus.,positive,0.6841,positive,0.2833333333333333,07/06/2019
+posts,"I visited the campus for the first time today and I am HYPED to join y'all. I'm a transfer student, any tips? (especially from other transfer students, but I'd appreciate anyone's input)",positive,0.631,neutral,0.041666666666666664,07/06/2019
+posts,"Fws. I had a fws job last semester, and did not discuss returning this fall with my supervisor. Should I go ahead and apply to other positions or check in with my past job? If there are other positions I’d prefer would it be appropriate to go ahead and apply for those, and then decline an offer to return if I do hear anything?",neutral,0.0,neutral,0.0,07/06/2019
+posts,"Any pianos on campus?. Doesn't have to be anything amazing, I just miss playing and want to get back into it. Anyone know where one is on campus?
+
+Thanks!",positive,0.8339,positive,0.2833333333333334,07/06/2019
+posts,"Semester withdrawal due to unexpected circumstance?. As the title suggests, I've been trying to find more info on whether or not such a thing exists at Tech but had no luck so I figured this would be my next best option.
+
+A little background on my situation: Since the start of summer break, I've been taking care of my ill mother who I recently found out has been diagnosed with stomach cancer. I was hoping she would recover slightly by the time Fall semester starts so I could return to my studies without any worry. Unfortunately, that doesn't seem likely as I may need to be by her side for a little longer than expected. 
+
+That being said, I was wondering if anyone here could direct me to a GT related site/source that may assist me in finding a solution for my circumstance, perhaps  leaving Tech for a semester (maybe more or less) or any other options. Thanks!",positive,0.9711,neutral,0.01958333333333334,07/07/2019
+posts,"What's Good Laptop type for CS Students?. Hey everyone! I'll be transferring in this fall as a CS student. I was thinking about getting a new laptop as mine is getting a bit aged. I do have a pretty decent gaming desktop I'm bringing so my laptop will primarily be for class notes and on-the-go work (in the student center and such). I'm trying to decide between a more traditional style 13.5 in. laptop or something like a surface pro/surface book for having the touchscreen/stylus for notes. Thanks in advance.
+
+Edit: Basically I'm asking if y'all think a traditional or 2-in-1 would be better, and apparently from some replies Windows or macOS.",positive,0.9286,positive,0.20557359307359307,07/07/2019
+posts,"Meal Plans for Fall 2019?. Does anyone know anything about the non freshman meal plans for next semester? I was hoping to give the new dining provider a chance, but I can’t find anything about it on the school website.",positive,0.4137,positive,0.06818181818181818,07/07/2019
+posts,Question about PHYS 2211. [deleted],neutral,0.0,neutral,0.0,07/07/2019
+posts,How do I confirm that my IB credits were transferred?. I should be getting 24 credits from IB (recieved scores yesterday). Where can I see that Tech recieved my scores?,positive,0.6553,neutral,0.0,07/07/2019
+posts,Missed your Bitcoin change?. [removed],negative,-0.296,neutral,0.0,07/07/2019
+posts,Anyone play AOE2 on Steam?. ,positive,0.34,neutral,0.0,07/07/2019
+posts,Testing out of phys 2211. What study materials are there to prepare for the test to get out of phys 2211 (which I heard is basically the final exam for that class)?,neutral,0.0,neutral,0.0,07/07/2019
+posts,"The Love Machine(Learning) Writeup and Visualizations. Hi everyone! I hope that those of you who used The Love Machine(Learning) enjoyed it. This summer I wrote up the results and methodology we used, along with some visualizations I made. It might be helpful to read through if you weren't paired so you can find out why and find love someday. 
+
+&amp;#x200B;
+
+Would folks be interested in another iteration this coming year? Any things we should take into consideration?
+
+[https://medium.com/@valentineawilson/the-love-machine-learning-2cfa524a8c78](https://medium.com/@valentineawilson/the-love-machine-learning-2cfa524a8c78)
+
+&amp;#x200B;
+
+XOXO The Agency",positive,0.9844,positive,0.475,07/07/2019
+posts,"Anyway to go inside the new Coda building?. It was closed today (Sunday); but wondering if there is a way for the general public to access this building, or do I have to know someone? Really I want to check out the spiral staircase, just a curious GT alum.",positive,0.838,neutral,0.031060606060606063,07/07/2019
+posts,Happy anniversary to this absolute chad of a Jacket and his wife. ,positive,0.5719,positive,0.5,07/07/2019
+posts,Feedback on Schedule. [deleted],neutral,0.0,neutral,0.0,07/07/2019
+posts,"Labs that will take undergrads for fall semester. Hey guys, I tried looking up labs that will still take undergrads for the fall semester but was unable to find the info I am looking for. Can someone please point me to the direction of websites/ names of labs that meet the following requirements
+
+\-Lab relating to Machine Learning/Data Science/Isye operations research 
+
+\-Preferred to get paid rather than credit
+
+\-will give valuable experience in the field
+
+&amp;#x200B;
+
+Sorry if this question was already asked before and thanks for the help!",positive,0.9568,negative,-0.1875,07/07/2019
+posts,withdrawing from summer semester = withdrawing from entire school &amp; petition to faculty = am I still eligible to come back ?. [deleted],neutral,0.0,neutral,0.0,07/07/2019
+posts,"Dorm Supplies. Hey, incoming freshmen living on campus next year. Had a few questions about stuff I am planning on buying for my dorm.
+
+1. What size couch/futon can I fit underneath the bunkbed?
+2. Where do people usually get their minifridges/microwaves from? Is there a standard place to buy/rent from?
+3. Do I need a network switch for ethernet or is the wifi generally good enough? (I don't game, just standard internet browsing etc) 
+
+Thanks!",positive,0.8608,neutral,0.04999999999999999,07/08/2019
+posts,Should I skip math 1551/1552 as an engineering major?. [deleted],neutral,0.0,positive,0.0625,07/08/2019
+posts,Housing waitlist. I’m an incoming transfer for fall semester. I applied for  housing a couple days ago and the status says that I’m 87 on the waitlist. What exactly does that mean? Is it for my preferred buildings or for woodruff?,neutral,0.0,neutral,-0.03125,07/08/2019
+posts,Would anyone be interested in a Sign Language club?. Title. I just really wanna learn and figure it would be fun to do it with others!,positive,0.7424,positive,0.27499999999999997,07/08/2019
+posts,Locked out of Willage. Does anybody know why willage has been locked?? In the mornings when I try to get breakfast I can't buzz into any of the entrances and usually someone from Panera will let me in. This is usually around 8-9 am. A friend of mine also found that the buzzcard readers wouldn't open the doors for anyone studying late at night. Isn't willage supposed to be open 24 hrs for students?,positive,0.5775,negative,-0.16,07/08/2019
+posts,Not going to FASET and what to do?. Sorry if this is a popular question but for anyone who didn't go the FASET Orientation either as a transfer or freshman can you tell me what you had to do after all the sessions were done? Or you can tell me who to ask cause I am not sure who I would ask other than my adviser I guess?,negative,-0.3034,negative,-0.06875,07/08/2019
+posts,"Advice for getting your foot in the door of GTRI?. Hey all, I am a recent KSU EE graduate trying to get into GTRI. It seems like every application I send in just goes into the void, occasionally some ""pass the initial review stage"" and went onto the hiring manager but I never seem to get an interview. After taking some networking classes I have now sent out connection messages to several GTRI HR members and researchers in my field in hopes to make a personal connection, but I really would love to know if there is more I can do.
+
+&amp;#x200B;
+
+I really just wish to work in the DoD while staying in the heart of Georgia. I have had offers from companies like Lockheed and Raytheon but they wish me to relocate to military bases far away from home and far from civilization. Currently there are three fantastic openings at GTRI in my field of : a Jr EE, a Jr. Antenna and Radar engineer, and am image and signal processing engineer (my specialty).  All three I am once again ""under review"" but like the countless other times I have applied I feel that status won't change for weeks till I just get a rejection email.
+
+&amp;#x200B;
+
+I am really hoping I can connect and meet with one of the people on LinkedIn so I can at least get their advice or have them look me over and tell me what might be what is causing GTRI from turning me down. Even advice on just making myself stand out would be wonderful.
+
+&amp;#x200B;
+
+Thanks in advance for any advice you guys have.",positive,0.9914,positive,0.12815656565656566,07/08/2019

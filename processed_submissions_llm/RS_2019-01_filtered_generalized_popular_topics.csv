@@ -1,0 +1,297 @@
+Topic,Frequency,Total Score,Positive,Negative,Neutral
+commendation,1,423,1,0,0
+recognition,1,423,1,0,0
+approval,1,423,1,0,0
+achievement,1,423,1,0,0
+acknowledgement,1,423,1,0,0
+admiration,1,423,1,0,0
+congratulation,1,423,1,0,0
+praise,1,423,1,0,0
+kudos,1,423,1,0,0
+applause,1,423,1,0,0
+software,2,378,0,1,0
+technology,3,377,0,2,1
+evolution,1,377,0,1,0
+change,1,377,0,1,0
+obsolescence,1,377,0,1,0
+sports,5,228,0,1,3
+team,3,224,0,0,2
+animal,1,199,1,0,0
+spirit,1,199,1,0,0
+identity,1,199,1,0,0
+preference,1,199,1,0,0
+symbolism,1,199,1,0,0
+college,3,179,0,1,2
+time,2,170,0,0,2
+schedule,2,166,0,0,2
+session,1,166,0,0,1
+period,1,166,0,0,1
+clock,1,166,0,0,1
+duration,1,166,0,0,1
+stretch,1,166,0,0,1
+timeline,1,166,0,0,1
+timeframe,1,166,0,0,1
+hours,1,166,0,0,1
+hockey,1,147,0,0,0
+season,1,147,0,0,0
+communication,2,119,0,0,2
+abbreviations,1,119,0,0,1
+trends,1,119,0,0,1
+social media,1,119,0,0,1
+hygiene,1,105,0,1,0
+lifestyle,1,105,0,1,0
+routine,1,105,0,1,0
+football,2,74,0,0,2
+athletics,1,70,0,0,1
+georgia tech,3,34,1,1,1
+safety,1,30,0,0,0
+shoutout,1,30,0,0,0
+promo,1,30,0,0,0
+law,1,30,0,0,0
+transportation,1,30,0,0,0
+loss,1,25,0,1,0
+grief,1,25,0,1,0
+bereavement,1,25,0,1,0
+experience,3,22,1,0,2
+education,6,21,1,0,4
+quiet,1,19,0,0,1
+advice,3,19,1,0,2
+hangout,1,19,0,0,1
+locations,1,19,0,0,1
+atlanta,1,19,0,0,1
+nightlife,1,19,0,0,1
+community college,1,16,1,0,0
+gi bill,1,16,1,0,0
+veterans,1,16,1,0,0
+pathway program,1,16,1,0,0
+buzzport,1,14,0,0,0
+phase 2,1,14,0,0,0
+time tickets,2,14,0,0,1
+luck,1,14,0,0,0
+verification,2,13,0,2,0
+financial aid,2,13,0,1,1
+scholarships,2,13,0,1,1
+in-state,2,13,0,1,1
+analysis,2,12,0,0,2
+stipulations,1,11,0,1,0
+eligibility,1,11,0,1,0
+backup,1,11,0,1,0
+funds,1,11,0,1,0
+campus,2,11,0,0,2
+institutional aid,1,11,0,1,0
+job,2,11,0,0,2
+denial,1,11,0,1,0
+competitive,1,11,0,1,0
+out-of-state,1,11,0,1,0
+forms,1,11,0,1,0
+income,1,11,0,1,0
+2019,2,10,0,0,2
+kit,1,10,0,0,1
+meal,1,10,0,0,1
+new year's eve,1,10,0,1,0
+online,4,10,0,0,4
+plans,1,10,0,1,0
+food,1,10,0,0,1
+loneliness,1,10,0,1,0
+enrollment,2,10,0,0,2
+delivery,1,10,0,0,1
+availability,3,9,0,0,3
+aspirations,1,8,0,0,1
+goals,1,8,0,0,1
+self-improvement,1,8,0,0,1
+internships,1,8,0,0,1
+recruiters,1,8,0,0,1
+hedge funds.,1,8,0,0,1
+resolutions,1,8,0,0,1
+quantitative,1,8,0,0,1
+gpa,1,8,0,0,1
+graduates,1,8,0,0,1
+prospects,1,8,0,0,1
+d.e. shaw,1,8,0,0,1
+career,1,8,0,0,1
+citadel,1,8,0,0,1
+project,1,8,0,0,1
+december,1,8,0,0,1
+finance,1,8,0,0,1
+fair,1,8,0,0,1
+personal growth,1,8,0,0,1
+invitation,1,7,0,0,1
+club,1,7,0,0,1
+professors,4,7,0,0,4
+tutoring,2,7,0,0,2
+legitimacy,1,7,0,0,1
+alumnus,1,7,0,0,1
+tryouts,1,7,0,0,1
+student,1,7,0,0,1
+studio,1,6,0,0,1
+difficulty,6,6,0,1,4
+pi,1,6,0,0,1
+program,3,6,0,0,3
+engineering,2,6,0,0,2
+engraving,1,6,0,0,1
+help,1,6,0,0,1
+opening,1,6,0,0,1
+search,1,5,0,0,1
+version,1,5,0,0,1
+update,1,5,0,0,1
+sharing,1,5,0,0,1
+message,1,5,0,0,1
+heat transfer,1,5,0,0,1
+me 3345,1,5,0,0,1
+request,4,5,0,0,4
+options,1,5,0,0,1
+textbook,1,5,0,0,1
+pdf,1,5,0,0,1
+product,2,4,0,1,1
+challenging,1,4,0,0,1
+math,2,4,0,0,2
+prototype,1,4,0,0,1
+payment,1,4,0,0,1
+research,2,4,0,0,2
+nda,1,4,0,0,1
+compensation,1,4,0,0,1
+comparison,2,4,0,0,2
+course,3,4,0,0,3
+similarity,1,4,0,0,1
+details,1,4,0,0,1
+vip,1,4,0,0,1
+computer science,3,4,0,0,3
+skills,1,4,0,0,1
+study,2,4,0,0,2
+inquiry,1,4,0,0,1
+interviews,1,4,0,0,1
+investigation,1,4,0,0,1
+masters,2,3,0,0,2
+academic,2,3,0,0,2
+partnership,1,3,0,0,1
+parking,3,3,0,0,3
+courses,2,3,0,0,2
+assessment,1,3,0,0,1
+semester,2,3,0,1,1
+referrals,1,3,0,0,1
+interview,1,3,0,0,1
+load,1,3,0,0,1
+center,1,3,0,0,1
+mental health,1,3,0,0,1
+deadline,2,3,0,1,1
+workload,2,2,0,0,2
+work,1,2,0,0,1
+wireless,1,2,0,0,1
+waitlist,1,2,0,0,1
+senior,1,2,0,0,1
+tuition,1,2,0,0,1
+travel,1,2,0,0,1
+aid,1,2,0,1,0
+requirements,1,2,0,0,1
+spring,1,2,0,0,1
+rigor,1,2,0,0,1
+antennas,1,2,0,0,1
+systems,1,2,0,0,1
+rf,1,2,0,0,1
+quality,1,2,0,0,1
+response,1,2,0,1,0
+capstone,1,2,0,0,1
+specialization,1,2,0,0,1
+processing,1,2,0,1,0
+worksheet,1,2,0,1,0
+gtech,1,2,0,0,1
+decision,1,2,0,0,1
+involvement,1,2,0,0,1
+office,1,2,0,1,0
+dispersal,1,2,0,1,0
+ieee,1,2,0,0,1
+email,1,2,0,1,0
+pass,2,2,0,0,2
+department,1,2,0,1,0
+design,1,2,0,0,1
+grants,1,2,0,0,1
+graduate,1,2,0,0,1
+phone,1,2,0,1,0
+full-time,1,2,0,0,1
+expo,1,2,0,0,1
+financial,1,2,0,1,0
+major,3,1,0,0,2
+degreeworks,1,1,0,0,1
+chain,1,1,0,0,1
+license,1,1,0,0,0
+laptop,1,1,0,0,0
+sciences,1,1,0,0,1
+bug,1,1,0,0,1
+lab,1,1,0,0,1
+fast food,1,1,0,0,1
+system,1,1,0,0,1
+discount,1,1,0,0,1
+suspension,1,1,0,0,1
+mexican,1,1,0,0,1
+application,1,1,0,0,1
+housing,1,1,0,0,1
+gre,2,1,0,0,2
+advisor,1,1,0,0,1
+error,1,1,0,0,1
+expiration,1,1,0,0,0
+sale,1,1,0,0,1
+deal,1,1,0,0,1
+permit,1,1,0,0,1
+restaurant,1,1,0,0,1
+new year.,1,1,0,0,1
+confirmation,1,1,0,0,1
+consequences,1,1,0,0,1
+ms-cs,1,1,0,0,1
+promotion,1,1,0,0,1
+requirement,1,1,0,0,1
+cuisine,1,1,0,0,1
+cs,2,1,0,0,2
+offer,1,1,0,0,1
+transfer,1,0,0,0,0
+textbooks,1,0,0,0,1
+apa style,1,0,0,0,1
+announcement,1,0,0,0,1
+tests,1,0,0,0,1
+omscs,1,0,0,0,1
+disruption,1,0,0,1,0
+credit,1,0,0,0,1
+mechanical,1,0,0,0,1
+entertainment,1,0,0,0,1
+psychology,1,0,0,0,1
+professor,1,0,0,0,1
+phases,1,0,0,0,1
+probability,1,0,0,0,1
+essays,1,0,0,0,1
+admissions,2,0,0,0,2
+exam,1,0,0,0,1
+prerequisites,1,0,0,0,1
+prerequisite,1,0,0,0,1
+complaint,2,0,0,2,0
+fall 2018,1,0,0,0,1
+physics,1,0,0,0,1
+fe,1,0,0,0,1
+teaching,1,0,0,0,1
+suggestions,1,0,0,0,1
+public policy,1,0,0,0,1
+ombudsman,1,0,0,0,1
+mathematics,1,0,0,0,1
+retaking,1,0,0,0,1
+chemistry,1,0,0,0,1
+math 3012,1,0,0,0,1
+retake,1,0,0,0,1
+material,1,0,0,0,0
+selection,1,0,0,0,1
+mastery,1,0,0,0,0
+master's,1,0,0,0,1
+modelling,1,0,0,0,1
+concert,1,0,0,0,1
+resolution,1,0,0,0,1
+music,1,0,0,0,1
+simulation,1,0,0,0,1
+customer service,1,0,0,1,0
+language learning,1,0,0,0,1
+brand,1,0,0,1,0
+borrowing,1,0,0,0,1
+registration,1,0,0,0,1
+statistics,1,0,0,0,1
+knowledge,1,0,0,0,1
+assignments,1,0,0,0,1
+success,2,0,0,0,1
+claire berger,1,0,0,0,1
+office hours,1,0,0,0,1
+fan,1,0,0,1,0

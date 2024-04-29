@@ -1,0 +1,147 @@
+type,text,VADER sentiment,VADER sentiment score,TextBlob sentiment,TextBlob sentiment score,date
+posts,"Anything fun to do on NYE? I don't have any friends. Alright I do have friends, but none of them want to do anything other than stay in bed. Is there anything else I can do tonight?  I feel like shit just staying in my apartment with no one to celebrate the New year with.  My roommate didn't even want to hang out with me. ",positive,0.1002,neutral,0.027840909090909083,12/31/2018
+posts,Student MATLAB License. I graduated in December. Does anyone know when my MATLAB license will expire for the download on my personal laptop?,neutral,0.0,neutral,0.0,12/31/2018
+posts,"Spring Parking Permit. The background is I'm working part-time near-ish campus and was planning on parking there for free and biking to campus for my two classes, but turns out my parents sold my bike at some point during the fall so that's no longer a viable option. 
+
+I had a semesterly parking permit for the fall, and it looks like everything for the spring is sold out now. Are there likely to be more permits available before the semester starts or am I just out of luck now?",positive,0.7337,positive,0.325,12/31/2018
+posts,Free uber and Lyft code for tonight: MONGE2019. If anyone needs a ride home tonight use uber or Lyft promo code MONGE2019 from midnight to 4 am. This is provided by law firm Monge and Associates so shout out to them. Stay safe out there jackets.,positive,0.7351,positive,0.2333333333333333,12/31/2018
+posts,What do you do in VIP research?. [deleted],positive,0.6166,neutral,0.0,12/31/2018
+posts,New Joint Center for Mental Health Assessment and Referrals. https://www.news.gatech.edu/2018/12/07/partnership-creates-joint-center-mental-health-assessment-and-referral,neutral,0.0,neutral,-0.02121212121212122,12/31/2018
+posts,as a cs major it's safe to say. i haven't showered since last year ,positive,0.4404,positive,0.1875,01/01/2019
+posts,T-Square is dead!. ,neutral,0.0,negative,-0.25,01/01/2019
+posts,"Alright fellow students, if I’m enrolled in the Online MS Analytics and complete it, do I count as a legit GT student/alum?. Even if the only time I ever visit campus would be during the graduation ceremony lol. I just want to know if I would be considered part of the family?! VALIDATE MY INSECURITY PLEASE (no, but really...)",positive,0.7171,positive,0.325,01/01/2019
+posts,RIP T-Square. ,neutral,0.0,neutral,0.0,01/01/2019
+posts,Have you spoken to the ombudsman?. [deleted],neutral,0.0,neutral,0.0,01/01/2019
+posts,"Using a meal kit like hello fresh or blue apron while living on campus?. Hi all, I was given a free trial of hello fresh by a friend and would like to use it at tech, but am worried that the time it takes for the post office to process it after it’s delivered is too long to be sending food (I live on campus). Has anyone used a plan like this and how did you do it? ",positive,0.8343,positive,0.18106060606060606,01/01/2019
+posts,"Should I retake the GRE?. Hi everybody,
+
+I'll likely be applying to the Masters in Public Policy program soon and was looking for some input on my measurables. GRE was 167 V, 154 Q, and I anticipate analytical writing being pretty high as well. Undergrad was 3.7 or something (don't remember exactly), and I double-majored in journalism and Spanish. I've worked in journalism for three or so years since graduating.
+
+I see that the MSPP emphasizes its ""analytical"" nature and that it seeks students with ""analytical"" backgrounds, so I was wondering if I should try to boost my Q score for that reason. Thanks in advance for your input!
+
+",positive,0.8805,positive,0.13,01/01/2019
+posts,Screwed by Lenovo. [deleted],negative,-0.4939,neutral,0.0,01/01/2019
+posts,FE mechanical exam question. [deleted],neutral,0.0,neutral,0.0,01/01/2019
+posts,Does somebody have an extra laptop I can borrow?. [deleted],neutral,0.0,neutral,0.0,01/01/2019
+posts,Looking for an East campus Spring parking pass!. [deleted],neutral,0.0,neutral,0.0,01/01/2019
+posts,Is it possible to take an online course as a masters student?. Hi! I know that full-time students must be enrolled in 12 credit hours (4 courses) and I wanted to know if it's possible for me to be enrolled in 9 credit hours (3 courses) on ground and do 3 credit hours (1 course) online. I'm in the CS Masters Program with no dissertation. Thanks!  ,positive,0.8436,positive,0.08333333333333333,01/01/2019
+posts,Bevo is my spirit animal. Hook'em horns baby.. ,positive,0.1779,neutral,0.0,01/01/2019
+posts,"DegreeWorks: PHYS 2212 as Fallthrough. I took PHYS 2211 last semester and am taking 2212 this semester, supposedly a valid sequence of lab sciences to fulfill that requirement.  However, in degreeworks it lists my PHYS 2211 under physics requirement and PHYS 2212 as Fallthrough credit rather than fulfilling the sequence of lab sciences requirement.  Is there something I'm missing?  Is there a specific PHYS 2212 I'm supposed to take? (took classical last semester and signed up for classical this semester...)  I'm a CS major if that matters but I didn't think it would.  Any help would be seriously appreciated or even confirmation that this is a system error.
+
+Thank you, and have a happy new year.
+
+Edit: Heard back from academic advisor.  It's a bug.",positive,0.9356,positive,0.08323863636363636,01/01/2019
+posts,Me for the next few hours. ,neutral,0.0,negative,-0.1,01/01/2019
+posts,"Any soccer players in here?. I know since GT doesn’t have an NCAA team there’s a bunch of people who play soccer for fun. 
+
+So if any soccer players are reading this, you should come tryout for the club soccer team this spring semester. Jan. 7, 9, 10. gtclubsoccer.com
+
+[Sign Up](httpBE3xoqPf91Qbx4Tr2s://goo.gl/forms/)",positive,0.8192,positive,0.3,01/01/2019
+posts,"Psyc 2015 Textbook. Does anyone have the pdf version of ""Discovering the Scientist Within: Research Methods in Psychology **2nd edition**"" and would like to share it with me? I've searched everywhere online but couldn't find it.
+
+Thank you.
+
+UPDATE (01/05): I'm still looking for a PDF version of the textbook! If you have it, please message me &lt;3 ",positive,0.4455,neutral,0.0,01/01/2019
+posts,"Facing Suspension, will I be kicked out of housing?. [deleted]",neutral,0.0,neutral,0.0,01/01/2019
+posts,#THWg. ,neutral,0.0,neutral,0.0,01/02/2019
+posts,THWg. [deleted],neutral,0.0,neutral,0.0,01/02/2019
+posts,How 'bout them Dawgs?. ,neutral,0.0,neutral,0.0,01/02/2019
+posts,Should I buy a W06 parking pass or hope my waitlist comes.. I am #17 on the waitlist for W02 (student center deck). Is there any chance I make it off this for spring or should I bite the bullet and buy W06 before that sells out.,positive,0.5994,negative,-0.1,01/02/2019
+posts,Do I need to do anything special to get a phase 2 time ticket or are they automatically assigned?. ,positive,0.4019,positive,0.35714285714285715,01/02/2019
+posts,MATH 3235 - Probability Theory. I have looked around and haven't heard anything concerning this class. How is it compared to the regular prob/stat courses? If you could compare it in difficulty to another math class which would it be? How time consuming and overall challenging is the course?,negative,-0.327,positive,0.16666666666666666,01/02/2019
+posts,"Veterans in Georgia Tech?. Hello Fellas,
+
+&amp;#x200B;
+
+I am a student who recently got out of the Army with a medical discharge. I am 28 years old and only has 9 college credit hours that I have got while I was in the Army. I could not go to school before joining the Army due to the financial problem. Now that I have GI Bill and much more, I am willing to put my maximum effort to get back on track. GA Tech has always been my dream school and I was really happy to see Veterans Pathway Program. I would really appreciate if anyone could share the story who got in through this program.
+
+I will start going to community school starting summer semester.  I am debating if I should go to Perimeter, GGC, or GTC to acquire the minimum 30 hours credit.
+
+If anyone could give me any advice and experience, I would really appreciate.
+
+Thank You!",positive,0.9568,positive,0.1519230769230769,01/02/2019
+posts,Damn good kid! (X-post from MadLads). ,positive,0.126,positive,0.875,01/02/2019
+posts,"Financial Aid 2019. Hey, did anyone get their financial aid dispersal yet for 2019? I completed the verification worksheet a long time ago and it seems like they haven't processed it. The office finally just opened today but, they don't answer their phone calls often and haven't replied to my email... Is there another number I can call to get a hold of someone in the department to sort this out? I don't want to be out aid this coming semester for missing the deadline.",negative,-0.3167,negative,-0.05,01/02/2019
+posts,"Difficulty of Chinese 1001?. For anybody who's taken Chinese, do you feel that Chinese 1001 takes a lot of effort? 
+
+I'm fluent in Japanese, but I'm well aware that they are two completely different languages. Any advice would be deeply appreciated. 
+
+Thanks! ",positive,0.9146,positive,0.0875,01/02/2019
+posts,Quiet places to hang out in Atlanta later at night?. [deleted],neutral,0.0,neutral,0.0,01/02/2019
+posts,Bud Peterson's New Year’s Resolutions. ,neutral,0.0,positive,0.13636363636363635,01/02/2019
+posts,"CX 4230 Prerequisites. Has anyone taken CX 4230 (Computer Simulation) in the past? If so, how much Prob/Stat knowledge would one have to have in order to be successful in the class, and not get lost? I am taking Prob/Stat this upcoming semester, but I also want to take this class for the Mod/Sim thread, and plan on requesting a prerequisite permit for this.
+
+&amp;#x200B;
+
+Any information about this would be appreciated.",positive,0.8458,positive,0.22499999999999998,01/02/2019
+posts,Anyone who wants to see Bruno Mars and Cardi B in concert.... [deleted],neutral,0.0,positive,0.2,01/02/2019
+posts,"Financial Aid Warning. Hey guys, may be totally irrelevant to most people, but if you happen to be eligible for the Tech promise program (aka family income &lt; $33,300 and in state applicant) you “qualify” for the full ride to Georgia Tech! Congratulations but there’s also some minor stipulations you should watch out for. I was denied that and was told, after later contact, it was because my parents filed form 1040 instead of a 1040a or a 1040ez. Wonderful! So my denial for it was justified except for the fact that 1040a and 1040ez are just a less detailed version of 1040 AND they removed those forms as of 2018! If you’re relying on receiving promise scholarship for the following year, my advice for you is to 
+
+1) hound the financial aid office about these forms and such over phone/in person, if you email they usually avoid the topic and give you some half hearted answers
+2) contact them relentlessly about the promise award, some friends I’ve met at Tech knew about receiving the award as early as February
+3) have a backup because Tech will not offer any other substantial financial aid to you even with an EFC of 0 and a family income less than 18k
+4) dont fill out the financial aids form last minute, chances are if you cannot use the IRS retrieval tool and are low income, you are the target population of financial verification form and you will run pay priority deadline if you’re not careful
+
+Obviously I am also a disgruntled student/individual but I can also understand the limitation of funds for in state student. For those curious about OOS costs, the advantage of in state is really primarily Zell/Hope which covers tuition however this is not something that Tech offers. With the exception of Tech promise for low income students, most if not all (at least to my knowledge) institutional aid are given to OOS students or are equally competitive between OOS and in state. Flat out, if you’re in state and not below $33,330 income, very few students receive substantial institutional aid. ",positive,0.9896,positive,0.05522058823529413,01/02/2019
+posts,"Any PI's available to help me next week?. I was told that an Invention Studio PI could help me out engraving something before it officially opened and was wondering if anyone was available, thanks in advance ",positive,0.8074,positive,0.25,01/02/2019
+posts,Senior Design Expo Spring 2019. Does anyone know the date of the Spring 2019 Capstone Design Expo?,neutral,0.0,neutral,0.0,01/02/2019
+posts,"Interested in M.S. Electrical Engineering Online Program (Specialization in Antennas/Wireless Systems/RF) @ GTech. Hello everybody,I recently graduated from UC San Diego with my B.S. in Electrical Engineering. I also recently moved to the Atlanta area and started working here. I am interested in pursuing my M.S. in Electrical Engineering at GTech's online program. I am not sure how GTech divides their specializations, but I am looking for something that is related to one or more of these areas: Antennas/Wireless Systems/RF as that is what my work relates to.
+
+Although it might be a little early to think about M.S. since I just started working, I want to be prepared. I am planning to work for a couple years to get some experience, take the GRE, and apply to the online M.S. EE program @ GTech. The online program would work better for me since I work full time/travel for work.
+
+Here are some things I would really appreciate some insight on:
+
+1. **Academic Rigor/Workload:**Since I will be working full-time + traveling, I was wondering if there is anyone that has experience balancing full-time work and the online MS program. I'd like to know what to expect so that I can anticipate what I can/can not handle.
+2. **Financial Aid:**  Just interested to see how this would work. Would I need to be a TA/do research under a professor to get scholarships/grants?
+3. **Quality of professors for M.S. in Electrical Engineering:** Honest opinions about this would be greatly appreciated.
+
+Any other insight on stuff like in-state tuition requirements (I'm looking that up and will probably contact GTech office about it), IEEE Antennas &amp; Propagation Society involvement, etc.. would be greatly appreciated!",positive,0.9902,positive,0.15197368421052632,01/02/2019
+posts,Cs Tutor Program. Just got an email about the CS Tutoring Program. I haven't really heard about it and can't find too many details on the site. How does the program work? Do tutors get paid? Is it similar to CAS Tutoring? Thanks!,positive,0.5764,positive,0.2375,01/02/2019
+posts,"The GATech MS-CS deadline is Feb-1, will 25th/26th Jan be too late for GRE?. I want to improve my existing GRE scores hence I have held up on applying, will the 25thJan be too late..",positive,0.4939,negative,-0.3,01/02/2019
+posts,Yes we have a hockey team. Come check us out during the second half of the 2018-19 season!. ,positive,0.4574,negative,-0.10416666666666666,01/02/2019
+posts,"Would 2551 Multi variable calc give me free elective credit as a CS major?. Hi guys, I know I'm pretty late in asking this but right now, I am signed up for 2551 which is a 4 credit course instead of 2550 which is a 2 credit intro course for CS majors. Would the extra 2 credits from 2551 be put in free elective hours or would they just be wasted? Thanks!",positive,0.9626,positive,0.12757936507936507,01/02/2019
+posts,"[Hiring] Engineer for 2nd Prototype. We are searching for someone to complete a prototype for a product we plan on showing investors and building a business on. We already have a first working prototype and now need to take that model and improve upon it. Skills possessed by developer should include:
+
+- Mechanical engineering experience
+- Familiar with 3D printers
+- Familiar with water mechanics
+- Electric/Wiring Experience
+- Drawing up blueprints 
+- Capable of working with small motors
+- Optional: A/C or Coolant addition experience
+
+We will be delving into more details upon contact, after NDA is signed. Material expenses are covered, and additional compensation will be given for completion. Small interviews will be scheduled throughout the week. Let's go to the top!",positive,0.7644,positive,0.1925,01/02/2019
+posts,Phase 2 Time Tickets are out on Buzzport!. Good luck!,positive,0.7568,positive,0.875,01/02/2019
+posts,"Spring CoC Career Fair and Quant question. *Do recruiters recruit full-time for a December 2019 grad at the Spring CoC career fair?* 
+
+&amp;#x200B;
+
+I'm also interested in hearing about whether or not a crappy GPA (&lt; 3.00 lul) but having a good quant project with a couple of good internships would at least be able to get me an interview with Citadel, D.E. Shaw and other HFs. ",positive,0.9034,positive,0.390625,01/02/2019
+posts,"Abstract Algebra Vs Analysis I. For anyone whose taken these 2 classes which would you say one should take first? Which is more difficult? Which gives more valuable prerequisite knowledge for other math classes?
+
+&amp;#x200B;
+
+Thanks in advance",positive,0.6174,positive,0.13749999999999998,01/02/2019
+posts,have you guys seen this fan at the tech basketball games before? He is the worst fan i've ever seen. He hogs up one whole row and stands up and blocks everyone's vision behind him.. [deleted],positive,0.0644,negative,-0.4000000000000001,01/02/2019
+posts,"Applying for CETL 1-on-1 Tutoring position. Could anyone who has worked as a tutor for CETL tell me a bit about it? I have an interview scheduled for it, what kind of stuff should I expect? Also, how is the load, doing this? Just, any advice would be helpful",positive,0.5171,positive,0.6,01/02/2019
+posts,"Best professors for MATH 3012?. My choices are Le, Xie Q Kierzkowski, and Paprocki I believe. I hate math if that helps and am willing to go to office hours.
+
+&amp;#x200B;
+
+EDIT: I have seen Croot's webpage and no thank you",positive,0.5267,positive,0.15,01/02/2019
+posts,"should i take cs 1371 again?. im a transfer student &amp;  a chemE major &amp; i got an email basically suggesting that i should probably take cs 1371 again at tech. at my other school (clayton state) it wasn’t very hard at all but i don’t feel like i know the material  ~that~ well. i know the basics like for/ while loops, if/else. i was wondering if chem 2120 requires you to have really mastered the material to be successful? ",positive,0.9367,positive,0.10166666666666666,01/02/2019
+posts,"Advice Needed Regarding Class Registration. So I'm currently a first year student and phase II registration is about to start. Last semester I ended up with a D in chem I, and I am planning on retaking it to replace its gpa point. But I am not sure if I should retake it my second year first semester and go ahead and take chem II or just retake chem I this semester (spring 2019). I know my main problem is study habit, and if I fix it I should be fine taking chem II, but I still want some advice. Thank you!
+
+&amp;#x200B;
+
+TL; DR: ended up with a D in Chem 1211K fall 2018, not sure if I should retake it this semester or go ahead with chem II and retake chem I fall 2019",negative,-0.4268,positive,0.0859375,01/02/2019
+posts,Taco Bell 🌮. [deleted],neutral,0.0,neutral,0.0,01/02/2019
+posts,Spring Bonus [Download] is 30% OFF. ,positive,0.5423,neutral,0.0,01/02/2019
+posts,Claire Berger for Physics 2212. Anyone have her in fall 2018 or know how she is as a physics professor? ,neutral,0.0,neutral,0.0,01/03/2019
+posts,"PSYC 1101, which professor shall I take?. Hello, everyone! I want to hear opinions from previous students who take either Stanzione's or Leader's PYSC1101 class. I am currently enrolled in Leader's section but I can probably switch to Stanzione's if anyone drops, plus that will also better fit into my schedule. However, despite hearing they are both nice professors, I have no idea what their teaching styles are like. Can anyone provide with me any clue about their test style/difficutly, if they give study guides/lecture slides that actually help before test, and what kind of /how much work needs to be done outside class. (I am not good at extracting and memorizing information from textbooks...) Also, one of my friends who took Stanzione's psychology last year said they had to do a research proposal. Providing that I am not particularly excited about writing essays and am afraid of messing up with APA style, do I face the same situation with Leader's section? Thank you everyone if you can tell me anything (no need all) relevant to my issue. I will appreciate your earnest suggestions!",positive,0.9805,positive,0.09972222222222224,01/03/2019
+posts,"Has anyone taken Devesh Ranjan?. I can't seem to find anything on him for ME 3345 (Heat Transfer)
+
+&amp;#x200B;
+
+My only other option would be Shannon Yee and I can't find much on her either but her ME 3322 (Thermo) gpa seems pretty scary",neutral,0.0,neutral,-0.034999999999999996,01/03/2019
+posts,"Admit rate for OMSCS?. What is the admit rate for OMSCS? I don’t quite meet the GPA requirements for fast track MS CS, plus I want to go get a few years of work experience under my belt to gain a different perspective with my degree. That being said, How hard is it to get into the online program?",positive,0.7536,negative,-0.07291666666666667,01/03/2019

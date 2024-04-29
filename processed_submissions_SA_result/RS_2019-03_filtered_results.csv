@@ -1,0 +1,8 @@
+type,text,VADER sentiment,VADER sentiment score,TextBlob sentiment,TextBlob sentiment score,date
+posts,housing spring 2020 going abroad fall 19 looking campus apartment really sure start looking someone going abroad spring willing sublease thatd great pm otherwise someone knows find place stay situaton advice would appreciated,positive,0.2781,positive,0.4375,02/28/2019
+posts,wreck techs interview somehow picked interview wreck techs wondering anyone advice general idea know going followed links sent looked general information know technical interview gets doubt skills enough come asking help advice thanks advance,negative,-0.3802,positive,0.06000000000000001,02/28/2019
+posts,professional photo hello need upload professional head shot photos summer 2019 employer photos high resolution know place campus provides service thank,positive,0.4199,positive,0.12,02/28/2019
+posts,thanks moldy cheese nave,positive,0.4404,positive,0.2,02/28/2019
+posts,dining services spring break dining halls restaurants open spring break,neutral,0.0,neutral,0.0,02/28/2019
+posts,3d printers available invention studio planning printing wondering machines know settings search prints,neutral,0.0,positive,0.4,02/28/2019
+posts,soyboy club gatech want start thread soyboys interested joining new student organization okay embrace soy soyboyz,positive,0.7351,positive,0.29545454545454547,02/28/2019
