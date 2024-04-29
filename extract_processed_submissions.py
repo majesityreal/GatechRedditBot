@@ -138,5 +138,4 @@ def run():
     df = pd.DataFrame(results_for_metrices_list, columns=['type', 'text', 'VADER sentiment', 'VADER sentiment score', 'TextBlob sentiment',
         'TextBlob sentiment score', 'date', 'month', 'season', 'semester'])
 
-    print("haha")
     return df

@@ -4,7 +4,8 @@ from openai import OpenAI
 import time
 
 # initialize the OpenAI client with API key
-client = OpenAI(api_key="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")
+# dummy api key here for data privacy.
+client = OpenAI(api_key="#apikey")
 
 
 def generalize_topic(text, topic):

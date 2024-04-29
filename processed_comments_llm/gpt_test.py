@@ -5,8 +5,9 @@ from datetime import datetime
 import os
 
 # initialize OpenAI client with API key
-# client = OpenAI(api_key="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")
-client = OpenAI(api_key="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")
+# client = OpenAI(api_key="#apikey")
+# dummy api key here for data privacy.
+client = OpenAI(api_key="#apikey")
 
 
 def analyze_text(text):
